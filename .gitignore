@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+scripts/tmp_day6_reel/
