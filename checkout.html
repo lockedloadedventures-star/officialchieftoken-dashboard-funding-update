@@ -44,7 +44,7 @@
       <h1>Choose your CHIEF Utility Pass plan.</h1>
       <p class="lead">Get weekly high-signal intelligence, members-only execution resources, and direct builder access, with enhanced benefits for CHIEF holders.</p>
       <p class="launch-price">Launch pricing active: Starter at $29/month for first 14 days.</p>
-      <p class="hint">Card checkout currently accepts a one-time voluntary contribution only; it does not purchase a Utility Pass or activate membership. To request a plan, use the activation form below and wait for confirmed payment instructions.</p>
+      <p class="hint">Plans are monthly subscriptions that renew until canceled. To cancel or request a refund under the published guarantee, email lockedloadedventures@gmail.com. Membership access is activated manually after purchase; use the support form below and include your Stripe receipt.</p>
     </section>
 
     <section class="panel">
@@ -59,7 +59,7 @@
             <li>Access to private member channel</li>
           </ul>
           <div class="cta-row">
-            <button class="btn primary plan-select" data-plan="Starter ($29/month)" type="button">Choose Starter</button>
+            <button class="btn primary plan-select" data-plan="Starter ($29/month)" type="button">Subscribe to Starter</button>
           </div>
         </article>
 
@@ -73,7 +73,7 @@
             <li>10% discount on paid CHIEF products/services</li>
           </ul>
           <div class="cta-row">
-            <button class="btn primary plan-select" data-plan="Standard ($49/month)" type="button">Choose Standard</button>
+            <button class="btn primary plan-select" data-plan="Standard ($49/month)" type="button">Subscribe to Standard</button>
           </div>
         </article>
 
@@ -87,15 +87,15 @@
             <li>20% discount on paid CHIEF products/services</li>
           </ul>
           <div class="cta-row">
-            <button class="btn primary plan-select" data-plan="Pro ($99/month)" type="button">Choose Pro</button>
+            <button class="btn primary plan-select" data-plan="Pro ($99/month)" type="button">Subscribe to Pro</button>
           </div>
         </article>
       </div>
     </section>
 
     <section class="panel" id="manual-checkout">
-      <h2>Manual Checkout Intake</h2>
-      <p class="panel-lead">Use this form to request activation. It generates a prefilled email to the CHIEF team with your selected plan and contact details.</p>
+      <h2>Membership activation support</h2>
+      <p class="panel-lead">After subscribing, use this form to request member access. It opens a prefilled email; include your Stripe receipt or checkout confirmation so the team can verify your subscription.</p>
       <form id="checkoutForm" class="checkout-form">
         <label>
           Selected plan
@@ -119,7 +119,7 @@
         </label>
         <button class="btn primary" type="submit">Send Activation Request</button>
       </form>
-      <p class="small">After sending, the team will confirm payment instructions and activate your Utility Pass access.</p>
+      <p class="small">Access is activated manually after subscription verification. For cancellations or refund requests, email lockedloadedventures@gmail.com.</p>
     </section>
 
     <section class="panel">
@@ -149,7 +149,7 @@
     <p class="small">This site is informational and not financial advice.</p>
   </footer>
 
-  <script src="./checkout-config.js?v=918d4c9"></script>
+  <script src="./checkout-config.js?v=utility-pass-subscriptions-20260925"></script>
   <script>
     const supportEmail = "lockedloadedventures@gmail.com";
     const selectedPlanInput = document.getElementById("selectedPlan");
@@ -168,14 +168,6 @@
 
         const targetLink = linkByPlan[plan] || "";
         if (targetLink) {
-          const contribution = plan.includes("Starter") ? "$29" : plan.includes("Standard") ? "$49" : "$99";
-          const confirmed = window.confirm(
-            `The Stripe checkout is a one-time voluntary contribution of ${contribution}, not a Utility Pass purchase or subscription. Membership will not be activated by this payment. Continue?`
-          );
-          if (!confirmed) {
-            document.getElementById("manual-checkout").scrollIntoView({ behavior: "smooth", block: "start" });
-            return;
-          }
           window.open(targetLink, "_blank", "noopener,noreferrer");
           return;
         }
@@ -204,7 +196,7 @@
           `Telegram/Discord: ${handle || "N/A"}`,
           `Wallet: ${wallet || "N/A"}`,
           "",
-          "Please share payment instructions and onboarding steps."
+          "Please verify my CHIEF Utility Pass subscription and activate my membership access. I will include my Stripe receipt or checkout confirmation."
         ].join("\n")
       );
 

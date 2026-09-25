@@ -1,7 +1,5 @@
-const STRIPE_DONATION_CHECKOUT_URL = "https://buy.stripe.com/28EaEWguMf6Odiz2ergIo00";
-
 window.CHIEF_CHECKOUT_LINKS = {
-  starter: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=2900`,
-  standard: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=4900`,
-  pro: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=9900`
+  starter: "https://buy.stripe.com/aFa6oGdiAbUCdiz1angIo01",
+  standard: "https://buy.stripe.com/cNi4gy4M42k20vN5qDgIo02",
+  pro: "https://buy.stripe.com/bJecN44M42k2guL4mzgIo03"
 };
