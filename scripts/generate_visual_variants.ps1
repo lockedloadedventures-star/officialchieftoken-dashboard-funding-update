@@ -1,1 +1,79 @@
-{"data":"JEVycm9yQWN0aW9uUHJlZmVyZW5jZSA9ICdTdG9wJw0KQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBTeXN0ZW0uRHJhd2luZw0KDQokc3JjRGlyID0gJ0M6XFVzZXJzXGNoaWVmXERvd25sb2Fkc1xHdW1yb2FkLVBhY2tcdmlzdWFscycNCiRzcURpciA9ICdDOlxVc2Vyc1xjaGllZlxEb3dubG9hZHNcR3Vtcm9hZC1QYWNrXHZpc3VhbHMtc3F1YXJlJw0KJHNzRGlyID0gJ0M6XFVzZXJzXGNoaWVmXERvd25sb2Fkc1xHdW1yb2FkLVBhY2tcdmlzdWFscy1zdG9yeS1zYWZlJw0KDQpOZXctSXRlbSAtSXRlbVR5cGUgRGlyZWN0b3J5IC1QYXRoICRzcURpciAtRm9yY2UgfCBPdXQtTnVsbA0KTmV3LUl0ZW0gLUl0ZW1UeXBlIERpcmVjdG9yeSAtUGF0aCAkc3NEaXIgLUZvcmNlIHwgT3V0LU51bGwNCg0KR2V0LUNoaWxkSXRlbSAkc3JjRGlyIC1GaWx0ZXIgKi5wbmcgfCBGb3JFYWNoLU9iamVjdCB7DQogICAgJHNyY1BhdGggPSAkXy5GdWxsTmFtZQ0KICAgICRuYW1lID0gJF8uTmFtZQ0KICAgICRpbWcgPSBbU3lzdGVtLkRyYXdpbmcuSW1hZ2VdOjpGcm9tRmlsZSgkc3JjUGF0aCkNCg0KICAgICMgU3F1YXJlIDEwODB4MTA4MCBjZW50ZXItY3JvcA0KICAgICRzcUJtcCA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuQml0bWFwKDEwODAsIDEwODApDQogICAgJHNxQm1wLlNldFJlc29sdXRpb24oNzIsIDcyKQ0KICAgICRnU3EgPSBbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NdOjpGcm9tSW1hZ2UoJHNxQm1wKQ0KICAgICRnU3EuU21vb3RoaW5nTW9kZSA9ICdIaWdoUXVhbGl0eScNCiAgICAkZ1NxLkludGVycG9sYXRpb25Nb2RlID0gJ0hpZ2hRdWFsaXR5QmljdWJpYycNCiAgICAkZ1NxLlBpeGVsT2Zmc2V0TW9kZSA9ICdIaWdoUXVhbGl0eScNCg0KICAgICRzY2FsZVNxID0gW01hdGhdOjpNYXgoMTA4MC4wIC8gJGltZy5XaWR0aCwgMTA4MC4wIC8gJGltZy5IZWlnaHQpDQogICAgJHN3ID0gW2ludF0oW01hdGhdOjpSb3VuZCgkaW1nLldpZHRoICogJHNjYWxlU3EpKQ0KICAgICRzaCA9IFtpbnRdKFtNYXRoXTo6Um91bmQoJGltZy5IZWlnaHQgKiAkc2NhbGVTcSkpDQogICAgJHN4ID0gW2ludF0oW01hdGhdOjpSb3VuZCgoMTA4MCAtICRzdykgLyAyKSkNCiAgICAkc3kgPSBbaW50XShbTWF0aF06OlJvdW5kKCgxMDgwIC0gJHNoKSAvIDIpKQ0KDQogICAgJGdTcS5EcmF3SW1hZ2UoJGltZywgJHN4LCAkc3ksICRzdywgJHNoKQ0KICAgICRzcU91dCA9IEpvaW4tUGF0aCAkc3FEaXIgJG5hbWUNCiAgICAkc3FCbXAuU2F2ZSgkc3FPdXQsIFtTeXN0ZW0uRHJhd2luZy5JbWFnaW5nLkltYWdlRm9ybWF0XTo6UG5nKQ0KDQogICAgJGdTcS5EaXNwb3NlKCkNCiAgICAkc3FCbXAuRGlzcG9zZSgpDQoNCiAgICAjIFN0b3J5LXNhZmUgMTA4MHgxOTIwIHdpdGggdG9wL2JvdHRvbSBzYWZlIGd1aWRlcw0KICAgICRzc0JtcCA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuQml0bWFwKDEwODAsIDE5MjApDQogICAgJHNzQm1wLlNldFJlc29sdXRpb24oNzIsIDcyKQ0KICAgICRnU3MgPSBbU3lzdGVtLkRyYXdpbmcuR3JhcGhpY3NdOjpGcm9tSW1hZ2UoJHNzQm1wKQ0KICAgICRnU3MuU21vb3RoaW5nTW9kZSA9ICdIaWdoUXVhbGl0eScNCiAgICAkZ1NzLkludGVycG9sYXRpb25Nb2RlID0gJ0hpZ2hRdWFsaXR5QmljdWJpYycNCiAgICAkZ1NzLlBpeGVsT2Zmc2V0TW9kZSA9ICdIaWdoUXVhbGl0eScNCg0KICAgICRnU3MuRHJhd0ltYWdlKCRpbWcsIDAsIDAsIDEwODAsIDE5MjApDQoNCiAgICAkdG9wQnJ1c2ggPSBOZXctT2JqZWN0IFN5c3RlbS5EcmF3aW5nLlNvbGlkQnJ1c2goW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoOTUsIDAsIDAsIDApKQ0KICAgICRib3RCcnVzaCA9IE5ldy1PYmplY3QgU3lzdGVtLkRyYXdpbmcuU29saWRCcnVzaChbU3lzdGVtLkRyYXdpbmcuQ29sb3JdOjpGcm9tQXJnYig5NSwgMCwgMCwgMCkpDQogICAgJGd1aWRlUGVuID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5QZW4oW1N5c3RlbS5EcmF3aW5nLkNvbG9yXTo6RnJvbUFyZ2IoMTcwLCAyNTUsIDI1NSwgMjU1KSwgMikNCg0KICAgICRnU3MuRmlsbFJlY3RhbmdsZSgkdG9wQnJ1c2gsIDAsIDAsIDEwODAsIDI1MCkNCiAgICAkZ1NzLkZpbGxSZWN0YW5nbGUoJGJvdEJydXNoLCAwLCAxNjAwLCAxMDgwLCAzMjApDQoNCiAgICAkZ1NzLkRyYXdMaW5lKCRndWlkZVBlbiwgMCwgMjUwLCAxMDgwLCAyNTApDQogICAgJGdTcy5EcmF3TGluZSgkZ3VpZGVQZW4sIDAsIDE2MDAsIDEwODAsIDE2MDApDQoNCiAgICAkbGFiZWxGb250ID0gTmV3LU9iamVjdCBTeXN0ZW0uRHJhd2luZy5Gb250KCdTZWdvZSBVSScsIDI2LCBbU3lzdGVtLkRyYXdpbmcuRm9udFN0eWxlXTo6Qm9sZCwgW1N5c3RlbS5EcmF3aW5nLkdyYXBoaWNzVW5pdF06OlBpeGVsKQ0KICAgICRnU3MuRHJhd1N0cmluZygnU1RPUlkgU0FGRTogS0VFUCBURVhUIEJFTE9XIFRISVMgTElORScsICRsYWJlbEZvbnQsIFtTeXN0ZW0uRHJhd2luZy5CcnVzaGVzXTo6V2hpdGUsIDM2LCAxODApDQogICAgJGdTcy5EcmF3U3RyaW5nKCdTVE9SWSBTQUZFOiBLRUVQIENUQSBBQk9WRSBUSElTIExJTkUnLCAkbGFiZWxGb250LCBbU3lzdGVtLkRyYXdpbmcuQnJ1c2hlc106OldoaXRlLCAzNiwgMTUzNSkNCg0KICAgICRzc091dCA9IEpvaW4tUGF0aCAkc3NEaXIgJG5hbWUNCiAgICAkc3NCbXAuU2F2ZSgkc3NPdXQsIFtTeXN0ZW0uRHJhd2luZy5JbWFnaW5nLkltYWdlRm9ybWF0XTo6UG5nKQ0KDQogICAgJGxhYmVsRm9udC5EaXNwb3NlKCkNCiAgICAkdG9wQnJ1c2guRGlzcG9zZSgpDQogICAgJGJvdEJydXNoLkRpc3Bvc2UoKQ0KICAgICRndWlkZVBlbi5EaXNwb3NlKCkNCiAgICAkZ1NzLkRpc3Bvc2UoKQ0KICAgICRzc0JtcC5EaXNwb3NlKCkNCg0KICAgICRpbWcuRGlzcG9zZSgpDQp9DQoNCltQU0N1c3RvbU9iamVjdF1Aew0KICAgIFNxdWFyZUZvbGRlciA9ICRzcURpcg0KICAgIFN0b3J5U2FmZUZvbGRlciA9ICRzc0Rpcg0KICAgIFNxdWFyZUNvdW50ID0gKEdldC1DaGlsZEl0ZW0gJHNxRGlyIC1GaWx0ZXIgKi5wbmcpLkNvdW50DQogICAgU3RvcnlTYWZlQ291bnQgPSAoR2V0LUNoaWxkSXRlbSAkc3NEaXIgLUZpbHRlciAqLnBuZykuQ291bnQNCn0gfCBGb3JtYXQtTGlzdA0K"}
+$ErrorActionPreference = 'Stop'
+Add-Type -AssemblyName System.Drawing
+
+$srcDir = 'C:\Users\chief\Downloads\Gumroad-Pack\visuals'
+$sqDir = 'C:\Users\chief\Downloads\Gumroad-Pack\visuals-square'
+$ssDir = 'C:\Users\chief\Downloads\Gumroad-Pack\visuals-story-safe'
+
+New-Item -ItemType Directory -Path $sqDir -Force | Out-Null
+New-Item -ItemType Directory -Path $ssDir -Force | Out-Null
+
+Get-ChildItem $srcDir -Filter *.png | ForEach-Object {
+    $srcPath = $_.FullName
+    $name = $_.Name
+    $img = [System.Drawing.Image]::FromFile($srcPath)
+
+    # Square 1080x1080 center-crop
+    $sqBmp = New-Object System.Drawing.Bitmap(1080, 1080)
+    $sqBmp.SetResolution(72, 72)
+    $gSq = [System.Drawing.Graphics]::FromImage($sqBmp)
+    $gSq.SmoothingMode = 'HighQuality'
+    $gSq.InterpolationMode = 'HighQualityBicubic'
+    $gSq.PixelOffsetMode = 'HighQuality'
+
+    $scaleSq = [Math]::Max(1080.0 / $img.Width, 1080.0 / $img.Height)
+    $sw = [int]([Math]::Round($img.Width * $scaleSq))
+    $sh = [int]([Math]::Round($img.Height * $scaleSq))
+    $sx = [int]([Math]::Round((1080 - $sw) / 2))
+    $sy = [int]([Math]::Round((1080 - $sh) / 2))
+
+    $gSq.DrawImage($img, $sx, $sy, $sw, $sh)
+    $sqOut = Join-Path $sqDir $name
+    $sqBmp.Save($sqOut, [System.Drawing.Imaging.ImageFormat]::Png)
+
+    $gSq.Dispose()
+    $sqBmp.Dispose()
+
+    # Story-safe 1080x1920 with top/bottom safe guides
+    $ssBmp = New-Object System.Drawing.Bitmap(1080, 1920)
+    $ssBmp.SetResolution(72, 72)
+    $gSs = [System.Drawing.Graphics]::FromImage($ssBmp)
+    $gSs.SmoothingMode = 'HighQuality'
+    $gSs.InterpolationMode = 'HighQualityBicubic'
+    $gSs.PixelOffsetMode = 'HighQuality'
+
+    $gSs.DrawImage($img, 0, 0, 1080, 1920)
+
+    $topBrush = New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(95, 0, 0, 0))
+    $botBrush = New-Object System.Drawing.SolidBrush([System.Drawing.Color]::FromArgb(95, 0, 0, 0))
+    $guidePen = New-Object System.Drawing.Pen([System.Drawing.Color]::FromArgb(170, 255, 255, 255), 2)
+
+    $gSs.FillRectangle($topBrush, 0, 0, 1080, 250)
+    $gSs.FillRectangle($botBrush, 0, 1600, 1080, 320)
+
+    $gSs.DrawLine($guidePen, 0, 250, 1080, 250)
+    $gSs.DrawLine($guidePen, 0, 1600, 1080, 1600)
+
+    $labelFont = New-Object System.Drawing.Font('Segoe UI', 26, [System.Drawing.FontStyle]::Bold, [System.Drawing.GraphicsUnit]::Pixel)
+    $gSs.DrawString('STORY SAFE: KEEP TEXT BELOW THIS LINE', $labelFont, [System.Drawing.Brushes]::White, 36, 180)
+    $gSs.DrawString('STORY SAFE: KEEP CTA ABOVE THIS LINE', $labelFont, [System.Drawing.Brushes]::White, 36, 1535)
+
+    $ssOut = Join-Path $ssDir $name
+    $ssBmp.Save($ssOut, [System.Drawing.Imaging.ImageFormat]::Png)
+
+    $labelFont.Dispose()
+    $topBrush.Dispose()
+    $botBrush.Dispose()
+    $guidePen.Dispose()
+    $gSs.Dispose()
+    $ssBmp.Dispose()
+
+    $img.Dispose()
+}
+
+[PSCustomObject]@{
+    SquareFolder = $sqDir
+    StorySafeFolder = $ssDir
+    SquareCount = (Get-ChildItem $sqDir -Filter *.png).Count
+    StorySafeCount = (Get-ChildItem $ssDir -Filter *.png).Count
+} | Format-List

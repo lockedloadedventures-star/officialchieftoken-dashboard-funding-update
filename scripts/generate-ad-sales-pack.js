@@ -1,1 +1,166 @@
-{"data":"IyEvdXNyL2Jpbi9lbnYgbm9kZQ0KDQpjb25zdCBmcyA9IHJlcXVpcmUoJ2ZzJyk7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgncGF0aCcpOw0KDQpmdW5jdGlvbiBnZXRBcmcoZmxhZywgZmFsbGJhY2spIHsNCiAgY29uc3QgaWR4ID0gcHJvY2Vzcy5hcmd2LmluZGV4T2YoZmxhZyk7DQogIGlmIChpZHggPT09IC0xIHx8IGlkeCA9PT0gcHJvY2Vzcy5hcmd2Lmxlbmd0aCAtIDEpIHJldHVybiBmYWxsYmFjazsNCiAgcmV0dXJuIHByb2Nlc3MuYXJndltpZHggKyAxXTsNCn0NCg0KY29uc3QgcHJvZHVjdE5hbWUgPSBnZXRBcmcoJy0tcHJvZHVjdCcsICdMYXVuY2ggWW91ciBBSSBBdmF0YXIgQnVzaW5lc3MgaW4gNyBEYXlzJyk7DQpjb25zdCBvZmZlckxpbmsgPSBnZXRBcmcoJy0tbGluaycsICdodHRwczovL3ZlbnR1cmVsb2NrLmd1bXJvYWQuY29tL2wvZGlkbWxiJyk7DQpjb25zdCBzdXBwb3J0RW1haWwgPSBnZXRBcmcoJy0tc3VwcG9ydCcsICdzdXBwb3J0QG9mZmljaWFsY2hpZWZ0b2tlbi5jb20nKTsNCg0KY29uc3QgdGllcnMgPSB7DQogIHN0YXJ0ZXI6ICckNDAgU3RhcnRlcicsDQogIGdyb3d0aDogJyQxMDAgR3Jvd3RoJywNCiAgcHJvOiAnJDIwMCBQcm8nDQp9Ow0KDQpjb25zdCBvdXRwdXREaXIgPSBwYXRoLmpvaW4ocHJvY2Vzcy5jd2QoKSwgJ2RvY3MnLCAnbWFya2V0aW5nJyk7DQpmcy5ta2RpclN5bmMob3V0cHV0RGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsNCg0KY29uc3QgY2FsZW5kYXIgPSBgIyA3LURheSBPcmdhbmljIFByb21vdGlvbiBDYWxlbmRhcg0KDQpQcm9kdWN0OiAke3Byb2R1Y3ROYW1lfQ0KUHJpbWFyeSBDVEEgTGluazogJHtvZmZlckxpbmt9DQoNCiMjIFBvc3RpbmcgUnVsZXMNCi0gS2VlcCBvbmUgQ1RBIGluIGVhY2ggcG9zdDogRW5yb2xsIG5vdy4NCi0gUHV0IHRoZSBzYW1lIGxpbmsgaW4gYmlvIGFuZCBpbiBwaW5uZWQgY29tbWVudCB3aGVyZSBwbGF0Zm9ybSBhbGxvd3MuDQotIFVzZSBvbmUgb3V0Y29tZSArIG9uZSBwcm9vZiArIG9uZSBDVEEgc3RydWN0dXJlLg0KDQojIyBEYXkgMSAtIEF1dGhvcml0eSBIb29rDQotIFNob3J0IHZpZGVvIGhvb2s6IE1vc3QgY3JlYXRvcnMgd2FzdGUgbW9udGhzIHRlc3RpbmcgcmFuZG9tIEFJIHdvcmtmbG93cy4NCi0gQ29yZSB2YWx1ZTogU2hvdyB0aGUgNy1kYXkgbGF1bmNoIG1hcCBpbiAzIGJ1bGxldHMuDQotIENUQTogU3RhcnQgd2l0aCAke3RpZXJzLnN0YXJ0ZXJ9Lg0KDQojIyBEYXkgMiAtIFByb2JsZW0vU29sdXRpb24NCi0gSG9vazogUG9zdGluZyB3aXRob3V0IGEgc3lzdGVtIGtpbGxzIG1vbWVudHVtLg0KLSBDb3JlIHZhbHVlOiBFeHBsYWluIG5pY2hlIC0+IGNvbnRlbnQgLT4gbW9uZXRpemF0aW9uIHdvcmtmbG93Lg0KLSBDVEE6IExpbmsgaW4gYmlvIGZvciBpbnN0YW50IGFjY2Vzcy4NCg0KIyMgRGF5IDMgLSBPYmplY3Rpb24gSGFuZGxpbmcNCi0gSG9vazogRG8gSSBuZWVkIGNvZGluZyB0byBsYXVuY2g/DQotIENvcmUgdmFsdWU6IE5vIGNvZGluZywgdGVtcGxhdGUtZHJpdmVuIHNldHVwLg0KLSBDVEE6IENob29zZSAke3RpZXJzLnN0YXJ0ZXJ9IG9yICR7dGllcnMuZ3Jvd3RofS4NCg0KIyMgRGF5IDQgLSBQcm9vZiBTbmFwc2hvdA0KLSBIb29rOiBUaGlzIGlzIHRoZSBleGFjdCB3ZWVrbHkgd29ya2Zsb3cuDQotIENvcmUgdmFsdWU6IFNoYXJlIGNoZWNrbGlzdCwgcHJvbXB0IHByb2Nlc3MsIHBvc3RpbmcgY2FkZW5jZS4NCi0gQ1RBOiBFbnJvbGwgdG9kYXksIGV4ZWN1dGUgdG9uaWdodC4NCg0KIyMgRGF5IDUgLSBPZmZlciBCcmVha2Rvd24NCi0gSG9vazogUGljayB5b3VyIGxhdW5jaCBzcGVlZC4NCi0gQ29yZSB2YWx1ZTogJHt0aWVycy5zdGFydGVyfSAvICR7dGllcnMuZ3Jvd3RofSAvICR7dGllcnMucHJvfSBkaWZmZXJlbmNlcy4NCi0gQ1RBOiBHcm93dGggdGllciBpcyBiZXN0IGZvciBzcGVlZC4NCg0KIyMgRGF5IDYgLSBGQVEgUmVlbA0KLSBIb29rOiA0IGZhc3QgYW5zd2VycyBiZWZvcmUgeW91IGJ1eS4NCi0gQ29yZSB2YWx1ZTogVGltZSBuZWVkZWQsIHRvb2xzLCBiZWdpbm5lciBmaXQsIG1vbmV0aXphdGlvbiBwYXRoLg0KLSBDVEE6IFN0YXJ0IG5vdyBhbmQgZm9sbG93IHRoZSA3LWRheSBwbGFuLg0KDQojIyBEYXkgNyAtIERpcmVjdCBQaXRjaA0KLSBIb29rOiBJZiB5b3Ugd2FudCBhIHJlYWwgQUkgcm9hZG1hcCwgdGhpcyBpcyBpdC4NCi0gQ29yZSB2YWx1ZTogU3VtbWFyaXplIG91dGNvbWVzIGFuZCBpbmNsdWRlZCBhc3NldHMuDQotIENUQTogRW5yb2xsIHZpYSAke29mZmVyTGlua30NCmA7DQoNCmNvbnN0IGNhcHRpb25zID0gYCMgMTAgQ2FwdGlvbiBQYWNrDQoNClByb2R1Y3Q6ICR7cHJvZHVjdE5hbWV9DQpDVEEgTGluazogJHtvZmZlckxpbmt9DQoNCjEuIFN0b3AgZ3Vlc3Npbmcgd2l0aCBBSSBjb250ZW50LiBUaGlzIGNyYXNoIGNvdXJzZSBnaXZlcyB5b3UgYSA3LWRheSBzeXN0ZW0gdG8gYnVpbGQsIHBvc3QsIGFuZCBtb25ldGl6ZSB3aXRoIGNsYXJpdHkuICR7dGllcnMuc3RhcnRlcn0gdG8gc3RhcnQuIEVucm9sbCBub3c6ICR7b2ZmZXJMaW5rfQ0KMi4gTW9zdCBwZW9wbGUgY29uc3VtZSBBSSBjb250ZW50LiBXaW5uZXJzIHNoaXAgQUkgc3lzdGVtcy4gTGVhcm4gdGhlIGV4YWN0IHJvYWRtYXAgaW5zaWRlICR7cHJvZHVjdE5hbWV9LiAke3RpZXJzLnN0YXJ0ZXJ9IHwgJHt0aWVycy5ncm93dGh9IHwgJHt0aWVycy5wcm99LiAke29mZmVyTGlua30NCjMuIE5vIGNvZGluZy4gTm8gZmx1ZmYuIEp1c3QgZXhlY3V0aW9uLiBCdWlsZCB5b3VyIEFJIGF2YXRhciBicmFuZCBhbmQgbGF1bmNoIHlvdXIgZmlyc3Qgb2ZmZXIgaW4gNyBkYXlzLiBTdGFydCBoZXJlOiAke29mZmVyTGlua30NCjQuIElmIHlvdSBuZWVkIHN0cnVjdHVyZSwgdGhpcyBpcyB5b3VyIHNob3J0Y3V0LiBOaWNoZSwgcHJvbXB0cywgcG9zdGluZyBwbGFuLCBtb25ldGl6YXRpb24gcGF0aC4gSW5zdGFudCBhY2Nlc3M6ICR7b2ZmZXJMaW5rfQ0KNS4gUGljayB5b3VyIHNwZWVkOiAke3RpZXJzLnN0YXJ0ZXJ9IGZvciBmdW5kYW1lbnRhbHMsICR7dGllcnMuZ3Jvd3RofSBmb3IgZG9uZS1mb3IteW91IGFzc2V0cywgJHt0aWVycy5wcm99IGZvciBtb25ldGl6YXRpb24gKyBmdW5uZWwgZGVwdGguICR7b2ZmZXJMaW5rfQ0KNi4gWW91IGRvIG5vdCBuZWVkIG1vcmUgbW90aXZhdGlvbi4gWW91IG5lZWQgYSB3b3JrZmxvdy4gR2V0IHRoZSBmdWxsIGNyYXNoIGNvdXJzZSBhbmQgZXhlY3V0ZSB0aGlzIHdlZWs6ICR7b2ZmZXJMaW5rfQ0KNy4gQmVnaW5uZXItZnJpZW5kbHkgYW5kIGFjdGlvbi1mb2N1c2VkLiBMZWFybiBvbmNlLCBhcHBseSB3ZWVrbHkuICR7dGllcnMuc3RhcnRlcn0gZ2V0cyB5b3UgbW92aW5nIHRvZGF5OiAke29mZmVyTGlua30NCjguIFRpcmVkIG9mIHJhbmRvbSBjb250ZW50IGlkZWFzPyBVc2UgYSByZXBlYXRhYmxlIHN5c3RlbSB3aXRoIHByb21wdHMgYW5kIGEgcG9zdGluZyByaHl0aG0gdGhhdCBjb21wb3VuZHMuIEVucm9sbDogJHtvZmZlckxpbmt9DQo5LiBCdWlsZCBmYXN0ZXIuIFBvc3Qgc21hcnRlci4gTW9uZXRpemUgd2l0aCBjbGFyaXR5LiAke3Byb2R1Y3ROYW1lfSBpcyBsaXZlIG5vdy4gJHtvZmZlckxpbmt9DQoxMC4gSWYgeW91ciBnb2FsIGlzIGNvbnNpc3RlbnQgb3V0cHV0IGFuZCBjbGVhbmVyIG9mZmVycywgdGhpcyBpcyBidWlsdCBmb3IgeW91LiBTdGFydCBub3c6ICR7b2ZmZXJMaW5rfQ0KYDsNCg0KY29uc3QgZG1zID0gYCMgRE0gQ29udmVyc2lvbiBTY3JpcHRzDQoNClByb2R1Y3Q6ICR7cHJvZHVjdE5hbWV9DQpMaW5rOiAke29mZmVyTGlua30NCg0KIyMgSW5ib3VuZCBSZXBseSBTY3JpcHQNCk1lc3NhZ2UgMToNCi0gQXBwcmVjaWF0ZSB5b3UgcmVhY2hpbmcgb3V0LiBJZiB5b3Ugd2FudCB0aGUgZXhhY3QgNy1kYXkgbGF1bmNoIHdvcmtmbG93LCB0aGlzIGlzIHRoZSBmdWxsIGNvdXJzZTogJHtvZmZlckxpbmt9DQoNCk1lc3NhZ2UgMjoNCi0gUXVpY2sgdGllciBndWlkZToNCi0gJHt0aWVycy5zdGFydGVyfTogZnVsbCBjb3JlIHN5c3RlbQ0KLSAke3RpZXJzLmdyb3d0aH06IGFkZHMgcHJvbXB0IHZhdWx0ICsgY2FsZW5kYXINCi0gJHt0aWVycy5wcm99OiBhZGRzIG1vbmV0aXphdGlvbiBwbGF5Ym9vayArIGZ1bm5lbCByZXNvdXJjZXMNCg0KTWVzc2FnZSAzOg0KLSBJZiB5b3Ugd2FudCBmYXN0ZXN0IGltcGxlbWVudGF0aW9uLCBnbyAke3RpZXJzLmdyb3d0aH0uIElmIHlvdSB3YW50IGRlcHRoIGFuZCBtb25ldGl6YXRpb24gYXNzZXRzLCBnbyAke3RpZXJzLnByb30uDQoNCiMjIENvbW1lbnQgdG8gRE0gU2NyaXB0DQotIExvdmUgdGhhdC4gV2FudCBtZSB0byBzZW5kIHRoZSBleGFjdCByb2FkbWFwIGFuZCB0aWVyIGJyZWFrZG93bj8NCi0gSWYgeWVzLCBzZW5kIHRoaXMgbGluazogJHtvZmZlckxpbmt9DQoNCiMjIEZvbGxvdy11cCAoMjRoKQ0KLSBDaGVja2luZyBpbi4gSWYgeW91IGFyZSBzdGlsbCBkZWNpZGluZywgc3RhcnQgd2l0aCAke3RpZXJzLnN0YXJ0ZXJ9IGFuZCB1cGdyYWRlIGxhdGVyIGFmdGVyIGZpcnN0IGV4ZWN1dGlvbiBzcHJpbnQuDQoNCiMjIEZvbGxvdy11cCAoNzJoKQ0KLSBMYXN0IG51ZGdlOiBpZiBzcGVlZCBtYXR0ZXJzLCAke3RpZXJzLmdyb3d0aH0gZ2l2ZXMgeW91IHRoZSBwcm9tcHQgdmF1bHQgKyBjb250ZW50IGNhbGVuZGFyIHNvIHlvdSBjYW4gc2hpcCBpbW1lZGlhdGVseS4NCg0KIyMgU3VwcG9ydCBDbG9zZQ0KLSBJZiB5b3UgbmVlZCBwdXJjaGFzZSBvciBhY2Nlc3MgaGVscCBhZnRlciBlbnJvbGxpbmcsIGNvbnRhY3QgJHtzdXBwb3J0RW1haWx9Lg0KYDsNCg0KY29uc3Qgb3BzID0gYCMgUGFpZCArIE9yZ2FuaWMgT3BzIENoZWNrbGlzdA0KDQojIyBQcm9maWxlICsgRnVubmVsDQotIEJyYW5kIHByb2ZpbGUgaW1hZ2UgYW5kIGJpbyBhbGlnbmVkIHdpdGggcHJvZHVjdCBwcm9taXNlLg0KLSBPbmUgbGluayBvbmx5IGluIGJpbzogJHtvZmZlckxpbmt9DQotIFBpbm5lZCBwb3N0IGluY2x1ZGVzIGNsZWFyIHRpZXIgY2FsbG91dC4NCg0KIyMgQ29udGVudCBFeGVjdXRpb24NCi0gUHVibGlzaCAxIHJlZWwvc2hvcnQgcGVyIGRheSBmb3IgNyBkYXlzLg0KLSBQdWJsaXNoIDMgYXV0aG9yaXR5IGNsaXBzLCAyIHByb29mIGNsaXBzLCAxIG9mZmVyIGNsaXAsIDEgb2JqZWN0aW9uIGNsaXAuDQotIFJlcGx5IHRvIGNvbW1lbnRzIHdpdGhpbiAzMCBtaW51dGVzIHdoZW4gcG9zc2libGUuDQoNCiMjIFBhaWQgVHJhZmZpYyBCYXNpY3MgKE1ldGEpDQotIFVzZSBhIGJ1c2luZXNzIHBhZ2UgYW5kIGJ1c2luZXNzIHBheW1lbnQgcHJvZmlsZS4NCi0gUnVuIGNvbnZlcnNpb24gb2JqZWN0aXZlIHRvIGxhbmRpbmcgcGFnZS4NCi0gU3RhcnQgd2l0aCAyLTMgY3JlYXRpdmVzIGFuZCBvbmUgQ1RBLg0KLSBUdXJuIG9mZiBjcmVhdGl2ZXMgd2l0aCB3ZWFrIENUUiBhZnRlciA0OC03MmguDQoNCiMjIFdlZWtseSBNZXRyaWNzDQotIFJlYWNoDQotIFByb2ZpbGUgdmlzaXRzDQotIExpbmsgY2xpY2tzDQotIENoZWNrb3V0IHN0YXJ0cw0KLSBQdXJjaGFzZXMNCi0gQ29zdCBwZXIgcHVyY2hhc2UgKGZvciBwYWlkKQ0KDQojIyBDb21wbGlhbmNlIE5vdGUNCi0gRWR1Y2F0aW9uYWwgcHJvZHVjdCBvbmx5Lg0KLSBBdm9pZCBndWFyYW50ZWVkIGVhcm5pbmdzIGNsYWltcy4NCi0gS2VlcCBkaXNjbGFpbWVycyBjb25zaXN0ZW50IGFjcm9zcyBsYW5kaW5nIHBhZ2UgYW5kIGFkcy4NCmA7DQoNCmNvbnN0IGZpbGVzID0gWw0KICBbJ21ldGEtNy1kYXktY2FsZW5kYXIubWQnLCBjYWxlbmRhcl0sDQogIFsnY2FwdGlvbnMtMTAtcGFjay5tZCcsIGNhcHRpb25zXSwNCiAgWydkbS1jb252ZXJzaW9uLXNjcmlwdHMubWQnLCBkbXNdLA0KICBbJ2FkLW9wcy1jaGVja2xpc3QubWQnLCBvcHNdDQpdOw0KDQpmb3IgKGNvbnN0IFtuYW1lLCBjb250ZW50XSBvZiBmaWxlcykgew0KICBmcy53cml0ZUZpbGVTeW5jKHBhdGguam9pbihvdXRwdXREaXIsIG5hbWUpLCBjb250ZW50LCAndXRmOCcpOw0KfQ0KDQpjb25zb2xlLmxvZygnR2VuZXJhdGVkIG1hcmtldGluZyBwYWNrOicpOw0KZm9yIChjb25zdCBbbmFtZV0gb2YgZmlsZXMpIHsNCiAgY29uc29sZS5sb2coYC0gZG9jcy9tYXJrZXRpbmcvJHtuYW1lfWApOw0KfQ0K"}
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
+
+function getArg(flag, fallback) {
+  const idx = process.argv.indexOf(flag);
+  if (idx === -1 || idx === process.argv.length - 1) return fallback;
+  return process.argv[idx + 1];
+}
+
+const productName = getArg('--product', 'Launch Your AI Avatar Business in 7 Days');
+const offerLink = getArg('--link', 'https://venturelock.gumroad.com/l/didmlb');
+const supportEmail = getArg('--support', 'support@officialchieftoken.com');
+
+const tiers = {
+  starter: '$40 Starter',
+  growth: '$100 Growth',
+  pro: '$200 Pro'
+};
+
+const outputDir = path.join(process.cwd(), 'docs', 'marketing');
+fs.mkdirSync(outputDir, { recursive: true });
+
+const calendar = `# 7-Day Organic Promotion Calendar
+
+Product: ${productName}
+Primary CTA Link: ${offerLink}
+
+## Posting Rules
+- Keep one CTA in each post: Enroll now.
+- Put the same link in bio and in pinned comment where platform allows.
+- Use one outcome + one proof + one CTA structure.
+
+## Day 1 - Authority Hook
+- Short video hook: Most creators waste months testing random AI workflows.
+- Core value: Show the 7-day launch map in 3 bullets.
+- CTA: Start with ${tiers.starter}.
+
+## Day 2 - Problem/Solution
+- Hook: Posting without a system kills momentum.
+- Core value: Explain niche -> content -> monetization workflow.
+- CTA: Link in bio for instant access.
+
+## Day 3 - Objection Handling
+- Hook: Do I need coding to launch?
+- Core value: No coding, template-driven setup.
+- CTA: Choose ${tiers.starter} or ${tiers.growth}.
+
+## Day 4 - Proof Snapshot
+- Hook: This is the exact weekly workflow.
+- Core value: Share checklist, prompt process, posting cadence.
+- CTA: Enroll today, execute tonight.
+
+## Day 5 - Offer Breakdown
+- Hook: Pick your launch speed.
+- Core value: ${tiers.starter} / ${tiers.growth} / ${tiers.pro} differences.
+- CTA: Growth tier is best for speed.
+
+## Day 6 - FAQ Reel
+- Hook: 4 fast answers before you buy.
+- Core value: Time needed, tools, beginner fit, monetization path.
+- CTA: Start now and follow the 7-day plan.
+
+## Day 7 - Direct Pitch
+- Hook: If you want a real AI roadmap, this is it.
+- Core value: Summarize outcomes and included assets.
+- CTA: Enroll via ${offerLink}
+`;
+
+const captions = `# 10 Caption Pack
+
+Product: ${productName}
+CTA Link: ${offerLink}
+
+1. Stop guessing with AI content. This crash course gives you a 7-day system to build, post, and monetize with clarity. ${tiers.starter} to start. Enroll now: ${offerLink}
+2. Most people consume AI content. Winners ship AI systems. Learn the exact roadmap inside ${productName}. ${tiers.starter} | ${tiers.growth} | ${tiers.pro}. ${offerLink}
+3. No coding. No fluff. Just execution. Build your AI avatar brand and launch your first offer in 7 days. Start here: ${offerLink}
+4. If you need structure, this is your shortcut. Niche, prompts, posting plan, monetization path. Instant access: ${offerLink}
+5. Pick your speed: ${tiers.starter} for fundamentals, ${tiers.growth} for done-for-you assets, ${tiers.pro} for monetization + funnel depth. ${offerLink}
+6. You do not need more motivation. You need a workflow. Get the full crash course and execute this week: ${offerLink}
+7. Beginner-friendly and action-focused. Learn once, apply weekly. ${tiers.starter} gets you moving today: ${offerLink}
+8. Tired of random content ideas? Use a repeatable system with prompts and a posting rhythm that compounds. Enroll: ${offerLink}
+9. Build faster. Post smarter. Monetize with clarity. ${productName} is live now. ${offerLink}
+10. If your goal is consistent output and cleaner offers, this is built for you. Start now: ${offerLink}
+`;
+
+const dms = `# DM Conversion Scripts
+
+Product: ${productName}
+Link: ${offerLink}
+
+## Inbound Reply Script
+Message 1:
+- Appreciate you reaching out. If you want the exact 7-day launch workflow, this is the full course: ${offerLink}
+
+Message 2:
+- Quick tier guide:
+- ${tiers.starter}: full core system
+- ${tiers.growth}: adds prompt vault + calendar
+- ${tiers.pro}: adds monetization playbook + funnel resources
+
+Message 3:
+- If you want fastest implementation, go ${tiers.growth}. If you want depth and monetization assets, go ${tiers.pro}.
+
+## Comment to DM Script
+- Love that. Want me to send the exact roadmap and tier breakdown?
+- If yes, send this link: ${offerLink}
+
+## Follow-up (24h)
+- Checking in. If you are still deciding, start with ${tiers.starter} and upgrade later after first execution sprint.
+
+## Follow-up (72h)
+- Last nudge: if speed matters, ${tiers.growth} gives you the prompt vault + content calendar so you can ship immediately.
+
+## Support Close
+- If you need purchase or access help after enrolling, contact ${supportEmail}.
+`;
+
+const ops = `# Paid + Organic Ops Checklist
+
+## Profile + Funnel
+- Brand profile image and bio aligned with product promise.
+- One link only in bio: ${offerLink}
+- Pinned post includes clear tier callout.
+
+## Content Execution
+- Publish 1 reel/short per day for 7 days.
+- Publish 3 authority clips, 2 proof clips, 1 offer clip, 1 objection clip.
+- Reply to comments within 30 minutes when possible.
+
+## Paid Traffic Basics (Meta)
+- Use a business page and business payment profile.
+- Run conversion objective to landing page.
+- Start with 2-3 creatives and one CTA.
+- Turn off creatives with weak CTR after 48-72h.
+
+## Weekly Metrics
+- Reach
+- Profile visits
+- Link clicks
+- Checkout starts
+- Purchases
+- Cost per purchase (for paid)
+
+## Compliance Note
+- Educational product only.
+- Avoid guaranteed earnings claims.
+- Keep disclaimers consistent across landing page and ads.
+`;
+
+const files = [
+  ['meta-7-day-calendar.md', calendar],
+  ['captions-10-pack.md', captions],
+  ['dm-conversion-scripts.md', dms],
+  ['ad-ops-checklist.md', ops]
+];
+
+for (const [name, content] of files) {
+  fs.writeFileSync(path.join(outputDir, name), content, 'utf8');
+}
+
+console.log('Generated marketing pack:');
+for (const [name] of files) {
+  console.log(`- docs/marketing/${name}`);
+}

@@ -1,1 +1,88 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOw0KY29uc3QgeyBldGhlcnMgfSA9IHJlcXVpcmUoImV0aGVycyIpOw0KDQpjb25zdCBUT0tFTiA9IHByb2Nlc3MuZW52LkNPTlRSQUNUX0FERFJFU1MgfHwgIjB4Mzg5NmM5YmQ4MDJBNTZjMjg1OTBFRjFFMDNBN2RlNjQ1YzcwMzc1NyI7DQpjb25zdCBQT09MID0gcHJvY2Vzcy5lbnYuUE9PTF9BRERSRVNTIHx8ICIweEQ5MjZGNEMyYjVhZDRkZTQ1RTMxQzg3NWQzM2Q1MjA3ZTNEZjNBN2QiOw0KY29uc3QgV0VUSCA9IHByb2Nlc3MuZW52LldFVEhfQUREUkVTUyB8fCAiMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA2IjsNCmNvbnN0IFJQQ19VUkwgPSBwcm9jZXNzLmVudi5CQVNFX01BSU5ORVRfUlBDX1VSTCB8fCAiaHR0cHM6Ly9iYXNlLXJwYy5wdWJsaWNub2RlLmNvbSI7DQoNCmNvbnN0IENISUVGX0RFQ0lNQUxTID0gTnVtYmVyKHByb2Nlc3MuZW52LkNISUVGX0RFQ0lNQUxTIHx8IDE4KTsNCmNvbnN0IFJVTldBWV9XRUVLUyA9IE51bWJlcihwcm9jZXNzLmVudi5UUkVBU1VSWV9SVU5XQVlfV0VFS1MgfHwgOCk7DQpjb25zdCBXRUVLTFlfREVQTE9ZTUVOVF9DQVBfUEVSQ0VOVCA9IE51bWJlcihwcm9jZXNzLmVudi5XRUVLTFlfVFJFQVNVUllfREVQTE9ZTUVOVF9DQVBfUEVSQ0VOVCB8fCA1KTsNCg0KY29uc3QgZXJjMjBBYmkgPSBbDQogICJmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcykgdmlldyByZXR1cm5zICh1aW50MjU2KSIsDQogICJmdW5jdGlvbiB0b3RhbFN1cHBseSgpIHZpZXcgcmV0dXJucyAodWludDI1NikiLA0KICAiZnVuY3Rpb24gc3ltYm9sKCkgdmlldyByZXR1cm5zIChzdHJpbmcpIiwNCiAgImZ1bmN0aW9uIGRlY2ltYWxzKCkgdmlldyByZXR1cm5zICh1aW50OCkiDQpdOw0KDQpmdW5jdGlvbiBnZXRXZWVrU3RhcnRJU08oZGF0ZSkgew0KICBjb25zdCBkID0gbmV3IERhdGUoRGF0ZS5VVEMoZGF0ZS5nZXRVVENGdWxsWWVhcigpLCBkYXRlLmdldFVUQ01vbnRoKCksIGRhdGUuZ2V0VVRDRGF0ZSgpKSk7DQogIGNvbnN0IGRheSA9IGQuZ2V0VVRDRGF5KCk7DQogIGNvbnN0IGRpZmYgPSAoZGF5ICsgNikgJSA3Ow0KICBkLnNldFVUQ0RhdGUoZC5nZXRVVENEYXRlKCkgLSBkaWZmKTsNCiAgcmV0dXJuIGQudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxMCk7DQp9DQoNCmFzeW5jIGZ1bmN0aW9uIG1haW4oKSB7DQogIGNvbnN0IHByb3ZpZGVyID0gbmV3IGV0aGVycy5Kc29uUnBjUHJvdmlkZXIoUlBDX1VSTCk7DQogIGNvbnN0IGNoaWVmID0gbmV3IGV0aGVycy5Db250cmFjdChUT0tFTiwgZXJjMjBBYmksIHByb3ZpZGVyKTsNCiAgY29uc3Qgd2V0aCA9IG5ldyBldGhlcnMuQ29udHJhY3QoV0VUSCwgZXJjMjBBYmksIHByb3ZpZGVyKTsNCg0KICBjb25zdCBbY2hpZWZJblBvb2xSYXcsIHdldGhJblBvb2xSYXcsIHRvdGFsU3VwcGx5UmF3LCB3ZXRoRGVjaW1hbHNdID0gYXdhaXQgUHJvbWlzZS5hbGwoWw0KICAgIGNoaWVmLmJhbGFuY2VPZihQT09MKSwNCiAgICB3ZXRoLmJhbGFuY2VPZihQT09MKSwNCiAgICBjaGllZi50b3RhbFN1cHBseSgpLA0KICAgIHdldGguZGVjaW1hbHMoKQ0KICBdKTsNCg0KICBjb25zdCBjaGllZkluUG9vbCA9IE51bWJlcihldGhlcnMuZm9ybWF0VW5pdHMoY2hpZWZJblBvb2xSYXcsIENISUVGX0RFQ0lNQUxTKSk7DQogIGNvbnN0IHdldGhJblBvb2wgPSBOdW1iZXIoZXRoZXJzLmZvcm1hdFVuaXRzKHdldGhJblBvb2xSYXcsIE51bWJlcih3ZXRoRGVjaW1hbHMpKSk7DQogIGNvbnN0IHRvdGFsU3VwcGx5ID0gTnVtYmVyKGV0aGVycy5mb3JtYXRVbml0cyh0b3RhbFN1cHBseVJhdywgQ0hJRUZfREVDSU1BTFMpKTsNCg0KICBjb25zdCBub3cgPSBuZXcgRGF0ZSgpOw0KICBjb25zdCB3ZWVrT2YgPSBnZXRXZWVrU3RhcnRJU08obm93KTsNCiAgY29uc3Qgb3V0RGlyID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uIiwgImFydGlmYWN0cyIsICJ3ZWVrbHktcmVwb3J0cyIpOw0KICBmcy5ta2RpclN5bmMob3V0RGlyLCB7IHJlY3Vyc2l2ZTogdHJ1ZSB9KTsNCg0KICBjb25zdCByZXBvcnQgPSB7DQogICAgd2Vla09mLA0KICAgIGdlbmVyYXRlZEF0VVRDOiBub3cudG9JU09TdHJpbmcoKSwNCiAgICBuZXR3b3JrOiAiYmFzZSIsDQogICAgY29udHJhY3RBZGRyZXNzOiBUT0tFTiwNCiAgICBwb29sQWRkcmVzczogUE9PTCwNCiAgICBtZXRyaWNzOiB7DQogICAgICBjaGllZkluUG9vbCwNCiAgICAgIHdldGhJblBvb2wsDQogICAgICB0b3RhbFN1cHBseSwNCiAgICAgIHBvbFNoYXJlT2ZTdXBwbHlQZXJjZW50OiB0b3RhbFN1cHBseSA+IDAgPyAoY2hpZWZJblBvb2wgLyB0b3RhbFN1cHBseSkgKiAxMDAgOiAwDQogICAgfSwNCiAgICBwb2xpY3k6IHsNCiAgICAgIHJ1bndheVdlZWtzQnVmZmVyVGFyZ2V0OiBSVU5XQVlfV0VFS1MsDQogICAgICB3ZWVrbHlUcmVhc3VyeURlcGxveW1lbnRDYXBQZXJjZW50OiBXRUVLTFlfREVQTE9ZTUVOVF9DQVBfUEVSQ0VOVA0KICAgIH0sDQogICAgbWFudWFsSW5wdXRzOiB7DQogICAgICBuZXRQcm9kdWN0UmV2ZW51ZVVTRDogbnVsbCwNCiAgICAgIGxpcXVpZGl0eUFsbG9jYXRpb25VU0Q6IG51bGwsDQogICAgICBlc3RpbWF0ZWRTbGlwcGFnZTEwa0J1eUJlZm9yZTogbnVsbCwNCiAgICAgIGVzdGltYXRlZFNsaXBwYWdlMTBrQnV5QWZ0ZXI6IG51bGwsDQogICAgICBmZWVzRWFybmVkVGhpc1dlZWtVU0Q6IG51bGwsDQogICAgICBub3RlczogIkZpbGwgbWFudWFsIGZpZWxkcyBiZWZvcmUgcHVibGlzaGluZy4iDQogICAgfQ0KICB9Ow0KDQogIGNvbnN0IG91dFBhdGggPSBwYXRoLmpvaW4ob3V0RGlyLCBgd2Vla2x5LWxpcXVpZGl0eS1yZXBvcnQtJHt3ZWVrT2Z9Lmpzb25gKTsNCiAgZnMud3JpdGVGaWxlU3luYyhvdXRQYXRoLCBKU09OLnN0cmluZ2lmeShyZXBvcnQsIG51bGwsIDIpKTsNCg0KICBjb25zb2xlLmxvZygiV2Vla2x5IGxpcXVpZGl0eSByZXBvcnQgZ2VuZXJhdGVkOiIpOw0KICBjb25zb2xlLmxvZyhvdXRQYXRoKTsNCiAgY29uc29sZS5sb2coIlBvb2wgc25hcHNob3Q6IiwgYCR7Y2hpZWZJblBvb2wudG9Mb2NhbGVTdHJpbmcoKX0gQ0hJRUYgKyAke3dldGhJblBvb2wudG9GaXhlZCg2KX0gV0VUSGApOw0KfQ0KDQptYWluKCkuY2F0Y2goKGVycm9yKSA9PiB7DQogIGNvbnNvbGUuZXJyb3IoZXJyb3IpOw0KICBwcm9jZXNzLmV4aXRDb2RlID0gMTsNCn0pOw0K"}
+require("dotenv").config();
+const fs = require("fs");
+const path = require("path");
+const { ethers } = require("ethers");
+
+const TOKEN = process.env.CONTRACT_ADDRESS || "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+const POOL = process.env.POOL_ADDRESS || "0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d";
+const WETH = process.env.WETH_ADDRESS || "0x4200000000000000000000000000000000000006";
+const RPC_URL = process.env.BASE_MAINNET_RPC_URL || "https://base-rpc.publicnode.com";
+
+const CHIEF_DECIMALS = Number(process.env.CHIEF_DECIMALS || 18);
+const RUNWAY_WEEKS = Number(process.env.TREASURY_RUNWAY_WEEKS || 8);
+const WEEKLY_DEPLOYMENT_CAP_PERCENT = Number(process.env.WEEKLY_TREASURY_DEPLOYMENT_CAP_PERCENT || 5);
+
+const erc20Abi = [
+  "function balanceOf(address) view returns (uint256)",
+  "function totalSupply() view returns (uint256)",
+  "function symbol() view returns (string)",
+  "function decimals() view returns (uint8)"
+];
+
+function getWeekStartISO(date) {
+  const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+  const day = d.getUTCDay();
+  const diff = (day + 6) % 7;
+  d.setUTCDate(d.getUTCDate() - diff);
+  return d.toISOString().slice(0, 10);
+}
+
+async function main() {
+  const provider = new ethers.JsonRpcProvider(RPC_URL);
+  const chief = new ethers.Contract(TOKEN, erc20Abi, provider);
+  const weth = new ethers.Contract(WETH, erc20Abi, provider);
+
+  const [chiefInPoolRaw, wethInPoolRaw, totalSupplyRaw, wethDecimals] = await Promise.all([
+    chief.balanceOf(POOL),
+    weth.balanceOf(POOL),
+    chief.totalSupply(),
+    weth.decimals()
+  ]);
+
+  const chiefInPool = Number(ethers.formatUnits(chiefInPoolRaw, CHIEF_DECIMALS));
+  const wethInPool = Number(ethers.formatUnits(wethInPoolRaw, Number(wethDecimals)));
+  const totalSupply = Number(ethers.formatUnits(totalSupplyRaw, CHIEF_DECIMALS));
+
+  const now = new Date();
+  const weekOf = getWeekStartISO(now);
+  const outDir = path.resolve(__dirname, "..", "artifacts", "weekly-reports");
+  fs.mkdirSync(outDir, { recursive: true });
+
+  const report = {
+    weekOf,
+    generatedAtUTC: now.toISOString(),
+    network: "base",
+    contractAddress: TOKEN,
+    poolAddress: POOL,
+    metrics: {
+      chiefInPool,
+      wethInPool,
+      totalSupply,
+      polShareOfSupplyPercent: totalSupply > 0 ? (chiefInPool / totalSupply) * 100 : 0
+    },
+    policy: {
+      runwayWeeksBufferTarget: RUNWAY_WEEKS,
+      weeklyTreasuryDeploymentCapPercent: WEEKLY_DEPLOYMENT_CAP_PERCENT
+    },
+    manualInputs: {
+      netProductRevenueUSD: null,
+      liquidityAllocationUSD: null,
+      estimatedSlippage10kBuyBefore: null,
+      estimatedSlippage10kBuyAfter: null,
+      feesEarnedThisWeekUSD: null,
+      notes: "Fill manual fields before publishing."
+    }
+  };
+
+  const outPath = path.join(outDir, `weekly-liquidity-report-${weekOf}.json`);
+  fs.writeFileSync(outPath, JSON.stringify(report, null, 2));
+
+  console.log("Weekly liquidity report generated:");
+  console.log(outPath);
+  console.log("Pool snapshot:", `${chiefInPool.toLocaleString()} CHIEF + ${wethInPool.toFixed(6)} WETH`);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

@@ -1,1 +1,282 @@
-{"data":"ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgNCmltcG9ydCB0ZXh0d3JhcA0KaW1wb3J0IG51bXB5IGFzIG5wDQoNCmZyb20gUElMIGltcG9ydCBJbWFnZSwgSW1hZ2VEcmF3LCBJbWFnZUZvbnQNCmZyb20gbW92aWVweS5lZGl0b3IgaW1wb3J0IEltYWdlQ2xpcCwgVmlkZW9DbGlwLCBjb25jYXRlbmF0ZV92aWRlb2NsaXBzDQoNCg0KV0lEVEggPSAxMDgwDQpIRUlHSFQgPSAxOTIwDQpGUFMgPSAzMA0KDQpCR19EQVJLID0gKDEyLCAxNiwgMzApDQpCR19NSUQgPSAoMjAsIDUyLCAxMjApDQpBQ0NFTlRfR09MRCA9ICgyNTUsIDIxNCwgMCkNCldISVRFID0gKDI0NSwgMjQ3LCAyNTUpDQoNCkRBWTVfUEFMRVRURSA9IHsNCiAgICAiYmdfdG9wIjogKDEyLCAxNiwgMzApLA0KICAgICJiZ19ib3R0b20iOiAoMjAsIDUyLCAxMjApLA0KICAgICJhY2NlbnQiOiAoMjU1LCAyMTQsIDApLA0KICAgICJ0aXRsZSI6ICgyNDUsIDI0NywgMjU1KSwNCiAgICAic3VidGl0bGUiOiAoMjU1LCAyMTQsIDApLA0KICAgICJwYW5lbCI6ICg4LCAxMCwgMTYpLA0KICAgICJibG9iIjogKDM1LCA5MCwgMTg1KSwNCiAgICAiZm9vdGVyIjogKDIxNSwgMjIwLCAyMzApLA0KfQ0KDQpEQVk2X1BBTEVUVEUgPSB7DQogICAgImJnX3RvcCI6ICgyNDcsIDI0NCwgMjMyKSwNCiAgICAiYmdfYm90dG9tIjogKDI1NSwgMjIxLCAxMjgpLA0KICAgICJhY2NlbnQiOiAoMTYsIDM4LCA5MiksDQogICAgInRpdGxlIjogKDE0LCAyMCwgMzMpLA0KICAgICJzdWJ0aXRsZSI6ICgxNiwgMzgsIDkyKSwNCiAgICAicGFuZWwiOiAoMjM1LCAyMDEsIDExMCksDQogICAgImJsb2IiOiAoMjUyLCAyNDEsIDIwNSksDQogICAgImZvb3RlciI6ICgyNywgMzgsIDYwKSwNCn0NCg0KDQpkZWYgX2xvYWRfZm9udChzaXplOiBpbnQsIGJvbGQ6IGJvb2wgPSBGYWxzZSkgLT4gSW1hZ2VGb250LkZyZWVUeXBlRm9udCB8IEltYWdlRm9udC5JbWFnZUZvbnQ6DQogICAgY2FuZGlkYXRlcyA9IFtdDQogICAgaWYgYm9sZDoNCiAgICAgICAgY2FuZGlkYXRlcy5leHRlbmQoDQogICAgICAgICAgICBbDQogICAgICAgICAgICAgICAgIkM6L1dpbmRvd3MvRm9udHMvYXJpYWxiZC50dGYiLA0KICAgICAgICAgICAgICAgICJDOi9XaW5kb3dzL0ZvbnRzL3NlZ3Vpc2IudHRmIiwNCiAgICAgICAgICAgICAgICAiQzovV2luZG93cy9Gb250cy90YWhvbWFiZC50dGYiLA0KICAgICAgICAgICAgXQ0KICAgICAgICApDQogICAgZWxzZToNCiAgICAgICAgY2FuZGlkYXRlcy5leHRlbmQoDQogICAgICAgICAgICBbDQogICAgICAgICAgICAgICAgIkM6L1dpbmRvd3MvRm9udHMvYXJpYWwudHRmIiwNCiAgICAgICAgICAgICAgICAiQzovV2luZG93cy9Gb250cy9zZWdvZXVpLnR0ZiIsDQogICAgICAgICAgICAgICAgIkM6L1dpbmRvd3MvRm9udHMvdGFob21hLnR0ZiIsDQogICAgICAgICAgICBdDQogICAgICAgICkNCg0KICAgIGZvciBwYXRoIGluIGNhbmRpZGF0ZXM6DQogICAgICAgIHRyeToNCiAgICAgICAgICAgIHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUocGF0aCwgc2l6ZT1zaXplKQ0KICAgICAgICBleGNlcHQgT1NFcnJvcjoNCiAgICAgICAgICAgIGNvbnRpbnVlDQogICAgcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQ0KDQoNCmRlZiBfdmVydGljYWxfZ3JhZGllbnQod2lkdGg6IGludCwgaGVpZ2h0OiBpbnQsIHRvcDogdHVwbGVbaW50LCBpbnQsIGludF0sIGJvdHRvbTogdHVwbGVbaW50LCBpbnQsIGludF0pIC0+IEltYWdlLkltYWdlOg0KICAgIGltZyA9IEltYWdlLm5ldygiUkdCIiwgKHdpZHRoLCBoZWlnaHQpLCB0b3ApDQogICAgZHJhdyA9IEltYWdlRHJhdy5EcmF3KGltZykNCiAgICBmb3IgeSBpbiByYW5nZShoZWlnaHQpOg0KICAgICAgICB0ID0geSAvIG1heCgxLCBoZWlnaHQgLSAxKQ0KICAgICAgICBjb2xvciA9ICgNCiAgICAgICAgICAgIGludCh0b3BbMF0gKiAoMSAtIHQpICsgYm90dG9tWzBdICogdCksDQogICAgICAgICAgICBpbnQodG9wWzFdICogKDEgLSB0KSArIGJvdHRvbVsxXSAqIHQpLA0KICAgICAgICAgICAgaW50KHRvcFsyXSAqICgxIC0gdCkgKyBib3R0b21bMl0gKiB0KSwNCiAgICAgICAgKQ0KICAgICAgICBkcmF3LmxpbmUoWygwLCB5KSwgKHdpZHRoLCB5KV0sIGZpbGw9Y29sb3IpDQogICAgcmV0dXJuIGltZw0KDQoNCmRlZiBfZHJhd19zY2VuZSgNCiAgICB0aXRsZTogc3RyLA0KICAgIHN1YnRpdGxlOiBzdHIgfCBOb25lLA0KICAgIGZvb3Rlcjogc3RyIHwgTm9uZSwNCiAgICBvdXRfcGF0aDogUGF0aCwNCiAgICBwYWxldHRlOiBkaWN0W3N0ciwgdHVwbGVbaW50LCBpbnQsIGludF1dLA0KICAgIHRpdGxlX3NpemU6IGludCA9IDg0LA0KICAgIHN1YnRpdGxlX3NpemU6IGludCA9IDUyLA0KICAgIGZvb3Rlcl9zaXplOiBpbnQgPSAzNiwNCikgLT4gTm9uZToNCiAgICBpbWcgPSBfdmVydGljYWxfZ3JhZGllbnQoV0lEVEgsIEhFSUdIVCwgcGFsZXR0ZVsiYmdfdG9wIl0sIHBhbGV0dGVbImJnX2JvdHRvbSJdKQ0KICAgIGRyYXcgPSBJbWFnZURyYXcuRHJhdyhpbWcpDQoNCiAgICAjIEJyYW5kIGFjY2VudCBzaGFwZXMgZm9yIGRlcHRoIGFuZCBtb3Rpb24tbGlrZSBlbmVyZ3kuDQogICAgZHJhdy5lbGxpcHNlKCg3MCwgMTAwLCA0MzAsIDQ2MCksIG91dGxpbmU9cGFsZXR0ZVsiYWNjZW50Il0sIHdpZHRoPTEwKQ0KICAgIGRyYXcuZWxsaXBzZSgoNzAwLCAxMzMwLCAxMDgwLCAxNzEwKSwgZmlsbD1wYWxldHRlWyJibG9iIl0pDQogICAgZHJhdy5yZWN0YW5nbGUoKDAsIEhFSUdIVCAtIDI1MCwgV0lEVEgsIEhFSUdIVCksIGZpbGw9cGFsZXR0ZVsicGFuZWwiXSkNCg0KICAgIHRpdGxlX2ZvbnQgPSBfbG9hZF9mb250KHRpdGxlX3NpemUsIGJvbGQ9VHJ1ZSkNCiAgICBzdWJ0aXRsZV9mb250ID0gX2xvYWRfZm9udChzdWJ0aXRsZV9zaXplLCBib2xkPVRydWUpDQogICAgZm9vdGVyX2ZvbnQgPSBfbG9hZF9mb250KGZvb3Rlcl9zaXplLCBib2xkPUZhbHNlKQ0KDQogICAgd3JhcHBlZF90aXRsZSA9ICJcbiIuam9pbih0ZXh0d3JhcC53cmFwKHRpdGxlLCB3aWR0aD0xOCkpDQogICAgdGl0bGVfYm94ID0gZHJhdy5tdWx0aWxpbmVfdGV4dGJib3goKDAsIDApLCB3cmFwcGVkX3RpdGxlLCBmb250PXRpdGxlX2ZvbnQsIHNwYWNpbmc9MTApDQogICAgdGl0bGVfdyA9IHRpdGxlX2JveFsyXSAtIHRpdGxlX2JveFswXQ0KICAgIHRpdGxlX2ggPSB0aXRsZV9ib3hbM10gLSB0aXRsZV9ib3hbMV0NCiAgICB0aXRsZV94ID0gKFdJRFRIIC0gdGl0bGVfdykgLy8gMg0KICAgIHRpdGxlX3kgPSA1MDAgLSB0aXRsZV9oIC8vIDINCg0KICAgIGRyYXcubXVsdGlsaW5lX3RleHQoDQogICAgICAgICh0aXRsZV94ICsgMywgdGl0bGVfeSArIDMpLA0KICAgICAgICB3cmFwcGVkX3RpdGxlLA0KICAgICAgICBmb250PXRpdGxlX2ZvbnQsDQogICAgICAgIGZpbGw9KDAsIDAsIDApLA0KICAgICAgICBzcGFjaW5nPTEwLA0KICAgICAgICBhbGlnbj0iY2VudGVyIiwNCiAgICApDQogICAgZHJhdy5tdWx0aWxpbmVfdGV4dCgNCiAgICAgICAgKHRpdGxlX3gsIHRpdGxlX3kpLA0KICAgICAgICB3cmFwcGVkX3RpdGxlLA0KICAgICAgICBmb250PXRpdGxlX2ZvbnQsDQogICAgICAgIGZpbGw9cGFsZXR0ZVsidGl0bGUiXSwNCiAgICAgICAgc3BhY2luZz0xMCwNCiAgICAgICAgYWxpZ249ImNlbnRlciIsDQogICAgKQ0KDQogICAgaWYgc3VidGl0bGU6DQogICAgICAgIHdyYXBwZWRfc3ViID0gIlxuIi5qb2luKHRleHR3cmFwLndyYXAoc3VidGl0bGUsIHdpZHRoPTI0KSkNCiAgICAgICAgc3ViX2JveCA9IGRyYXcubXVsdGlsaW5lX3RleHRiYm94KCgwLCAwKSwgd3JhcHBlZF9zdWIsIGZvbnQ9c3VidGl0bGVfZm9udCwgc3BhY2luZz04KQ0KICAgICAgICBzdWJfdyA9IHN1Yl9ib3hbMl0gLSBzdWJfYm94WzBdDQogICAgICAgIHN1Yl94ID0gKFdJRFRIIC0gc3ViX3cpIC8vIDINCiAgICAgICAgZHJhdy5tdWx0aWxpbmVfdGV4dCgNCiAgICAgICAgICAgIChzdWJfeCwgMTAyMCksDQogICAgICAgICAgICB3cmFwcGVkX3N1YiwNCiAgICAgICAgICAgIGZvbnQ9c3VidGl0bGVfZm9udCwNCiAgICAgICAgICAgIGZpbGw9cGFsZXR0ZVsic3VidGl0bGUiXSwNCiAgICAgICAgICAgIHNwYWNpbmc9OCwNCiAgICAgICAgICAgIGFsaWduPSJjZW50ZXIiLA0KICAgICAgICApDQoNCiAgICBpZiBmb290ZXI6DQogICAgICAgIHdyYXBwZWRfZm9vdGVyID0gIlxuIi5qb2luKHRleHR3cmFwLndyYXAoZm9vdGVyLCB3aWR0aD00NCkpDQogICAgICAgIGRyYXcubXVsdGlsaW5lX3RleHQoDQogICAgICAgICAgICAoNzAsIEhFSUdIVCAtIDE5MCksDQogICAgICAgICAgICB3cmFwcGVkX2Zvb3RlciwNCiAgICAgICAgICAgIGZvbnQ9Zm9vdGVyX2ZvbnQsDQogICAgICAgICAgICBmaWxsPXBhbGV0dGVbImZvb3RlciJdLA0KICAgICAgICAgICAgc3BhY2luZz02LA0KICAgICAgICApDQoNCiAgICBvdXRfcGF0aC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQ0KICAgIGltZy5zYXZlKG91dF9wYXRoKQ0KDQoNCmRlZiBfbWFrZV93aXBlX3RyYW5zaXRpb24oY2xpcF9hOiBJbWFnZUNsaXAsIGNsaXBfYjogSW1hZ2VDbGlwLCBkdXJhdGlvbjogZmxvYXQgPSAwLjIyKSAtPiBWaWRlb0NsaXA6DQogICAgd2lkdGggPSBjbGlwX2Eudw0KDQogICAgZGVmIG1ha2VfZnJhbWUodDogZmxvYXQpOg0KICAgICAgICBwcm9ncmVzcyA9IG1pbihtYXgodCAvIGR1cmF0aW9uLCAwLjApLCAxLjApDQogICAgICAgIHNwbGl0ID0gaW50KHdpZHRoICogcHJvZ3Jlc3MpDQogICAgICAgIGZyYW1lX2EgPSBjbGlwX2EuZ2V0X2ZyYW1lKG1heChjbGlwX2EuZHVyYXRpb24gLSBkdXJhdGlvbiArIHQsIDAuMCkpLmNvcHkoKQ0KICAgICAgICBmcmFtZV9iID0gY2xpcF9iLmdldF9mcmFtZSh0KQ0KICAgICAgICBmcmFtZV9hWzosIDpzcGxpdCwgOl0gPSBmcmFtZV9iWzosIDpzcGxpdCwgOl0NCiAgICAgICAgcmV0dXJuIGZyYW1lX2ENCg0KICAgIHJldHVybiBWaWRlb0NsaXAobWFrZV9mcmFtZT1tYWtlX2ZyYW1lLCBkdXJhdGlvbj1kdXJhdGlvbikNCg0KDQpkZWYgX3JlbmRlcl9yZWVsKA0KICAgIGRheV9sYWJlbDogc3RyLA0KICAgIHNjZW5lczogbGlzdFtkaWN0W3N0ciwgb2JqZWN0XV0sDQogICAgb3V0cHV0X21wNDogUGF0aCwNCiAgICB0ZW1wX2RpcjogUGF0aCwNCiAgICBwYWxldHRlOiBkaWN0W3N0ciwgdHVwbGVbaW50LCBpbnQsIGludF1dLA0KKSAtPiBOb25lOg0KICAgIGZyYW1lX3BhdGhzOiBsaXN0W1BhdGhdID0gW10NCiAgICBjbGlwcyA9IFtdDQoNCiAgICBmb3IgaWR4LCBzY2VuZSBpbiBlbnVtZXJhdGUoc2NlbmVzLCBzdGFydD0xKToNCiAgICAgICAgZnJhbWVfcGF0aCA9IHRlbXBfZGlyIC8gZiJ7ZGF5X2xhYmVsLmxvd2VyKCl9X3NjZW5lX3tpZHh9LnBuZyINCiAgICAgICAgX2RyYXdfc2NlbmUoDQogICAgICAgICAgICB0aXRsZT1zdHIoc2NlbmVbInRpdGxlIl0pLA0KICAgICAgICAgICAgc3VidGl0bGU9c3RyKHNjZW5lLmdldCgic3VidGl0bGUiKSkgaWYgc2NlbmUuZ2V0KCJzdWJ0aXRsZSIpIGVsc2UgTm9uZSwNCiAgICAgICAgICAgIGZvb3Rlcj1zdHIoc2NlbmUuZ2V0KCJmb290ZXIiKSkgaWYgc2NlbmUuZ2V0KCJmb290ZXIiKSBlbHNlIE5vbmUsDQogICAgICAgICAgICBvdXRfcGF0aD1mcmFtZV9wYXRoLA0KICAgICAgICAgICAgcGFsZXR0ZT1wYWxldHRlLA0KICAgICAgICAgICAgdGl0bGVfc2l6ZT1pbnQoc2NlbmUuZ2V0KCJ0aXRsZV9zaXplIiwgODQpKSwNCiAgICAgICAgICAgIHN1YnRpdGxlX3NpemU9aW50KHNjZW5lLmdldCgic3VidGl0bGVfc2l6ZSIsIDUyKSksDQogICAgICAgICAgICBmb290ZXJfc2l6ZT1pbnQoc2NlbmUuZ2V0KCJmb290ZXJfc2l6ZSIsIDM2KSksDQogICAgICAgICkNCiAgICAgICAgZnJhbWVfcGF0aHMuYXBwZW5kKGZyYW1lX3BhdGgpDQoNCiAgICAgICAgY2xpcCA9IEltYWdlQ2xpcChzdHIoZnJhbWVfcGF0aCkpLnNldF9kdXJhdGlvbihmbG9hdChzY2VuZVsiZHVyYXRpb24iXSkpDQogICAgICAgIGNsaXBzLmFwcGVuZChjbGlwKQ0KDQogICAgdGltZWxpbmUgPSBbXQ0KICAgIGZvciBpZHgsIGNsaXAgaW4gZW51bWVyYXRlKGNsaXBzKToNCiAgICAgICAgdGltZWxpbmUuYXBwZW5kKGNsaXApDQogICAgICAgIGlmIGlkeCA8IGxlbihjbGlwcykgLSAxOg0KICAgICAgICAgICAgdGltZWxpbmUuYXBwZW5kKF9tYWtlX3dpcGVfdHJhbnNpdGlvbihjbGlwLCBjbGlwc1tpZHggKyAxXSwgZHVyYXRpb249MC4yMikpDQoNCiAgICBmaW5hbCA9IGNvbmNhdGVuYXRlX3ZpZGVvY2xpcHModGltZWxpbmUsIG1ldGhvZD0iY29tcG9zZSIpDQogICAgb3V0cHV0X21wNC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQ0KICAgIGZpbmFsLndyaXRlX3ZpZGVvZmlsZSgNCiAgICAgICAgc3RyKG91dHB1dF9tcDQpLA0KICAgICAgICBmcHM9RlBTLA0KICAgICAgICBjb2RlYz0ibGlieDI2NCIsDQogICAgICAgIGF1ZGlvPUZhbHNlLA0KICAgICAgICBwcmVzZXQ9Im1lZGl1bSIsDQogICAgICAgIHRocmVhZHM9NCwNCiAgICApDQogICAgZmluYWwuY2xvc2UoKQ0KICAgIGZvciBjbGlwIGluIGNsaXBzOg0KICAgICAgICBjbGlwLmNsb3NlKCkNCg0KICAgIGZvciBmcmFtZV9wYXRoIGluIGZyYW1lX3BhdGhzOg0KICAgICAgICB0cnk6DQogICAgICAgICAgICBmcmFtZV9wYXRoLnVubGluaygpDQogICAgICAgIGV4Y2VwdCBPU0Vycm9yOg0KICAgICAgICAgICAgcGFzcw0KDQoNCmRlZiBtYWluKCkgLT4gTm9uZToNCiAgICByb290ID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudHNbMV0NCiAgICByZWVsc19kaXIgPSByb290IC8gInJlZWxzIg0KICAgIHRlbXBfZGlyID0gcm9vdCAvICJzY3JpcHRzIiAvICJ0bXBfZGF5NV9kYXk2X3JlZWxzIg0KICAgIHRlbXBfZGlyLm1rZGlyKHBhcmVudHM9VHJ1ZSwgZXhpc3Rfb2s9VHJ1ZSkNCg0KICAgIGRheTVfc2NlbmVzID0gWw0KICAgICAgICB7InRpdGxlIjogIk1vbWVudHVtIGlzbid0IGx1Y2siLCAic3VidGl0bGUiOiAiSXQncyBidWlsdC4iLCAiZHVyYXRpb24iOiAyLjB9LA0KICAgICAgICB7InRpdGxlIjogIkV2ZXJ5IGRheSBtb3JlIGJ1aWxkZXJzIiwgInN1YnRpdGxlIjogImpvaW4gQ2hpZWZUb2tlbiIsICJkdXJhdGlvbiI6IDIuMH0sDQogICAgICAgIHsidGl0bGUiOiAiUmVhZHkgdG8gbGV2ZWwgdXA/IiwgInN1YnRpdGxlIjogIlRhcCBpbi4iLCAiZHVyYXRpb24iOiAyLjB9LA0KICAgICAgICB7DQogICAgICAgICAgICAidGl0bGUiOiAiRm9sbG93IEBvZmZpY2lhbGNoaWVmdG9rZW4iLA0KICAgICAgICAgICAgInN1YnRpdGxlIjogIkJlIHBhcnQgb2YgdGhlIG5leHQgd2F2ZSIsDQogICAgICAgICAgICAiZHVyYXRpb24iOiAyLjUsDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJ0aXRsZSI6ICJFZHVjYXRpb25hbCBvbmx5IiwNCiAgICAgICAgICAgICJzdWJ0aXRsZSI6ICJOb3QgZmluYW5jaWFsIGFkdmljZSIsDQogICAgICAgICAgICAiZm9vdGVyIjogIkNoaWVmVG9rZW4gc29jaWFsIHJlZWwgLSBEYXkgNSIsDQogICAgICAgICAgICAiZHVyYXRpb24iOiAxLjUsDQogICAgICAgIH0sDQogICAgXQ0KDQogICAgZGF5Nl9zY2VuZXMgPSBbDQogICAgICAgIHsidGl0bGUiOiAiTG9va2luZyBmb3IgeW91ciBuZXh0IGVkZ2U/IiwgInN1YnRpdGxlIjogTm9uZSwgImR1cmF0aW9uIjogMi4wfSwNCiAgICAgICAgeyJ0aXRsZSI6ICJDSElFRiBpcyBub3QgaHlwZS1maXJzdCIsICJzdWJ0aXRsZSI6IE5vbmUsICJkdXJhdGlvbiI6IDMuMH0sDQogICAgICAgIHsidGl0bGUiOiAiV2UgYXJlIHByb2Nlc3MtZmlyc3QiLCAic3VidGl0bGUiOiBOb25lLCAiZHVyYXRpb24iOiAyLjB9LA0KICAgICAgICB7DQogICAgICAgICAgICAidGl0bGUiOiAiRHJvcCBDSElFRiBpbiBjb21tZW50cyIsDQogICAgICAgICAgICAic3VidGl0bGUiOiAiZm9yIHRoZSBuZXh0IHNpZ25hbCB1cGRhdGUiLA0KICAgICAgICAgICAgInRpdGxlX3NpemUiOiA3MiwNCiAgICAgICAgICAgICJzdWJ0aXRsZV9zaXplIjogNDYsDQogICAgICAgICAgICAiZHVyYXRpb24iOiAyLjAsDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAgICJ0aXRsZSI6ICJFZHVjYXRpb25hbCBvbmx5IiwNCiAgICAgICAgICAgICJzdWJ0aXRsZSI6ICJOb3QgZmluYW5jaWFsIGFkdmljZSIsDQogICAgICAgICAgICAiZm9vdGVyIjogIkNoaWVmVG9rZW4gc29jaWFsIHJlZWwgLSBEYXkgNiIsDQogICAgICAgICAgICAidGl0bGVfc2l6ZSI6IDY4LA0KICAgICAgICAgICAgInN1YnRpdGxlX3NpemUiOiA0MiwNCiAgICAgICAgICAgICJmb290ZXJfc2l6ZSI6IDM0LA0KICAgICAgICAgICAgImR1cmF0aW9uIjogMS4wLA0KICAgICAgICB9LA0KICAgIF0NCg0KICAgIGRheTVfb3V0ID0gcmVlbHNfZGlyIC8gImNoaWVmLXRva2VuLWRheTUtcmVlbC5tcDQiDQogICAgZGF5Nl9vdXQgPSByZWVsc19kaXIgLyAiY2hpZWYtdG9rZW4tZGF5Ni1yZWVsLm1wNCINCg0KICAgIF9yZW5kZXJfcmVlbCgiREFZNSIsIGRheTVfc2NlbmVzLCBkYXk1X291dCwgdGVtcF9kaXIsIERBWTVfUEFMRVRURSkNCiAgICBfcmVuZGVyX3JlZWwoIkRBWTYiLCBkYXk2X3NjZW5lcywgZGF5Nl9vdXQsIHRlbXBfZGlyLCBEQVk2X1BBTEVUVEUpDQoNCiAgICBwcmludChmIkNyZWF0ZWQ6IHtkYXk1X291dH0iKQ0KICAgIHByaW50KGYiQ3JlYXRlZDoge2RheTZfb3V0fSIpDQoNCg0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoNCiAgICBtYWluKCkNCg=="}
+from __future__ import annotations
+
+from pathlib import Path
+import textwrap
+import numpy as np
+
+from PIL import Image, ImageDraw, ImageFont
+from moviepy.editor import ImageClip, VideoClip, concatenate_videoclips
+
+
+WIDTH = 1080
+HEIGHT = 1920
+FPS = 30
+
+BG_DARK = (12, 16, 30)
+BG_MID = (20, 52, 120)
+ACCENT_GOLD = (255, 214, 0)
+WHITE = (245, 247, 255)
+
+DAY5_PALETTE = {
+    "bg_top": (12, 16, 30),
+    "bg_bottom": (20, 52, 120),
+    "accent": (255, 214, 0),
+    "title": (245, 247, 255),
+    "subtitle": (255, 214, 0),
+    "panel": (8, 10, 16),
+    "blob": (35, 90, 185),
+    "footer": (215, 220, 230),
+}
+
+DAY6_PALETTE = {
+    "bg_top": (247, 244, 232),
+    "bg_bottom": (255, 221, 128),
+    "accent": (16, 38, 92),
+    "title": (14, 20, 33),
+    "subtitle": (16, 38, 92),
+    "panel": (235, 201, 110),
+    "blob": (252, 241, 205),
+    "footer": (27, 38, 60),
+}
+
+
+def _load_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    candidates = []
+    if bold:
+        candidates.extend(
+            [
+                "C:/Windows/Fonts/arialbd.ttf",
+                "C:/Windows/Fonts/seguisb.ttf",
+                "C:/Windows/Fonts/tahomabd.ttf",
+            ]
+        )
+    else:
+        candidates.extend(
+            [
+                "C:/Windows/Fonts/arial.ttf",
+                "C:/Windows/Fonts/segoeui.ttf",
+                "C:/Windows/Fonts/tahoma.ttf",
+            ]
+        )
+
+    for path in candidates:
+        try:
+            return ImageFont.truetype(path, size=size)
+        except OSError:
+            continue
+    return ImageFont.load_default()
+
+
+def _vertical_gradient(width: int, height: int, top: tuple[int, int, int], bottom: tuple[int, int, int]) -> Image.Image:
+    img = Image.new("RGB", (width, height), top)
+    draw = ImageDraw.Draw(img)
+    for y in range(height):
+        t = y / max(1, height - 1)
+        color = (
+            int(top[0] * (1 - t) + bottom[0] * t),
+            int(top[1] * (1 - t) + bottom[1] * t),
+            int(top[2] * (1 - t) + bottom[2] * t),
+        )
+        draw.line([(0, y), (width, y)], fill=color)
+    return img
+
+
+def _draw_scene(
+    title: str,
+    subtitle: str | None,
+    footer: str | None,
+    out_path: Path,
+    palette: dict[str, tuple[int, int, int]],
+    title_size: int = 84,
+    subtitle_size: int = 52,
+    footer_size: int = 36,
+) -> None:
+    img = _vertical_gradient(WIDTH, HEIGHT, palette["bg_top"], palette["bg_bottom"])
+    draw = ImageDraw.Draw(img)
+
+    # Brand accent shapes for depth and motion-like energy.
+    draw.ellipse((70, 100, 430, 460), outline=palette["accent"], width=10)
+    draw.ellipse((700, 1330, 1080, 1710), fill=palette["blob"])
+    draw.rectangle((0, HEIGHT - 250, WIDTH, HEIGHT), fill=palette["panel"])
+
+    title_font = _load_font(title_size, bold=True)
+    subtitle_font = _load_font(subtitle_size, bold=True)
+    footer_font = _load_font(footer_size, bold=False)
+
+    wrapped_title = "\n".join(textwrap.wrap(title, width=18))
+    title_box = draw.multiline_textbbox((0, 0), wrapped_title, font=title_font, spacing=10)
+    title_w = title_box[2] - title_box[0]
+    title_h = title_box[3] - title_box[1]
+    title_x = (WIDTH - title_w) // 2
+    title_y = 500 - title_h // 2
+
+    draw.multiline_text(
+        (title_x + 3, title_y + 3),
+        wrapped_title,
+        font=title_font,
+        fill=(0, 0, 0),
+        spacing=10,
+        align="center",
+    )
+    draw.multiline_text(
+        (title_x, title_y),
+        wrapped_title,
+        font=title_font,
+        fill=palette["title"],
+        spacing=10,
+        align="center",
+    )
+
+    if subtitle:
+        wrapped_sub = "\n".join(textwrap.wrap(subtitle, width=24))
+        sub_box = draw.multiline_textbbox((0, 0), wrapped_sub, font=subtitle_font, spacing=8)
+        sub_w = sub_box[2] - sub_box[0]
+        sub_x = (WIDTH - sub_w) // 2
+        draw.multiline_text(
+            (sub_x, 1020),
+            wrapped_sub,
+            font=subtitle_font,
+            fill=palette["subtitle"],
+            spacing=8,
+            align="center",
+        )
+
+    if footer:
+        wrapped_footer = "\n".join(textwrap.wrap(footer, width=44))
+        draw.multiline_text(
+            (70, HEIGHT - 190),
+            wrapped_footer,
+            font=footer_font,
+            fill=palette["footer"],
+            spacing=6,
+        )
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    img.save(out_path)
+
+
+def _make_wipe_transition(clip_a: ImageClip, clip_b: ImageClip, duration: float = 0.22) -> VideoClip:
+    width = clip_a.w
+
+    def make_frame(t: float):
+        progress = min(max(t / duration, 0.0), 1.0)
+        split = int(width * progress)
+        frame_a = clip_a.get_frame(max(clip_a.duration - duration + t, 0.0)).copy()
+        frame_b = clip_b.get_frame(t)
+        frame_a[:, :split, :] = frame_b[:, :split, :]
+        return frame_a
+
+    return VideoClip(make_frame=make_frame, duration=duration)
+
+
+def _render_reel(
+    day_label: str,
+    scenes: list[dict[str, object]],
+    output_mp4: Path,
+    temp_dir: Path,
+    palette: dict[str, tuple[int, int, int]],
+) -> None:
+    frame_paths: list[Path] = []
+    clips = []
+
+    for idx, scene in enumerate(scenes, start=1):
+        frame_path = temp_dir / f"{day_label.lower()}_scene_{idx}.png"
+        _draw_scene(
+            title=str(scene["title"]),
+            subtitle=str(scene.get("subtitle")) if scene.get("subtitle") else None,
+            footer=str(scene.get("footer")) if scene.get("footer") else None,
+            out_path=frame_path,
+            palette=palette,
+            title_size=int(scene.get("title_size", 84)),
+            subtitle_size=int(scene.get("subtitle_size", 52)),
+            footer_size=int(scene.get("footer_size", 36)),
+        )
+        frame_paths.append(frame_path)
+
+        clip = ImageClip(str(frame_path)).set_duration(float(scene["duration"]))
+        clips.append(clip)
+
+    timeline = []
+    for idx, clip in enumerate(clips):
+        timeline.append(clip)
+        if idx < len(clips) - 1:
+            timeline.append(_make_wipe_transition(clip, clips[idx + 1], duration=0.22))
+
+    final = concatenate_videoclips(timeline, method="compose")
+    output_mp4.parent.mkdir(parents=True, exist_ok=True)
+    final.write_videofile(
+        str(output_mp4),
+        fps=FPS,
+        codec="libx264",
+        audio=False,
+        preset="medium",
+        threads=4,
+    )
+    final.close()
+    for clip in clips:
+        clip.close()
+
+    for frame_path in frame_paths:
+        try:
+            frame_path.unlink()
+        except OSError:
+            pass
+
+
+def main() -> None:
+    root = Path(__file__).resolve().parents[1]
+    reels_dir = root / "reels"
+    temp_dir = root / "scripts" / "tmp_day5_day6_reels"
+    temp_dir.mkdir(parents=True, exist_ok=True)
+
+    day5_scenes = [
+        {"title": "Momentum isn't luck", "subtitle": "It's built.", "duration": 2.0},
+        {"title": "Every day more builders", "subtitle": "join ChiefToken", "duration": 2.0},
+        {"title": "Ready to level up?", "subtitle": "Tap in.", "duration": 2.0},
+        {
+            "title": "Follow @officialchieftoken",
+            "subtitle": "Be part of the next wave",
+            "duration": 2.5,
+        },
+        {
+            "title": "Educational only",
+            "subtitle": "Not financial advice",
+            "footer": "ChiefToken social reel - Day 5",
+            "duration": 1.5,
+        },
+    ]
+
+    day6_scenes = [
+        {"title": "Looking for your next edge?", "subtitle": None, "duration": 2.0},
+        {"title": "CHIEF is not hype-first", "subtitle": None, "duration": 3.0},
+        {"title": "We are process-first", "subtitle": None, "duration": 2.0},
+        {
+            "title": "Drop CHIEF in comments",
+            "subtitle": "for the next signal update",
+            "title_size": 72,
+            "subtitle_size": 46,
+            "duration": 2.0,
+        },
+        {
+            "title": "Educational only",
+            "subtitle": "Not financial advice",
+            "footer": "ChiefToken social reel - Day 6",
+            "title_size": 68,
+            "subtitle_size": 42,
+            "footer_size": 34,
+            "duration": 1.0,
+        },
+    ]
+
+    day5_out = reels_dir / "chief-token-day5-reel.mp4"
+    day6_out = reels_dir / "chief-token-day6-reel.mp4"
+
+    _render_reel("DAY5", day5_scenes, day5_out, temp_dir, DAY5_PALETTE)
+    _render_reel("DAY6", day6_scenes, day6_out, temp_dir, DAY6_PALETTE)
+
+    print(f"Created: {day5_out}")
+    print(f"Created: {day6_out}")
+
+
+if __name__ == "__main__":
+    main()

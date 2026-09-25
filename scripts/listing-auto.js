@@ -1,1 +1,24 @@
-{"data":"Y29uc3QgeyBzcGF3blN5bmMgfSA9IHJlcXVpcmUoImNoaWxkX3Byb2Nlc3MiKTsNCg0KY29uc3Qgc3RlcHMgPSBbImxpc3Rpbmc6dmFsaWRhdGUiLCAibGlzdGluZzpwcmVwYXJlIl07DQpjb25zdCBucG1FeGVjUGF0aCA9IHByb2Nlc3MuZW52Lm5wbV9leGVjcGF0aDsNCg0KaWYgKCFucG1FeGVjUGF0aCkgew0KICBjb25zb2xlLmVycm9yKCJucG1fZXhlY3BhdGggaXMgdW5hdmFpbGFibGU7IHJ1biB0aGlzIHNjcmlwdCB0aHJvdWdoIG5wbS4iKTsNCiAgcHJvY2Vzcy5leGl0KDEpOw0KfQ0KDQpmb3IgKGNvbnN0IHN0ZXAgb2Ygc3RlcHMpIHsNCiAgY29uc29sZS5sb2coYFxuUnVubmluZyBzdGVwOiAke3N0ZXB9YCk7DQogIGNvbnN0IHJlc3VsdCA9IHNwYXduU3luYyhwcm9jZXNzLmV4ZWNQYXRoLCBbbnBtRXhlY1BhdGgsICJydW4iLCBzdGVwXSwgew0KICAgIHN0ZGlvOiAiaW5oZXJpdCIsDQogICAgc2hlbGw6IGZhbHNlDQogIH0pOw0KDQogIGlmIChyZXN1bHQuc3RhdHVzICE9PSAwKSB7DQogICAgY29uc29sZS5lcnJvcihgXG5TdGVwIGZhaWxlZDogJHtzdGVwfWApOw0KICAgIHByb2Nlc3MuZXhpdChyZXN1bHQuc3RhdHVzIHx8IDEpOw0KICB9DQp9DQoNCmNvbnNvbGUubG9nKCJcbkxpc3RpbmcgYXV0b21hdGlvbiBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5LiIpOw0K"}
+const { spawnSync } = require("child_process");
+
+const steps = ["listing:validate", "listing:prepare"];
+const npmExecPath = process.env.npm_execpath;
+
+if (!npmExecPath) {
+  console.error("npm_execpath is unavailable; run this script through npm.");
+  process.exit(1);
+}
+
+for (const step of steps) {
+  console.log(`\nRunning step: ${step}`);
+  const result = spawnSync(process.execPath, [npmExecPath, "run", step], {
+    stdio: "inherit",
+    shell: false
+  });
+
+  if (result.status !== 0) {
+    console.error(`\nStep failed: ${step}`);
+    process.exit(result.status || 1);
+  }
+}
+
+console.log("\nListing automation completed successfully.");

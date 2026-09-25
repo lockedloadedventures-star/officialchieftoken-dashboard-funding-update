@@ -1,1 +1,35 @@
-{"data":"IyBOZXh0IDcyIEhvdXJzOiBDSElFRiBVdGlsaXR5ICsgTGlxdWlkaXR5IEV4ZWN1dGlvbg0KDQojIyBIb3VyIDAtNg0KDQotIEZpbmFsaXplIFV0aWxpdHkgUGFzcyBwcmljaW5nIHBhZ2UgY29weSBmcm9tIGB1dGlsaXR5LXBhc3Mtb2ZmZXIubWRgLg0KLSBTZXQgdXAgY2hlY2tvdXQgYW5kIG1lbWJlciBvbmJvYXJkaW5nIGZsb3cuDQotIERlY2lkZSBDSElFRiBob2xkZXIgdGhyZXNob2xkcyBmb3IgYm9udXMgdXRpbGl0eSB0aWVycy4NCg0KIyMgSG91ciA2LTI0DQoNCi0gUHVibGlzaCBsYXVuY2ggYW5ub3VuY2VtZW50IGFjcm9zcyBwcmltYXJ5IGNoYW5uZWxzLg0KLSBSdW4gZGlyZWN0IG91dHJlYWNoIHRvIHdhcm0gYXVkaWVuY2Ugd2l0aCBsYXVuY2ggbGluay4NCi0gU2NoZWR1bGUgZmlyc3Qgd2Vla2x5IHJlcG9ydCBkcm9wIGRhdGUvdGltZS4NCi0gU2NoZWR1bGUgZmlyc3Qgb2ZmaWNlIGhvdXIgZGF0ZS90aW1lLg0KDQojIyBIb3VyIDI0LTQ4DQoNCi0gU2hpcCBmaXJzdCBtZW1iZXJzLW9ubHkgZGVsaXZlcmFibGUuDQotIENvbGxlY3QgZmlyc3QgMyB0ZXN0aW1vbmlhbHMgb3IgcHJvb2Ygc25pcHBldHMuDQotIFRyYWNrIHNjb3JlYm9hcmQgbWV0cmljcyBpbiBgcHJvZml0LXNjb3JlYm9hcmQtdGVtcGxhdGUubWRgLg0KLSBQdWJsaXNoIGZpcnN0IHRyYW5zcGFyZW5jeSBub3RlICh1dGlsaXR5IHNoaXBwZWQgKyBuZXh0IHN0ZXApLg0KDQojIyBIb3VyIDQ4LTcyDQoNCi0gQXBwbHkgbGlxdWlkaXR5IHBvbGljeSBmcmFtZXdvcmsgaW4gYGxpcXVpZGl0eS1ncm93dGgtcG9saWN5Lm1kYC4NCi0gRXhlY3V0ZSBmaXJzdCBzY2hlZHVsZWQgbGlxdWlkaXR5IGFjdGlvbiAoaWYgdHJlYXN1cnkgYW5kIHJpc2sgY2FwcyBhbGxvdykuDQotIFB1Ymxpc2ggZmlyc3Qgd2Vla2x5LXN0eWxlIGxpcXVpZGl0eSB1cGRhdGUgKGV2ZW4gaWYgc21hbGwpLg0KLSBEZWNpZGUgb25lIG9wdGltaXphdGlvbiBiYXNlZCBvbiBzY29yZWJvYXJkIGJvdHRsZW5lY2suDQoNCiMjIDcyLUhvdXIgU3VjY2VzcyBDcml0ZXJpYQ0KDQotIEZpcnN0IHBheWluZyB1c2VycyBhY3F1aXJlZC4NCi0gRmlyc3QgdXRpbGl0eSBkZWxpdmVyYWJsZSBzaGlwcGVkLg0KLSBTY29yZWJvYXJkIGFjdGl2ZWx5IHRyYWNrZWQgZGFpbHkuDQotIEZpcnN0IGxpcXVpZGl0eSB1cGRhdGUgcHVibGljbHkgcG9zdGVkLg0K"}
+# Next 72 Hours: CHIEF Utility + Liquidity Execution
+
+## Hour 0-6
+
+- Finalize Utility Pass pricing page copy from `utility-pass-offer.md`.
+- Set up checkout and member onboarding flow.
+- Decide CHIEF holder thresholds for bonus utility tiers.
+
+## Hour 6-24
+
+- Publish launch announcement across primary channels.
+- Run direct outreach to warm audience with launch link.
+- Schedule first weekly report drop date/time.
+- Schedule first office hour date/time.
+
+## Hour 24-48
+
+- Ship first members-only deliverable.
+- Collect first 3 testimonials or proof snippets.
+- Track scoreboard metrics in `profit-scoreboard-template.md`.
+- Publish first transparency note (utility shipped + next step).
+
+## Hour 48-72
+
+- Apply liquidity policy framework in `liquidity-growth-policy.md`.
+- Execute first scheduled liquidity action (if treasury and risk caps allow).
+- Publish first weekly-style liquidity update (even if small).
+- Decide one optimization based on scoreboard bottleneck.
+
+## 72-Hour Success Criteria
+
+- First paying users acquired.
+- First utility deliverable shipped.
+- Scoreboard actively tracked daily.
+- First liquidity update publicly posted.

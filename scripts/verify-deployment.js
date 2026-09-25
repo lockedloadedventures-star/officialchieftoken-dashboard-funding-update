@@ -1,1 +1,90 @@
-{"data":"Y29uc3QgaHR0cHMgPSByZXF1aXJlKCJodHRwcyIpOw0KcmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQoNCmNvbnN0IEFQRVggPSBwcm9jZXNzLmVudi5TSVRFX1VSTCB8fCAiaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tIjsNCmNvbnN0IFdXVyA9IHByb2Nlc3MuZW52LlNJVEVfV1dXX1VSTCB8fCAiaHR0cHM6Ly93d3cub2ZmaWNpYWxjaGllZnRva2VuLmNvbSI7DQpjb25zdCBHT09HTEVfVE9LRU4gPSAocHJvY2Vzcy5lbnYuR09PR0xFX1NJVEVfVkVSSUZJQ0FUSU9OIHx8ICIiKS50cmltKCk7DQpjb25zdCBCSU5HX1RPS0VOID0gKHByb2Nlc3MuZW52LkJJTkdfU0lURV9WRVJJRklDQVRJT04gfHwgIiIpLnRyaW0oKTsNCg0KZnVuY3Rpb24gcmVxdWVzdCh1cmwpIHsNCiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiB7DQogICAgY29uc3QgcmVxID0gaHR0cHMucmVxdWVzdCh1cmwsIHsgbWV0aG9kOiAiR0VUIiB9LCAocmVzKSA9PiB7DQogICAgICBsZXQgYm9keSA9ICIiOw0KICAgICAgcmVzLm9uKCJkYXRhIiwgKGNodW5rKSA9PiB7DQogICAgICAgIGJvZHkgKz0gY2h1bmsudG9TdHJpbmcoInV0ZjgiKTsNCiAgICAgIH0pOw0KICAgICAgcmVzLm9uKCJlbmQiLCAoKSA9PiB7DQogICAgICAgIHJlc29sdmUoew0KICAgICAgICAgIHVybCwNCiAgICAgICAgICBzdGF0dXM6IHJlcy5zdGF0dXNDb2RlIHx8IDAsDQogICAgICAgICAgaGVhZGVyczogcmVzLmhlYWRlcnMsDQogICAgICAgICAgYm9keQ0KICAgICAgICB9KTsNCiAgICAgIH0pOw0KICAgIH0pOw0KDQogICAgcmVxLm9uKCJlcnJvciIsIChlcnJvcikgPT4gew0KICAgICAgcmVzb2x2ZSh7IHVybCwgc3RhdHVzOiAwLCBoZWFkZXJzOiB7fSwgYm9keTogIiIsIGVycm9yOiBlcnJvci5tZXNzYWdlIH0pOw0KICAgIH0pOw0KDQogICAgcmVxLmVuZCgpOw0KICB9KTsNCn0NCg0KZnVuY3Rpb24gcGFzcyhvaywgbmFtZSwgZGV0YWlsKSB7DQogIGNvbnN0IGxhYmVsID0gb2sgPyAiUEFTUyIgOiAiRkFJTCI7DQogIGNvbnNvbGUubG9nKGBbJHtsYWJlbH1dICR7bmFtZX0gOjogJHtkZXRhaWx9YCk7DQogIHJldHVybiBvazsNCn0NCg0KYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsNCiAgY29uc3QgY2hlY2tzID0gW107DQoNCiAgY29uc3QgW2FwZXhIb21lLCBhcGV4Um9ib3RzLCBhcGV4U2l0ZW1hcCwgd3d3SG9tZV0gPSBhd2FpdCBQcm9taXNlLmFsbChbDQogICAgcmVxdWVzdChgJHtBUEVYfS9gKSwNCiAgICByZXF1ZXN0KGAke0FQRVh9L3JvYm90cy50eHRgKSwNCiAgICByZXF1ZXN0KGAke0FQRVh9L3NpdGVtYXAueG1sYCksDQogICAgcmVxdWVzdChgJHtXV1d9L2ApDQogIF0pOw0KDQogIGNoZWNrcy5wdXNoKHBhc3MoYXBleEhvbWUuc3RhdHVzID09PSAyMDAsICJBcGV4IGhvbWVwYWdlIHN0YXR1cyIsIGBzdGF0dXM9JHthcGV4SG9tZS5zdGF0dXN9YCkpOw0KICBjaGVja3MucHVzaChwYXNzKGFwZXhSb2JvdHMuc3RhdHVzID09PSAyMDAsICJyb2JvdHMudHh0IHN0YXR1cyIsIGBzdGF0dXM9JHthcGV4Um9ib3RzLnN0YXR1c31gKSk7DQogIGNoZWNrcy5wdXNoKHBhc3MoYXBleFNpdGVtYXAuc3RhdHVzID09PSAyMDAsICJzaXRlbWFwLnhtbCBzdGF0dXMiLCBgc3RhdHVzPSR7YXBleFNpdGVtYXAuc3RhdHVzfWApKTsNCg0KICBjb25zdCBjYW5vbmljYWxPayA9IGFwZXhIb21lLmJvZHkuaW5jbHVkZXMoJ3JlbD0iY2Fub25pY2FsIiBocmVmPSJodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vIicpOw0KICBjaGVja3MucHVzaChwYXNzKGNhbm9uaWNhbE9rLCAiQ2Fub25pY2FsIHRhZyBvbiBob21lcGFnZSIsIGNhbm9uaWNhbE9rID8gImFwZXggY2Fub25pY2FsIHByZXNlbnQiIDogImFwZXggY2Fub25pY2FsIG1pc3NpbmciKSk7DQoNCiAgY29uc3Qgb2dPayA9IGFwZXhIb21lLmJvZHkuaW5jbHVkZXMoJ3Byb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS8iJyk7DQogIGNoZWNrcy5wdXNoKHBhc3Mob2dPaywgIk9HIFVSTCBvbiBob21lcGFnZSIsIG9nT2sgPyAib2c6dXJsIHNldCB0byBhcGV4IiA6ICJvZzp1cmwgbm90IHNldCB0byBhcGV4IikpOw0KDQogIGNvbnN0IGlzUmVkaXJlY3QgPSBbMzAxLCAzMDIsIDMwNywgMzA4XS5pbmNsdWRlcyh3d3dIb21lLnN0YXR1cyk7DQogIGNvbnN0IGxvY2F0aW9uID0gKHd3d0hvbWUuaGVhZGVycy5sb2NhdGlvbiB8fCAiIikudG9TdHJpbmcoKTsNCiAgY29uc3QgcmVkaXJlY3RPayA9IGlzUmVkaXJlY3QgJiYgbG9jYXRpb24uc3RhcnRzV2l0aCgiaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tIik7DQogIGNoZWNrcy5wdXNoKHBhc3MocmVkaXJlY3RPaywgInd3dyByZWRpcmVjdHMgdG8gYXBleCIsIGBzdGF0dXM9JHt3d3dIb21lLnN0YXR1c30gbG9jYXRpb249JHtsb2NhdGlvbiB8fCAiPG5vbmU+In1gKSk7DQoNCiAgaWYgKEdPT0dMRV9UT0tFTikgew0KICAgIGNvbnN0IGdvb2dsZVRhZyA9IGBuYW1lPVwiZ29vZ2xlLXNpdGUtdmVyaWZpY2F0aW9uXCIgY29udGVudD1cIiR7R09PR0xFX1RPS0VOfVwiYDsNCiAgICBjb25zdCBnb29nbGVPayA9IGFwZXhIb21lLmJvZHkuaW5jbHVkZXMoZ29vZ2xlVGFnKTsNCiAgICBjaGVja3MucHVzaChwYXNzKGdvb2dsZU9rLCAiR29vZ2xlIHZlcmlmaWNhdGlvbiB0b2tlbiBtYXRjaGVzIGVudiIsIGdvb2dsZU9rID8gImV4YWN0IHRva2VuIGZvdW5kIGluIGxpdmUgaGVhZCIgOiAiZXhhY3QgdG9rZW4gbm90IGZvdW5kIGluIGxpdmUgaGVhZCIpKTsNCiAgfQ0KDQogIGlmIChCSU5HX1RPS0VOKSB7DQogICAgY29uc3QgYmluZ1RhZyA9IGBuYW1lPVwibXN2YWxpZGF0ZS4wMVwiIGNvbnRlbnQ9XCIke0JJTkdfVE9LRU59XCJgOw0KICAgIGNvbnN0IGJpbmdPayA9IGFwZXhIb21lLmJvZHkuaW5jbHVkZXMoYmluZ1RhZyk7DQogICAgY2hlY2tzLnB1c2gocGFzcyhiaW5nT2ssICJCaW5nIHZlcmlmaWNhdGlvbiB0b2tlbiBtYXRjaGVzIGVudiIsIGJpbmdPayA/ICJleGFjdCB0b2tlbiBmb3VuZCBpbiBsaXZlIGhlYWQiIDogImV4YWN0IHRva2VuIG5vdCBmb3VuZCBpbiBsaXZlIGhlYWQiKSk7DQogIH0NCg0KICBjb25zdCBwYXNzZWQgPSBjaGVja3MuZmlsdGVyKEJvb2xlYW4pLmxlbmd0aDsNCiAgY29uc3QgZmFpbGVkID0gY2hlY2tzLmxlbmd0aCAtIHBhc3NlZDsNCg0KICBjb25zb2xlLmxvZyhgXG5TdW1tYXJ5OiAke3Bhc3NlZH0vJHtjaGVja3MubGVuZ3RofSBjaGVja3MgcGFzc2VkLCAke2ZhaWxlZH0gZmFpbGVkLmApOw0KDQogIGlmIChmYWlsZWQgPiAwKSB7DQogICAgcHJvY2Vzcy5leGl0Q29kZSA9IDE7DQogIH0NCn0NCg0KbWFpbigpLmNhdGNoKChlcnJvcikgPT4gew0KICBjb25zb2xlLmVycm9yKGVycm9yKTsNCiAgcHJvY2Vzcy5leGl0Q29kZSA9IDE7DQp9KTsNCg=="}
+const https = require("https");
+require("dotenv").config();
+
+const APEX = process.env.SITE_URL || "https://officialchieftoken.com";
+const WWW = process.env.SITE_WWW_URL || "https://www.officialchieftoken.com";
+const GOOGLE_TOKEN = (process.env.GOOGLE_SITE_VERIFICATION || "").trim();
+const BING_TOKEN = (process.env.BING_SITE_VERIFICATION || "").trim();
+
+function request(url) {
+  return new Promise((resolve) => {
+    const req = https.request(url, { method: "GET" }, (res) => {
+      let body = "";
+      res.on("data", (chunk) => {
+        body += chunk.toString("utf8");
+      });
+      res.on("end", () => {
+        resolve({
+          url,
+          status: res.statusCode || 0,
+          headers: res.headers,
+          body
+        });
+      });
+    });
+
+    req.on("error", (error) => {
+      resolve({ url, status: 0, headers: {}, body: "", error: error.message });
+    });
+
+    req.end();
+  });
+}
+
+function pass(ok, name, detail) {
+  const label = ok ? "PASS" : "FAIL";
+  console.log(`[${label}] ${name} :: ${detail}`);
+  return ok;
+}
+
+async function main() {
+  const checks = [];
+
+  const [apexHome, apexRobots, apexSitemap, wwwHome] = await Promise.all([
+    request(`${APEX}/`),
+    request(`${APEX}/robots.txt`),
+    request(`${APEX}/sitemap.xml`),
+    request(`${WWW}/`)
+  ]);
+
+  checks.push(pass(apexHome.status === 200, "Apex homepage status", `status=${apexHome.status}`));
+  checks.push(pass(apexRobots.status === 200, "robots.txt status", `status=${apexRobots.status}`));
+  checks.push(pass(apexSitemap.status === 200, "sitemap.xml status", `status=${apexSitemap.status}`));
+
+  const canonicalOk = apexHome.body.includes('rel="canonical" href="https://officialchieftoken.com/"');
+  checks.push(pass(canonicalOk, "Canonical tag on homepage", canonicalOk ? "apex canonical present" : "apex canonical missing"));
+
+  const ogOk = apexHome.body.includes('property="og:url" content="https://officialchieftoken.com/"');
+  checks.push(pass(ogOk, "OG URL on homepage", ogOk ? "og:url set to apex" : "og:url not set to apex"));
+
+  const isRedirect = [301, 302, 307, 308].includes(wwwHome.status);
+  const location = (wwwHome.headers.location || "").toString();
+  const redirectOk = isRedirect && location.startsWith("https://officialchieftoken.com");
+  checks.push(pass(redirectOk, "www redirects to apex", `status=${wwwHome.status} location=${location || "<none>"}`));
+
+  if (GOOGLE_TOKEN) {
+    const googleTag = `name=\"google-site-verification\" content=\"${GOOGLE_TOKEN}\"`;
+    const googleOk = apexHome.body.includes(googleTag);
+    checks.push(pass(googleOk, "Google verification token matches env", googleOk ? "exact token found in live head" : "exact token not found in live head"));
+  }
+
+  if (BING_TOKEN) {
+    const bingTag = `name=\"msvalidate.01\" content=\"${BING_TOKEN}\"`;
+    const bingOk = apexHome.body.includes(bingTag);
+    checks.push(pass(bingOk, "Bing verification token matches env", bingOk ? "exact token found in live head" : "exact token not found in live head"));
+  }
+
+  const passed = checks.filter(Boolean).length;
+  const failed = checks.length - passed;
+
+  console.log(`\nSummary: ${passed}/${checks.length} checks passed, ${failed} failed.`);
+
+  if (failed > 0) {
+    process.exitCode = 1;
+  }
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

@@ -1,1 +1,28 @@
-{"data":"ZnJvbSBtb3ZpZXB5LmVkaXRvciBpbXBvcnQgKg0KZnJvbSBndHRzIGltcG9ydCBnVFRTDQppbXBvcnQgb3MNCg0KIyA9PT0gQ09ORklHVVJBVElPTiA9PT0NCnNjcmlwdHMgPSBbDQogICAgIkNoaWVmVG9rZW4gaXMgdGhlIGZ1dHVyZSBvZiBkZWNlbnRyYWxpemVkIGNvbW11bml0eSByZXdhcmRzLiBKb2luIHVzIGFuZCBiZSBwYXJ0IG9mIHRoZSBtb3ZlbWVudCEiLA0KICAgICJFYXJuLCB0cmFkZSwgYW5kIHBhcnRpY2lwYXRlIHdpdGggQ2hpZWZUb2tlbi4gWW91ciBnYXRld2F5IHRvIHRoZSBuZXh0IGdlbmVyYXRpb24gb2YgRGVGaS4iLA0KICAgICJDaGllZlRva2VuOiBTZWN1cmUsIHRyYW5zcGFyZW50LCBhbmQgY29tbXVuaXR5LWRyaXZlbi4gR2V0IGludm9sdmVkIHRvZGF5ISINCl0NCmltYWdlX2ZvbGRlciA9ICJjaGllZmNvaW5sb2dvIg0Kb3V0cHV0X2ZvbGRlciA9ICJyZWVscyINCm9zLm1ha2VkaXJzKG91dHB1dF9mb2xkZXIsIGV4aXN0X29rPVRydWUpDQoNCmltYWdlX2ZpbGVzID0gW29zLnBhdGguam9pbihpbWFnZV9mb2xkZXIsIGYpIGZvciBmIGluIG9zLmxpc3RkaXIoaW1hZ2VfZm9sZGVyKSBpZiBmLmxvd2VyKCkuZW5kc3dpdGgoKCcucG5nJywgJy5qcGcnLCAnLmpwZWcnKSldDQoNCmZvciBpZHgsIHNjcmlwdF90ZXh0IGluIGVudW1lcmF0ZShzY3JpcHRzKToNCiAgICBpbWFnZV9wYXRoID0gaW1hZ2VfZmlsZXNbaWR4ICUgbGVuKGltYWdlX2ZpbGVzKV0NCiAgICBvdXRwdXRfdmlkZW8gPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2ZvbGRlciwgZiJjaGllZnRva2VuX3JlZWxfe2lkeCsxfS5tcDQiKQ0KICAgIHR0cyA9IGdUVFModGV4dD1zY3JpcHRfdGV4dCwgbGFuZz0nZW4nKQ0KICAgIHR0cy5zYXZlKCJ2b2ljZW92ZXIubXAzIikNCiAgICBpbWFnZV9jbGlwID0gSW1hZ2VDbGlwKGltYWdlX3BhdGgpLnNldF9kdXJhdGlvbigxMCkucmVzaXplKGhlaWdodD03MjApDQogICAgYXVkaW9fY2xpcCA9IEF1ZGlvRmlsZUNsaXAoInZvaWNlb3Zlci5tcDMiKQ0KICAgIHZpZGVvID0gaW1hZ2VfY2xpcC5zZXRfYXVkaW8oYXVkaW9fY2xpcCkNCiAgICB2aWRlby53cml0ZV92aWRlb2ZpbGUob3V0cHV0X3ZpZGVvLCBmcHM9MjQpDQogICAgcHJpbnQoIlJlZWwgY3JlYXRlZDoiLCBvdXRwdXRfdmlkZW8pDQoNCm9zLnJlbW92ZSgidm9pY2VvdmVyLm1wMyIpDQo="}
+from moviepy.editor import *
+from gtts import gTTS
+import os
+
+# === CONFIGURATION ===
+scripts = [
+    "ChiefToken is the future of decentralized community rewards. Join us and be part of the movement!",
+    "Earn, trade, and participate with ChiefToken. Your gateway to the next generation of DeFi.",
+    "ChiefToken: Secure, transparent, and community-driven. Get involved today!"
+]
+image_folder = "chiefcoinlogo"
+output_folder = "reels"
+os.makedirs(output_folder, exist_ok=True)
+
+image_files = [os.path.join(image_folder, f) for f in os.listdir(image_folder) if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
+
+for idx, script_text in enumerate(scripts):
+    image_path = image_files[idx % len(image_files)]
+    output_video = os.path.join(output_folder, f"chieftoken_reel_{idx+1}.mp4")
+    tts = gTTS(text=script_text, lang='en')
+    tts.save("voiceover.mp3")
+    image_clip = ImageClip(image_path).set_duration(10).resize(height=720)
+    audio_clip = AudioFileClip("voiceover.mp3")
+    video = image_clip.set_audio(audio_clip)
+    video.write_videofile(output_video, fps=24)
+    print("Reel created:", output_video)
+
+os.remove("voiceover.mp3")

@@ -1,1 +1,44 @@
-{"data":"IyA3LURheSBPcmdhbmljIFByb21vdGlvbiBDYWxlbmRhcgoKUHJvZHVjdDogTGF1bmNoIFlvdXIgQUkgQXZhdGFyIEJ1c2luZXNzIGluIDcgRGF5cwpQcmltYXJ5IENUQSBMaW5rOiBodHRwczovL3ZlbnR1cmVsb2NrLmd1bXJvYWQuY29tL2wvZGlkbWxiCgojIyBQb3N0aW5nIFJ1bGVzCi0gS2VlcCBvbmUgQ1RBIGluIGVhY2ggcG9zdDogRW5yb2xsIG5vdy4KLSBQdXQgdGhlIHNhbWUgbGluayBpbiBiaW8gYW5kIGluIHBpbm5lZCBjb21tZW50IHdoZXJlIHBsYXRmb3JtIGFsbG93cy4KLSBVc2Ugb25lIG91dGNvbWUgKyBvbmUgcHJvb2YgKyBvbmUgQ1RBIHN0cnVjdHVyZS4KCiMjIERheSAxIC0gQXV0aG9yaXR5IEhvb2sKLSBTaG9ydCB2aWRlbyBob29rOiBNb3N0IGNyZWF0b3JzIHdhc3RlIG1vbnRocyB0ZXN0aW5nIHJhbmRvbSBBSSB3b3JrZmxvd3MuCi0gQ29yZSB2YWx1ZTogU2hvdyB0aGUgNy1kYXkgbGF1bmNoIG1hcCBpbiAzIGJ1bGxldHMuCi0gQ1RBOiBTdGFydCB3aXRoICQ0MCBTdGFydGVyLgoKIyMgRGF5IDIgLSBQcm9ibGVtL1NvbHV0aW9uCi0gSG9vazogUG9zdGluZyB3aXRob3V0IGEgc3lzdGVtIGtpbGxzIG1vbWVudHVtLgotIENvcmUgdmFsdWU6IEV4cGxhaW4gbmljaGUgLT4gY29udGVudCAtPiBtb25ldGl6YXRpb24gd29ya2Zsb3cuCi0gQ1RBOiBMaW5rIGluIGJpbyBmb3IgaW5zdGFudCBhY2Nlc3MuCgojIyBEYXkgMyAtIE9iamVjdGlvbiBIYW5kbGluZwotIEhvb2s6IERvIEkgbmVlZCBjb2RpbmcgdG8gbGF1bmNoPwotIENvcmUgdmFsdWU6IE5vIGNvZGluZywgdGVtcGxhdGUtZHJpdmVuIHNldHVwLgotIENUQTogQ2hvb3NlICQ0MCBTdGFydGVyIG9yICQxMDAgR3Jvd3RoLgoKIyMgRGF5IDQgLSBQcm9vZiBTbmFwc2hvdAotIEhvb2s6IFRoaXMgaXMgdGhlIGV4YWN0IHdlZWtseSB3b3JrZmxvdy4KLSBDb3JlIHZhbHVlOiBTaGFyZSBjaGVja2xpc3QsIHByb21wdCBwcm9jZXNzLCBwb3N0aW5nIGNhZGVuY2UuCi0gQ1RBOiBFbnJvbGwgdG9kYXksIGV4ZWN1dGUgdG9uaWdodC4KCiMjIERheSA1IC0gT2ZmZXIgQnJlYWtkb3duCi0gSG9vazogUGljayB5b3VyIGxhdW5jaCBzcGVlZC4KLSBDb3JlIHZhbHVlOiAkNDAgU3RhcnRlciAvICQxMDAgR3Jvd3RoIC8gJDIwMCBQcm8gZGlmZmVyZW5jZXMuCi0gQ1RBOiBHcm93dGggdGllciBpcyBiZXN0IGZvciBzcGVlZC4KCiMjIERheSA2IC0gRkFRIFJlZWwKLSBIb29rOiA0IGZhc3QgYW5zd2VycyBiZWZvcmUgeW91IGJ1eS4KLSBDb3JlIHZhbHVlOiBUaW1lIG5lZWRlZCwgdG9vbHMsIGJlZ2lubmVyIGZpdCwgbW9uZXRpemF0aW9uIHBhdGguCi0gQ1RBOiBTdGFydCBub3cgYW5kIGZvbGxvdyB0aGUgNy1kYXkgcGxhbi4KCiMjIERheSA3IC0gRGlyZWN0IFBpdGNoCi0gSG9vazogSWYgeW91IHdhbnQgYSByZWFsIEFJIHJvYWRtYXAsIHRoaXMgaXMgaXQuCi0gQ29yZSB2YWx1ZTogU3VtbWFyaXplIG91dGNvbWVzIGFuZCBpbmNsdWRlZCBhc3NldHMuCi0gQ1RBOiBFbnJvbGwgdmlhIGh0dHBzOi8vdmVudHVyZWxvY2suZ3Vtcm9hZC5jb20vbC9kaWRtbGIK"}
+# 7-Day Organic Promotion Calendar
+
+Product: Launch Your AI Avatar Business in 7 Days
+Primary CTA Link: https://venturelock.gumroad.com/l/didmlb
+
+## Posting Rules
+- Keep one CTA in each post: Enroll now.
+- Put the same link in bio and in pinned comment where platform allows.
+- Use one outcome + one proof + one CTA structure.
+
+## Day 1 - Authority Hook
+- Short video hook: Most creators waste months testing random AI workflows.
+- Core value: Show the 7-day launch map in 3 bullets.
+- CTA: Start with $40 Starter.
+
+## Day 2 - Problem/Solution
+- Hook: Posting without a system kills momentum.
+- Core value: Explain niche -> content -> monetization workflow.
+- CTA: Link in bio for instant access.
+
+## Day 3 - Objection Handling
+- Hook: Do I need coding to launch?
+- Core value: No coding, template-driven setup.
+- CTA: Choose $40 Starter or $100 Growth.
+
+## Day 4 - Proof Snapshot
+- Hook: This is the exact weekly workflow.
+- Core value: Share checklist, prompt process, posting cadence.
+- CTA: Enroll today, execute tonight.
+
+## Day 5 - Offer Breakdown
+- Hook: Pick your launch speed.
+- Core value: $40 Starter / $100 Growth / $200 Pro differences.
+- CTA: Growth tier is best for speed.
+
+## Day 6 - FAQ Reel
+- Hook: 4 fast answers before you buy.
+- Core value: Time needed, tools, beginner fit, monetization path.
+- CTA: Start now and follow the 7-day plan.
+
+## Day 7 - Direct Pitch
+- Hook: If you want a real AI roadmap, this is it.
+- Core value: Summarize outcomes and included assets.
+- CTA: Enroll via https://venturelock.gumroad.com/l/didmlb

@@ -1,1 +1,96 @@
-{"data":"Y29uc3QgeyBzcGF3blN5bmMgfSA9IHJlcXVpcmUoImNoaWxkX3Byb2Nlc3MiKTsNCnJlcXVpcmUoImRvdGVudiIpLmNvbmZpZygpOw0KDQpjb25zdCBzdGVwcyA9IFsiY29uZmlnOmNoZWNrb3V0IiwgInNlbzphcHBseSIsICJsYXVuY2g6cmVhZGluZXNzIl07DQpjb25zdCBucG1FeGVjUGF0aCA9IHByb2Nlc3MuZW52Lm5wbV9leGVjcGF0aDsNCmNvbnN0IHN0cmljdE1vZGUgPSBwcm9jZXNzLmFyZ3YuaW5jbHVkZXMoIi0tc3RyaWN0Iik7DQoNCmZ1bmN0aW9uIGlzVmFsaWRVcmwodXJsKSB7DQogIHJldHVybiAvXmh0dHBzPzpcL1wvL2kudGVzdCgodXJsIHx8ICIiKS50cmltKCkpOw0KfQ0KDQpmdW5jdGlvbiBoYXNWYWx1ZShuYW1lKSB7DQogIHJldHVybiBCb29sZWFuKChwcm9jZXNzLmVudltuYW1lXSB8fCAiIikudHJpbSgpKTsNCn0NCg0KZnVuY3Rpb24gbG9va3NMaWtlUGxhY2Vob2xkZXIodmFsdWUpIHsNCiAgY29uc3Qgbm9ybWFsaXplZCA9ICh2YWx1ZSB8fCAiIikudHJpbSgpLnRvTG93ZXJDYXNlKCk7DQogIGlmICghbm9ybWFsaXplZCkgcmV0dXJuIHRydWU7DQoNCiAgY29uc3QgYmxvY2tlZFBhdHRlcm5zID0gWw0KICAgICJyZXBsYWNlX3dpdGgiLA0KICAgICJyZXBsYWNlLSIsDQogICAgInBlbmRpbmciLA0KICAgICJleGFtcGxlIiwNCiAgICAieW91cl8iLA0KICAgICJ5b3VyLSIsDQogICAgImNoYW5nZW1lIiwNCiAgICAidGVzdF8iLA0KICAgICJkdW1teSIsDQogICAgInBsYWNlaG9sZGVyIg0KICBdOw0KDQogIHJldHVybiBibG9ja2VkUGF0dGVybnMuc29tZSgocCkgPT4gbm9ybWFsaXplZC5pbmNsdWRlcyhwKSk7DQp9DQoNCmZ1bmN0aW9uIHZhbGlkYXRlU3RyaWN0Q29uZmlnKCkgew0KICBjb25zdCBmYWlsdXJlcyA9IFtdOw0KDQogIGNvbnN0IHN0YXJ0ZXIgPSAocHJvY2Vzcy5lbnYuQ0hFQ0tPVVRfU1RBUlRFUl9VUkwgfHwgIiIpLnRyaW0oKTsNCiAgY29uc3Qgc3RhbmRhcmQgPSAocHJvY2Vzcy5lbnYuQ0hFQ0tPVVRfU1RBTkRBUkRfVVJMIHx8ICIiKS50cmltKCk7DQogIGNvbnN0IHBybyA9IChwcm9jZXNzLmVudi5DSEVDS09VVF9QUk9fVVJMIHx8ICIiKS50cmltKCk7DQogIGNvbnN0IGdvb2dsZSA9IChwcm9jZXNzLmVudi5HT09HTEVfU0lURV9WRVJJRklDQVRJT04gfHwgIiIpLnRyaW0oKTsNCiAgY29uc3QgYmluZyA9IChwcm9jZXNzLmVudi5CSU5HX1NJVEVfVkVSSUZJQ0FUSU9OIHx8ICIiKS50cmltKCk7DQoNCiAgaWYgKCFpc1ZhbGlkVXJsKHN0YXJ0ZXIpKSBmYWlsdXJlcy5wdXNoKCJDSEVDS09VVF9TVEFSVEVSX1VSTCBtdXN0IGJlIGEgdmFsaWQgaHR0cChzKSBVUkwiKTsNCiAgaWYgKCFpc1ZhbGlkVXJsKHN0YW5kYXJkKSkgZmFpbHVyZXMucHVzaCgiQ0hFQ0tPVVRfU1RBTkRBUkRfVVJMIG11c3QgYmUgYSB2YWxpZCBodHRwKHMpIFVSTCIpOw0KICBpZiAoIWlzVmFsaWRVcmwocHJvKSkgZmFpbHVyZXMucHVzaCgiQ0hFQ0tPVVRfUFJPX1VSTCBtdXN0IGJlIGEgdmFsaWQgaHR0cChzKSBVUkwiKTsNCiAgaWYgKCFoYXNWYWx1ZSgiR09PR0xFX1NJVEVfVkVSSUZJQ0FUSU9OIikpIGZhaWx1cmVzLnB1c2goIkdPT0dMRV9TSVRFX1ZFUklGSUNBVElPTiBpcyByZXF1aXJlZCIpOw0KICBpZiAoIWhhc1ZhbHVlKCJCSU5HX1NJVEVfVkVSSUZJQ0FUSU9OIikpIGZhaWx1cmVzLnB1c2goIkJJTkdfU0lURV9WRVJJRklDQVRJT04gaXMgcmVxdWlyZWQiKTsNCg0KICBpZiAoZ29vZ2xlLmluY2x1ZGVzKCJSRVBMQUNFX1dJVEgiKSB8fCBiaW5nLmluY2x1ZGVzKCJSRVBMQUNFX1dJVEgiKSkgew0KICAgIGZhaWx1cmVzLnB1c2goIlNFTyB2ZXJpZmljYXRpb24gdG9rZW5zIGNhbm5vdCBjb250YWluIHBsYWNlaG9sZGVyIHZhbHVlcyIpOw0KICB9DQoNCiAgaWYgKGxvb2tzTGlrZVBsYWNlaG9sZGVyKGdvb2dsZSkpIHsNCiAgICBmYWlsdXJlcy5wdXNoKCJHT09HTEVfU0lURV9WRVJJRklDQVRJT04gY2Fubm90IGJlIGEgdGVtcG9yYXJ5IG9yIHBsYWNlaG9sZGVyIHRva2VuIik7DQogIH0NCg0KICBpZiAobG9va3NMaWtlUGxhY2Vob2xkZXIoYmluZykpIHsNCiAgICBmYWlsdXJlcy5wdXNoKCJCSU5HX1NJVEVfVkVSSUZJQ0FUSU9OIGNhbm5vdCBiZSBhIHRlbXBvcmFyeSBvciBwbGFjZWhvbGRlciB0b2tlbiIpOw0KICB9DQoNCiAgaWYgKGZhaWx1cmVzLmxlbmd0aCA+IDApIHsNCiAgICBjb25zb2xlLmVycm9yKCJcblN0cmljdCByZWxlYXNlIHZhbGlkYXRpb24gZmFpbGVkOiIpOw0KICAgIGZvciAoY29uc3QgZmFpbHVyZSBvZiBmYWlsdXJlcykgew0KICAgICAgY29uc29sZS5lcnJvcihgLSAke2ZhaWx1cmV9YCk7DQogICAgfQ0KICAgIHByb2Nlc3MuZXhpdCgxKTsNCiAgfQ0KDQogIGNvbnNvbGUubG9nKCJcblN0cmljdCByZWxlYXNlIHZhbGlkYXRpb24gcGFzc2VkLiIpOw0KfQ0KDQppZiAoIW5wbUV4ZWNQYXRoKSB7DQogIGNvbnNvbGUuZXJyb3IoIm5wbV9leGVjcGF0aCBpcyB1bmF2YWlsYWJsZTsgcnVuIHRoaXMgc2NyaXB0IHRocm91Z2ggbnBtLiIpOw0KICBwcm9jZXNzLmV4aXQoMSk7DQp9DQoNCmlmIChzdHJpY3RNb2RlKSB7DQogIHZhbGlkYXRlU3RyaWN0Q29uZmlnKCk7DQp9DQoNCmZvciAoY29uc3Qgc3RlcCBvZiBzdGVwcykgew0KICBjb25zb2xlLmxvZyhgXG5SdW5uaW5nIHN0ZXA6ICR7c3RlcH1gKTsNCiAgY29uc3QgcmVzdWx0ID0gc3Bhd25TeW5jKHByb2Nlc3MuZXhlY1BhdGgsIFtucG1FeGVjUGF0aCwgInJ1biIsIHN0ZXBdLCB7DQogICAgc3RkaW86ICJpbmhlcml0IiwNCiAgICBzaGVsbDogZmFsc2UNCiAgfSk7DQoNCiAgaWYgKHJlc3VsdC5zdGF0dXMgIT09IDApIHsNCiAgICBjb25zb2xlLmVycm9yKGBcblN0ZXAgZmFpbGVkOiAke3N0ZXB9YCk7DQogICAgcHJvY2Vzcy5leGl0KHJlc3VsdC5zdGF0dXMgfHwgMSk7DQogIH0NCn0NCg0KY29uc29sZS5sb2coYFxuUmVsZWFzZSBwcmVwIGNvbXBsZXRlZCBzdWNjZXNzZnVsbHkke3N0cmljdE1vZGUgPyAiIChzdHJpY3QgbW9kZSkiIDogIiJ9LmApOw0K"}
+const { spawnSync } = require("child_process");
+require("dotenv").config();
+
+const steps = ["config:checkout", "seo:apply", "launch:readiness"];
+const npmExecPath = process.env.npm_execpath;
+const strictMode = process.argv.includes("--strict");
+
+function isValidUrl(url) {
+  return /^https?:\/\//i.test((url || "").trim());
+}
+
+function hasValue(name) {
+  return Boolean((process.env[name] || "").trim());
+}
+
+function looksLikePlaceholder(value) {
+  const normalized = (value || "").trim().toLowerCase();
+  if (!normalized) return true;
+
+  const blockedPatterns = [
+    "replace_with",
+    "replace-",
+    "pending",
+    "example",
+    "your_",
+    "your-",
+    "changeme",
+    "test_",
+    "dummy",
+    "placeholder"
+  ];
+
+  return blockedPatterns.some((p) => normalized.includes(p));
+}
+
+function validateStrictConfig() {
+  const failures = [];
+
+  const starter = (process.env.CHECKOUT_STARTER_URL || "").trim();
+  const standard = (process.env.CHECKOUT_STANDARD_URL || "").trim();
+  const pro = (process.env.CHECKOUT_PRO_URL || "").trim();
+  const google = (process.env.GOOGLE_SITE_VERIFICATION || "").trim();
+  const bing = (process.env.BING_SITE_VERIFICATION || "").trim();
+
+  if (!isValidUrl(starter)) failures.push("CHECKOUT_STARTER_URL must be a valid http(s) URL");
+  if (!isValidUrl(standard)) failures.push("CHECKOUT_STANDARD_URL must be a valid http(s) URL");
+  if (!isValidUrl(pro)) failures.push("CHECKOUT_PRO_URL must be a valid http(s) URL");
+  if (!hasValue("GOOGLE_SITE_VERIFICATION")) failures.push("GOOGLE_SITE_VERIFICATION is required");
+  if (!hasValue("BING_SITE_VERIFICATION")) failures.push("BING_SITE_VERIFICATION is required");
+
+  if (google.includes("REPLACE_WITH") || bing.includes("REPLACE_WITH")) {
+    failures.push("SEO verification tokens cannot contain placeholder values");
+  }
+
+  if (looksLikePlaceholder(google)) {
+    failures.push("GOOGLE_SITE_VERIFICATION cannot be a temporary or placeholder token");
+  }
+
+  if (looksLikePlaceholder(bing)) {
+    failures.push("BING_SITE_VERIFICATION cannot be a temporary or placeholder token");
+  }
+
+  if (failures.length > 0) {
+    console.error("\nStrict release validation failed:");
+    for (const failure of failures) {
+      console.error(`- ${failure}`);
+    }
+    process.exit(1);
+  }
+
+  console.log("\nStrict release validation passed.");
+}
+
+if (!npmExecPath) {
+  console.error("npm_execpath is unavailable; run this script through npm.");
+  process.exit(1);
+}
+
+if (strictMode) {
+  validateStrictConfig();
+}
+
+for (const step of steps) {
+  console.log(`\nRunning step: ${step}`);
+  const result = spawnSync(process.execPath, [npmExecPath, "run", step], {
+    stdio: "inherit",
+    shell: false
+  });
+
+  if (result.status !== 0) {
+    console.error(`\nStep failed: ${step}`);
+    process.exit(result.status || 1);
+  }
+}
+
+console.log(`\nRelease prep completed successfully${strictMode ? " (strict mode)" : ""}.`);

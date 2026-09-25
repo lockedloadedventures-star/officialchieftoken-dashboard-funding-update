@@ -1,1 +1,82 @@
-{"data":"Y29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOw0KY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsNCg0KY29uc3Qgcm9vdCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuLiIpOw0KDQpmdW5jdGlvbiByZWFkSnNvbihyZWxQYXRoKSB7DQogIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4ocm9vdCwgcmVsUGF0aCk7DQogIHJldHVybiBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhmdWxsLCAidXRmOCIpKTsNCn0NCg0KZnVuY3Rpb24gcmVhZFRleHQocmVsUGF0aCkgew0KICBjb25zdCBmdWxsID0gcGF0aC5qb2luKHJvb3QsIHJlbFBhdGgpOw0KICByZXR1cm4gZnMucmVhZEZpbGVTeW5jKGZ1bGwsICJ1dGY4Iik7DQp9DQoNCmZ1bmN0aW9uIGlzSHR0cFVybCh2YWx1ZSkgew0KICByZXR1cm4gdHlwZW9mIHZhbHVlID09PSAic3RyaW5nIiAmJiAvXmh0dHBzPzpcL1wvL2kudGVzdCh2YWx1ZS50cmltKCkpOw0KfQ0KDQpmdW5jdGlvbiBtYWluKCkgew0KICBjb25zdCBwcm9maWxlID0gcmVhZEpzb24oImxpc3RpbmcvdG9rZW4tcHJvZmlsZS5qc29uIik7DQogIGNvbnN0IGZhaWx1cmVzID0gW107DQogIGNvbnN0IHdhcm5pbmdzID0gW107DQoNCiAgaWYgKCFwcm9maWxlLnByb2plY3RfbmFtZSkgZmFpbHVyZXMucHVzaCgicHJvamVjdF9uYW1lIGlzIHJlcXVpcmVkIik7DQogIGlmICghcHJvZmlsZS5zeW1ib2wpIGZhaWx1cmVzLnB1c2goInN5bWJvbCBpcyByZXF1aXJlZCIpOw0KICBpZiAodHlwZW9mIHByb2ZpbGUuZGVjaW1hbHMgIT09ICJudW1iZXIiKSBmYWlsdXJlcy5wdXNoKCJkZWNpbWFscyBtdXN0IGJlIGEgbnVtYmVyIik7DQogIGlmICghaXNIdHRwVXJsKHByb2ZpbGUub2ZmaWNpYWxfd2Vic2l0ZSkpIGZhaWx1cmVzLnB1c2goIm9mZmljaWFsX3dlYnNpdGUgbXVzdCBiZSBhIHZhbGlkIGh0dHAocykgVVJMIik7DQogIGlmICghaXNIdHRwVXJsKHByb2ZpbGUud2hpdGVwYXBlcl91cmwpKSB3YXJuaW5ncy5wdXNoKCJ3aGl0ZXBhcGVyX3VybCBpcyBtaXNzaW5nIG9yIG5vdCBhIFVSTCIpOw0KICBpZiAoIWlzSHR0cFVybChwcm9maWxlLnR3aXR0ZXIpKSB3YXJuaW5ncy5wdXNoKCJ0d2l0dGVyIGlzIG1pc3Npbmcgb3Igbm90IGEgVVJMIik7DQogIGlmICghaXNIdHRwVXJsKHByb2ZpbGUudGVsZWdyYW0pKSB3YXJuaW5ncy5wdXNoKCJ0ZWxlZ3JhbSBpcyBtaXNzaW5nIG9yIG5vdCBhIFVSTCIpOw0KICBpZiAoIWlzSHR0cFVybChwcm9maWxlLmRpc2NvcmQpKSB3YXJuaW5ncy5wdXNoKCJkaXNjb3JkIGlzIG1pc3Npbmcgb3Igbm90IGEgVVJMIik7DQogIGlmICghcHJvZmlsZS5jb250cmFjdHMgfHwgIXByb2ZpbGUuY29udHJhY3RzLmJhc2VfbWFpbm5ldCkgZmFpbHVyZXMucHVzaCgiY29udHJhY3RzLmJhc2VfbWFpbm5ldCBpcyByZXF1aXJlZCIpOw0KICBpZiAoIXByb2ZpbGUuZXhwbG9yZXJzIHx8ICFpc0h0dHBVcmwocHJvZmlsZS5leHBsb3JlcnMuYmFzZV9tYWlubmV0KSkgZmFpbHVyZXMucHVzaCgiZXhwbG9yZXJzLmJhc2VfbWFpbm5ldCBtdXN0IGJlIGEgdmFsaWQgVVJMIik7DQoNCiAgY29uc3QgcGFpciA9IHByb2ZpbGUubWFya2V0X3BhaXJzICYmIHByb2ZpbGUubWFya2V0X3BhaXJzWzBdOw0KICBpZiAoIXBhaXIpIHsNCiAgICBmYWlsdXJlcy5wdXNoKCJBdCBsZWFzdCBvbmUgbWFya2V0X3BhaXJzIGVudHJ5IGlzIHJlcXVpcmVkIik7DQogIH0gZWxzZSB7DQogICAgaWYgKCFwYWlyLnBhaXJfYWRkcmVzcykgZmFpbHVyZXMucHVzaCgibWFya2V0X3BhaXJzWzBdLnBhaXJfYWRkcmVzcyBpcyByZXF1aXJlZCIpOw0KICAgIGlmICghaXNIdHRwVXJsKHBhaXIudW5pc3dhcF91cmwpKSB3YXJuaW5ncy5wdXNoKCJtYXJrZXRfcGFpcnNbMF0udW5pc3dhcF91cmwgaXMgbWlzc2luZyBvciBub3QgYSBVUkwiKTsNCiAgICBpZiAoIWlzSHR0cFVybChwYWlyLmV4cGxvcmVyKSkgd2FybmluZ3MucHVzaCgibWFya2V0X3BhaXJzWzBdLmV4cGxvcmVyIGlzIG1pc3Npbmcgb3Igbm90IGEgVVJMIik7DQogIH0NCg0KICBjb25zdCBwbGFjZWhvbGRlclBhdHRlcm4gPSAvKFJFUExBQ0VfV0lUSHxZT1VSX3xZT1VSLXxcK1JFUExBQ0VfV0lUSHxkaXNjb3JkXC5nZ1wvUkVQTEFDRXxcW2ZpbGxcXSkvaTsNCiAgY29uc3QgZHJhZnRGaWxlcyA9IFsNCiAgICAibGlzdGluZy9jb2luYmFzZS1hc3NldC1odWItZHJhZnQubWQiLA0KICAgICJsaXN0aW5nL2NvaW5nZWNrby1zdWJtaXNzaW9uLWRyYWZ0Lm1kIiwNCiAgICAibGlzdGluZy9jb2lubWFya2V0Y2FwLXN1Ym1pc3Npb24tZHJhZnQubWQiDQogIF07DQoNCiAgZm9yIChjb25zdCBmaWxlIG9mIGRyYWZ0RmlsZXMpIHsNCiAgICBjb25zdCB0ZXh0ID0gcmVhZFRleHQoZmlsZSk7DQogICAgaWYgKHBsYWNlaG9sZGVyUGF0dGVybi50ZXN0KHRleHQpKSB7DQogICAgICB3YXJuaW5ncy5wdXNoKGAke2ZpbGV9IHN0aWxsIGNvbnRhaW5zIG1hbnVhbCBwbGFjZWhvbGRlcnNgKTsNCiAgICB9DQogIH0NCg0KICBjb25zb2xlLmxvZygiXG5DSElFRiBMaXN0aW5nIFZhbGlkYXRpb25cbiIpOw0KDQogIGlmIChmYWlsdXJlcy5sZW5ndGggPT09IDApIHsNCiAgICBjb25zb2xlLmxvZygiW1BBU1NdIFJlcXVpcmVkIGxpc3RpbmcgbWV0YWRhdGEgaXMgdmFsaWQuIik7DQogIH0gZWxzZSB7DQogICAgY29uc29sZS5sb2coIltGQUlMXSBSZXF1aXJlZCBsaXN0aW5nIG1ldGFkYXRhIGhhcyBlcnJvcnM6Iik7DQogICAgZm9yIChjb25zdCBmYWlsdXJlIG9mIGZhaWx1cmVzKSB7DQogICAgICBjb25zb2xlLmxvZyhgLSAke2ZhaWx1cmV9YCk7DQogICAgfQ0KICB9DQoNCiAgaWYgKHdhcm5pbmdzLmxlbmd0aCA+IDApIHsNCiAgICBjb25zb2xlLmxvZygiXG5XYXJuaW5nczoiKTsNCiAgICBmb3IgKGNvbnN0IHdhcm5pbmcgb2Ygd2FybmluZ3MpIHsNCiAgICAgIGNvbnNvbGUubG9nKGAtICR7d2FybmluZ31gKTsNCiAgICB9DQogIH0NCg0KICBpZiAoZmFpbHVyZXMubGVuZ3RoID4gMCkgew0KICAgIHByb2Nlc3MuZXhpdENvZGUgPSAxOw0KICB9DQp9DQoNCm1haW4oKTsNCg=="}
+const fs = require("fs");
+const path = require("path");
+
+const root = path.resolve(__dirname, "..");
+
+function readJson(relPath) {
+  const full = path.join(root, relPath);
+  return JSON.parse(fs.readFileSync(full, "utf8"));
+}
+
+function readText(relPath) {
+  const full = path.join(root, relPath);
+  return fs.readFileSync(full, "utf8");
+}
+
+function isHttpUrl(value) {
+  return typeof value === "string" && /^https?:\/\//i.test(value.trim());
+}
+
+function main() {
+  const profile = readJson("listing/token-profile.json");
+  const failures = [];
+  const warnings = [];
+
+  if (!profile.project_name) failures.push("project_name is required");
+  if (!profile.symbol) failures.push("symbol is required");
+  if (typeof profile.decimals !== "number") failures.push("decimals must be a number");
+  if (!isHttpUrl(profile.official_website)) failures.push("official_website must be a valid http(s) URL");
+  if (!isHttpUrl(profile.whitepaper_url)) warnings.push("whitepaper_url is missing or not a URL");
+  if (!isHttpUrl(profile.twitter)) warnings.push("twitter is missing or not a URL");
+  if (!isHttpUrl(profile.telegram)) warnings.push("telegram is missing or not a URL");
+  if (!isHttpUrl(profile.discord)) warnings.push("discord is missing or not a URL");
+  if (!profile.contracts || !profile.contracts.base_mainnet) failures.push("contracts.base_mainnet is required");
+  if (!profile.explorers || !isHttpUrl(profile.explorers.base_mainnet)) failures.push("explorers.base_mainnet must be a valid URL");
+
+  const pair = profile.market_pairs && profile.market_pairs[0];
+  if (!pair) {
+    failures.push("At least one market_pairs entry is required");
+  } else {
+    if (!pair.pair_address) failures.push("market_pairs[0].pair_address is required");
+    if (!isHttpUrl(pair.uniswap_url)) warnings.push("market_pairs[0].uniswap_url is missing or not a URL");
+    if (!isHttpUrl(pair.explorer)) warnings.push("market_pairs[0].explorer is missing or not a URL");
+  }
+
+  const placeholderPattern = /(REPLACE_WITH|YOUR_|YOUR-|\+REPLACE_WITH|discord\.gg\/REPLACE|\[fill\])/i;
+  const draftFiles = [
+    "listing/coinbase-asset-hub-draft.md",
+    "listing/coingecko-submission-draft.md",
+    "listing/coinmarketcap-submission-draft.md"
+  ];
+
+  for (const file of draftFiles) {
+    const text = readText(file);
+    if (placeholderPattern.test(text)) {
+      warnings.push(`${file} still contains manual placeholders`);
+    }
+  }
+
+  console.log("\nCHIEF Listing Validation\n");
+
+  if (failures.length === 0) {
+    console.log("[PASS] Required listing metadata is valid.");
+  } else {
+    console.log("[FAIL] Required listing metadata has errors:");
+    for (const failure of failures) {
+      console.log(`- ${failure}`);
+    }
+  }
+
+  if (warnings.length > 0) {
+    console.log("\nWarnings:");
+    for (const warning of warnings) {
+      console.log(`- ${warning}`);
+    }
+  }
+
+  if (failures.length > 0) {
+    process.exitCode = 1;
+  }
+}
+
+main();

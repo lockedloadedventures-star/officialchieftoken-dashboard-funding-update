@@ -1,1 +1,210 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCB7IGV0aGVycyB9ID0gcmVxdWlyZSgiZXRoZXJzIik7DQoNCi8vIEJhc2UgbWFpbm5ldCBhZGRyZXNzZXMNCmNvbnN0IENISUVGX0FERFJFU1MgICAgID0gIjB4Mzg5NmM5YmQ4MDJBNTZjMjg1OTBFRjFFMDNBN2RlNjQ1YzcwMzc1NyI7DQpjb25zdCBXRVRIX0FERFJFU1MgICAgICA9ICIweDQyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDYiOw0KY29uc3QgRkFDVE9SWV9BRERSRVNTICAgPSAiMHgzMzEyOGE4ZkMxNzg2OTg5N2RjRTY4RWQwMjZkNjk0NjIxZjZGRGZEIjsgLy8gVW5pc3dhcCBWMyBmYWN0b3J5IG9uIEJhc2UNCmNvbnN0IFBPU19NR1JfQUREUkVTUyAgID0gIjB4MDNhNTIwYjMyQzA0QkYzYkVFZjdCRWI3MkU5MTljZjgyMkVkMzRmMSI7IC8vIE5vbmZ1bmdpYmxlUG9zaXRpb25NYW5hZ2VyIG9uIEJhc2UNCg0KY29uc3QgRkVFID0gMzAwMDsgICAgICAgIC8vIDAuMyUgZmVlIHRpZXINCmNvbnN0IFRJQ0tfU1BBQ0lORyA9IDYwOyAvLyB0aWNrIHNwYWNpbmcgZm9yIDAuMyUNCg0KLy8gMSBFVEggPSAxLDAwMCwwMDAgQ0hJRUYgIOKGkiAgcHJpY2UgQ0hJRUYvV0VUSCA9IDAuMDAwMDAxDQovLyB0b2tlbjAgPSBDSElFRiAobG93ZXIgYWRkcmVzcyksIHRva2VuMSA9IFdFVEgNCi8vIHNxcnRQcmljZVg5NiA9IHNxcnQoMC4wMDAwMDEpICogMl45Ng0KZnVuY3Rpb24gY29tcHV0ZVNxcnRQcmljZVg5NigpIHsNCiAgY29uc3QgUTk2ID0gMm4gKiogOTZuOw0KICAvLyBzcXJ0KDFlLTYpID0gMWUtMzsgcmVwcmVzZW50IGFzIHJhdGlvbmFsOiBudW1lcmF0b3I9MSwgZGVub21pbmF0b3I9MTAwMA0KICAvLyBzcXJ0UHJpY2VYOTYgPSBROTYgLyAxMDAwDQogIHJldHVybiBROTYgLyAxMDAwbjsNCn0NCg0KZnVuY3Rpb24gbmVhcmVzdFVzYWJsZVRpY2sodGljaywgc3BhY2luZykgew0KICAvLyBBbHdheXMgcm91bmQgdG93YXJkcyB6ZXJvIHNvIHdlIHN0YXkgd2l0aGluIHZhbGlkIHJhbmdlDQogIGNvbnN0IHJvdW5kZWQgPSBNYXRoLnRydW5jKHRpY2sgLyBzcGFjaW5nKSAqIHNwYWNpbmc7DQogIHJldHVybiByb3VuZGVkOw0KfQ0KDQovLyBIZWxwZXI6IHNlbmQgYSByYXcgY2FsbCB1c2luZyBldGhfY2FsbA0KYXN5bmMgZnVuY3Rpb24gZXRoQ2FsbChwcm92aWRlciwgdG8sIGlmYWNlLCBmbiwgYXJncykgew0KICBjb25zdCBkYXRhID0gaWZhY2UuZW5jb2RlRnVuY3Rpb25EYXRhKGZuLCBhcmdzKTsNCiAgY29uc3QgcmVzdWx0ID0gYXdhaXQgcHJvdmlkZXIuc2VuZCgiZXRoX2NhbGwiLCBbeyB0bywgZGF0YSB9LCAibGF0ZXN0Il0pOw0KICByZXR1cm4gaWZhY2UuZGVjb2RlRnVuY3Rpb25SZXN1bHQoZm4sIHJlc3VsdCk7DQp9DQoNCi8vIEhlbHBlcjogc2VuZCBhIHNpZ25lZCB0eA0KYXN5bmMgZnVuY3Rpb24gc2VuZFR4KHNpZ25lciwgcHJvdmlkZXIsIHRvLCBpZmFjZSwgZm4sIGFyZ3MsIHZhbHVlID0gMG4pIHsNCiAgY29uc3QgZGF0YSA9IGlmYWNlLmVuY29kZUZ1bmN0aW9uRGF0YShmbiwgYXJncyk7DQogIGNvbnN0IG5vbmNlID0gYXdhaXQgcHJvdmlkZXIuc2VuZCgiZXRoX2dldFRyYW5zYWN0aW9uQ291bnQiLCBbYXdhaXQgc2lnbmVyLmdldEFkZHJlc3MoKSwgInBlbmRpbmciXSk7DQogIGNvbnN0IGZlZURhdGEgPSBhd2FpdCBwcm92aWRlci5nZXRGZWVEYXRhKCk7DQogIGNvbnN0IGNoYWluSWQgPSAoYXdhaXQgcHJvdmlkZXIuZ2V0TmV0d29yaygpKS5jaGFpbklkOw0KDQogIGNvbnN0IHR4ID0gew0KICAgIHRvLA0KICAgIGRhdGEsDQogICAgdmFsdWUsDQogICAgbm9uY2U6IHBhcnNlSW50KG5vbmNlLCAxNiksDQogICAgZ2FzTGltaXQ6IDgwMDAwMG4sDQogICAgbWF4RmVlUGVyR2FzOiBmZWVEYXRhLm1heEZlZVBlckdhcywNCiAgICBtYXhQcmlvcml0eUZlZVBlckdhczogZmVlRGF0YS5tYXhQcmlvcml0eUZlZVBlckdhcywNCiAgICBjaGFpbklkDQogIH07DQoNCiAgY29uc3Qgc2lnbmVkID0gYXdhaXQgc2lnbmVyLnNpZ25UcmFuc2FjdGlvbih0eCk7DQogIGNvbnN0IHR4SGFzaCA9IGF3YWl0IHByb3ZpZGVyLnNlbmQoImV0aF9zZW5kUmF3VHJhbnNhY3Rpb24iLCBbc2lnbmVkXSk7DQogIGNvbnNvbGUubG9nKCIgIHR4IHNlbnQ6IiwgdHhIYXNoKTsNCg0KICAvLyBwb2xsIGZvciByZWNlaXB0DQogIGZvciAobGV0IGkgPSAwOyBpIDwgNjA7IGkrKykgew0KICAgIGF3YWl0IG5ldyBQcm9taXNlKHIgPT4gc2V0VGltZW91dChyLCAzMDAwKSk7DQogICAgY29uc3QgcmVjZWlwdCA9IGF3YWl0IHByb3ZpZGVyLnNlbmQoImV0aF9nZXRUcmFuc2FjdGlvblJlY2VpcHQiLCBbdHhIYXNoXSk7DQogICAgaWYgKHJlY2VpcHQpIHsNCiAgICAgIGlmIChwYXJzZUludChyZWNlaXB0LnN0YXR1cywgMTYpID09PSAwKSB7DQogICAgICAgIC8vIFRyeSB0byBnZXQgcmV2ZXJ0IHJlYXNvbg0KICAgICAgICB0cnkgew0KICAgICAgICAgIGNvbnN0IHNpbVJlc3VsdCA9IGF3YWl0IHByb3ZpZGVyLnNlbmQoImV0aF9jYWxsIiwgW3sgdG8sIGRhdGEsIHZhbHVlOiAnMHgnICsgdmFsdWUudG9TdHJpbmcoMTYpIH0sICdsYXRlc3QnXSk7DQogICAgICAgICAgY29uc29sZS5lcnJvcigiZXRoX2NhbGwgcmVzdWx0OiIsIHNpbVJlc3VsdCk7DQogICAgICAgIH0gY2F0Y2ggKHNpbUVycikgew0KICAgICAgICAgIGNvbnNvbGUuZXJyb3IoIlJldmVydCByZWFzb246Iiwgc2ltRXJyLm1lc3NhZ2UpOw0KICAgICAgICB9DQogICAgICAgIHRocm93IG5ldyBFcnJvcigiVHJhbnNhY3Rpb24gcmV2ZXJ0ZWQ6ICIgKyB0eEhhc2gpOw0KICAgICAgfQ0KICAgICAgcmV0dXJuIHsgdHhIYXNoLCByZWNlaXB0IH07DQogICAgfQ0KICB9DQogIHRocm93IG5ldyBFcnJvcigiVGltZWQgb3V0IHdhaXRpbmcgZm9yIHJlY2VpcHQ6ICIgKyB0eEhhc2gpOw0KfQ0KDQphc3luYyBmdW5jdGlvbiBtYWluKCkgew0KICBjb25zdCBycGMgPSBwcm9jZXNzLmVudi5CQVNFX01BSU5ORVRfUlBDX1VSTCB8fCAiaHR0cHM6Ly9iYXNlLXJwYy5wdWJsaWNub2RlLmNvbSI7DQogIC8vIFVzZSBhIG5ldHdvcmsgb2JqZWN0IHdpdGhvdXQgRU5TIHRvIHByZXZlbnQgRU5TIHJlc29sdXRpb24gb24gQmFzZQ0KICBjb25zdCBuZXR3b3JrID0gZXRoZXJzLk5ldHdvcmsuZnJvbSh7IGNoYWluSWQ6IDg0NTMsIG5hbWU6ICJiYXNlIiB9KTsNCiAgY29uc3QgcHJvdmlkZXIgPSBuZXcgZXRoZXJzLkpzb25ScGNQcm92aWRlcihycGMsIG5ldHdvcmssIHsgc3RhdGljTmV0d29yazogbmV0d29yayB9KTsNCiAgY29uc3Qgc2lnbmVyID0gbmV3IGV0aGVycy5XYWxsZXQocHJvY2Vzcy5lbnYuUFJJVkFURV9LRVksIHByb3ZpZGVyKTsNCiAgY29uc3Qgc2lnbmVyQWRkciA9IHNpZ25lci5hZGRyZXNzOw0KDQogIGNvbnN0IHJhd0JhbCA9IGF3YWl0IHByb3ZpZGVyLnNlbmQoImV0aF9nZXRCYWxhbmNlIiwgW3NpZ25lckFkZHIsICJsYXRlc3QiXSk7DQogIGNvbnNvbGUubG9nKCJTaWduZXI6Iiwgc2lnbmVyQWRkcik7DQogIGNvbnNvbGUubG9nKCJFVEggYmFsYW5jZToiLCBldGhlcnMuZm9ybWF0RXRoZXIoQmlnSW50KHJhd0JhbCkpKTsNCg0KICAvLyBEZXRlcm1pbmUgdG9rZW4gb3JkZXINCiAgY29uc3QgdG9rZW4wID0gQ0hJRUZfQUREUkVTUy50b0xvd2VyQ2FzZSgpIDwgV0VUSF9BRERSRVNTLnRvTG93ZXJDYXNlKCkgPyBDSElFRl9BRERSRVNTIDogV0VUSF9BRERSRVNTOw0KICBjb25zdCB0b2tlbjEgPSB0b2tlbjAgPT09IENISUVGX0FERFJFU1MgPyBXRVRIX0FERFJFU1MgOiBDSElFRl9BRERSRVNTOw0KICBjb25zb2xlLmxvZygidG9rZW4wOiIsIHRva2VuMCk7DQogIGNvbnNvbGUubG9nKCJ0b2tlbjE6IiwgdG9rZW4xKTsNCg0KICBjb25zdCBzcXJ0UHJpY2VYOTYgPSBjb21wdXRlU3FydFByaWNlWDk2KCk7DQogIGNvbnNvbGUubG9nKCJzcXJ0UHJpY2VYOTY6Iiwgc3FydFByaWNlWDk2LnRvU3RyaW5nKCkpOw0KDQogIC8vIC0tLSBJbnRlcmZhY2VzIC0tLQ0KICBjb25zdCBmYWN0b3J5SWZhY2UgPSBuZXcgZXRoZXJzLkludGVyZmFjZShbDQogICAgImZ1bmN0aW9uIGdldFBvb2woYWRkcmVzcyB0b2tlbkEsIGFkZHJlc3MgdG9rZW5CLCB1aW50MjQgZmVlKSB2aWV3IHJldHVybnMgKGFkZHJlc3MpIiwNCiAgICAiZnVuY3Rpb24gY3JlYXRlUG9vbChhZGRyZXNzIHRva2VuQSwgYWRkcmVzcyB0b2tlbkIsIHVpbnQyNCBmZWUpIHJldHVybnMgKGFkZHJlc3MpIg0KICBdKTsNCiAgY29uc3QgcG9vbElmYWNlID0gbmV3IGV0aGVycy5JbnRlcmZhY2UoWw0KICAgICJmdW5jdGlvbiBpbml0aWFsaXplKHVpbnQxNjAgc3FydFByaWNlWDk2KSIsDQogICAgImZ1bmN0aW9uIHNsb3QwKCkgdmlldyByZXR1cm5zICh1aW50MTYwIHNxcnRQcmljZVg5NiwgaW50MjQgdGljaywgdWludDE2IG9ic2VydmF0aW9uSW5kZXgsIHVpbnQxNiBvYnNlcnZhdGlvbkNhcmRpbmFsaXR5LCB1aW50MTYgb2JzZXJ2YXRpb25DYXJkaW5hbGl0eU5leHQsIHVpbnQ4IGZlZVByb3RvY29sLCBib29sIHVubG9ja2VkKSINCiAgXSk7DQogIGNvbnN0IGVyYzIwSWZhY2UgPSBuZXcgZXRoZXJzLkludGVyZmFjZShbDQogICAgImZ1bmN0aW9uIGFwcHJvdmUoYWRkcmVzcyBzcGVuZGVyLCB1aW50MjU2IGFtb3VudCkgcmV0dXJucyAoYm9vbCkiLA0KICAgICJmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcyBvd25lcikgdmlldyByZXR1cm5zICh1aW50MjU2KSINCiAgXSk7DQogIGNvbnN0IHBvc01ncklmYWNlID0gbmV3IGV0aGVycy5JbnRlcmZhY2UoWw0KICAgICJmdW5jdGlvbiBtaW50KHR1cGxlKGFkZHJlc3MgdG9rZW4wLCBhZGRyZXNzIHRva2VuMSwgdWludDI0IGZlZSwgaW50MjQgdGlja0xvd2VyLCBpbnQyNCB0aWNrVXBwZXIsIHVpbnQyNTYgYW1vdW50MERlc2lyZWQsIHVpbnQyNTYgYW1vdW50MURlc2lyZWQsIHVpbnQyNTYgYW1vdW50ME1pbiwgdWludDI1NiBhbW91bnQxTWluLCBhZGRyZXNzIHJlY2lwaWVudCwgdWludDI1NiBkZWFkbGluZSkgcGFyYW1zKSBwYXlhYmxlIHJldHVybnMgKHVpbnQyNTYgdG9rZW5JZCwgdWludDEyOCBsaXF1aWRpdHksIHVpbnQyNTYgYW1vdW50MCwgdWludDI1NiBhbW91bnQxKSINCiAgXSk7DQoNCiAgLy8gU3RlcCAxOiBHZXQgb3IgY3JlYXRlIHBvb2wNCiAgbGV0IFtwb29sQWRkcl0gPSBhd2FpdCBldGhDYWxsKHByb3ZpZGVyLCBGQUNUT1JZX0FERFJFU1MsIGZhY3RvcnlJZmFjZSwgImdldFBvb2wiLCBbdG9rZW4wLCB0b2tlbjEsIEZFRV0pOw0KICBpZiAocG9vbEFkZHIgPT09IGV0aGVycy5aZXJvQWRkcmVzcykgew0KICAgIGNvbnNvbGUubG9nKCJDcmVhdGluZyBVbmlzd2FwIFYzIHBvb2wuLi4iKTsNCiAgICBhd2FpdCBzZW5kVHgoc2lnbmVyLCBwcm92aWRlciwgRkFDVE9SWV9BRERSRVNTLCBmYWN0b3J5SWZhY2UsICJjcmVhdGVQb29sIiwgW3Rva2VuMCwgdG9rZW4xLCBGRUVdKTsNCiAgICBbcG9vbEFkZHJdID0gYXdhaXQgZXRoQ2FsbChwcm92aWRlciwgRkFDVE9SWV9BRERSRVNTLCBmYWN0b3J5SWZhY2UsICJnZXRQb29sIiwgW3Rva2VuMCwgdG9rZW4xLCBGRUVdKTsNCiAgICBjb25zb2xlLmxvZygiUG9vbCBjcmVhdGVkOiIsIHBvb2xBZGRyKTsNCiAgfSBlbHNlIHsNCiAgICBjb25zb2xlLmxvZygiUG9vbCBhbHJlYWR5IGV4aXN0czoiLCBwb29sQWRkcik7DQogIH0NCg0KICAvLyBTdGVwIDI6IEluaXRpYWxpemUgcG9vbCBwcmljZSBpZiBuZWVkZWQNCiAgY29uc3Qgc2xvdDBSZXN1bHQgPSBhd2FpdCBldGhDYWxsKHByb3ZpZGVyLCBwb29sQWRkciwgcG9vbElmYWNlLCAic2xvdDAiLCBbXSk7DQogIGNvbnN0IGN1cnJlbnRTcXJ0UHJpY2UgPSBzbG90MFJlc3VsdFswXTsNCiAgaWYgKGN1cnJlbnRTcXJ0UHJpY2UgPT09IDBuKSB7DQogICAgY29uc29sZS5sb2coIkluaXRpYWxpemluZyBwb29sIHByaWNlLi4uIik7DQogICAgYXdhaXQgc2VuZFR4KHNpZ25lciwgcHJvdmlkZXIsIHBvb2xBZGRyLCBwb29sSWZhY2UsICJpbml0aWFsaXplIiwgW3NxcnRQcmljZVg5Nl0pOw0KICAgIGNvbnNvbGUubG9nKCJQb29sIGluaXRpYWxpemVkLiIpOw0KICB9IGVsc2Ugew0KICAgIGNvbnNvbGUubG9nKCJQb29sIGFscmVhZHkgaW5pdGlhbGl6ZWQuIHNxcnRQcmljZVg5NjoiLCBjdXJyZW50U3FydFByaWNlLnRvU3RyaW5nKCkpOw0KICB9DQoNCiAgLy8gU3RlcCAzOiBXcmFwIEVUSCDihpIgV0VUSCBhbmQgYXBwcm92ZSBib3RoIHRva2VucyBmb3IgcG9zaXRpb24gbWFuYWdlcg0KICBjb25zdCB3ZXRoRGVzaXJlZCA9IGV0aGVycy5wYXJzZUV0aGVyKCIwLjAwNCIpOw0KICBjb25zdCBjaGllZkRlc2lyZWQgPSBldGhlcnMucGFyc2VVbml0cygiMTAwMDAwIiwgMTgpOyAvLyAxMDAsMDAwIENISUVGDQoNCiAgY29uc3Qgd2V0aElmYWNlID0gbmV3IGV0aGVycy5JbnRlcmZhY2UoWw0KICAgICJmdW5jdGlvbiBkZXBvc2l0KCkgcGF5YWJsZSIsDQogICAgImZ1bmN0aW9uIGFwcHJvdmUoYWRkcmVzcyBzcGVuZGVyLCB1aW50MjU2IGFtb3VudCkgcmV0dXJucyAoYm9vbCkiLA0KICAgICJmdW5jdGlvbiBiYWxhbmNlT2YoYWRkcmVzcykgdmlldyByZXR1cm5zICh1aW50MjU2KSINCiAgXSk7DQoNCiAgY29uc29sZS5sb2coIldyYXBwaW5nIDAuMDA0IEVUSCDihpIgV0VUSC4uLiIpOw0KICBhd2FpdCBzZW5kVHgoc2lnbmVyLCBwcm92aWRlciwgV0VUSF9BRERSRVNTLCB3ZXRoSWZhY2UsICJkZXBvc2l0IiwgW10sIHdldGhEZXNpcmVkKTsNCiAgY29uc29sZS5sb2coIkVUSCB3cmFwcGVkIHRvIFdFVEguIik7DQoNCiAgLy8gQ2hlY2sgaWYgQ0hJRUYgaXMgYWxyZWFkeSBhcHByb3ZlZCAoc2tpcCBpZiBhbHJlYWR5IGFwcHJvdmVkIGZyb20gcHJldiBydW4pDQogIGNvbnN0IFtjaGllZkFsbG93YW5jZV0gPSBhd2FpdCBldGhDYWxsKHByb3ZpZGVyLCBDSElFRl9BRERSRVNTLCBuZXcgZXRoZXJzLkludGVyZmFjZShbDQogICAgImZ1bmN0aW9uIGFsbG93YW5jZShhZGRyZXNzIG93bmVyLCBhZGRyZXNzIHNwZW5kZXIpIHZpZXcgcmV0dXJucyAodWludDI1NikiDQogIF0pLCAiYWxsb3dhbmNlIiwgW3NpZ25lckFkZHIsIFBPU19NR1JfQUREUkVTU10pOw0KICBpZiAoY2hpZWZBbGxvd2FuY2UgPCBjaGllZkRlc2lyZWQpIHsNCiAgICBjb25zb2xlLmxvZygiQXBwcm92aW5nIENISUVGIGZvciBOb25mdW5naWJsZVBvc2l0aW9uTWFuYWdlci4uLiIpOw0KICAgIGF3YWl0IHNlbmRUeChzaWduZXIsIHByb3ZpZGVyLCBDSElFRl9BRERSRVNTLCBlcmMyMElmYWNlLCAiYXBwcm92ZSIsIFtQT1NfTUdSX0FERFJFU1MsIGNoaWVmRGVzaXJlZF0pOw0KICAgIGNvbnNvbGUubG9nKCJDSElFRiBhcHByb3ZlZC4iKTsNCiAgfSBlbHNlIHsNCiAgICBjb25zb2xlLmxvZygiQ0hJRUYgYWxyZWFkeSBhcHByb3ZlZC4iKTsNCiAgfQ0KDQogIGNvbnNvbGUubG9nKCJBcHByb3ZpbmcgV0VUSCBmb3IgTm9uZnVuZ2libGVQb3NpdGlvbk1hbmFnZXIuLi4iKTsNCiAgYXdhaXQgc2VuZFR4KHNpZ25lciwgcHJvdmlkZXIsIFdFVEhfQUREUkVTUywgd2V0aElmYWNlLCAiYXBwcm92ZSIsIFtQT1NfTUdSX0FERFJFU1MsIHdldGhEZXNpcmVkXSk7DQogIGNvbnNvbGUubG9nKCJXRVRIIGFwcHJvdmVkLiIpOw0KDQogIC8vIFN0ZXAgNDogQWRkIGxpcXVpZGl0eSB2aWEgTm9uZnVuZ2libGVQb3NpdGlvbk1hbmFnZXIgKHVzaW5nIFdFVEgsIG5vdCByYXcgRVRIKQ0KICAvLyBVc2UgaGFyZGNvZGVkIGZ1bGwtcmFuZ2UgdGlja3MgYWxpZ25lZCB0byB0aWNrIHNwYWNpbmcgNjANCiAgY29uc3QgdGlja0xvd2VyID0gLTg4NzIyMDsgLy8gTWF0aC50cnVuYygtODg3MjcyLzYwKSo2MA0KICBjb25zdCB0aWNrVXBwZXIgPSA4ODcyMjA7ICAvLyBNYXRoLnRydW5jKDg4NzI3Mi82MCkqNjANCiAgY29uc29sZS5sb2coInRpY2tMb3dlcjoiLCB0aWNrTG93ZXIsICJ0aWNrVXBwZXI6IiwgdGlja1VwcGVyKTsNCg0KICBjb25zdCBhbW91bnQwRGVzaXJlZCA9IHRva2VuMCA9PT0gQ0hJRUZfQUREUkVTUyA/IGNoaWVmRGVzaXJlZCA6IHdldGhEZXNpcmVkOw0KICBjb25zdCBhbW91bnQxRGVzaXJlZCA9IHRva2VuMCA9PT0gQ0hJRUZfQUREUkVTUyA/IHdldGhEZXNpcmVkIDogY2hpZWZEZXNpcmVkOw0KICBjb25zdCBkZWFkbGluZSA9IE1hdGguZmxvb3IoRGF0ZS5ub3coKSAvIDEwMDApICsgNjAwOw0KDQoNCiAgY29uc3QgcG9zTWdySWZhY2VGaW5hbCA9IG5ldyBldGhlcnMuSW50ZXJmYWNlKFsNCiAgICAiZnVuY3Rpb24gbWludCh0dXBsZShhZGRyZXNzIHRva2VuMCwgYWRkcmVzcyB0b2tlbjEsIHVpbnQyNCBmZWUsIGludDI0IHRpY2tMb3dlciwgaW50MjQgdGlja1VwcGVyLCB1aW50MjU2IGFtb3VudDBEZXNpcmVkLCB1aW50MjU2IGFtb3VudDFEZXNpcmVkLCB1aW50MjU2IGFtb3VudDBNaW4sIHVpbnQyNTYgYW1vdW50MU1pbiwgYWRkcmVzcyByZWNpcGllbnQsIHVpbnQyNTYgZGVhZGxpbmUpIHBhcmFtcykgcGF5YWJsZSByZXR1cm5zICh1aW50MjU2IHRva2VuSWQsIHVpbnQxMjggbGlxdWlkaXR5LCB1aW50MjU2IGFtb3VudDAsIHVpbnQyNTYgYW1vdW50MSkiDQogIF0pOw0KDQogIGNvbnN0IG1pbnRTdHJ1Y3QgPSB7DQogICAgdG9rZW4wLA0KICAgIHRva2VuMSwNCiAgICBmZWU6IEZFRSwNCiAgICB0aWNrTG93ZXIsDQogICAgdGlja1VwcGVyLA0KICAgIGFtb3VudDBEZXNpcmVkLA0KICAgIGFtb3VudDFEZXNpcmVkLA0KICAgIGFtb3VudDBNaW46IDBuLA0KICAgIGFtb3VudDFNaW46IDBuLA0KICAgIHJlY2lwaWVudDogc2lnbmVyQWRkciwNCiAgICBkZWFkbGluZQ0KICB9Ow0KDQogIGNvbnNvbGUubG9nKCJBZGRpbmcgbGlxdWlkaXR5IHRvIHBvb2wgKFdFVEggKyBDSElFRikuLi4iKTsNCiAgY29uc3QgeyB0eEhhc2ggfSA9IGF3YWl0IHNlbmRUeChzaWduZXIsIHByb3ZpZGVyLCBQT1NfTUdSX0FERFJFU1MsIHBvc01ncklmYWNlRmluYWwsICJtaW50IiwgW21pbnRTdHJ1Y3RdLCAwbik7DQogIGNvbnNvbGUubG9nKCJMaXF1aWRpdHkgYWRkZWQhIFR4OiIsIHR4SGFzaCk7DQogIGNvbnNvbGUubG9nKCJcbj09PSBDSElFRi9XRVRIIFBvb2wgaXMgTElWRSBvbiBCYXNlID09PSIpOw0KICBjb25zb2xlLmxvZygiUG9vbCBhZGRyZXNzOiAgICAgIiwgcG9vbEFkZHIpOw0KICBjb25zb2xlLmxvZygiVW5pc3dhcCBwYWlyIFVSTDogaHR0cHM6Ly9hcHAudW5pc3dhcC5vcmcvZXhwbG9yZS9wb29scy9iYXNlLyIgKyBwb29sQWRkcik7DQogIGNvbnNvbGUubG9nKCJCYXNlc2NhbiBwb29sOiAgICBodHRwczovL2Jhc2VzY2FuLm9yZy9hZGRyZXNzLyIgKyBwb29sQWRkcik7DQp9DQoNCm1haW4oKS5jYXRjaCgoZXJyb3IpID0+IHsNCiAgY29uc29sZS5lcnJvcihlcnJvcik7DQogIHByb2Nlc3MuZXhpdENvZGUgPSAxOw0KfSk7DQo="}
+require("dotenv").config();
+const { ethers } = require("ethers");
+
+// Base mainnet addresses
+const CHIEF_ADDRESS     = "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+const WETH_ADDRESS      = "0x4200000000000000000000000000000000000006";
+const FACTORY_ADDRESS   = "0x33128a8fC17869897dcE68Ed026d694621f6FDfD"; // Uniswap V3 factory on Base
+const POS_MGR_ADDRESS   = "0x03a520b32C04BF3bEEf7BEb72E919cf822Ed34f1"; // NonfungiblePositionManager on Base
+
+const FEE = 3000;        // 0.3% fee tier
+const TICK_SPACING = 60; // tick spacing for 0.3%
+
+// 1 ETH = 1,000,000 CHIEF  →  price CHIEF/WETH = 0.000001
+// token0 = CHIEF (lower address), token1 = WETH
+// sqrtPriceX96 = sqrt(0.000001) * 2^96
+function computeSqrtPriceX96() {
+  const Q96 = 2n ** 96n;
+  // sqrt(1e-6) = 1e-3; represent as rational: numerator=1, denominator=1000
+  // sqrtPriceX96 = Q96 / 1000
+  return Q96 / 1000n;
+}
+
+function nearestUsableTick(tick, spacing) {
+  // Always round towards zero so we stay within valid range
+  const rounded = Math.trunc(tick / spacing) * spacing;
+  return rounded;
+}
+
+// Helper: send a raw call using eth_call
+async function ethCall(provider, to, iface, fn, args) {
+  const data = iface.encodeFunctionData(fn, args);
+  const result = await provider.send("eth_call", [{ to, data }, "latest"]);
+  return iface.decodeFunctionResult(fn, result);
+}
+
+// Helper: send a signed tx
+async function sendTx(signer, provider, to, iface, fn, args, value = 0n) {
+  const data = iface.encodeFunctionData(fn, args);
+  const nonce = await provider.send("eth_getTransactionCount", [await signer.getAddress(), "pending"]);
+  const feeData = await provider.getFeeData();
+  const chainId = (await provider.getNetwork()).chainId;
+
+  const tx = {
+    to,
+    data,
+    value,
+    nonce: parseInt(nonce, 16),
+    gasLimit: 800000n,
+    maxFeePerGas: feeData.maxFeePerGas,
+    maxPriorityFeePerGas: feeData.maxPriorityFeePerGas,
+    chainId
+  };
+
+  const signed = await signer.signTransaction(tx);
+  const txHash = await provider.send("eth_sendRawTransaction", [signed]);
+  console.log("  tx sent:", txHash);
+
+  // poll for receipt
+  for (let i = 0; i < 60; i++) {
+    await new Promise(r => setTimeout(r, 3000));
+    const receipt = await provider.send("eth_getTransactionReceipt", [txHash]);
+    if (receipt) {
+      if (parseInt(receipt.status, 16) === 0) {
+        // Try to get revert reason
+        try {
+          const simResult = await provider.send("eth_call", [{ to, data, value: '0x' + value.toString(16) }, 'latest']);
+          console.error("eth_call result:", simResult);
+        } catch (simErr) {
+          console.error("Revert reason:", simErr.message);
+        }
+        throw new Error("Transaction reverted: " + txHash);
+      }
+      return { txHash, receipt };
+    }
+  }
+  throw new Error("Timed out waiting for receipt: " + txHash);
+}
+
+async function main() {
+  const rpc = process.env.BASE_MAINNET_RPC_URL || "https://base-rpc.publicnode.com";
+  // Use a network object without ENS to prevent ENS resolution on Base
+  const network = ethers.Network.from({ chainId: 8453, name: "base" });
+  const provider = new ethers.JsonRpcProvider(rpc, network, { staticNetwork: network });
+  const signer = new ethers.Wallet(process.env.PRIVATE_KEY, provider);
+  const signerAddr = signer.address;
+
+  const rawBal = await provider.send("eth_getBalance", [signerAddr, "latest"]);
+  console.log("Signer:", signerAddr);
+  console.log("ETH balance:", ethers.formatEther(BigInt(rawBal)));
+
+  // Determine token order
+  const token0 = CHIEF_ADDRESS.toLowerCase() < WETH_ADDRESS.toLowerCase() ? CHIEF_ADDRESS : WETH_ADDRESS;
+  const token1 = token0 === CHIEF_ADDRESS ? WETH_ADDRESS : CHIEF_ADDRESS;
+  console.log("token0:", token0);
+  console.log("token1:", token1);
+
+  const sqrtPriceX96 = computeSqrtPriceX96();
+  console.log("sqrtPriceX96:", sqrtPriceX96.toString());
+
+  // --- Interfaces ---
+  const factoryIface = new ethers.Interface([
+    "function getPool(address tokenA, address tokenB, uint24 fee) view returns (address)",
+    "function createPool(address tokenA, address tokenB, uint24 fee) returns (address)"
+  ]);
+  const poolIface = new ethers.Interface([
+    "function initialize(uint160 sqrtPriceX96)",
+    "function slot0() view returns (uint160 sqrtPriceX96, int24 tick, uint16 observationIndex, uint16 observationCardinality, uint16 observationCardinalityNext, uint8 feeProtocol, bool unlocked)"
+  ]);
+  const erc20Iface = new ethers.Interface([
+    "function approve(address spender, uint256 amount) returns (bool)",
+    "function balanceOf(address owner) view returns (uint256)"
+  ]);
+  const posMgrIface = new ethers.Interface([
+    "function mint(tuple(address token0, address token1, uint24 fee, int24 tickLower, int24 tickUpper, uint256 amount0Desired, uint256 amount1Desired, uint256 amount0Min, uint256 amount1Min, address recipient, uint256 deadline) params) payable returns (uint256 tokenId, uint128 liquidity, uint256 amount0, uint256 amount1)"
+  ]);
+
+  // Step 1: Get or create pool
+  let [poolAddr] = await ethCall(provider, FACTORY_ADDRESS, factoryIface, "getPool", [token0, token1, FEE]);
+  if (poolAddr === ethers.ZeroAddress) {
+    console.log("Creating Uniswap V3 pool...");
+    await sendTx(signer, provider, FACTORY_ADDRESS, factoryIface, "createPool", [token0, token1, FEE]);
+    [poolAddr] = await ethCall(provider, FACTORY_ADDRESS, factoryIface, "getPool", [token0, token1, FEE]);
+    console.log("Pool created:", poolAddr);
+  } else {
+    console.log("Pool already exists:", poolAddr);
+  }
+
+  // Step 2: Initialize pool price if needed
+  const slot0Result = await ethCall(provider, poolAddr, poolIface, "slot0", []);
+  const currentSqrtPrice = slot0Result[0];
+  if (currentSqrtPrice === 0n) {
+    console.log("Initializing pool price...");
+    await sendTx(signer, provider, poolAddr, poolIface, "initialize", [sqrtPriceX96]);
+    console.log("Pool initialized.");
+  } else {
+    console.log("Pool already initialized. sqrtPriceX96:", currentSqrtPrice.toString());
+  }
+
+  // Step 3: Wrap ETH → WETH and approve both tokens for position manager
+  const wethDesired = ethers.parseEther("0.004");
+  const chiefDesired = ethers.parseUnits("100000", 18); // 100,000 CHIEF
+
+  const wethIface = new ethers.Interface([
+    "function deposit() payable",
+    "function approve(address spender, uint256 amount) returns (bool)",
+    "function balanceOf(address) view returns (uint256)"
+  ]);
+
+  console.log("Wrapping 0.004 ETH → WETH...");
+  await sendTx(signer, provider, WETH_ADDRESS, wethIface, "deposit", [], wethDesired);
+  console.log("ETH wrapped to WETH.");
+
+  // Check if CHIEF is already approved (skip if already approved from prev run)
+  const [chiefAllowance] = await ethCall(provider, CHIEF_ADDRESS, new ethers.Interface([
+    "function allowance(address owner, address spender) view returns (uint256)"
+  ]), "allowance", [signerAddr, POS_MGR_ADDRESS]);
+  if (chiefAllowance < chiefDesired) {
+    console.log("Approving CHIEF for NonfungiblePositionManager...");
+    await sendTx(signer, provider, CHIEF_ADDRESS, erc20Iface, "approve", [POS_MGR_ADDRESS, chiefDesired]);
+    console.log("CHIEF approved.");
+  } else {
+    console.log("CHIEF already approved.");
+  }
+
+  console.log("Approving WETH for NonfungiblePositionManager...");
+  await sendTx(signer, provider, WETH_ADDRESS, wethIface, "approve", [POS_MGR_ADDRESS, wethDesired]);
+  console.log("WETH approved.");
+
+  // Step 4: Add liquidity via NonfungiblePositionManager (using WETH, not raw ETH)
+  // Use hardcoded full-range ticks aligned to tick spacing 60
+  const tickLower = -887220; // Math.trunc(-887272/60)*60
+  const tickUpper = 887220;  // Math.trunc(887272/60)*60
+  console.log("tickLower:", tickLower, "tickUpper:", tickUpper);
+
+  const amount0Desired = token0 === CHIEF_ADDRESS ? chiefDesired : wethDesired;
+  const amount1Desired = token0 === CHIEF_ADDRESS ? wethDesired : chiefDesired;
+  const deadline = Math.floor(Date.now() / 1000) + 600;
+
+
+  const posMgrIfaceFinal = new ethers.Interface([
+    "function mint(tuple(address token0, address token1, uint24 fee, int24 tickLower, int24 tickUpper, uint256 amount0Desired, uint256 amount1Desired, uint256 amount0Min, uint256 amount1Min, address recipient, uint256 deadline) params) payable returns (uint256 tokenId, uint128 liquidity, uint256 amount0, uint256 amount1)"
+  ]);
+
+  const mintStruct = {
+    token0,
+    token1,
+    fee: FEE,
+    tickLower,
+    tickUpper,
+    amount0Desired,
+    amount1Desired,
+    amount0Min: 0n,
+    amount1Min: 0n,
+    recipient: signerAddr,
+    deadline
+  };
+
+  console.log("Adding liquidity to pool (WETH + CHIEF)...");
+  const { txHash } = await sendTx(signer, provider, POS_MGR_ADDRESS, posMgrIfaceFinal, "mint", [mintStruct], 0n);
+  console.log("Liquidity added! Tx:", txHash);
+  console.log("\n=== CHIEF/WETH Pool is LIVE on Base ===");
+  console.log("Pool address:     ", poolAddr);
+  console.log("Uniswap pair URL: https://app.uniswap.org/explore/pools/base/" + poolAddr);
+  console.log("Basescan pool:    https://basescan.org/address/" + poolAddr);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

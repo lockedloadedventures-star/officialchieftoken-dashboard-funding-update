@@ -1,1 +1,30 @@
-{"data":"IyBETSBDb252ZXJzaW9uIFNjcmlwdHMKClByb2R1Y3Q6IExhdW5jaCBZb3VyIEFJIEF2YXRhciBCdXNpbmVzcyBpbiA3IERheXMKTGluazogaHR0cHM6Ly92ZW50dXJlbG9jay5ndW1yb2FkLmNvbS9sL2RpZG1sYgoKIyMgSW5ib3VuZCBSZXBseSBTY3JpcHQKTWVzc2FnZSAxOgotIEFwcHJlY2lhdGUgeW91IHJlYWNoaW5nIG91dC4gSWYgeW91IHdhbnQgdGhlIGV4YWN0IDctZGF5IGxhdW5jaCB3b3JrZmxvdywgdGhpcyBpcyB0aGUgZnVsbCBjb3Vyc2U6IGh0dHBzOi8vdmVudHVyZWxvY2suZ3Vtcm9hZC5jb20vbC9kaWRtbGIKCk1lc3NhZ2UgMjoKLSBRdWljayB0aWVyIGd1aWRlOgotICQ0MCBTdGFydGVyOiBmdWxsIGNvcmUgc3lzdGVtCi0gJDEwMCBHcm93dGg6IGFkZHMgcHJvbXB0IHZhdWx0ICsgY2FsZW5kYXIKLSAkMjAwIFBybzogYWRkcyBtb25ldGl6YXRpb24gcGxheWJvb2sgKyBmdW5uZWwgcmVzb3VyY2VzCgpNZXNzYWdlIDM6Ci0gSWYgeW91IHdhbnQgZmFzdGVzdCBpbXBsZW1lbnRhdGlvbiwgZ28gJDEwMCBHcm93dGguIElmIHlvdSB3YW50IGRlcHRoIGFuZCBtb25ldGl6YXRpb24gYXNzZXRzLCBnbyAkMjAwIFByby4KCiMjIENvbW1lbnQgdG8gRE0gU2NyaXB0Ci0gTG92ZSB0aGF0LiBXYW50IG1lIHRvIHNlbmQgdGhlIGV4YWN0IHJvYWRtYXAgYW5kIHRpZXIgYnJlYWtkb3duPwotIElmIHllcywgc2VuZCB0aGlzIGxpbms6IGh0dHBzOi8vdmVudHVyZWxvY2suZ3Vtcm9hZC5jb20vbC9kaWRtbGIKCiMjIEZvbGxvdy11cCAoMjRoKQotIENoZWNraW5nIGluLiBJZiB5b3UgYXJlIHN0aWxsIGRlY2lkaW5nLCBzdGFydCB3aXRoICQ0MCBTdGFydGVyIGFuZCB1cGdyYWRlIGxhdGVyIGFmdGVyIGZpcnN0IGV4ZWN1dGlvbiBzcHJpbnQuCgojIyBGb2xsb3ctdXAgKDcyaCkKLSBMYXN0IG51ZGdlOiBpZiBzcGVlZCBtYXR0ZXJzLCAkMTAwIEdyb3d0aCBnaXZlcyB5b3UgdGhlIHByb21wdCB2YXVsdCArIGNvbnRlbnQgY2FsZW5kYXIgc28geW91IGNhbiBzaGlwIGltbWVkaWF0ZWx5LgoKIyMgU3VwcG9ydCBDbG9zZQotIElmIHlvdSBuZWVkIHB1cmNoYXNlIG9yIGFjY2VzcyBoZWxwIGFmdGVyIGVucm9sbGluZywgY29udGFjdCBsb2NrZWRsb2FkZWR2ZW50dXJlc0BnbWFpbC5jb20uCg=="}
+# DM Conversion Scripts
+
+Product: Launch Your AI Avatar Business in 7 Days
+Link: https://venturelock.gumroad.com/l/didmlb
+
+## Inbound Reply Script
+Message 1:
+- Appreciate you reaching out. If you want the exact 7-day launch workflow, this is the full course: https://venturelock.gumroad.com/l/didmlb
+
+Message 2:
+- Quick tier guide:
+- $40 Starter: full core system
+- $100 Growth: adds prompt vault + calendar
+- $200 Pro: adds monetization playbook + funnel resources
+
+Message 3:
+- If you want fastest implementation, go $100 Growth. If you want depth and monetization assets, go $200 Pro.
+
+## Comment to DM Script
+- Love that. Want me to send the exact roadmap and tier breakdown?
+- If yes, send this link: https://venturelock.gumroad.com/l/didmlb
+
+## Follow-up (24h)
+- Checking in. If you are still deciding, start with $40 Starter and upgrade later after first execution sprint.
+
+## Follow-up (72h)
+- Last nudge: if speed matters, $100 Growth gives you the prompt vault + content calendar so you can ship immediately.
+
+## Support Close
+- If you need purchase or access help after enrolling, contact lockedloadedventures@gmail.com.

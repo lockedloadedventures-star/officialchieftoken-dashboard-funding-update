@@ -1,1 +1,79 @@
-{"data":"JEVycm9yQWN0aW9uUHJlZmVyZW5jZT0nU3RvcCcNCiRyZXBvcnREaXI9J0M6XFVzZXJzXGNoaWVmXERvY3VtZW50c1xwYy1jbGVhbnVwLXJlcG9ydHMtZmFzdCcNCk5ldy1JdGVtIC1JdGVtVHlwZSBEaXJlY3RvcnkgLUZvcmNlIC1QYXRoICRyZXBvcnREaXIgfCBPdXQtTnVsbA0KJHJvb3RzPUAoJ0M6XFVzZXJzXGNoaWVmXERlc2t0b3AnLCdDOlxVc2Vyc1xjaGllZlxEb2N1bWVudHMnLCdDOlxVc2Vyc1xjaGllZlxEb3dubG9hZHMnLCdDOlxVc2Vyc1xjaGllZlxQaWN0dXJlcycsJ0M6XFVzZXJzXGNoaWVmXFZpZGVvcycsJ0M6XFVzZXJzXGNoaWVmXE11c2ljJykgfCBXaGVyZS1PYmplY3QgeyBUZXN0LVBhdGggJF8gfQ0KJGV4Y2x1ZGVQYXR0ZXJuPSdcXChub2RlX21vZHVsZXN8XC5naXR8dmVudnxcLnZlbnZ8X19weWNhY2hlX18pXFwnDQoNCiRhbGxGaWxlcz1mb3JlYWNoKCRyIGluICRyb290cyl7DQogIEdldC1DaGlsZEl0ZW0gLUxpdGVyYWxQYXRoICRyIC1SZWN1cnNlIC1GaWxlIC1Gb3JjZSAtRXJyb3JBY3Rpb24gU2lsZW50bHlDb250aW51ZSB8IFdoZXJlLU9iamVjdCB7ICRfLkZ1bGxOYW1lIC1ub3RtYXRjaCAkZXhjbHVkZVBhdHRlcm4gfQ0KfQ0KJGFsbEZpbGVzPSRhbGxGaWxlcyB8IFdoZXJlLU9iamVjdCB7ICRfLkZ1bGxOYW1lIC1ub3RsaWtlICIkcmVwb3J0RGlyKiIgfQ0KDQokY3V0PShHZXQtRGF0ZSkuQWRkRGF5cygtMzApDQokc3RhbGU9JGFsbEZpbGVzIHwgV2hlcmUtT2JqZWN0IHsNCiAgJGx1ID0gaWYoJF8uTGFzdEFjY2Vzc1RpbWUgLWd0ICRfLkxhc3RXcml0ZVRpbWUpeyRfLkxhc3RBY2Nlc3NUaW1lfWVsc2V7JF8uTGFzdFdyaXRlVGltZX0NCiAgJGx1IC1sdCAkY3V0DQp9DQoNCiRkb2NFeHQ9QCgnLnBkZicsJy5kb2MnLCcuZG9jeCcsJy50eHQnLCcubWQnLCcucnRmJywnLm9kdCcsJy54bHMnLCcueGxzeCcsJy5jc3YnLCcucHB0JywnLnBwdHgnKQ0KJGRvY0ZpbGVzPSRhbGxGaWxlcyB8IFdoZXJlLU9iamVjdCB7ICRkb2NFeHQgLWNvbnRhaW5zICRfLkV4dGVuc2lvbi5Ub0xvd2VySW52YXJpYW50KCkgfQ0KJGR1cGVSb3dzPU5ldy1PYmplY3QgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdFtvYmplY3RdDQokc2l6ZUdyb3Vwcz0kZG9jRmlsZXMgfCBHcm91cC1PYmplY3QgTGVuZ3RoIHwgV2hlcmUtT2JqZWN0IHsgJF8uQ291bnQgLWd0IDEgfQ0KZm9yZWFjaCgkc2cgaW4gJHNpemVHcm91cHMpew0KICAkaGFzaEdyb3Vwcz0kc2cuR3JvdXAgfCBHcm91cC1PYmplY3QgeyAoR2V0LUZpbGVIYXNoIC1BbGdvcml0aG0gU0hBMjU2IC1MaXRlcmFsUGF0aCAkXy5GdWxsTmFtZSkuSGFzaCB9IHwgV2hlcmUtT2JqZWN0IHsgJF8uQ291bnQgLWd0IDEgfQ0KICBmb3JlYWNoKCRoZyBpbiAkaGFzaEdyb3Vwcyl7DQogICAgJHNvcnRlZD0kaGcuR3JvdXAgfCBTb3J0LU9iamVjdCBMYXN0V3JpdGVUaW1lIC1EZXNjZW5kaW5nDQogICAgJGk9MA0KICAgIGZvcmVhY2goJGYgaW4gJHNvcnRlZCl7DQogICAgICAkZHVwZVJvd3MuQWRkKFtwc2N1c3RvbW9iamVjdF1Aew0KICAgICAgICBIYXNoPSRoZy5OYW1lDQogICAgICAgIFNpemU9JGYuTGVuZ3RoDQogICAgICAgIEtlZXA9KCRpIC1lcSAwKQ0KICAgICAgICBGdWxsTmFtZT0kZi5GdWxsTmFtZQ0KICAgICAgICBMYXN0V3JpdGVUaW1lPSRmLkxhc3RXcml0ZVRpbWUNCiAgICAgICAgTGFzdEFjY2Vzc1RpbWU9JGYuTGFzdEFjY2Vzc1RpbWUNCiAgICAgIH0pIHwgT3V0LU51bGwNCiAgICAgICRpKysNCiAgICB9DQogIH0NCn0NCg0KJGR1cGVzVG9SZWN5Y2xlPSRkdXBlUm93cyB8IFdoZXJlLU9iamVjdCB7IC1ub3QgJF8uS2VlcCB9IHwgU2VsZWN0LU9iamVjdCAtRXhwYW5kUHJvcGVydHkgRnVsbE5hbWUNCiRzdGFsZVRvUmVjeWNsZT0kc3RhbGUgfCBTZWxlY3QtT2JqZWN0IC1FeHBhbmRQcm9wZXJ0eSBGdWxsTmFtZQ0KJHRhcmdldHM9KCRkdXBlc1RvUmVjeWNsZSArICRzdGFsZVRvUmVjeWNsZSB8IFNvcnQtT2JqZWN0IC1VbmlxdWUpDQoNCiRzdGFsZSB8IFNlbGVjdC1PYmplY3QgRnVsbE5hbWUsTGVuZ3RoLExhc3RXcml0ZVRpbWUsTGFzdEFjY2Vzc1RpbWUgfCBFeHBvcnQtQ3N2IC1Ob1R5cGVJbmZvcm1hdGlvbiAtUGF0aCAoSm9pbi1QYXRoICRyZXBvcnREaXIgJ3N0YWxlLW92ZXItMzBkLmNzdicpDQokZHVwZVJvd3MgfCBFeHBvcnQtQ3N2IC1Ob1R5cGVJbmZvcm1hdGlvbiAtUGF0aCAoSm9pbi1QYXRoICRyZXBvcnREaXIgJ2R1cGxpY2F0ZS1kb2NzLWJ5LWhhc2guY3N2JykNCiR0YXJnZXRzIHwgRm9yRWFjaC1PYmplY3QgeyBbcHNjdXN0b21vYmplY3RdQHsgRnVsbE5hbWU9JF8gfSB9IHwgRXhwb3J0LUNzdiAtTm9UeXBlSW5mb3JtYXRpb24gLVBhdGggKEpvaW4tUGF0aCAkcmVwb3J0RGlyICdyZWN5Y2xlLXRhcmdldHMuY3N2JykNCg0KQWRkLVR5cGUgLUFzc2VtYmx5TmFtZSBNaWNyb3NvZnQuVmlzdWFsQmFzaWMNCiRtb3ZlZD1OZXctT2JqZWN0IFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3Rbc3RyaW5nXQ0KJGZhaWxlZD1OZXctT2JqZWN0IFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3Rbc3RyaW5nXQ0KZm9yZWFjaCgkcCBpbiAkdGFyZ2V0cyl7DQogIGlmKFRlc3QtUGF0aCAtTGl0ZXJhbFBhdGggJHApew0KICAgIHRyeSB7DQogICAgICBbTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVJTy5GaWxlU3lzdGVtXTo6RGVsZXRlRmlsZSgkcCxbTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVJTy5VSU9wdGlvbl06Ok9ubHlFcnJvckRpYWxvZ3MsW01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlSU8uUmVjeWNsZU9wdGlvbl06OlNlbmRUb1JlY3ljbGVCaW4pDQogICAgICAkbW92ZWQuQWRkKCRwKSB8IE91dC1OdWxsDQogICAgfSBjYXRjaCB7DQogICAgICAkZmFpbGVkLkFkZCgoInswfSA6OiB7MX0iIC1mICRwLCRfLkV4Y2VwdGlvbi5NZXNzYWdlKSkgfCBPdXQtTnVsbA0KICAgIH0NCiAgfQ0KfQ0KDQokc3VtbWFyeT1bcHNjdXN0b21vYmplY3RdQHsNCiAgUm9vdHM9KCRyb290cyAtam9pbiAnOyAnKQ0KICBUb3RhbEZpbGVzPSRhbGxGaWxlcy5Db3VudA0KICBTdGFsZUNvdW50PSRzdGFsZS5Db3VudA0KICBEdXBsaWNhdGVEb2NHcm91cHM9KCgkZHVwZVJvd3N8R3JvdXAtT2JqZWN0IEhhc2gpLkNvdW50KQ0KICBEdXBsaWNhdGVEb2NDb3BpZXNUb1JlY3ljbGU9KCRkdXBlUm93c3xXaGVyZS1PYmplY3R7LW5vdCAkXy5LZWVwfSkuQ291bnQNCiAgVGFyZ2V0cz0kdGFyZ2V0cy5Db3VudA0KICBNb3ZlZD0kbW92ZWQuQ291bnQNCiAgRmFpbGVkPSRmYWlsZWQuQ291bnQNCiAgU3RhbGVCeXRlcz1baW50NjRdKCgkc3RhbGV8TWVhc3VyZS1PYmplY3QgTGVuZ3RoIC1TdW0pLlN1bSkNCiAgRHVwbGljYXRlRG9jV2FzdGVCeXRlcz1baW50NjRdKCgkZHVwZVJvd3N8V2hlcmUtT2JqZWN0ey1ub3QgJF8uS2VlcH18TWVhc3VyZS1PYmplY3QgU2l6ZSAtU3VtKS5TdW0pDQp9DQokc3VtbWFyeSB8IEV4cG9ydC1Dc3YgLU5vVHlwZUluZm9ybWF0aW9uIC1QYXRoIChKb2luLVBhdGggJHJlcG9ydERpciAnc3VtbWFyeS5jc3YnKQ0KJHN1bW1hcnkgfCBGb3JtYXQtTGlzdA0KJ1NBTVBMRV9NT1ZFRDonDQokbW92ZWQgfCBTZWxlY3QtT2JqZWN0IC1GaXJzdCAyNQ0KIlJFUE9SVF9ESVI9JHJlcG9ydERpciINCg=="}
+$ErrorActionPreference='Stop'
+$reportDir='C:\Users\chief\Documents\pc-cleanup-reports-fast'
+New-Item -ItemType Directory -Force -Path $reportDir | Out-Null
+$roots=@('C:\Users\chief\Desktop','C:\Users\chief\Documents','C:\Users\chief\Downloads','C:\Users\chief\Pictures','C:\Users\chief\Videos','C:\Users\chief\Music') | Where-Object { Test-Path $_ }
+$excludePattern='\\(node_modules|\.git|venv|\.venv|__pycache__)\\'
+
+$allFiles=foreach($r in $roots){
+  Get-ChildItem -LiteralPath $r -Recurse -File -Force -ErrorAction SilentlyContinue | Where-Object { $_.FullName -notmatch $excludePattern }
+}
+$allFiles=$allFiles | Where-Object { $_.FullName -notlike "$reportDir*" }
+
+$cut=(Get-Date).AddDays(-30)
+$stale=$allFiles | Where-Object {
+  $lu = if($_.LastAccessTime -gt $_.LastWriteTime){$_.LastAccessTime}else{$_.LastWriteTime}
+  $lu -lt $cut
+}
+
+$docExt=@('.pdf','.doc','.docx','.txt','.md','.rtf','.odt','.xls','.xlsx','.csv','.ppt','.pptx')
+$docFiles=$allFiles | Where-Object { $docExt -contains $_.Extension.ToLowerInvariant() }
+$dupeRows=New-Object System.Collections.Generic.List[object]
+$sizeGroups=$docFiles | Group-Object Length | Where-Object { $_.Count -gt 1 }
+foreach($sg in $sizeGroups){
+  $hashGroups=$sg.Group | Group-Object { (Get-FileHash -Algorithm SHA256 -LiteralPath $_.FullName).Hash } | Where-Object { $_.Count -gt 1 }
+  foreach($hg in $hashGroups){
+    $sorted=$hg.Group | Sort-Object LastWriteTime -Descending
+    $i=0
+    foreach($f in $sorted){
+      $dupeRows.Add([pscustomobject]@{
+        Hash=$hg.Name
+        Size=$f.Length
+        Keep=($i -eq 0)
+        FullName=$f.FullName
+        LastWriteTime=$f.LastWriteTime
+        LastAccessTime=$f.LastAccessTime
+      }) | Out-Null
+      $i++
+    }
+  }
+}
+
+$dupesToRecycle=$dupeRows | Where-Object { -not $_.Keep } | Select-Object -ExpandProperty FullName
+$staleToRecycle=$stale | Select-Object -ExpandProperty FullName
+$targets=($dupesToRecycle + $staleToRecycle | Sort-Object -Unique)
+
+$stale | Select-Object FullName,Length,LastWriteTime,LastAccessTime | Export-Csv -NoTypeInformation -Path (Join-Path $reportDir 'stale-over-30d.csv')
+$dupeRows | Export-Csv -NoTypeInformation -Path (Join-Path $reportDir 'duplicate-docs-by-hash.csv')
+$targets | ForEach-Object { [pscustomobject]@{ FullName=$_ } } | Export-Csv -NoTypeInformation -Path (Join-Path $reportDir 'recycle-targets.csv')
+
+Add-Type -AssemblyName Microsoft.VisualBasic
+$moved=New-Object System.Collections.Generic.List[string]
+$failed=New-Object System.Collections.Generic.List[string]
+foreach($p in $targets){
+  if(Test-Path -LiteralPath $p){
+    try {
+      [Microsoft.VisualBasic.FileIO.FileSystem]::DeleteFile($p,[Microsoft.VisualBasic.FileIO.UIOption]::OnlyErrorDialogs,[Microsoft.VisualBasic.FileIO.RecycleOption]::SendToRecycleBin)
+      $moved.Add($p) | Out-Null
+    } catch {
+      $failed.Add(("{0} :: {1}" -f $p,$_.Exception.Message)) | Out-Null
+    }
+  }
+}
+
+$summary=[pscustomobject]@{
+  Roots=($roots -join '; ')
+  TotalFiles=$allFiles.Count
+  StaleCount=$stale.Count
+  DuplicateDocGroups=(($dupeRows|Group-Object Hash).Count)
+  DuplicateDocCopiesToRecycle=($dupeRows|Where-Object{-not $_.Keep}).Count
+  Targets=$targets.Count
+  Moved=$moved.Count
+  Failed=$failed.Count
+  StaleBytes=[int64](($stale|Measure-Object Length -Sum).Sum)
+  DuplicateDocWasteBytes=[int64](($dupeRows|Where-Object{-not $_.Keep}|Measure-Object Size -Sum).Sum)
+}
+$summary | Export-Csv -NoTypeInformation -Path (Join-Path $reportDir 'summary.csv')
+$summary | Format-List
+'SAMPLE_MOVED:'
+$moved | Select-Object -First 25
+"REPORT_DIR=$reportDir"

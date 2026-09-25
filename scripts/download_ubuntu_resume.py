@@ -1,1 +1,66 @@
-{"data":"aW1wb3J0IG9zDQppbXBvcnQgdGltZQ0KaW1wb3J0IHVybGxpYi5yZXF1ZXN0DQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgNCg0KVVJMID0gImh0dHBzOi8vcmVsZWFzZXMudWJ1bnR1LmNvbS8yNC4wNC4yL3VidW50dS0yNC4wNC4yLWRlc2t0b3AtYW1kNjQuaXNvIg0KT1VUID0gUGF0aC5ob21lKCkgLyAiRG93bmxvYWRzIiAvICJ1YnVudHUtMjQuMDQuMi1kZXNrdG9wLWFtZDY0LmlzbyINCkNIVU5LID0gOCAqIDEwMjQgKiAxMDI0DQpNQVhfUkVUUklFUyA9IDMwDQoNCg0KZGVmIGdldF90b3RhbF9zaXplKHVybDogc3RyKSAtPiBpbnQ6DQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCh1cmwsIG1ldGhvZD0iSEVBRCIpDQogICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD02MCkgYXMgcmVzcDoNCiAgICAgICAgcmV0dXJuIGludChyZXNwLmhlYWRlcnMuZ2V0KCJDb250ZW50LUxlbmd0aCIsICIwIikpDQoNCg0KZGVmIG1haW4oKSAtPiBpbnQ6DQogICAgT1VULnBhcmVudC5ta2RpcihwYXJlbnRzPVRydWUsIGV4aXN0X29rPVRydWUpDQoNCiAgICB0b3RhbCA9IGdldF90b3RhbF9zaXplKFVSTCkNCiAgICByZXRyaWVzID0gMA0KDQogICAgd2hpbGUgVHJ1ZToNCiAgICAgICAgZXhpc3RpbmcgPSBPVVQuc3RhdCgpLnN0X3NpemUgaWYgT1VULmV4aXN0cygpIGVsc2UgMA0KICAgICAgICBpZiB0b3RhbCBhbmQgZXhpc3RpbmcgPj0gdG90YWw6DQogICAgICAgICAgICBwcmludChmIkNvbXBsZXRlOiB7T1VUfSIpDQogICAgICAgICAgICBwcmludChmIlNpemU6IHtleGlzdGluZ30gYnl0ZXMiKQ0KICAgICAgICAgICAgcmV0dXJuIDANCg0KICAgICAgICBoZWFkZXJzID0ge30NCiAgICAgICAgbW9kZSA9ICJ3YiINCiAgICAgICAgaWYgZXhpc3RpbmcgPiAwOg0KICAgICAgICAgICAgaGVhZGVyc1siUmFuZ2UiXSA9IGYiYnl0ZXM9e2V4aXN0aW5nfS0iDQogICAgICAgICAgICBtb2RlID0gImFiIg0KDQogICAgICAgIHJlcSA9IHVybGxpYi5yZXF1ZXN0LlJlcXVlc3QoVVJMLCBoZWFkZXJzPWhlYWRlcnMpDQoNCiAgICAgICAgdHJ5Og0KICAgICAgICAgICAgd2l0aCB1cmxsaWIucmVxdWVzdC51cmxvcGVuKHJlcSwgdGltZW91dD0xMjApIGFzIHJlc3AsIG9wZW4oT1VULCBtb2RlKSBhcyBmaDoNCiAgICAgICAgICAgICAgICB3aGlsZSBUcnVlOg0KICAgICAgICAgICAgICAgICAgICBjaHVuayA9IHJlc3AucmVhZChDSFVOSykNCiAgICAgICAgICAgICAgICAgICAgaWYgbm90IGNodW5rOg0KICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWsNCiAgICAgICAgICAgICAgICAgICAgZmgud3JpdGUoY2h1bmspDQoNCiAgICAgICAgICAgICAgICAgICAgY3VycmVudCA9IE9VVC5zdGF0KCkuc3Rfc2l6ZQ0KICAgICAgICAgICAgICAgICAgICBpZiB0b3RhbDoNCiAgICAgICAgICAgICAgICAgICAgICAgIHBjdCA9IChjdXJyZW50IC8gdG90YWwpICogMTAwDQogICAgICAgICAgICAgICAgICAgICAgICBwcmludChmIkRvd25sb2FkZWQ6IHtjdXJyZW50fS97dG90YWx9IGJ5dGVzICh7cGN0Oi4yZn0lKSIpDQogICAgICAgICAgICAgICAgICAgIGVsc2U6DQogICAgICAgICAgICAgICAgICAgICAgICBwcmludChmIkRvd25sb2FkZWQ6IHtjdXJyZW50fSBieXRlcyIpDQoNCiAgICAgICAgICAgIHJldHJpZXMgPSAwDQoNCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbiBhcyBleGM6DQogICAgICAgICAgICByZXRyaWVzICs9IDENCiAgICAgICAgICAgIHByaW50KGYiQ29ubmVjdGlvbiBpbnRlcnJ1cHRlZCAoe3JldHJpZXN9L3tNQVhfUkVUUklFU30pOiB7ZXhjfSIpDQogICAgICAgICAgICBpZiByZXRyaWVzID49IE1BWF9SRVRSSUVTOg0KICAgICAgICAgICAgICAgIHByaW50KCJUb28gbWFueSByZXRyaWVzLiBFeGl0aW5nLiIpDQogICAgICAgICAgICAgICAgcmV0dXJuIDENCiAgICAgICAgICAgIHRpbWUuc2xlZXAoNSkNCg0KDQppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOg0KICAgIHJhaXNlIFN5c3RlbUV4aXQobWFpbigpKQ0K"}
+import os
+import time
+import urllib.request
+from pathlib import Path
+
+URL = "https://releases.ubuntu.com/24.04.2/ubuntu-24.04.2-desktop-amd64.iso"
+OUT = Path.home() / "Downloads" / "ubuntu-24.04.2-desktop-amd64.iso"
+CHUNK = 8 * 1024 * 1024
+MAX_RETRIES = 30
+
+
+def get_total_size(url: str) -> int:
+    req = urllib.request.Request(url, method="HEAD")
+    with urllib.request.urlopen(req, timeout=60) as resp:
+        return int(resp.headers.get("Content-Length", "0"))
+
+
+def main() -> int:
+    OUT.parent.mkdir(parents=True, exist_ok=True)
+
+    total = get_total_size(URL)
+    retries = 0
+
+    while True:
+        existing = OUT.stat().st_size if OUT.exists() else 0
+        if total and existing >= total:
+            print(f"Complete: {OUT}")
+            print(f"Size: {existing} bytes")
+            return 0
+
+        headers = {}
+        mode = "wb"
+        if existing > 0:
+            headers["Range"] = f"bytes={existing}-"
+            mode = "ab"
+
+        req = urllib.request.Request(URL, headers=headers)
+
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp, open(OUT, mode) as fh:
+                while True:
+                    chunk = resp.read(CHUNK)
+                    if not chunk:
+                        break
+                    fh.write(chunk)
+
+                    current = OUT.stat().st_size
+                    if total:
+                        pct = (current / total) * 100
+                        print(f"Downloaded: {current}/{total} bytes ({pct:.2f}%)")
+                    else:
+                        print(f"Downloaded: {current} bytes")
+
+            retries = 0
+
+        except Exception as exc:
+            retries += 1
+            print(f"Connection interrupted ({retries}/{MAX_RETRIES}): {exc}")
+            if retries >= MAX_RETRIES:
+                print("Too many retries. Exiting.")
+                return 1
+            time.sleep(5)
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

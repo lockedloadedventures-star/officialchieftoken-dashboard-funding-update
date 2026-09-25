@@ -1,1 +1,171 @@
-{"data":"ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhbm5vdGF0aW9ucw0KDQppbXBvcnQgbWF0aA0KaW1wb3J0IG9zDQpmcm9tIHBhdGhsaWIgaW1wb3J0IFBhdGgNCg0KaW1wb3J0IGltYWdlaW8udjIgYXMgaW1hZ2Vpbw0KaW1wb3J0IG51bXB5IGFzIG5wDQpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250DQoNCldJRFRIID0gNzIwDQpIRUlHSFQgPSAxMjgwDQpGUFMgPSAyNA0KRFVSQVRJT05fU0VDID0gMTANClRPVEFMX0ZSQU1FUyA9IEZQUyAqIERVUkFUSU9OX1NFQw0KDQoNCmRlZiBsb2FkX2ZvbnQoc2l6ZTogaW50LCBib2xkOiBib29sID0gRmFsc2UpIC0+IEltYWdlRm9udC5GcmVlVHlwZUZvbnQgfCBJbWFnZUZvbnQuSW1hZ2VGb250Og0KICAgIGNhbmRpZGF0ZXMgPSBbXQ0KICAgIGlmIG9zLm5hbWUgPT0gIm50IjoNCiAgICAgICAgaWYgYm9sZDoNCiAgICAgICAgICAgIGNhbmRpZGF0ZXMuZXh0ZW5kKA0KICAgICAgICAgICAgICAgIFsNCiAgICAgICAgICAgICAgICAgICAgIkM6L1dpbmRvd3MvRm9udHMvYXJpYWxiZC50dGYiLA0KICAgICAgICAgICAgICAgICAgICAiQzovV2luZG93cy9Gb250cy9zZWd1aWJsLnR0ZiIsDQogICAgICAgICAgICAgICAgICAgICJDOi9XaW5kb3dzL0ZvbnRzL2ltcGFjdC50dGYiLA0KICAgICAgICAgICAgICAgIF0NCiAgICAgICAgICAgICkNCiAgICAgICAgY2FuZGlkYXRlcy5leHRlbmQoWyJDOi9XaW5kb3dzL0ZvbnRzL2FyaWFsLnR0ZiIsICJDOi9XaW5kb3dzL0ZvbnRzL3NlZ29ldWkudHRmIl0pDQoNCiAgICBmb3IgcGF0aCBpbiBjYW5kaWRhdGVzOg0KICAgICAgICBpZiBQYXRoKHBhdGgpLmV4aXN0cygpOg0KICAgICAgICAgICAgdHJ5Og0KICAgICAgICAgICAgICAgIHJldHVybiBJbWFnZUZvbnQudHJ1ZXR5cGUocGF0aCwgc2l6ZT1zaXplKQ0KICAgICAgICAgICAgZXhjZXB0IE9TRXJyb3I6DQogICAgICAgICAgICAgICAgcGFzcw0KDQogICAgcmV0dXJuIEltYWdlRm9udC5sb2FkX2RlZmF1bHQoKQ0KDQoNCmRlZiBsZXJwKGE6IGZsb2F0LCBiOiBmbG9hdCwgdDogZmxvYXQpIC0+IGZsb2F0Og0KICAgIHJldHVybiBhICsgKGIgLSBhKSAqIHQNCg0KDQpkZWYgZHJhd19ncmFkaWVudChkcmF3OiBJbWFnZURyYXcuSW1hZ2VEcmF3LCBjMTogdHVwbGVbaW50LCBpbnQsIGludF0sIGMyOiB0dXBsZVtpbnQsIGludCwgaW50XSkgLT4gTm9uZToNCiAgICBmb3IgeSBpbiByYW5nZShIRUlHSFQpOg0KICAgICAgICB0ID0geSAvIG1heChIRUlHSFQgLSAxLCAxKQ0KICAgICAgICByID0gaW50KGxlcnAoYzFbMF0sIGMyWzBdLCB0KSkNCiAgICAgICAgZyA9IGludChsZXJwKGMxWzFdLCBjMlsxXSwgdCkpDQogICAgICAgIGIgPSBpbnQobGVycChjMVsyXSwgYzJbMl0sIHQpKQ0KICAgICAgICBkcmF3LmxpbmUoWygwLCB5KSwgKFdJRFRILCB5KV0sIGZpbGw9KHIsIGcsIGIpKQ0KDQoNCmRlZiBkcmF3X3RleHRfY2VudGVyZWQoDQogICAgZHJhdzogSW1hZ2VEcmF3LkltYWdlRHJhdywNCiAgICB0ZXh0OiBzdHIsDQogICAgeTogaW50LA0KICAgIGZvbnQ6IEltYWdlRm9udC5GcmVlVHlwZUZvbnQgfCBJbWFnZUZvbnQuSW1hZ2VGb250LA0KICAgIGZpbGw6IHR1cGxlW2ludCwgaW50LCBpbnRdID0gKDI1NSwgMjU1LCAyNTUpLA0KKSAtPiBOb25lOg0KICAgIGJib3ggPSBkcmF3LnRleHRiYm94KCgwLCAwKSwgdGV4dCwgZm9udD1mb250KQ0KICAgIHcgPSBiYm94WzJdIC0gYmJveFswXQ0KICAgIHggPSAoV0lEVEggLSB3KSAvLyAyDQogICAgZHJhdy50ZXh0KCh4ICsgMiwgeSArIDIpLCB0ZXh0LCBmb250PWZvbnQsIGZpbGw9KDAsIDAsIDApKQ0KICAgIGRyYXcudGV4dCgoeCwgeSksIHRleHQsIGZvbnQ9Zm9udCwgZmlsbD1maWxsKQ0KDQoNCmRlZiBtYWtlX2NoaWVmdG9rZW5fZnJhbWUoaTogaW50KSAtPiBJbWFnZS5JbWFnZToNCiAgICB0ID0gaSAvIEZQUw0KICAgIHBoYXNlID0gaSAvIFRPVEFMX0ZSQU1FUw0KDQogICAgaW1nID0gSW1hZ2UubmV3KCJSR0IiLCAoV0lEVEgsIEhFSUdIVCksICgwLCAwLCAwKSkNCiAgICBkcmF3ID0gSW1hZ2VEcmF3LkRyYXcoaW1nKQ0KICAgIGRyYXdfZ3JhZGllbnQoZHJhdywgKDIyLCAxMCwgNiksICg5LCA0MSwgNTEpKQ0KDQogICAgd2F2ZSA9IGludCgyNSAqIG1hdGguc2luKHBoYXNlICogbWF0aC5waSAqIDIpKQ0KICAgIGRyYXcuZWxsaXBzZSgoNzAgKyB3YXZlLCA5MCwgNjUwICsgd2F2ZSwgNjUwKSwgb3V0bGluZT0oMjQ4LCAxODAsIDY0KSwgd2lkdGg9NykNCiAgICBkcmF3LmVsbGlwc2UoKDExMCAtIHdhdmUsIDEzMCwgNjEwIC0gd2F2ZSwgNjEwKSwgb3V0bGluZT0oNjUsIDIyMywgMjExKSwgd2lkdGg9NSkNCg0KICAgIGZvbnRfaDEgPSBsb2FkX2ZvbnQoNzIsIGJvbGQ9VHJ1ZSkNCiAgICBmb250X2gyID0gbG9hZF9mb250KDk0LCBib2xkPVRydWUpDQogICAgZm9udF9ib2R5ID0gbG9hZF9mb250KDQyLCBib2xkPVRydWUpDQogICAgZm9udF9zbWFsbCA9IGxvYWRfZm9udCgyOCkNCg0KICAgIGRyYXdfdGV4dF9jZW50ZXJlZChkcmF3LCAiQ0hJRUYgVE9LRU4iLCAxNzAsIGZvbnRfaDEsIGZpbGw9KDI1NSwgMjQ1LCAyMjUpKQ0KICAgIGRyYXdfdGV4dF9jZW50ZXJlZChkcmF3LCAiREFZIDgiLCAyNTUsIGZvbnRfaDIsIGZpbGw9KDI1MSwgMTkxLCAzNikpDQoNCiAgICBpZiB0IDwgMy4yOg0KICAgICAgICBib2R5ID0gIlNJR05BTCBCRUFUUyBOT0lTRSINCiAgICBlbGlmIHQgPCA2Ljg6DQogICAgICAgIGJvZHkgPSAiQlVJTEQgV0lUSCBBIFNZU1RFTSINCiAgICBlbHNlOg0KICAgICAgICBib2R5ID0gIkZPTExPVyArIENPTU1FTlQgU0lHTkFMIg0KDQogICAgZHJhdy5yb3VuZGVkX3JlY3RhbmdsZSgoNTUsIDc2MCwgV0lEVEggLSA1NSwgOTc1KSwgcmFkaXVzPTI4LCBmaWxsPSg4LCAxNiwgMjQpLCBvdXRsaW5lPSgyNTUsIDI0MiwgMjE2KSwgd2lkdGg9MikNCiAgICBkcmF3X3RleHRfY2VudGVyZWQoZHJhdywgYm9keSwgODMyLCBmb250X2JvZHksIGZpbGw9KDI0NCwgMjQ3LCAyNTApKQ0KDQogICAgcHVsc2UgPSAwLjcgKyAwLjMgKiAoMC41ICsgMC41ICogbWF0aC5zaW4ocGhhc2UgKiBtYXRoLnBpICogOCkpDQogICAgYmFyX3cgPSBpbnQoKFdJRFRIIC0gMTEwKSAqIHB1bHNlKQ0KICAgIGRyYXcucm91bmRlZF9yZWN0YW5nbGUoKDU1LCAxMDIwLCA1NSArIGJhcl93LCAxMDUwKSwgcmFkaXVzPTE1LCBmaWxsPSgyNTEsIDE5MSwgMzYpKQ0KICAgIGRyYXcucm91bmRlZF9yZWN0YW5nbGUoKDU1LCAxMDIwLCBXSURUSCAtIDU1LCAxMDUwKSwgcmFkaXVzPTE1LCBvdXRsaW5lPSgyNTEsIDE5MSwgMzYpLCB3aWR0aD0yKQ0KDQogICAgZHJhd190ZXh0X2NlbnRlcmVkKGRyYXcsICJFZHVjYXRpb25hbCBvbmx5LiBOb3QgZmluYW5jaWFsIGFkdmljZS4iLCAxMTUwLCBmb250X3NtYWxsLCBmaWxsPSgyMTgsIDIyOCwgMjM5KSkNCiAgICByZXR1cm4gaW1nDQoNCg0KZGVmIG1ha2VfYWlfYXZhdGFyX2ZyYW1lKGk6IGludCkgLT4gSW1hZ2UuSW1hZ2U6DQogICAgdCA9IGkgLyBGUFMNCiAgICBwaGFzZSA9IGkgLyBUT1RBTF9GUkFNRVMNCg0KICAgIGltZyA9IEltYWdlLm5ldygiUkdCIiwgKFdJRFRILCBIRUlHSFQpLCAoMCwgMCwgMCkpDQogICAgZHJhdyA9IEltYWdlRHJhdy5EcmF3KGltZykNCiAgICBkcmF3X2dyYWRpZW50KGRyYXcsICg3LCAxNywgMzQpLCAoMjAsIDYyLCA5NCkpDQoNCiAgICBmb3IgayBpbiByYW5nZSg3KToNCiAgICAgICAgeCA9IDcwICsgayAqIDk1ICsgaW50KDE2ICogbWF0aC5zaW4ocGhhc2UgKiBtYXRoLnBpICogMiArIGspKQ0KICAgICAgICB5ID0gMTIwICsgaW50KDEyICogbWF0aC5jb3MocGhhc2UgKiBtYXRoLnBpICogMyArIGspKQ0KICAgICAgICBkcmF3LnJvdW5kZWRfcmVjdGFuZ2xlKCh4LCB5LCB4ICsgNTgsIHkgKyA1OCksIHJhZGl1cz0xNCwgb3V0bGluZT0oNzQsIDIyMiwgMjQxKSwgd2lkdGg9MykNCg0KICAgIGZvbnRfaDEgPSBsb2FkX2ZvbnQoNjQsIGJvbGQ9VHJ1ZSkNCiAgICBmb250X2gyID0gbG9hZF9mb250KDg0LCBib2xkPVRydWUpDQogICAgZm9udF9ib2R5ID0gbG9hZF9mb250KDQwLCBib2xkPVRydWUpDQogICAgZm9udF9zbWFsbCA9IGxvYWRfZm9udCgyNykNCg0KICAgIGRyYXdfdGV4dF9jZW50ZXJlZChkcmF3LCAiQUkgQVZBVEFSIENPVVJTRSIsIDE3MCwgZm9udF9oMSwgZmlsbD0oMjIwLCAyNDIsIDI1NSkpDQogICAgZHJhd190ZXh0X2NlbnRlcmVkKGRyYXcsICJEQVkgOCIsIDI1MCwgZm9udF9oMiwgZmlsbD0oMTAzLCAyMzIsIDI0OSkpDQoNCiAgICBpZiB0IDwgMy4yOg0KICAgICAgICBib2R5ID0gIjQ4IEhPVVJTIEJFRk9SRSBQUklDRSBMSUZUIg0KICAgIGVsaWYgdCA8IDYuODoNCiAgICAgICAgYm9keSA9ICJOSUNIRS4gQ09OVEVOVC4gTU9ORVRJWkUuIg0KICAgIGVsc2U6DQogICAgICAgIGJvZHkgPSAiQ09NTUVOVCBSRUFEWSBGT1IgREVUQUlMUyINCg0KICAgIGRyYXcucm91bmRlZF9yZWN0YW5nbGUoKDU1LCA3NjAsIFdJRFRIIC0gNTUsIDk3NSksIHJhZGl1cz0yOCwgZmlsbD0oOCwgMjAsIDM0KSwgb3V0bGluZT0oMTk0LCAyNTUsIDI1NCksIHdpZHRoPTIpDQogICAgZHJhd190ZXh0X2NlbnRlcmVkKGRyYXcsIGJvZHksIDgzMiwgZm9udF9ib2R5LCBmaWxsPSgyNDEsIDI0OSwgMjU1KSkNCg0KICAgIGZpbGxfcmF0aW8gPSBtaW4oMS4wLCAoaSArIDEpIC8gVE9UQUxfRlJBTUVTKQ0KICAgIGJhcl93ID0gaW50KChXSURUSCAtIDExMCkgKiBmaWxsX3JhdGlvKQ0KICAgIGRyYXcucm91bmRlZF9yZWN0YW5nbGUoKDU1LCAxMDIwLCA1NSArIGJhcl93LCAxMDUwKSwgcmFkaXVzPTE1LCBmaWxsPSgzNCwgMjExLCAyMzgpKQ0KICAgIGRyYXcucm91bmRlZF9yZWN0YW5nbGUoKDU1LCAxMDIwLCBXSURUSCAtIDU1LCAxMDUwKSwgcmFkaXVzPTE1LCBvdXRsaW5lPSgzNCwgMjExLCAyMzgpLCB3aWR0aD0yKQ0KDQogICAgZHJhd190ZXh0X2NlbnRlcmVkKGRyYXcsICJPZmZlciB0ZXJtcyBhcHBseS4gRWR1Y2F0aW9uYWwgY29udGVudC4iLCAxMTUwLCBmb250X3NtYWxsLCBmaWxsPSgyMDMsIDIyOSwgMjQ3KSkNCiAgICByZXR1cm4gaW1nDQoNCg0KZGVmIHJlbmRlcl92aWRlbyhvdXRwdXRfcGF0aDogUGF0aCwgZnJhbWVfYnVpbGRlcikgLT4gTm9uZToNCiAgICBvdXRwdXRfcGF0aC5wYXJlbnQubWtkaXIocGFyZW50cz1UcnVlLCBleGlzdF9vaz1UcnVlKQ0KICAgIHdpdGggaW1hZ2Vpby5nZXRfd3JpdGVyKG91dHB1dF9wYXRoLmFzX3Bvc2l4KCksIGZwcz1GUFMsIGNvZGVjPSJsaWJ4MjY0IiwgcXVhbGl0eT04LCBwaXhlbGZvcm1hdD0ieXV2NDIwcCIpIGFzIHdyaXRlcjoNCiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoVE9UQUxfRlJBTUVTKToNCiAgICAgICAgICAgIGZyYW1lID0gZnJhbWVfYnVpbGRlcihpKQ0KICAgICAgICAgICAgd3JpdGVyLmFwcGVuZF9kYXRhKG5wLmFzYXJyYXkoZnJhbWUsIGR0eXBlPW5wLnVpbnQ4KSkNCg0KDQpkZWYgbWFpbigpIC0+IE5vbmU6DQogICAgZG93bmxvYWRzID0gUGF0aC5ob21lKCkgLyAiRG93bmxvYWRzIg0KICAgIGNoaWVmX291dCA9IGRvd25sb2FkcyAvICJjaGllZnRva2VuLWRheTgtcmVlbC5tcDQiDQogICAgYXZhdGFyX291dCA9IGRvd25sb2FkcyAvICJhaS1hdmF0YXItY291cnNlLWRheTgtcmVlbC5tcDQiDQoNCiAgICBwcmludChmIlJlbmRlcmluZzoge2NoaWVmX291dH0iKQ0KICAgIHJlbmRlcl92aWRlbyhjaGllZl9vdXQsIG1ha2VfY2hpZWZ0b2tlbl9mcmFtZSkNCiAgICBwcmludChmIlJlbmRlcmluZzoge2F2YXRhcl9vdXR9IikNCiAgICByZW5kZXJfdmlkZW8oYXZhdGFyX291dCwgbWFrZV9haV9hdmF0YXJfZnJhbWUpDQoNCiAgICBwcmludCgiRG9uZSIpDQogICAgcHJpbnQoY2hpZWZfb3V0KQ0KICAgIHByaW50KGF2YXRhcl9vdXQpDQoNCg0KaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoNCiAgICBtYWluKCkNCg=="}
+from __future__ import annotations
+
+import math
+import os
+from pathlib import Path
+
+import imageio.v2 as imageio
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+WIDTH = 720
+HEIGHT = 1280
+FPS = 24
+DURATION_SEC = 10
+TOTAL_FRAMES = FPS * DURATION_SEC
+
+
+def load_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
+    candidates = []
+    if os.name == "nt":
+        if bold:
+            candidates.extend(
+                [
+                    "C:/Windows/Fonts/arialbd.ttf",
+                    "C:/Windows/Fonts/seguibl.ttf",
+                    "C:/Windows/Fonts/impact.ttf",
+                ]
+            )
+        candidates.extend(["C:/Windows/Fonts/arial.ttf", "C:/Windows/Fonts/segoeui.ttf"])
+
+    for path in candidates:
+        if Path(path).exists():
+            try:
+                return ImageFont.truetype(path, size=size)
+            except OSError:
+                pass
+
+    return ImageFont.load_default()
+
+
+def lerp(a: float, b: float, t: float) -> float:
+    return a + (b - a) * t
+
+
+def draw_gradient(draw: ImageDraw.ImageDraw, c1: tuple[int, int, int], c2: tuple[int, int, int]) -> None:
+    for y in range(HEIGHT):
+        t = y / max(HEIGHT - 1, 1)
+        r = int(lerp(c1[0], c2[0], t))
+        g = int(lerp(c1[1], c2[1], t))
+        b = int(lerp(c1[2], c2[2], t))
+        draw.line([(0, y), (WIDTH, y)], fill=(r, g, b))
+
+
+def draw_text_centered(
+    draw: ImageDraw.ImageDraw,
+    text: str,
+    y: int,
+    font: ImageFont.FreeTypeFont | ImageFont.ImageFont,
+    fill: tuple[int, int, int] = (255, 255, 255),
+) -> None:
+    bbox = draw.textbbox((0, 0), text, font=font)
+    w = bbox[2] - bbox[0]
+    x = (WIDTH - w) // 2
+    draw.text((x + 2, y + 2), text, font=font, fill=(0, 0, 0))
+    draw.text((x, y), text, font=font, fill=fill)
+
+
+def make_chieftoken_frame(i: int) -> Image.Image:
+    t = i / FPS
+    phase = i / TOTAL_FRAMES
+
+    img = Image.new("RGB", (WIDTH, HEIGHT), (0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    draw_gradient(draw, (22, 10, 6), (9, 41, 51))
+
+    wave = int(25 * math.sin(phase * math.pi * 2))
+    draw.ellipse((70 + wave, 90, 650 + wave, 650), outline=(248, 180, 64), width=7)
+    draw.ellipse((110 - wave, 130, 610 - wave, 610), outline=(65, 223, 211), width=5)
+
+    font_h1 = load_font(72, bold=True)
+    font_h2 = load_font(94, bold=True)
+    font_body = load_font(42, bold=True)
+    font_small = load_font(28)
+
+    draw_text_centered(draw, "CHIEF TOKEN", 170, font_h1, fill=(255, 245, 225))
+    draw_text_centered(draw, "DAY 8", 255, font_h2, fill=(251, 191, 36))
+
+    if t < 3.2:
+        body = "SIGNAL BEATS NOISE"
+    elif t < 6.8:
+        body = "BUILD WITH A SYSTEM"
+    else:
+        body = "FOLLOW + COMMENT SIGNAL"
+
+    draw.rounded_rectangle((55, 760, WIDTH - 55, 975), radius=28, fill=(8, 16, 24), outline=(255, 242, 216), width=2)
+    draw_text_centered(draw, body, 832, font_body, fill=(244, 247, 250))
+
+    pulse = 0.7 + 0.3 * (0.5 + 0.5 * math.sin(phase * math.pi * 8))
+    bar_w = int((WIDTH - 110) * pulse)
+    draw.rounded_rectangle((55, 1020, 55 + bar_w, 1050), radius=15, fill=(251, 191, 36))
+    draw.rounded_rectangle((55, 1020, WIDTH - 55, 1050), radius=15, outline=(251, 191, 36), width=2)
+
+    draw_text_centered(draw, "Educational only. Not financial advice.", 1150, font_small, fill=(218, 228, 239))
+    return img
+
+
+def make_ai_avatar_frame(i: int) -> Image.Image:
+    t = i / FPS
+    phase = i / TOTAL_FRAMES
+
+    img = Image.new("RGB", (WIDTH, HEIGHT), (0, 0, 0))
+    draw = ImageDraw.Draw(img)
+    draw_gradient(draw, (7, 17, 34), (20, 62, 94))
+
+    for k in range(7):
+        x = 70 + k * 95 + int(16 * math.sin(phase * math.pi * 2 + k))
+        y = 120 + int(12 * math.cos(phase * math.pi * 3 + k))
+        draw.rounded_rectangle((x, y, x + 58, y + 58), radius=14, outline=(74, 222, 241), width=3)
+
+    font_h1 = load_font(64, bold=True)
+    font_h2 = load_font(84, bold=True)
+    font_body = load_font(40, bold=True)
+    font_small = load_font(27)
+
+    draw_text_centered(draw, "AI AVATAR COURSE", 170, font_h1, fill=(220, 242, 255))
+    draw_text_centered(draw, "DAY 8", 250, font_h2, fill=(103, 232, 249))
+
+    if t < 3.2:
+        body = "48 HOURS BEFORE PRICE LIFT"
+    elif t < 6.8:
+        body = "NICHE. CONTENT. MONETIZE."
+    else:
+        body = "COMMENT READY FOR DETAILS"
+
+    draw.rounded_rectangle((55, 760, WIDTH - 55, 975), radius=28, fill=(8, 20, 34), outline=(194, 255, 254), width=2)
+    draw_text_centered(draw, body, 832, font_body, fill=(241, 249, 255))
+
+    fill_ratio = min(1.0, (i + 1) / TOTAL_FRAMES)
+    bar_w = int((WIDTH - 110) * fill_ratio)
+    draw.rounded_rectangle((55, 1020, 55 + bar_w, 1050), radius=15, fill=(34, 211, 238))
+    draw.rounded_rectangle((55, 1020, WIDTH - 55, 1050), radius=15, outline=(34, 211, 238), width=2)
+
+    draw_text_centered(draw, "Offer terms apply. Educational content.", 1150, font_small, fill=(203, 229, 247))
+    return img
+
+
+def render_video(output_path: Path, frame_builder) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with imageio.get_writer(output_path.as_posix(), fps=FPS, codec="libx264", quality=8, pixelformat="yuv420p") as writer:
+        for i in range(TOTAL_FRAMES):
+            frame = frame_builder(i)
+            writer.append_data(np.asarray(frame, dtype=np.uint8))
+
+
+def main() -> None:
+    downloads = Path.home() / "Downloads"
+    chief_out = downloads / "chieftoken-day8-reel.mp4"
+    avatar_out = downloads / "ai-avatar-course-day8-reel.mp4"
+
+    print(f"Rendering: {chief_out}")
+    render_video(chief_out, make_chieftoken_frame)
+    print(f"Rendering: {avatar_out}")
+    render_video(avatar_out, make_ai_avatar_frame)
+
+    print("Done")
+    print(chief_out)
+    print(avatar_out)
+
+
+if __name__ == "__main__":
+    main()

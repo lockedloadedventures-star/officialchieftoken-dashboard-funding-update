@@ -1,1 +1,57 @@
-{"data":"IyBUZWxlZ3JhbSArIERpc2NvcmQgU2V0dXAgR3VpZGUgKENISUVGKQ0KDQpGb2xsb3cgdGhlc2Ugc3RlcHMgeW91cnNlbGYg4oCUIGJvdGggcGxhdGZvcm1zIHJlcXVpcmUgeW91ciBvd24gcGhvbmUgbnVtYmVyL2FjY291bnQNCnRvIGNyZWF0ZSBhIGNoYW5uZWwgb3Igc2VydmVyLCBzbyB0aGlzIGNhbid0IGJlIGF1dG9tYXRlZC4gQ29weS9wYXN0ZSBjb250ZW50IGlzDQpwdWxsZWQgZGlyZWN0bHkgZnJvbSBgZG9jcy9zb2NpYWwtbGF1bmNoLWtpdC5tZGAgc28gaXQgc3RheXMgY29uc2lzdGVudCBldmVyeXdoZXJlLg0KDQojIyBUZWxlZ3JhbQ0KDQoxLiBPcGVuIFRlbGVncmFtIChhcHAgb3Igd2ViLnRlbGVncmFtLm9yZykgb24geW91ciBwaG9uZS9hY2NvdW50Lg0KMi4gQ3JlYXRlIGEgbmV3ICoqQ2hhbm5lbCoqIChub3QgYSBncm91cCkgbmFtZWQ6IGBDSElFRiBUb2tlbiBPZmZpY2lhbGANCiAgIC0gVGhpcyBpcyB0aGUgYW5ub3VuY2VtZW50cyBjaGFubmVsIOKAlCBvbmUtd2F5IGJyb2FkY2FzdC4NCjMuIFNldCB0aGUgY2hhbm5lbCBwaWN0dXJlIHRvIHRoZSBDSElFRiB3b3JkbWFyay9sb2dvIChgY2hpZWYtY29pbi0yNTYucG5nYCBpbiB0aGlzIHJlcG8pLg0KNC4gU2V0IHRoZSBjaGFubmVsIGRlc2NyaXB0aW9uIHRvOg0KICAgPiBDSElFRiBvbiBCYXNlLiBXZWVrbHkgZWNvc3lzdGVtIGJyaWVmcywgYnVpbGRlciB0b29scywgYW5kIFV0aWxpdHkgUGFzcyBhY2Nlc3MuIEVkdWNhdGlvbmFsIG9ubHkuIE5vdCBmaW5hbmNpYWwgYWR2aWNlLg0KNS4gUG9zdCB0aGUgcGlubmVkIGZpcnN0IG1lc3NhZ2UgKGZyb20gYHNvY2lhbC1sYXVuY2gta2l0Lm1kYCk6DQogICA+IENISUVGIFV0aWxpdHkgUGFzcyBpcyBsaXZlLg0KICAgPg0KICAgPiBXaGF0IHlvdSBnZXQ6DQogICA+IC0gV2Vla2x5IGhpZ2gtc2lnbmFsIENISUVGIG1hcmtldCArIGVjb3N5c3RlbSBicmllZg0KICAgPiAtIE1lbWJlcnMtb25seSBleGVjdXRpb24gdGVtcGxhdGVzDQogICA+IC0gT2ZmaWNlIGhvdXIgKyBwcmlvcml0eSBzdXBwb3J0IG9uIGhpZ2hlciB0aWVycw0KICAgPg0KICAgPiBDaG9vc2UgeW91ciBwbGFuOiBodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vY2hlY2tvdXQNCiAgID4NCiAgID4gQnVpbHQgb24gQmFzZS4gRWR1Y2F0aW9uYWwgb25seS4NCjYuIFBpbiB0aGF0IG1lc3NhZ2UuDQo3LiBDcmVhdGUgYSAqKnNlY29uZCwgc2VwYXJhdGUgZ3JvdXAqKiBmb3IgZGlzY3Vzc2lvbiAoVGVsZWdyYW0gY2hhbm5lbHMgZG9uJ3Qgc3VwcG9ydCByZXBsaWVzKTogbmFtZSBpdCBgQ0hJRUYgVG9rZW4gRGlzY3Vzc2lvbmAuDQogICAtIExpbmsgdGhlIGRpc2N1c3Npb24gZ3JvdXAgdG8gdGhlIGNoYW5uZWwgdmlhIENoYW5uZWwgU2V0dGluZ3Mg4oaSIERpc2N1c3Npb24uDQo4LiBHZXQgdGhlIHB1YmxpYyBpbnZpdGUgbGluayBmb3IgdGhlIGNoYW5uZWw6IENoYW5uZWwgU2V0dGluZ3Mg4oaSICoqSW52aXRlIExpbmtzKiog4oaSIGNvcHkgdGhlIGB0Lm1lLy4uLmAgbGluay4NCjkuIFNlbmQgbWUgdGhhdCBgdC5tZS8uLi5gIGxpbmsgYW5kIEkgd2lsbCB1cGRhdGUgaXQgaW50byBgbGlzdGluZy90b2tlbi1wcm9maWxlLmpzb25gIGFuZCB0aGUgdGhyZWUgZXhjaGFuZ2UgbGlzdGluZyBkcmFmdHMgKGN1cnJlbnRseSBwbGFjZWhvbGRlcnMpLg0KDQojIyBEaXNjb3JkDQoNCjEuIE9wZW4gRGlzY29yZCwgY2xpY2sgKiorKiog4oaSICoqQ3JlYXRlIE15IE93bioqIOKGkiBuYW1lIHRoZSBzZXJ2ZXIgYENISUVGIFRva2VuYC4NCjIuIFVwbG9hZCB0aGUgQ0hJRUYgbG9nbyBhcyB0aGUgc2VydmVyIGljb24uDQozLiBDcmVhdGUgdGhlc2UgY2hhbm5lbHMgKGZyb20gYHNvY2lhbC1sYXVuY2gta2l0Lm1kYCk6DQogICAtIGAjc3RhcnQtaGVyZWANCiAgIC0gYCNhbm5vdW5jZW1lbnRzYA0KICAgLSBgI3dlZWtseS1icmllZmANCiAgIC0gYCN0ZW1wbGF0ZXNgDQogICAtIGAjb2ZmaWNlLWhvdXJzYA0KICAgLSBgI3N1cHBvcnRgDQo0LiBJbiBgI3N0YXJ0LWhlcmVgLCBwaW4gYSB3ZWxjb21lIG1lc3NhZ2Ugd2l0aCB0aGUgY29tcGxpYW5jZSBmb290ZXI6DQogICA+IEVkdWNhdGlvbmFsIGFuZCBpbmZvcm1hdGlvbmFsIG9ubHkuIE5vdGhpbmcgaXMgZmluYW5jaWFsLCBsZWdhbCwgb3IgdGF4IGFkdmljZS4NCjUuIFNldCBtb2RlcmF0aW9uIGJhc2VsaW5lIChTZXJ2ZXIgU2V0dGluZ3Mg4oaSIE1vZGVyYXRpb24pOg0KICAgLSBObyBzY2FtIGxpbmtzDQogICAtIE5vIGltcGVyc29uYXRpb24NCiAgIC0gTm8gZmluYW5jaWFsIGd1YXJhbnRlZXMgKGF1dG8tbW9kIGtleXdvcmQgZmlsdGVycyByZWNvbW1lbmRlZCBmb3IgImd1YXJhbnRlZWQiLCAiMTAweCIsIGV0Yy4pDQo2LiBHZW5lcmF0ZSBhIHBlcm1hbmVudCBpbnZpdGUgbGluazogcmlnaHQtY2xpY2sgc2VydmVyIG5hbWUg4oaSICoqSW52aXRlIFBlb3BsZSoqIOKGkiBlZGl0IGxpbmsgdG8gKipOZXZlciBleHBpcmUqKi4NCjcuIFNlbmQgbWUgdGhhdCBgZGlzY29yZC5nZy8uLi5gIGxpbmsgYW5kIEkgd2lsbCB1cGRhdGUgaXQgdGhlIHNhbWUgd2F5IGFzIHRoZSBUZWxlZ3JhbSBsaW5rLg0KDQojIyBBZnRlciBib3RoIGFyZSBsaXZlDQoNCk9uY2UgeW91IHNlbmQgbWUgYm90aCBsaW5rcywgSSB3aWxsOg0KLSBSZXBsYWNlIHRoZSBwbGFjZWhvbGRlciBUZWxlZ3JhbS9EaXNjb3JkIFVSTHMgaW4gYGxpc3RpbmcvdG9rZW4tcHJvZmlsZS5qc29uYA0KLSBVcGRhdGUgYGxpc3RpbmcvY29pbmJhc2UtYXNzZXQtaHViLWRyYWZ0Lm1kYCwgYGNvaW5nZWNrby1zdWJtaXNzaW9uLWRyYWZ0Lm1kYCwgYGNvaW5tYXJrZXRjYXAtc3VibWlzc2lvbi1kcmFmdC5tZGANCi0gUmUtcnVuIGBucG0gcnVuIGxpc3Rpbmc6dmFsaWRhdGVgIGFuZCBgbnBtIHJ1biBsYXVuY2g6cmVhZGluZXNzYCB0byBjb25maXJtIGV2ZXJ5dGhpbmcgc3RpbGwgcGFzc2VzDQo="}
+# Telegram + Discord Setup Guide (CHIEF)
+
+Follow these steps yourself — both platforms require your own phone number/account
+to create a channel or server, so this can't be automated. Copy/paste content is
+pulled directly from `docs/social-launch-kit.md` so it stays consistent everywhere.
+
+## Telegram
+
+1. Open Telegram (app or web.telegram.org) on your phone/account.
+2. Create a new **Channel** (not a group) named: `CHIEF Token Official`
+   - This is the announcements channel — one-way broadcast.
+3. Set the channel picture to the CHIEF wordmark/logo (`chief-coin-256.png` in this repo).
+4. Set the channel description to:
+   > CHIEF on Base. Weekly ecosystem briefs, builder tools, and Utility Pass access. Educational only. Not financial advice.
+5. Post the pinned first message (from `social-launch-kit.md`):
+   > CHIEF Utility Pass is live.
+   >
+   > What you get:
+   > - Weekly high-signal CHIEF market + ecosystem brief
+   > - Members-only execution templates
+   > - Office hour + priority support on higher tiers
+   >
+   > Choose your plan: https://officialchieftoken.com/checkout
+   >
+   > Built on Base. Educational only.
+6. Pin that message.
+7. Create a **second, separate group** for discussion (Telegram channels don't support replies): name it `CHIEF Token Discussion`.
+   - Link the discussion group to the channel via Channel Settings → Discussion.
+8. Get the public invite link for the channel: Channel Settings → **Invite Links** → copy the `t.me/...` link.
+9. Send me that `t.me/...` link and I will update it into `listing/token-profile.json` and the three exchange listing drafts (currently placeholders).
+
+## Discord
+
+1. Open Discord, click **+** → **Create My Own** → name the server `CHIEF Token`.
+2. Upload the CHIEF logo as the server icon.
+3. Create these channels (from `social-launch-kit.md`):
+   - `#start-here`
+   - `#announcements`
+   - `#weekly-brief`
+   - `#templates`
+   - `#office-hours`
+   - `#support`
+4. In `#start-here`, pin a welcome message with the compliance footer:
+   > Educational and informational only. Nothing is financial, legal, or tax advice.
+5. Set moderation baseline (Server Settings → Moderation):
+   - No scam links
+   - No impersonation
+   - No financial guarantees (auto-mod keyword filters recommended for "guaranteed", "100x", etc.)
+6. Generate a permanent invite link: right-click server name → **Invite People** → edit link to **Never expire**.
+7. Send me that `discord.gg/...` link and I will update it the same way as the Telegram link.
+
+## After both are live
+
+Once you send me both links, I will:
+- Replace the placeholder Telegram/Discord URLs in `listing/token-profile.json`
+- Update `listing/coinbase-asset-hub-draft.md`, `coingecko-submission-draft.md`, `coinmarketcap-submission-draft.md`
+- Re-run `npm run listing:validate` and `npm run launch:readiness` to confirm everything still passes

@@ -1,1 +1,17 @@
-{"data":"Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVA0KcHJhZ21hIHNvbGlkaXR5IF4wLjguMjQ7DQoNCmltcG9ydCAiQG9wZW56ZXBwZWxpbi9jb250cmFjdHMvdG9rZW4vRVJDMjAvRVJDMjAuc29sIjsNCmltcG9ydCAiQG9wZW56ZXBwZWxpbi9jb250cmFjdHMvYWNjZXNzL093bmFibGUuc29sIjsNCg0KY29udHJhY3QgQ2hpZWZUb2tlbiBpcyBFUkMyMCwgT3duYWJsZSB7DQogICAgdWludDI1NiBwdWJsaWMgY29uc3RhbnQgSU5JVElBTF9TVVBQTFkgPSAxXzAwMF8wMDAgKiAxMCAqKiAxODsNCg0KICAgIGNvbnN0cnVjdG9yKGFkZHJlc3MgaW5pdGlhbE93bmVyKSBFUkMyMCgiQ2hpZWZUb2tlbiIsICJDSElFRiIpIE93bmFibGUoaW5pdGlhbE93bmVyKSB7DQogICAgICAgIF9taW50KGluaXRpYWxPd25lciwgSU5JVElBTF9TVVBQTFkpOw0KICAgIH0NCg0KICAgIGZ1bmN0aW9uIG1pbnQoYWRkcmVzcyB0bywgdWludDI1NiBhbW91bnQpIGV4dGVybmFsIG9ubHlPd25lciB7DQogICAgICAgIF9taW50KHRvLCBhbW91bnQpOw0KICAgIH0NCn0NCg=="}
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract ChiefToken is ERC20, Ownable {
+    uint256 public constant INITIAL_SUPPLY = 1_000_000 * 10 ** 18;
+
+    constructor(address initialOwner) ERC20("ChiefToken", "CHIEF") Ownable(initialOwner) {
+        _mint(initialOwner, INITIAL_SUPPLY);
+    }
+
+    function mint(address to, uint256 amount) external onlyOwner {
+        _mint(to, amount);
+    }
+}

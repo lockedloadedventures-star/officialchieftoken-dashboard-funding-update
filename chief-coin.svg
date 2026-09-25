@@ -1,1 +1,31 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iQ0hJRUYgY29pbiI+DQogIDxkZWZzPg0KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iY29pbkNvcmUiIGN4PSIzNSUiIGN5PSIzMCUiIHI9Ijc1JSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZmZlNGEzIi8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjYwJSIgc3RvcC1jb2xvcj0iI2ZmYjM0NyIvPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZDE2YjAwIi8+DQogICAgPC9yYWRpYWxHcmFkaWVudD4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InJpbSIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZjVkMSIvPg0KICAgICAgPHN0b3Agb2Zmc2V0PSI0MCUiIHN0b3AtY29sb3I9IiNmNGJmNTciLz4NCiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E0NGYwMCIvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogICAgPHJhZGlhbEdyYWRpZW50IGlkPSJzaGluZSIgY3g9IjIwJSIgY3k9IjE1JSIgcj0iNDUlIj4NCiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMC45Ii8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMCIvPg0KICAgIDwvcmFkaWFsR3JhZGllbnQ+DQogIDwvZGVmcz4NCg0KICA8cmVjdCB3aWR0aD0iMTAyNCIgaGVpZ2h0PSIxMDI0IiBmaWxsPSIjMTAxMDEwIi8+DQoNCiAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSI0MzAiIGZpbGw9InVybCgjcmltKSIvPg0KICA8Y2lyY2xlIGN4PSI1MTIiIGN5PSI1MTIiIHI9IjM3MCIgZmlsbD0idXJsKCNjb2luQ29yZSkiLz4NCiAgPGNpcmNsZSBjeD0iNTEyIiBjeT0iNTEyIiByPSIzMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzhiNDMwMCIgc3Ryb2tlLXdpZHRoPSIxNCIgb3BhY2l0eT0iMC41Ii8+DQoNCiAgPHBhdGggZD0iTTMwNSA0NDhjMC0xMDUgODgtMTgzIDIwNy0xODMgNzUgMCAxNDAgMjcgMTc5IDc1bC02NiA1MmMtMjQtMjgtNjEtNDMtMTA5LTQzLTcxIDAtMTE5IDQxLTExOSA5NyAwIDU2IDQ4IDk3IDExOSA5NyA0OCAwIDg1LTE1IDEwOS00M2w2NiA1MmMtMzkgNDgtMTA0IDc1LTE3OSA3NS0xMTkgMC0yMDctNzgtMjA3LTE3OXoiDQogICAgICAgIGZpbGw9IiMxODE4MTgiLz4NCg0KICA8dGV4dCB4PSI1MTIiIHk9IjcxNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjkyIiBmb250LXdlaWdodD0iODAwIiBmaWxsPSIjMTgxODE4IiBsZXR0ZXItc3BhY2luZz0iNiI+Q0hJRUY8L3RleHQ+DQoNCiAgPGVsbGlwc2UgY3g9IjQwMCIgY3k9IjM1MCIgcng9IjIzMCIgcnk9IjE1MCIgZmlsbD0idXJsKCNzaGluZSkiLz4NCjwvc3ZnPg=="}
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="CHIEF coin">
+  <defs>
+    <radialGradient id="coinCore" cx="35%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#ffe4a3"/>
+      <stop offset="60%" stop-color="#ffb347"/>
+      <stop offset="100%" stop-color="#d16b00"/>
+    </radialGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff5d1"/>
+      <stop offset="40%" stop-color="#f4bf57"/>
+      <stop offset="100%" stop-color="#a44f00"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="20%" cy="15%" r="45%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="#101010"/>
+
+  <circle cx="512" cy="512" r="430" fill="url(#rim)"/>
+  <circle cx="512" cy="512" r="370" fill="url(#coinCore)"/>
+  <circle cx="512" cy="512" r="300" fill="none" stroke="#8b4300" stroke-width="14" opacity="0.5"/>
+
+  <path d="M305 448c0-105 88-183 207-183 75 0 140 27 179 75l-66 52c-24-28-61-43-109-43-71 0-119 41-119 97 0 56 48 97 119 97 48 0 85-15 109-43l66 52c-39 48-104 75-179 75-119 0-207-78-207-179z"
+        fill="#181818"/>
+
+  <text x="512" y="715" text-anchor="middle" font-family="Arial, sans-serif" font-size="92" font-weight="800" fill="#181818" letter-spacing="6">CHIEF</text>
+
+  <ellipse cx="400" cy="350" rx="230" ry="150" fill="url(#shine)"/>
+</svg>

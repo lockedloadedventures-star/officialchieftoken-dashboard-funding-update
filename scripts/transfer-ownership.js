@@ -1,1 +1,44 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCB7IGV0aGVycyB9ID0gcmVxdWlyZSgiaGFyZGhhdCIpOw0KDQpjb25zdCBDT05UUkFDVF9BRERSRVNTID0gcHJvY2Vzcy5lbnYuQ09OVFJBQ1RfQUREUkVTUyB8fCAiMHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3IjsNCmNvbnN0IE5FV19PV05FUiA9IHByb2Nlc3MuZW52Lk5FV19PV05FUjsNCg0KYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsNCiAgaWYgKCFldGhlcnMuaXNBZGRyZXNzKENPTlRSQUNUX0FERFJFU1MpKSB7DQogICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIENPTlRSQUNUX0FERFJFU1MuIFNldCBhIHZhbGlkIGFkZHJlc3MgaW4gLmVudiBvciBzY3JpcHQuIik7DQogIH0NCg0KICBpZiAoIU5FV19PV05FUiB8fCAhZXRoZXJzLmlzQWRkcmVzcyhORVdfT1dORVIpKSB7DQogICAgdGhyb3cgbmV3IEVycm9yKCJJbnZhbGlkIE5FV19PV05FUi4gU2V0IE5FV19PV05FUiBpbiAuZW52IHRvIGEgdmFsaWQgd2FsbGV0IGFkZHJlc3MuIik7DQogIH0NCg0KICBjb25zdCBbc2lnbmVyXSA9IGF3YWl0IGV0aGVycy5nZXRTaWduZXJzKCk7DQogIGNvbnN0IGNvbnRyYWN0ID0gYXdhaXQgZXRoZXJzLmdldENvbnRyYWN0QXQoIkNoaWVmVG9rZW4iLCBDT05UUkFDVF9BRERSRVNTLCBzaWduZXIpOw0KDQogIGNvbnN0IGN1cnJlbnRPd25lciA9IGF3YWl0IGNvbnRyYWN0Lm93bmVyKCk7DQogIGNvbnNvbGUubG9nKCJDdXJyZW50IG93bmVyOiIsIGN1cnJlbnRPd25lcik7DQogIGNvbnNvbGUubG9nKCJTaWduZXI6IiwgYXdhaXQgc2lnbmVyLmdldEFkZHJlc3MoKSk7DQogIGNvbnNvbGUubG9nKCJOZXcgb3duZXI6IiwgTkVXX09XTkVSKTsNCg0KICBpZiAoY3VycmVudE93bmVyLnRvTG93ZXJDYXNlKCkgIT09IChhd2FpdCBzaWduZXIuZ2V0QWRkcmVzcygpKS50b0xvd2VyQ2FzZSgpKSB7DQogICAgdGhyb3cgbmV3IEVycm9yKCJTaWduZXIgaXMgbm90IGN1cnJlbnQgb3duZXIuIFVzZSB0aGUgb3duZXIgcHJpdmF0ZSBrZXkgaW4gLmVudi4iKTsNCiAgfQ0KDQogIGlmIChjdXJyZW50T3duZXIudG9Mb3dlckNhc2UoKSA9PT0gTkVXX09XTkVSLnRvTG93ZXJDYXNlKCkpIHsNCiAgICBjb25zb2xlLmxvZygiT3duZXJzaGlwIGFscmVhZHkgc2V0IHRvIHRoaXMgd2FsbGV0LiBOb3RoaW5nIHRvIGRvLiIpOw0KICAgIHJldHVybjsNCiAgfQ0KDQogIGNvbnN0IHR4ID0gYXdhaXQgY29udHJhY3QudHJhbnNmZXJPd25lcnNoaXAoTkVXX09XTkVSKTsNCiAgY29uc29sZS5sb2coIlN1Ym1pdHRlZCB0eDoiLCB0eC5oYXNoKTsNCiAgYXdhaXQgdHgud2FpdCgpOw0KDQogIGNvbnN0IHVwZGF0ZWRPd25lciA9IGF3YWl0IGNvbnRyYWN0Lm93bmVyKCk7DQogIGNvbnNvbGUubG9nKCJVcGRhdGVkIG93bmVyOiIsIHVwZGF0ZWRPd25lcik7DQp9DQoNCm1haW4oKS5jYXRjaCgoZXJyb3IpID0+IHsNCiAgY29uc29sZS5lcnJvcihlcnJvcik7DQogIHByb2Nlc3MuZXhpdENvZGUgPSAxOw0KfSk7DQo="}
+require("dotenv").config();
+const { ethers } = require("hardhat");
+
+const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS || "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+const NEW_OWNER = process.env.NEW_OWNER;
+
+async function main() {
+  if (!ethers.isAddress(CONTRACT_ADDRESS)) {
+    throw new Error("Invalid CONTRACT_ADDRESS. Set a valid address in .env or script.");
+  }
+
+  if (!NEW_OWNER || !ethers.isAddress(NEW_OWNER)) {
+    throw new Error("Invalid NEW_OWNER. Set NEW_OWNER in .env to a valid wallet address.");
+  }
+
+  const [signer] = await ethers.getSigners();
+  const contract = await ethers.getContractAt("ChiefToken", CONTRACT_ADDRESS, signer);
+
+  const currentOwner = await contract.owner();
+  console.log("Current owner:", currentOwner);
+  console.log("Signer:", await signer.getAddress());
+  console.log("New owner:", NEW_OWNER);
+
+  if (currentOwner.toLowerCase() !== (await signer.getAddress()).toLowerCase()) {
+    throw new Error("Signer is not current owner. Use the owner private key in .env.");
+  }
+
+  if (currentOwner.toLowerCase() === NEW_OWNER.toLowerCase()) {
+    console.log("Ownership already set to this wallet. Nothing to do.");
+    return;
+  }
+
+  const tx = await contract.transferOwnership(NEW_OWNER);
+  console.log("Submitted tx:", tx.hash);
+  await tx.wait();
+
+  const updatedOwner = await contract.owner();
+  console.log("Updated owner:", updatedOwner);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

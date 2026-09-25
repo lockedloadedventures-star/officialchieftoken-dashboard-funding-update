@@ -1,1 +1,50 @@
-{"data":"Y29uc3QgVE9LRU4gPSAiMHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3IjsNCmNvbnN0IFBPT0wgPSAiMHhEOTI2RjRDMmI1YWQ0ZGU0NUUzMUM4NzVkMzNkNTIwN2UzRGYzQTdkIjsNCmNvbnN0IFdFVEggPSAiMHg0MjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA2IjsNCg0KY29uc3QgcHJvdmlkZXIgPSBuZXcgZXRoZXJzLkpzb25ScGNQcm92aWRlcigiaHR0cHM6Ly9iYXNlLXJwYy5wdWJsaWNub2RlLmNvbSIpOw0KDQpjb25zdCB0b2tlbkFiaSA9IFsNCiAgImZ1bmN0aW9uIG93bmVyKCkgdmlldyByZXR1cm5zIChhZGRyZXNzKSIsDQogICJmdW5jdGlvbiB0b3RhbFN1cHBseSgpIHZpZXcgcmV0dXJucyAodWludDI1NikiLA0KICAiZnVuY3Rpb24gZGVjaW1hbHMoKSB2aWV3IHJldHVybnMgKHVpbnQ4KSINCl07DQoNCmNvbnN0IGVyYzIwQWJpID0gWw0KICAiZnVuY3Rpb24gYmFsYW5jZU9mKGFkZHJlc3MpIHZpZXcgcmV0dXJucyAodWludDI1NikiLA0KICAiZnVuY3Rpb24gZGVjaW1hbHMoKSB2aWV3IHJldHVybnMgKHVpbnQ4KSINCl07DQoNCmZ1bmN0aW9uIHNob3J0QWRkcihhZGRyKSB7DQogIHJldHVybiBgJHthZGRyLnNsaWNlKDAsIDYpfS4uLiR7YWRkci5zbGljZSgtNCl9YDsNCn0NCg0KYXN5bmMgZnVuY3Rpb24gbG9hZExpdmVEYXRhKCkgew0KICB0cnkgew0KICAgIGNvbnN0IHRva2VuID0gbmV3IGV0aGVycy5Db250cmFjdChUT0tFTiwgdG9rZW5BYmksIHByb3ZpZGVyKTsNCiAgICBjb25zdCBjaGllZiA9IG5ldyBldGhlcnMuQ29udHJhY3QoVE9LRU4sIGVyYzIwQWJpLCBwcm92aWRlcik7DQogICAgY29uc3Qgd2V0aCA9IG5ldyBldGhlcnMuQ29udHJhY3QoV0VUSCwgZXJjMjBBYmksIHByb3ZpZGVyKTsNCg0KICAgIGNvbnN0IFtvd25lciwgdG90YWxTdXBwbHlSYXcsIHRva2VuRGVjaW1hbHMsIHBvb2xDaGllZlJhdywgcG9vbFdldGhSYXddID0gYXdhaXQgUHJvbWlzZS5hbGwoWw0KICAgICAgdG9rZW4ub3duZXIoKSwNCiAgICAgIHRva2VuLnRvdGFsU3VwcGx5KCksDQogICAgICB0b2tlbi5kZWNpbWFscygpLA0KICAgICAgY2hpZWYuYmFsYW5jZU9mKFBPT0wpLA0KICAgICAgd2V0aC5iYWxhbmNlT2YoUE9PTCkNCiAgICBdKTsNCg0KICAgIGNvbnN0IHRvdGFsU3VwcGx5ID0gZXRoZXJzLmZvcm1hdFVuaXRzKHRvdGFsU3VwcGx5UmF3LCB0b2tlbkRlY2ltYWxzKTsNCiAgICBjb25zdCBwb29sQ2hpZWYgPSBldGhlcnMuZm9ybWF0VW5pdHMocG9vbENoaWVmUmF3LCB0b2tlbkRlY2ltYWxzKTsNCiAgICBjb25zdCBwb29sV2V0aCA9IGV0aGVycy5mb3JtYXRFdGhlcihwb29sV2V0aFJhdyk7DQoNCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgib3duZXJBZGRyZXNzIikudGV4dENvbnRlbnQgPSBzaG9ydEFkZHIob3duZXIpOw0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0b3RhbFN1cHBseSIpLnRleHRDb250ZW50ID0gYCR7TnVtYmVyKHRvdGFsU3VwcGx5KS50b0xvY2FsZVN0cmluZygpfSBDSElFRmA7DQogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoInBvb2xMaXF1aWRpdHkiKS50ZXh0Q29udGVudCA9IGAke051bWJlcihwb29sQ2hpZWYpLnRvTG9jYWxlU3RyaW5nKCl9IENISUVGICsgJHtOdW1iZXIocG9vbFdldGgpLnRvRml4ZWQoNCl9IFdFVEhgOw0KICB9IGNhdGNoIChlcnIpIHsNCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgib3duZXJBZGRyZXNzIikudGV4dENvbnRlbnQgPSAiVW5hdmFpbGFibGUiOw0KICAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCJ0b3RhbFN1cHBseSIpLnRleHRDb250ZW50ID0gIlVuYXZhaWxhYmxlIjsNCiAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgicG9vbExpcXVpZGl0eSIpLnRleHRDb250ZW50ID0gIlVuYXZhaWxhYmxlIjsNCiAgfQ0KfQ0KDQpsb2FkTGl2ZURhdGEoKTsNCg=="}
+const TOKEN = "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+const POOL = "0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d";
+const WETH = "0x4200000000000000000000000000000000000006";
+
+const provider = new ethers.JsonRpcProvider("https://base-rpc.publicnode.com");
+
+const tokenAbi = [
+  "function owner() view returns (address)",
+  "function totalSupply() view returns (uint256)",
+  "function decimals() view returns (uint8)"
+];
+
+const erc20Abi = [
+  "function balanceOf(address) view returns (uint256)",
+  "function decimals() view returns (uint8)"
+];
+
+function shortAddr(addr) {
+  return `${addr.slice(0, 6)}...${addr.slice(-4)}`;
+}
+
+async function loadLiveData() {
+  try {
+    const token = new ethers.Contract(TOKEN, tokenAbi, provider);
+    const chief = new ethers.Contract(TOKEN, erc20Abi, provider);
+    const weth = new ethers.Contract(WETH, erc20Abi, provider);
+
+    const [owner, totalSupplyRaw, tokenDecimals, poolChiefRaw, poolWethRaw] = await Promise.all([
+      token.owner(),
+      token.totalSupply(),
+      token.decimals(),
+      chief.balanceOf(POOL),
+      weth.balanceOf(POOL)
+    ]);
+
+    const totalSupply = ethers.formatUnits(totalSupplyRaw, tokenDecimals);
+    const poolChief = ethers.formatUnits(poolChiefRaw, tokenDecimals);
+    const poolWeth = ethers.formatEther(poolWethRaw);
+
+    document.getElementById("ownerAddress").textContent = shortAddr(owner);
+    document.getElementById("totalSupply").textContent = `${Number(totalSupply).toLocaleString()} CHIEF`;
+    document.getElementById("poolLiquidity").textContent = `${Number(poolChief).toLocaleString()} CHIEF + ${Number(poolWeth).toFixed(4)} WETH`;
+  } catch (err) {
+    document.getElementById("ownerAddress").textContent = "Unavailable";
+    document.getElementById("totalSupply").textContent = "Unavailable";
+    document.getElementById("poolLiquidity").textContent = "Unavailable";
+  }
+}
+
+loadLiveData();

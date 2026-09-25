@@ -1,1 +1,129 @@
-{"data":"Y29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOw0KY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsNCg0KY29uc3Qgcm9vdCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuLiIpOw0KDQpmdW5jdGlvbiByZWFkSnNvbihyZWxQYXRoKSB7DQogIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4ocm9vdCwgcmVsUGF0aCk7DQogIHJldHVybiBKU09OLnBhcnNlKGZzLnJlYWRGaWxlU3luYyhmdWxsLCAidXRmOCIpKTsNCn0NCg0KZnVuY3Rpb24gd3JpdGVKc29uKHJlbFBhdGgsIHZhbHVlKSB7DQogIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4ocm9vdCwgcmVsUGF0aCk7DQogIGZzLm1rZGlyU3luYyhwYXRoLmRpcm5hbWUoZnVsbCksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOw0KICBmcy53cml0ZUZpbGVTeW5jKGZ1bGwsIEpTT04uc3RyaW5naWZ5KHZhbHVlLCBudWxsLCAyKSwgInV0ZjgiKTsNCn0NCg0KZnVuY3Rpb24gd3JpdGVUZXh0KHJlbFBhdGgsIHZhbHVlKSB7DQogIGNvbnN0IGZ1bGwgPSBwYXRoLmpvaW4ocm9vdCwgcmVsUGF0aCk7DQogIGZzLm1rZGlyU3luYyhwYXRoLmRpcm5hbWUoZnVsbCksIHsgcmVjdXJzaXZlOiB0cnVlIH0pOw0KICBmcy53cml0ZUZpbGVTeW5jKGZ1bGwsIHZhbHVlLCAidXRmOCIpOw0KfQ0KDQpmdW5jdGlvbiBtYWluKCkgew0KICBjb25zdCBwcm9maWxlID0gcmVhZEpzb24oImxpc3RpbmcvdG9rZW4tcHJvZmlsZS5qc29uIik7DQogIGNvbnN0IHBhaXIgPSBwcm9maWxlLm1hcmtldF9wYWlyc1swXSB8fCB7fTsNCg0KICBjb25zdCBjb2luYmFzZSA9IHsNCiAgICBwbGF0Zm9ybTogImNvaW5iYXNlX2Fzc2V0X2h1YiIsDQogICAgYXNzZXROYW1lOiBwcm9maWxlLnByb2plY3RfbmFtZSwNCiAgICBzeW1ib2w6IHByb2ZpbGUuc3ltYm9sLA0KICAgIGRlY2ltYWxzOiBwcm9maWxlLmRlY2ltYWxzLA0KICAgIGNvbnRyYWN0QWRkcmVzczogcHJvZmlsZS5jb250cmFjdHMuYmFzZV9tYWlubmV0LA0KICAgIGNoYWluOiAiYmFzZSIsDQogICAgZXhwbG9yZXI6IHByb2ZpbGUuZXhwbG9yZXJzLmJhc2VfbWFpbm5ldCwNCiAgICB3ZWJzaXRlOiBwcm9maWxlLm9mZmljaWFsX3dlYnNpdGUsDQogICAgZG9jdW1lbnRhdGlvbjogcHJvZmlsZS53aGl0ZXBhcGVyX3VybCwNCiAgICBlbWFpbDogcHJvZmlsZS5lbWFpbCwNCiAgICBzb2NpYWxzOiB7DQogICAgICB0d2l0dGVyOiBwcm9maWxlLnR3aXR0ZXIsDQogICAgICB0ZWxlZ3JhbTogcHJvZmlsZS50ZWxlZ3JhbSwNCiAgICAgIGRpc2NvcmQ6IHByb2ZpbGUuZGlzY29yZA0KICAgIH0sDQogICAgb3duZXJzaGlwOiBwcm9maWxlLm93bmVyc2hpcCwNCiAgICBtYXJrZXRQYWlyOiB7DQogICAgICBkZXg6IHBhaXIuZGV4LA0KICAgICAgcGFpckFkZHJlc3M6IHBhaXIucGFpcl9hZGRyZXNzLA0KICAgICAgcXVvdGVBc3NldDogcGFpci5xdW90ZV9hc3NldCwNCiAgICAgIHBhaXJFeHBsb3JlcjogcGFpci5leHBsb3JlciwNCiAgICAgIHBhaXJVcmw6IHBhaXIudW5pc3dhcF91cmwNCiAgICB9DQogIH07DQoNCiAgY29uc3QgY29pbmdlY2tvID0gew0KICAgIHBsYXRmb3JtOiAiY29pbmdlY2tvIiwNCiAgICB0b2tlbk5hbWU6IHByb2ZpbGUucHJvamVjdF9uYW1lLA0KICAgIHN5bWJvbDogcHJvZmlsZS5zeW1ib2wsDQogICAgY29udHJhY3RBZGRyZXNzOiBwcm9maWxlLmNvbnRyYWN0cy5iYXNlX21haW5uZXQsDQogICAgY2hhaW46ICJiYXNlIiwNCiAgICB3ZWJzaXRlOiBwcm9maWxlLm9mZmljaWFsX3dlYnNpdGUsDQogICAgd2hpdGVwYXBlcjogcHJvZmlsZS53aGl0ZXBhcGVyX3VybCwNCiAgICBleHBsb3JlcjogcHJvZmlsZS5leHBsb3JlcnMuYmFzZV9tYWlubmV0LA0KICAgIG1hcmtldFBhaXJBZGRyZXNzOiBwYWlyLnBhaXJfYWRkcmVzcywNCiAgICBtYXJrZXRQYWlyVXJsOiBwYWlyLnVuaXN3YXBfdXJsLA0KICAgIHNvY2lhbHM6IHsNCiAgICAgIHR3aXR0ZXI6IHByb2ZpbGUudHdpdHRlciwNCiAgICAgIHRlbGVncmFtOiBwcm9maWxlLnRlbGVncmFtLA0KICAgICAgZGlzY29yZDogcHJvZmlsZS5kaXNjb3JkDQogICAgfSwNCiAgICBkZXNjcmlwdGlvbjogcHJvZmlsZS5kZXNjcmlwdGlvbg0KICB9Ow0KDQogIGNvbnN0IGNtYyA9IHsNCiAgICBwbGF0Zm9ybTogImNvaW5tYXJrZXRjYXAiLA0KICAgIHRva2VuTmFtZTogcHJvZmlsZS5wcm9qZWN0X25hbWUsDQogICAgdGlja2VyOiBwcm9maWxlLnN5bWJvbCwNCiAgICB0b2tlblR5cGU6ICJFUkMtMjAiLA0KICAgIGRlY2ltYWxzOiBwcm9maWxlLmRlY2ltYWxzLA0KICAgIGNvbnRyYWN0QWRkcmVzczogcHJvZmlsZS5jb250cmFjdHMuYmFzZV9tYWlubmV0LA0KICAgIGNoYWluOiAiYmFzZSIsDQogICAgd2Vic2l0ZTogcHJvZmlsZS5vZmZpY2lhbF93ZWJzaXRlLA0KICAgIGRvY3M6IHByb2ZpbGUud2hpdGVwYXBlcl91cmwsDQogICAgc3VwcG9ydEVtYWlsOiBwcm9maWxlLmVtYWlsLA0KICAgIGV4cGxvcmVyOiBwcm9maWxlLmV4cGxvcmVycy5iYXNlX21haW5uZXQsDQogICAgc29jaWFsczogew0KICAgICAgdHdpdHRlcjogcHJvZmlsZS50d2l0dGVyLA0KICAgICAgdGVsZWdyYW06IHByb2ZpbGUudGVsZWdyYW0sDQogICAgICBkaXNjb3JkOiBwcm9maWxlLmRpc2NvcmQNCiAgICB9LA0KICAgIG1hcmtldFBhaXI6IHsNCiAgICAgIGV4Y2hhbmdlOiBwYWlyLmRleCwNCiAgICAgIHBhaXI6IGAke3Byb2ZpbGUuc3ltYm9sfS8ke3BhaXIucXVvdGVfYXNzZXQgfHwgIldFVEgifWAsDQogICAgICBwYWlyQWRkcmVzczogcGFpci5wYWlyX2FkZHJlc3MsDQogICAgICBwYWlyVXJsOiBwYWlyLnVuaXN3YXBfdXJsDQogICAgfQ0KICB9Ow0KDQogIHdyaXRlSnNvbigiYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbmJhc2UtYXNzZXQtaHViLmpzb24iLCBjb2luYmFzZSk7DQogIHdyaXRlSnNvbigiYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbmdlY2tvLmpzb24iLCBjb2luZ2Vja28pOw0KICB3cml0ZUpzb24oImFydGlmYWN0cy9saXN0aW5nLXN1Ym1pc3Npb25zL2NvaW5tYXJrZXRjYXAuanNvbiIsIGNtYyk7DQoNCiAgY29uc3Qgc3VtbWFyeSA9IFsNCiAgICAiIyBDSElFRiBMaXN0aW5nIFN1Ym1pc3Npb24gUGFjayIsDQogICAgIiIsDQogICAgIkdlbmVyYXRlZCBmaWxlczoiLA0KICAgICItIGFydGlmYWN0cy9saXN0aW5nLXN1Ym1pc3Npb25zL2NvaW5iYXNlLWFzc2V0LWh1Yi5qc29uIiwNCiAgICAiLSBhcnRpZmFjdHMvbGlzdGluZy1zdWJtaXNzaW9ucy9jb2luZ2Vja28uanNvbiIsDQogICAgIi0gYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbm1hcmtldGNhcC5qc29uIiwNCiAgICAiIiwNCiAgICAiU3VibWlzc2lvbiBwb3J0YWxzOiIsDQogICAgIi0gQ29pbmJhc2UgQXNzZXQgSHViOiBodHRwczovL3d3dy5jb2luYmFzZS5jb20vYXNzZXQtaHViIiwNCiAgICAiLSBDb2luR2Vja286IGh0dHBzOi8vd3d3LmNvaW5nZWNrby5jb20vZW4vcmVxdWVzdCIsDQogICAgIi0gQ29pbk1hcmtldENhcDogaHR0cHM6Ly9zdXBwb3J0LmNvaW5tYXJrZXRjYXAuY29tL2hjL2VuLXVzL3JlcXVlc3RzL25ldz90aWNrZXRfZm9ybV9pZD0zNjAwMDA0OTMxMTIiLA0KICAgICIiLA0KICAgICJUb2tlbiArIHBhaXI6IiwNCiAgICBgLSBUb2tlbiBjb250cmFjdDogJHtwcm9maWxlLmNvbnRyYWN0cy5iYXNlX21haW5uZXR9YCwNCiAgICBgLSBQYWlyIGFkZHJlc3M6ICR7cGFpci5wYWlyX2FkZHJlc3MgfHwgIiJ9YCwNCiAgICBgLSBQYWlyIFVSTDogJHtwYWlyLnVuaXN3YXBfdXJsIHx8ICIifWANCiAgXS5qb2luKCJcbiIpOw0KDQogIHdyaXRlVGV4dCgiYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvUkVBRE1FLm1kIiwgc3VtbWFyeSk7DQoNCiAgY29uc29sZS5sb2coIkxpc3Rpbmcgc3VibWlzc2lvbiBwYWNrIGdlbmVyYXRlZDoiKTsNCiAgY29uc29sZS5sb2coIi0gYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbmJhc2UtYXNzZXQtaHViLmpzb24iKTsNCiAgY29uc29sZS5sb2coIi0gYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbmdlY2tvLmpzb24iKTsNCiAgY29uc29sZS5sb2coIi0gYXJ0aWZhY3RzL2xpc3Rpbmctc3VibWlzc2lvbnMvY29pbm1hcmtldGNhcC5qc29uIik7DQogIGNvbnNvbGUubG9nKCItIGFydGlmYWN0cy9saXN0aW5nLXN1Ym1pc3Npb25zL1JFQURNRS5tZCIpOw0KfQ0KDQptYWluKCk7DQo="}
+const fs = require("fs");
+const path = require("path");
+
+const root = path.resolve(__dirname, "..");
+
+function readJson(relPath) {
+  const full = path.join(root, relPath);
+  return JSON.parse(fs.readFileSync(full, "utf8"));
+}
+
+function writeJson(relPath, value) {
+  const full = path.join(root, relPath);
+  fs.mkdirSync(path.dirname(full), { recursive: true });
+  fs.writeFileSync(full, JSON.stringify(value, null, 2), "utf8");
+}
+
+function writeText(relPath, value) {
+  const full = path.join(root, relPath);
+  fs.mkdirSync(path.dirname(full), { recursive: true });
+  fs.writeFileSync(full, value, "utf8");
+}
+
+function main() {
+  const profile = readJson("listing/token-profile.json");
+  const pair = profile.market_pairs[0] || {};
+
+  const coinbase = {
+    platform: "coinbase_asset_hub",
+    assetName: profile.project_name,
+    symbol: profile.symbol,
+    decimals: profile.decimals,
+    contractAddress: profile.contracts.base_mainnet,
+    chain: "base",
+    explorer: profile.explorers.base_mainnet,
+    website: profile.official_website,
+    documentation: profile.whitepaper_url,
+    email: profile.email,
+    socials: {
+      twitter: profile.twitter,
+      telegram: profile.telegram,
+      discord: profile.discord
+    },
+    ownership: profile.ownership,
+    marketPair: {
+      dex: pair.dex,
+      pairAddress: pair.pair_address,
+      quoteAsset: pair.quote_asset,
+      pairExplorer: pair.explorer,
+      pairUrl: pair.uniswap_url
+    }
+  };
+
+  const coingecko = {
+    platform: "coingecko",
+    tokenName: profile.project_name,
+    symbol: profile.symbol,
+    contractAddress: profile.contracts.base_mainnet,
+    chain: "base",
+    website: profile.official_website,
+    whitepaper: profile.whitepaper_url,
+    explorer: profile.explorers.base_mainnet,
+    marketPairAddress: pair.pair_address,
+    marketPairUrl: pair.uniswap_url,
+    socials: {
+      twitter: profile.twitter,
+      telegram: profile.telegram,
+      discord: profile.discord
+    },
+    description: profile.description
+  };
+
+  const cmc = {
+    platform: "coinmarketcap",
+    tokenName: profile.project_name,
+    ticker: profile.symbol,
+    tokenType: "ERC-20",
+    decimals: profile.decimals,
+    contractAddress: profile.contracts.base_mainnet,
+    chain: "base",
+    website: profile.official_website,
+    docs: profile.whitepaper_url,
+    supportEmail: profile.email,
+    explorer: profile.explorers.base_mainnet,
+    socials: {
+      twitter: profile.twitter,
+      telegram: profile.telegram,
+      discord: profile.discord
+    },
+    marketPair: {
+      exchange: pair.dex,
+      pair: `${profile.symbol}/${pair.quote_asset || "WETH"}`,
+      pairAddress: pair.pair_address,
+      pairUrl: pair.uniswap_url
+    }
+  };
+
+  writeJson("artifacts/listing-submissions/coinbase-asset-hub.json", coinbase);
+  writeJson("artifacts/listing-submissions/coingecko.json", coingecko);
+  writeJson("artifacts/listing-submissions/coinmarketcap.json", cmc);
+
+  const summary = [
+    "# CHIEF Listing Submission Pack",
+    "",
+    "Generated files:",
+    "- artifacts/listing-submissions/coinbase-asset-hub.json",
+    "- artifacts/listing-submissions/coingecko.json",
+    "- artifacts/listing-submissions/coinmarketcap.json",
+    "",
+    "Submission portals:",
+    "- Coinbase Asset Hub: https://www.coinbase.com/asset-hub",
+    "- CoinGecko: https://www.coingecko.com/en/request",
+    "- CoinMarketCap: https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493112",
+    "",
+    "Token + pair:",
+    `- Token contract: ${profile.contracts.base_mainnet}`,
+    `- Pair address: ${pair.pair_address || ""}`,
+    `- Pair URL: ${pair.uniswap_url || ""}`
+  ].join("\n");
+
+  writeText("artifacts/listing-submissions/README.md", summary);
+
+  console.log("Listing submission pack generated:");
+  console.log("- artifacts/listing-submissions/coinbase-asset-hub.json");
+  console.log("- artifacts/listing-submissions/coingecko.json");
+  console.log("- artifacts/listing-submissions/coinmarketcap.json");
+  console.log("- artifacts/listing-submissions/README.md");
+}
+
+main();

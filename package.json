@@ -1,1 +1,50 @@
-{"data":"ew0KICAibmFtZSI6ICJjaGllZi10b2tlbiIsDQogICJ2ZXJzaW9uIjogIjEuMC4wIiwNCiAgImRlc2NyaXB0aW9uIjogIkNoaWVmVG9rZW4gKENISUVGKSBFUkMtMjAgY3J5cHRvY3VycmVuY3kgcHJvamVjdCIsDQogICJtYWluIjogImluZGV4LmpzIiwNCiAgInNjcmlwdHMiOiB7DQogICAgInNpdGU6c2VydmUiOiAibnB4IC0teWVzIGh0dHAtc2VydmVyIC4gLXAgNDE3MyAtYy0xIiwNCiAgICAid2ViOnNlcnZlIjogIm5weCAtLXllcyBodHRwLXNlcnZlciB3ZWIgLXAgNTUwMCIsDQogICAgIndlYjp2ZXJjZWwiOiAibnB4IC0teWVzIHZlcmNlbCAtLXByb2QiLA0KICAgICJ3ZWI6bmV0bGlmeSI6ICJucHggLS15ZXMgbmV0bGlmeS1jbGkgZGVwbG95IC0tcHJvZCAtLWRpciB3ZWIiLA0KICAgICJsYXVuY2g6cmVhZGluZXNzIjogIm5vZGUgc2NyaXB0cy9sYXVuY2gtcmVhZGluZXNzLmpzIiwNCiAgICAicmVwb3J0OndlZWtseSI6ICJub2RlIHNjcmlwdHMvd2Vla2x5LWxpcXVpZGl0eS1yZXBvcnQuanMiLA0KICAgICJkZXBsb3k6dmVyaWZ5IjogIm5vZGUgc2NyaXB0cy92ZXJpZnktZGVwbG95bWVudC5qcyIsDQogICAgInNjb3JlOmRhaWx5IjogIm5vZGUgc2NyaXB0cy9kYWlseS1zY29yZWJvYXJkLWVudHJ5LmpzIiwNCiAgICAiY29uZmlnOmNoZWNrb3V0IjogIm5vZGUgc2NyaXB0cy9nZW5lcmF0ZS1jaGVja291dC1jb25maWcuanMiLA0KICAgICJzZW86YXBwbHkiOiAibm9kZSBzY3JpcHRzL2FwcGx5LXNlby12ZXJpZmljYXRpb24uanMiLA0KICAgICJsaXN0aW5nOnZhbGlkYXRlIjogIm5vZGUgc2NyaXB0cy9saXN0aW5nLXZhbGlkYXRlLmpzIiwNCiAgICAibGlzdGluZzpwcmVwYXJlIjogIm5vZGUgc2NyaXB0cy9saXN0aW5nLXByZXBhcmUuanMiLA0KICAgICJsaXN0aW5nOmF1dG8iOiAibm9kZSBzY3JpcHRzL2xpc3RpbmctYXV0by5qcyIsDQogICAgImFkczpwYWNrIjogIm5vZGUgc2NyaXB0cy9nZW5lcmF0ZS1hZC1zYWxlcy1wYWNrLmpzIC0tbGluayBodHRwczovL3ZlbnR1cmVsb2NrLmd1bXJvYWQuY29tL2wvZGlkbWxiIC0tc3VwcG9ydCBsb2NrZWRsb2FkZWR2ZW50dXJlc0BnbWFpbC5jb20iLA0KICAgICJwcmVwOnJlbGVhc2UiOiAibm9kZSBzY3JpcHRzL3ByZXAtcmVsZWFzZS5qcyIsDQogICAgInByZXA6cmVsZWFzZTpzdHJpY3QiOiAibm9kZSBzY3JpcHRzL3ByZXAtcmVsZWFzZS5qcyAtLXN0cmljdCIsDQogICAgImNvbXBpbGUiOiAiaGFyZGhhdCBjb21waWxlIiwNCiAgICAidGVzdCI6ICJoYXJkaGF0IHRlc3QiLA0KICAgICJkZXBsb3k6bG9jYWwiOiAiaGFyZGhhdCBydW4gc2NyaXB0cy9kZXBsb3kuanMgLS1uZXR3b3JrIGxvY2FsaG9zdCIsDQogICAgImRlcGxveTpzZXBvbGlhIjogImhhcmRoYXQgcnVuIHNjcmlwdHMvZGVwbG95LmpzIC0tbmV0d29yayBzZXBvbGlhIiwNCiAgICAiZGVwbG95OmV0aCI6ICJoYXJkaGF0IHJ1biBzY3JpcHRzL2RlcGxveS5qcyAtLW5ldHdvcmsgbWFpbm5ldCIsDQogICAgImRlcGxveTpiYXNlIjogImhhcmRoYXQgcnVuIHNjcmlwdHMvZGVwbG95LmpzIC0tbmV0d29yayBiYXNlIiwNCiAgICAidmVyaWZ5OmJhc2UiOiAiaGFyZGhhdCBydW4gc2NyaXB0cy92ZXJpZnktYmFzZS5qcyAtLW5ldHdvcmsgYmFzZSIsDQogICAgIm93bmVyOnRyYW5zZmVyIjogImhhcmRoYXQgcnVuIHNjcmlwdHMvdHJhbnNmZXItb3duZXJzaGlwLmpzIC0tbmV0d29yayBzZXBvbGlhIiwNCiAgICAic2VuZDpzZXBvbGlhIjogImhhcmRoYXQgcnVuIHNjcmlwdHMvc2VuZC10b2tlbnMuanMgLS1uZXR3b3JrIHNlcG9saWEiDQogIH0sDQogICJrZXl3b3JkcyI6IFsNCiAgICAic29saWRpdHkiLA0KICAgICJoYXJkaGF0IiwNCiAgICAiZXJjMjAiLA0KICAgICJjcnlwdG8iDQogIF0sDQogICJhdXRob3IiOiAiIiwNCiAgImxpY2Vuc2UiOiAiTUlUIiwNCiAgImRldkRlcGVuZGVuY2llcyI6IHsNCiAgICAiQG5vbWljZm91bmRhdGlvbi9oYXJkaGF0LXRvb2xib3giOiAiXjUuMC4wIiwNCiAgICAiZG90ZW52IjogIl4xNi40LjUiLA0KICAgICJoYXJkaGF0IjogIl4yLjIyLjEwIg0KICB9LA0KICAiZGVwZW5kZW5jaWVzIjogew0KICAgICJAb3BlbnplcHBlbGluL2NvbnRyYWN0cyI6ICJeNS4wLjIiLA0KICAgICJmbHVlbnQtZmZtcGVnIjogIl4yLjEuMyINCiAgfQ0KfQ0K"}
+{
+  "name": "chief-token",
+  "version": "1.0.0",
+  "description": "ChiefToken (CHIEF) ERC-20 cryptocurrency project",
+  "main": "index.js",
+  "scripts": {
+    "site:serve": "npx --yes http-server . -p 4173 -c-1",
+    "web:serve": "npx --yes http-server web -p 5500",
+    "web:vercel": "npx --yes vercel --prod",
+    "web:netlify": "npx --yes netlify-cli deploy --prod --dir web",
+    "launch:readiness": "node scripts/launch-readiness.js",
+    "report:weekly": "node scripts/weekly-liquidity-report.js",
+    "deploy:verify": "node scripts/verify-deployment.js",
+    "score:daily": "node scripts/daily-scoreboard-entry.js",
+    "config:checkout": "node scripts/generate-checkout-config.js",
+    "seo:apply": "node scripts/apply-seo-verification.js",
+    "listing:validate": "node scripts/listing-validate.js",
+    "listing:prepare": "node scripts/listing-prepare.js",
+    "listing:auto": "node scripts/listing-auto.js",
+    "ads:pack": "node scripts/generate-ad-sales-pack.js --link https://venturelock.gumroad.com/l/didmlb --support lockedloadedventures@gmail.com",
+    "prep:release": "node scripts/prep-release.js",
+    "prep:release:strict": "node scripts/prep-release.js --strict",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "deploy:eth": "hardhat run scripts/deploy.js --network mainnet",
+    "deploy:base": "hardhat run scripts/deploy.js --network base",
+    "verify:base": "hardhat run scripts/verify-base.js --network base",
+    "owner:transfer": "hardhat run scripts/transfer-ownership.js --network sepolia",
+    "send:sepolia": "hardhat run scripts/send-tokens.js --network sepolia"
+  },
+  "keywords": [
+    "solidity",
+    "hardhat",
+    "erc20",
+    "crypto"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}

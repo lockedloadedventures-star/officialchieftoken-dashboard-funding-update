@@ -1,1 +1,46 @@
-{"data":"IyBQb3N0LUxhdW5jaCBTRU8gQ2hlY2tsaXN0DQoNCiMjIDEpIFNlYXJjaCBDb25zb2xlIFNldHVwDQoNCi0gT3BlbiBHb29nbGUgU2VhcmNoIENvbnNvbGUgYW5kIGFkZCBwcm9wZXJ0eTogYGh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS9gLg0KLSBJbiBwcm9wZXJ0eSB2ZXJpZmljYXRpb24sIGNvcHkgdGhlIG1ldGEgdG9rZW4gdmFsdWUuDQotIFVwZGF0ZSBgaW5kZXguaHRtbGAgbWV0YSB0YWcgYGdvb2dsZS1zaXRlLXZlcmlmaWNhdGlvbmAgY29udGVudC4NCi0gRGVwbG95IHRvIHByb2R1Y3Rpb24uDQotIENsaWNrIFZlcmlmeSBpbiBTZWFyY2ggQ29uc29sZS4NCi0gU3VibWl0IHNpdGVtYXA6IGBodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vc2l0ZW1hcC54bWxgLg0KDQojIyAyKSBCaW5nIFdlYm1hc3RlciBTZXR1cA0KDQotIE9wZW4gQmluZyBXZWJtYXN0ZXIgVG9vbHMgYW5kIGFkZCBzaXRlOiBgaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tL2AuDQotIENvcHkgdGhlIGBtc3ZhbGlkYXRlLjAxYCB0b2tlbiB2YWx1ZS4NCi0gVXBkYXRlIGBpbmRleC5odG1sYCBtZXRhIHRhZyBgbXN2YWxpZGF0ZS4wMWAgY29udGVudC4NCi0gRGVwbG95IHRvIHByb2R1Y3Rpb24uDQotIENsaWNrIFZlcmlmeSBpbiBCaW5nIFdlYm1hc3RlciBUb29scy4NCi0gU3VibWl0IHNpdGVtYXA6IGBodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vc2l0ZW1hcC54bWxgLg0KDQojIyAzKSBSZWRpcmVjdCArIENhbm9uaWNhbCBWYWxpZGF0aW9uDQoNCi0gYGh0dHBzOi8vd3d3Lm9mZmljaWFsY2hpZWZ0b2tlbi5jb21gIG11c3QgcmV0dXJuIHBlcm1hbmVudCByZWRpcmVjdCB0byBhcGV4Lg0KLSBDYW5vbmljYWwgdGFnIG11c3QgYmUgYGh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS9gLg0KLSBgb2c6dXJsYCBzaG91bGQgYmUgYGh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS9gLg0KDQojIyA0KSBJbmRleGluZyBIZWFsdGggQ2hlY2tzDQoNCi0gQ29uZmlybSBgcm9ib3RzLnR4dGAgaXMgYWNjZXNzaWJsZS4NCi0gQ29uZmlybSBgc2l0ZW1hcC54bWxgIGlzIGFjY2Vzc2libGUuDQotIFJ1biBVUkwgSW5zcGVjdGlvbiBvbiBob21lcGFnZSBhZnRlciB2ZXJpZmljYXRpb24uDQoNCiMjIDUpIFJlY29tbWVuZGVkIENvbW1pdCBCdW5kbGUNCg0KVXNlIG9uZSBjb21taXQgZm9yIGFsbCBkb21haW4gYW5kIFNFTyBsYXVuY2ggaGFyZGVuaW5nOg0KDQpgYGANCmZlYXQoc2VvKTogZmluYWxpemUgY3VzdG9tLWRvbWFpbiBsYXVuY2ggaGFyZGVuaW5nDQoNCi0gZW5mb3JjZSBwZXJtYW5lbnQgd3d3LT5hcGV4IHJlZGlyZWN0IGluIHZlcmNlbC5qc29uDQotIG5vcm1hbGl6ZSBjYW5vbmljYWwvT3BlbiBHcmFwaC9Ud2l0dGVyIGltYWdlIFVSTHMgdG8gb2ZmaWNpYWwgZG9tYWluDQotIHVwZGF0ZSByb2JvdHMudHh0IGFuZCBzaXRlbWFwLnhtbCB0byBhcGV4IGRvbWFpbg0KLSBhZGQgSlNPTi1MRCBXZWJTaXRlICsgT3JnYW5pemF0aW9uIHNjaGVtYQ0KLSBhZGQgU2VhcmNoIENvbnNvbGUgYW5kIEJpbmcgdmVyaWZpY2F0aW9uIHRhZyBwbGFjZWhvbGRlcnMNCi0gdmVyaWZ5IGxpdmUgcmVzcG9uc2VzIChhcGV4IDIwMCwgd3d3IDMwOCkNCmBgYA0K"}
+# Post-Launch SEO Checklist
+
+## 1) Search Console Setup
+
+- Open Google Search Console and add property: `https://officialchieftoken.com/`.
+- In property verification, copy the meta token value.
+- Update `index.html` meta tag `google-site-verification` content.
+- Deploy to production.
+- Click Verify in Search Console.
+- Submit sitemap: `https://officialchieftoken.com/sitemap.xml`.
+
+## 2) Bing Webmaster Setup
+
+- Open Bing Webmaster Tools and add site: `https://officialchieftoken.com/`.
+- Copy the `msvalidate.01` token value.
+- Update `index.html` meta tag `msvalidate.01` content.
+- Deploy to production.
+- Click Verify in Bing Webmaster Tools.
+- Submit sitemap: `https://officialchieftoken.com/sitemap.xml`.
+
+## 3) Redirect + Canonical Validation
+
+- `https://www.officialchieftoken.com` must return permanent redirect to apex.
+- Canonical tag must be `https://officialchieftoken.com/`.
+- `og:url` should be `https://officialchieftoken.com/`.
+
+## 4) Indexing Health Checks
+
+- Confirm `robots.txt` is accessible.
+- Confirm `sitemap.xml` is accessible.
+- Run URL Inspection on homepage after verification.
+
+## 5) Recommended Commit Bundle
+
+Use one commit for all domain and SEO launch hardening:
+
+```
+feat(seo): finalize custom-domain launch hardening
+
+- enforce permanent www->apex redirect in vercel.json
+- normalize canonical/Open Graph/Twitter image URLs to official domain
+- update robots.txt and sitemap.xml to apex domain
+- add JSON-LD WebSite + Organization schema
+- add Search Console and Bing verification tag placeholders
+- verify live responses (apex 200, www 308)
+```

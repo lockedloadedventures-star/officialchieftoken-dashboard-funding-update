@@ -1,1 +1,41 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCBocmUgPSByZXF1aXJlKCJoYXJkaGF0Iik7DQpjb25zdCB7IGV0aGVycyB9ID0gaHJlOw0KDQpjb25zdCBDT05UUkFDVF9BRERSRVNTID0gcHJvY2Vzcy5lbnYuQ09OVFJBQ1RfQUREUkVTUyB8fCAiMHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3IjsNCmNvbnN0IElOSVRJQUxfT1dORVIgPSBwcm9jZXNzLmVudi5JTklUSUFMX09XTkVSIHx8ICIweERFOEQ0MTQwMkRBZjY5QzVBZkNBNjJDNGU3RDI3OWQwMUI2YTI0YWIiOw0KDQphc3luYyBmdW5jdGlvbiBtYWluKCkgew0KICBpZiAoIWV0aGVycy5pc0FkZHJlc3MoQ09OVFJBQ1RfQUREUkVTUykpIHsNCiAgICB0aHJvdyBuZXcgRXJyb3IoIkludmFsaWQgQ09OVFJBQ1RfQUREUkVTUy4gU2V0IENPTlRSQUNUX0FERFJFU1MgaW4gLmVudi4iKTsNCiAgfQ0KDQogIGlmICghZXRoZXJzLmlzQWRkcmVzcyhJTklUSUFMX09XTkVSKSkgew0KICAgIHRocm93IG5ldyBFcnJvcigiSW52YWxpZCBJTklUSUFMX09XTkVSLiBTZXQgSU5JVElBTF9PV05FUiBpbiAuZW52LiIpOw0KICB9DQoNCiAgaWYgKCFwcm9jZXNzLmVudi5CQVNFX01BSU5ORVRfUlBDX1VSTCkgew0KICAgIHRocm93IG5ldyBFcnJvcigiTWlzc2luZyBCQVNFX01BSU5ORVRfUlBDX1VSTCBpbiAuZW52LiIpOw0KICB9DQoNCiAgaWYgKCFwcm9jZXNzLmVudi5CQVNFU0NBTl9BUElfS0VZICYmICFwcm9jZXNzLmVudi5FVEhFUlNDQU5fQVBJX0tFWSkgew0KICAgIHRocm93IG5ldyBFcnJvcigiTWlzc2luZyBCQVNFU0NBTl9BUElfS0VZIChvciBFVEhFUlNDQU5fQVBJX0tFWSkgaW4gLmVudi4iKTsNCiAgfQ0KDQogIGNvbnNvbGUubG9nKCJWZXJpZnlpbmcgQ2hpZWZUb2tlbiBvbiBCYXNlLi4uIik7DQogIGNvbnNvbGUubG9nKCJDb250cmFjdDoiLCBDT05UUkFDVF9BRERSRVNTKTsNCiAgY29uc29sZS5sb2coIkNvbnN0cnVjdG9yIGluaXRpYWxPd25lcjoiLCBJTklUSUFMX09XTkVSKTsNCg0KICBhd2FpdCBocmUucnVuKCJ2ZXJpZnk6dmVyaWZ5Iiwgew0KICAgIGFkZHJlc3M6IENPTlRSQUNUX0FERFJFU1MsDQogICAgY29udHJhY3Q6ICJjb250cmFjdHMvQ2hpZWZUb2tlbi5zb2w6Q2hpZWZUb2tlbiIsDQogICAgY29uc3RydWN0b3JBcmd1bWVudHM6IFtJTklUSUFMX09XTkVSXQ0KICB9KTsNCg0KICBjb25zb2xlLmxvZygiVmVyaWZpY2F0aW9uIHN1Ym1pdHRlZCBzdWNjZXNzZnVsbHkuIik7DQp9DQoNCm1haW4oKS5jYXRjaCgoZXJyb3IpID0+IHsNCiAgY29uc29sZS5lcnJvcihlcnJvci5tZXNzYWdlIHx8IGVycm9yKTsNCiAgcHJvY2Vzcy5leGl0Q29kZSA9IDE7DQp9KTsNCg=="}
+require("dotenv").config();
+const hre = require("hardhat");
+const { ethers } = hre;
+
+const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS || "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+const INITIAL_OWNER = process.env.INITIAL_OWNER || "0xDE8D41402DAf69C5AfCA62C4e7D279d01B6a24ab";
+
+async function main() {
+  if (!ethers.isAddress(CONTRACT_ADDRESS)) {
+    throw new Error("Invalid CONTRACT_ADDRESS. Set CONTRACT_ADDRESS in .env.");
+  }
+
+  if (!ethers.isAddress(INITIAL_OWNER)) {
+    throw new Error("Invalid INITIAL_OWNER. Set INITIAL_OWNER in .env.");
+  }
+
+  if (!process.env.BASE_MAINNET_RPC_URL) {
+    throw new Error("Missing BASE_MAINNET_RPC_URL in .env.");
+  }
+
+  if (!process.env.BASESCAN_API_KEY && !process.env.ETHERSCAN_API_KEY) {
+    throw new Error("Missing BASESCAN_API_KEY (or ETHERSCAN_API_KEY) in .env.");
+  }
+
+  console.log("Verifying ChiefToken on Base...");
+  console.log("Contract:", CONTRACT_ADDRESS);
+  console.log("Constructor initialOwner:", INITIAL_OWNER);
+
+  await hre.run("verify:verify", {
+    address: CONTRACT_ADDRESS,
+    contract: "contracts/ChiefToken.sol:ChiefToken",
+    constructorArguments: [INITIAL_OWNER]
+  });
+
+  console.log("Verification submitted successfully.");
+}
+
+main().catch((error) => {
+  console.error(error.message || error);
+  process.exitCode = 1;
+});

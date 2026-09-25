@@ -1,1 +1,74 @@
-{"data":"IyBDSElFRiBMaXF1aWRpdHkgR3Jvd3RoIFBvbGljeQ0KDQojIyBPYmplY3RpdmUNCg0KSW5jcmVhc2UgdHJhZGFibGUgZGVwdGggYW5kIHJlZHVjZSBzbGlwcGFnZSB1c2luZyBhIHRyYW5zcGFyZW50LCByZWN1cnJpbmcgdHJlYXN1cnkgcG9saWN5IGJhY2tlZCBieSByZWFsIHByb2R1Y3QgcmV2ZW51ZS4NCg0KIyMgUG9saWN5IFByaW5jaXBsZXMNCg0KLSBObyBmYWtlIHZvbHVtZSwgbm8gd2FzaCB0cmFkaW5nLg0KLSBMaXF1aWRpdHkgc3VwcG9ydCBydW5zIG9uIHNjaGVkdWxlLCBub3QgZW1vdGlvbi4NCi0gUHVibGlzaCBhY3Rpb25zIHB1YmxpY2x5IGVhY2ggd2Vlay4NCi0gUHJpb3JpdGl6ZSBzdGFiaWxpdHkgYW5kIGRlcHRoIG92ZXIgc2hvcnQtdGVybSBwcmljZSBzcGlrZXMuDQoNCiMjIFJldmVudWUgQWxsb2NhdGlvbiBGcmFtZXdvcmsNCg0KQXBwbHkgdG8gbmV0IG1vbnRobHkgcmV2ZW51ZToNCg0KLSA0MCUgT3BlcmF0aW9ucyBhbmQgcHJvZHVjdCBncm93dGgNCi0gMzAlIExpcXVpZGl0eSBzdXBwb3J0IChwcm90b2NvbC1vd25lZCBsaXF1aWRpdHkpDQotIDMwJSBHcm93dGggcGFydG5lcnNoaXBzIGFuZCBkaXN0cmlidXRpb24NCg0KIyMgV2Vla2x5IExpcXVpZGl0eSBPcGVyYXRpb25zDQoNCi0gRXhlY3V0ZSBvbmNlIHBlciB3ZWVrIG9uIGEgZml4ZWQgZGF5L3RpbWUuDQotIEFkZCBsaXF1aWRpdHkgaW4gdHdvIGJhbmRzOg0KICAtIENvcmUgYmFuZCAod2lkZSk6IHN0YWJpbGl0eSBhbmQgYWx3YXlzLW9uIGRlcHRoDQogIC0gQWN0aXZlIGJhbmQgKG5hcnJvd2VyKTogZmVlIGdlbmVyYXRpb24gbmVhciBtYXJrZXQgcHJpY2UNCi0gUmViYWxhbmNlIG9ubHkgb24gc2NoZWR1bGUgdW5sZXNzIGVtZXJnZW5jeSByaXNrIGNvbnRyb2xzIHRyaWdnZXIuDQoNCiMjIFJpc2sgQ29udHJvbHMNCg0KLSBLZWVwIHJlc2VydmUgdHJlYXN1cnkgYnVmZmVyIChlLmcuLCA4LTEyIHdlZWtzIHJ1bndheSkuDQotIE1heCB3ZWVrbHkgdHJlYXN1cnkgZGVwbG95bWVudCBjYXAgKGUuZy4sIDw9IDUlIG9mIGxpcXVpZCB0cmVhc3VyeSkuDQotIFBhdXNlIGFkZGl0aW9uYWwgZGVwbG95bWVudCBkdXJpbmcgaGlnaCB2b2xhdGlsaXR5IGV2ZW50cyB1bnRpbCByZXZpZXcuDQoNCiMjIE1ldHJpY3MgdG8gUHVibGlzaCBXZWVrbHkNCg0KLSBQb29sIFRWTA0KLSBFc3RpbWF0ZWQgc2xpcHBhZ2UgZm9yICQ1ayAvICQxMGsgLyAkMjVrIG9yZGVycw0KLSBGZWUgZWFybmluZ3MgZnJvbSBMUCBwb3NpdGlvbnMNCi0gTmV0IHRyZWFzdXJ5IGluZmxvdy9vdXRmbG93DQotIFRvdGFsIHByb3RvY29sLW93bmVkIGxpcXVpZGl0eSBwb3NpdGlvbg0KDQojIyBUYXJnZXRzIChGaXJzdCA2MCBEYXlzKQ0KDQotIEltcHJvdmUgJDEwayB0cmFkZSBzbGlwcGFnZSBieSBhdCBsZWFzdCAzMCUNCi0gR3JvdyBwcm90b2NvbC1vd25lZCBsaXF1aWRpdHkgd2Vlay1vdmVyLXdlZWsNCi0gS2VlcCB0cmVhc3VyeSBvcGVyYXRpb25zIGZ1bGx5IGRvY3VtZW50ZWQgKDEwMCUgd2Vla2x5IHJlcG9ydHMpDQoNCiMjIExQIEluY2VudGl2ZSBEZXNpZ24gKFV0aWxpdHktRHJpdmVuKQ0KDQpSZXdhcmQgTFAgZHVyYXRpb24gYW5kIGRlcHRoIHdpdGggcHJvZHVjdCB1dGlsaXR5Og0KDQotIDMwLWRheSBMUDogYm9udXMgcmVwb3J0IGFjY2Vzcw0KLSA2MC1kYXkgTFA6IHByZW1pdW0gY2hhbm5lbCArIHByb2R1Y3QgZGlzY291bnQNCi0gOTAtZGF5IExQOiBzdHJhdGVneSBzZXNzaW9uIG9yIGhpZ2hlc3QtdGllciBwcm9kdWN0IHBlcmsNCg0KQXZvaWQgcHVyZSBlbWlzc2lvbi1oZWF2eSBpbmNlbnRpdmVzIHRoYXQgYXR0cmFjdCBzaG9ydC10ZXJtIG1lcmNlbmFyeSBjYXBpdGFsLg0KDQojIyBXZWVrbHkgUmVwb3J0IFRlbXBsYXRlDQoNCiMjIyBXZWVrIG9mOiBZWVlZLU1NLUREDQoNCi0gTmV0IHByb2R1Y3QgcmV2ZW51ZToNCi0gQW1vdW50IGFsbG9jYXRlZCB0byBsaXF1aWRpdHk6DQotIExpcXVpZGl0eSBhY3Rpb24gZXhlY3V0ZWQgKHllcy9ubyk6DQotIFBvb2wgVFZMIGJlZm9yZS9hZnRlcjoNCi0gU2xpcHBhZ2UgJDEwayBiZWZvcmUvYWZ0ZXI6DQotIEZlZXMgZWFybmVkIHRoaXMgd2VlazoNCi0gTm90ZXMgYW5kIG5leHQgYWRqdXN0bWVudHM6DQoNCiMjIENvbXBsaWFuY2UgTm90ZQ0KDQpBbGwgbWF0ZXJpYWxzIGFyZSBpbmZvcm1hdGlvbmFsL3V0aWxpdHktZm9jdXNlZC4gRG8gbm90IHByZXNlbnQgdG9rZW4gYWN0aXZpdHkgYXMgZ3VhcmFudGVlZCByZXR1cm5zLg0K"}
+# CHIEF Liquidity Growth Policy
+
+## Objective
+
+Increase tradable depth and reduce slippage using a transparent, recurring treasury policy backed by real product revenue.
+
+## Policy Principles
+
+- No fake volume, no wash trading.
+- Liquidity support runs on schedule, not emotion.
+- Publish actions publicly each week.
+- Prioritize stability and depth over short-term price spikes.
+
+## Revenue Allocation Framework
+
+Apply to net monthly revenue:
+
+- 40% Operations and product growth
+- 30% Liquidity support (protocol-owned liquidity)
+- 30% Growth partnerships and distribution
+
+## Weekly Liquidity Operations
+
+- Execute once per week on a fixed day/time.
+- Add liquidity in two bands:
+  - Core band (wide): stability and always-on depth
+  - Active band (narrower): fee generation near market price
+- Rebalance only on schedule unless emergency risk controls trigger.
+
+## Risk Controls
+
+- Keep reserve treasury buffer (e.g., 8-12 weeks runway).
+- Max weekly treasury deployment cap (e.g., <= 5% of liquid treasury).
+- Pause additional deployment during high volatility events until review.
+
+## Metrics to Publish Weekly
+
+- Pool TVL
+- Estimated slippage for $5k / $10k / $25k orders
+- Fee earnings from LP positions
+- Net treasury inflow/outflow
+- Total protocol-owned liquidity position
+
+## Targets (First 60 Days)
+
+- Improve $10k trade slippage by at least 30%
+- Grow protocol-owned liquidity week-over-week
+- Keep treasury operations fully documented (100% weekly reports)
+
+## LP Incentive Design (Utility-Driven)
+
+Reward LP duration and depth with product utility:
+
+- 30-day LP: bonus report access
+- 60-day LP: premium channel + product discount
+- 90-day LP: strategy session or highest-tier product perk
+
+Avoid pure emission-heavy incentives that attract short-term mercenary capital.
+
+## Weekly Report Template
+
+### Week of: YYYY-MM-DD
+
+- Net product revenue:
+- Amount allocated to liquidity:
+- Liquidity action executed (yes/no):
+- Pool TVL before/after:
+- Slippage $10k before/after:
+- Fees earned this week:
+- Notes and next adjustments:
+
+## Compliance Note
+
+All materials are informational/utility-focused. Do not present token activity as guaranteed returns.

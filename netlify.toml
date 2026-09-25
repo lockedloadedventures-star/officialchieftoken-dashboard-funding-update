@@ -1,1 +1,29 @@
-{"data":"W2J1aWxkXQ0KICBwdWJsaXNoID0gIndlYiINCg0KW1tyZWRpcmVjdHNdXQ0KICBmcm9tID0gIi8iDQogIHRvID0gIi9sYXVuY2guaHRtbCINCiAgc3RhdHVzID0gMjAwDQoNCltbcmVkaXJlY3RzXV0NCiAgZnJvbSA9ICIvZGVjayINCiAgdG8gPSAiL2luZGV4Lmh0bWwiDQogIHN0YXR1cyA9IDIwMA0KDQpbW2hlYWRlcnNdXQ0KICBmb3IgPSAiLyoiDQogIFtoZWFkZXJzLnZhbHVlc10NCiAgICBYLUNvbnRlbnQtVHlwZS1PcHRpb25zID0gIm5vc25pZmYiDQogICAgUmVmZXJyZXItUG9saWN5ID0gInN0cmljdC1vcmlnaW4td2hlbi1jcm9zcy1vcmlnaW4iDQogICAgWC1GcmFtZS1PcHRpb25zID0gIkRFTlkiDQoNCltbaGVhZGVyc11dDQogIGZvciA9ICIvYXBwLmpzIg0KICBbaGVhZGVycy52YWx1ZXNdDQogICAgQ29udGVudC1UeXBlID0gImFwcGxpY2F0aW9uL2phdmFzY3JpcHQ7IGNoYXJzZXQ9VVRGLTgiDQoNCltbaGVhZGVyc11dDQogIGZvciA9ICIvc3R5bGVzLmNzcyINCiAgW2hlYWRlcnMudmFsdWVzXQ0KICAgIENvbnRlbnQtVHlwZSA9ICJ0ZXh0L2NzczsgY2hhcnNldD1VVEYtOCINCg=="}
+[build]
+  publish = "web"
+
+[[redirects]]
+  from = "/"
+  to = "/launch.html"
+  status = 200
+
+[[redirects]]
+  from = "/deck"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+
+[[headers]]
+  for = "/app.js"
+  [headers.values]
+    Content-Type = "application/javascript; charset=UTF-8"
+
+[[headers]]
+  for = "/styles.css"
+  [headers.values]
+    Content-Type = "text/css; charset=UTF-8"

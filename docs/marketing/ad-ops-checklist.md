@@ -1,1 +1,30 @@
-{"data":"IyBQYWlkICsgT3JnYW5pYyBPcHMgQ2hlY2tsaXN0CgojIyBQcm9maWxlICsgRnVubmVsCi0gQnJhbmQgcHJvZmlsZSBpbWFnZSBhbmQgYmlvIGFsaWduZWQgd2l0aCBwcm9kdWN0IHByb21pc2UuCi0gT25lIGxpbmsgb25seSBpbiBiaW86IGh0dHBzOi8vdmVudHVyZWxvY2suZ3Vtcm9hZC5jb20vbC9kaWRtbGIKLSBQaW5uZWQgcG9zdCBpbmNsdWRlcyBjbGVhciB0aWVyIGNhbGxvdXQuCgojIyBDb250ZW50IEV4ZWN1dGlvbgotIFB1Ymxpc2ggMSByZWVsL3Nob3J0IHBlciBkYXkgZm9yIDcgZGF5cy4KLSBQdWJsaXNoIDMgYXV0aG9yaXR5IGNsaXBzLCAyIHByb29mIGNsaXBzLCAxIG9mZmVyIGNsaXAsIDEgb2JqZWN0aW9uIGNsaXAuCi0gUmVwbHkgdG8gY29tbWVudHMgd2l0aGluIDMwIG1pbnV0ZXMgd2hlbiBwb3NzaWJsZS4KCiMjIFBhaWQgVHJhZmZpYyBCYXNpY3MgKE1ldGEpCi0gVXNlIGEgYnVzaW5lc3MgcGFnZSBhbmQgYnVzaW5lc3MgcGF5bWVudCBwcm9maWxlLgotIFJ1biBjb252ZXJzaW9uIG9iamVjdGl2ZSB0byBsYW5kaW5nIHBhZ2UuCi0gU3RhcnQgd2l0aCAyLTMgY3JlYXRpdmVzIGFuZCBvbmUgQ1RBLgotIFR1cm4gb2ZmIGNyZWF0aXZlcyB3aXRoIHdlYWsgQ1RSIGFmdGVyIDQ4LTcyaC4KCiMjIFdlZWtseSBNZXRyaWNzCi0gUmVhY2gKLSBQcm9maWxlIHZpc2l0cwotIExpbmsgY2xpY2tzCi0gQ2hlY2tvdXQgc3RhcnRzCi0gUHVyY2hhc2VzCi0gQ29zdCBwZXIgcHVyY2hhc2UgKGZvciBwYWlkKQoKIyMgQ29tcGxpYW5jZSBOb3RlCi0gRWR1Y2F0aW9uYWwgcHJvZHVjdCBvbmx5LgotIEF2b2lkIGd1YXJhbnRlZWQgZWFybmluZ3MgY2xhaW1zLgotIEtlZXAgZGlzY2xhaW1lcnMgY29uc2lzdGVudCBhY3Jvc3MgbGFuZGluZyBwYWdlIGFuZCBhZHMuCg=="}
+# Paid + Organic Ops Checklist
+
+## Profile + Funnel
+- Brand profile image and bio aligned with product promise.
+- One link only in bio: https://venturelock.gumroad.com/l/didmlb
+- Pinned post includes clear tier callout.
+
+## Content Execution
+- Publish 1 reel/short per day for 7 days.
+- Publish 3 authority clips, 2 proof clips, 1 offer clip, 1 objection clip.
+- Reply to comments within 30 minutes when possible.
+
+## Paid Traffic Basics (Meta)
+- Use a business page and business payment profile.
+- Run conversion objective to landing page.
+- Start with 2-3 creatives and one CTA.
+- Turn off creatives with weak CTR after 48-72h.
+
+## Weekly Metrics
+- Reach
+- Profile visits
+- Link clicks
+- Checkout starts
+- Purchases
+- Cost per purchase (for paid)
+
+## Compliance Note
+- Educational product only.
+- Avoid guaranteed earnings claims.
+- Keep disclaimers consistent across landing page and ads.

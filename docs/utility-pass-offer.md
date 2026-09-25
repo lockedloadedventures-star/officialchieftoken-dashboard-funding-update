@@ -1,1 +1,100 @@
-{"data":"IyBDSElFRiBVdGlsaXR5IFBhc3MNCg0KIyMgUG9zaXRpb25pbmcNCg0KQ0hJRUYgVXRpbGl0eSBQYXNzIGlzIGEgcGFpZCBvcGVyYXRvciBtZW1iZXJzaGlwIGZvciB1c2VycyB3aG8gd2FudCBwcmFjdGljYWwgbWFya2V0IGludGVsbGlnZW5jZSwgZXhlY3V0aW9uIGZyYW1ld29ya3MsIGFuZCBkaXJlY3QgYWNjZXNzIHRvIGJ1aWxkZXIgc3VwcG9ydC4NCg0KIyMgT25lLVNlbnRlbmNlIE9mZmVyDQoNCkdldCB3ZWVrbHkgaGlnaC1zaWduYWwgaW50ZWxsaWdlbmNlLCBtZW1iZXJzLW9ubHkgZXhlY3V0aW9uIHJlc291cmNlcywgYW5kIGRpcmVjdCBidWlsZGVyIGFjY2Vzcywgd2l0aCBlbmhhbmNlZCBiZW5lZml0cyBmb3IgQ0hJRUYgaG9sZGVycy4NCg0KIyMgTGF1bmNoIFByaWNpbmcNCg0KLSBTdGFydGVyOiAkMjkvbW9udGggKGZpcnN0IDE0IGRheXMpDQotIFN0YW5kYXJkOiAkNDkvbW9udGggKGFmdGVyIGxhdW5jaCB3aW5kb3cpDQotIFBybzogJDk5L21vbnRoIChpbmNsdWRlcyBwcmlvcml0eSBzdXBwb3J0IGFuZCBtb250aGx5IHN0cmF0ZWd5IGNhbGwpDQoNCiMjIFRpZXIgQmVuZWZpdHMNCg0KIyMjIFN0YXJ0ZXIgKCQyOSkNCg0KLSBXZWVrbHkgQ0hJRUYgbWFya2V0ICsgZWNvc3lzdGVtIGJyaWVmDQotIE9uZSBtZW1iZXJzLW9ubHkgcGxheWJvb2svdG9vbCB0ZW1wbGF0ZSBwZXIgd2Vlaw0KLSBBY2Nlc3MgdG8gcHJpdmF0ZSBtZW1iZXIgY2hhbm5lbA0KDQojIyMgU3RhbmRhcmQgKCQ0OSkNCg0KLSBFdmVyeXRoaW5nIGluIFN0YXJ0ZXINCi0gV2Vla2x5IGxpdmUgb2ZmaWNlIGhvdXINCi0gRWFybHkgYWNjZXNzIHRvIHByb2R1Y3QgZHJvcHMNCi0gMTAlIGRpc2NvdW50IG9uIHBhaWQgQ0hJRUYgZWNvc3lzdGVtIHByb2R1Y3RzL3NlcnZpY2VzDQoNCiMjIyBQcm8gKCQ5OSkNCg0KLSBFdmVyeXRoaW5nIGluIFN0YW5kYXJkDQotIE1vbnRobHkgb25lLW9uLW9uZSBzdHJhdGVneSByZXZpZXcgKDMwIG1pbikNCi0gUHJpb3JpdHkgc3VwcG9ydCBxdWV1ZQ0KLSAyMCUgZGlzY291bnQgb24gcGFpZCBDSElFRiBlY29zeXN0ZW0gcHJvZHVjdHMvc2VydmljZXMNCg0KIyMgQ0hJRUYgSG9sZGVyIFV0aWxpdHkgQm9vc3QNCg0KVXNlIHdhbGxldC1nYXRlZCBib29zdHMgdG8gY3JlYXRlIGRpcmVjdCB0b2tlbiBkZW1hbmQuDQoNCi0gSG9sZCA+PSBUaWVyIEEgdGhyZXNob2xkOiB1bmxvY2sgYm9udXMgbW9udGhseSByZXBvcnQNCi0gSG9sZCA+PSBUaWVyIEIgdGhyZXNob2xkOiB1bmxvY2sgYWRkaXRpb25hbCBkaXNjb3VudCB0aWVyDQotIEhvbGQgPj0gVGllciBDIHRocmVzaG9sZDogdW5sb2NrIHByaXZhdGUgImJ1aWxkZXIiIHNlc3Npb24NCg0KTm90ZTogU2V0IHRocmVzaG9sZHMgZnJvbSBjdXJyZW50IHRva2VuIHByaWNlIHNvIHRoZXkgcmVtYWluIGF0dGFpbmFibGUgYW5kIG1lYW5pbmdmdWwuDQoNCiMjIExhdW5jaCBHdWFyYW50ZWUNCg0KLSA3LWRheSBuby1xdWVzdGlvbnMgcmVmdW5kIGZvciBmaXJzdC10aW1lIGJ1eWVycw0KLSBJZiBubyB2YWx1ZSBkZWxpdmVyZWQgaW4gZmlyc3Qgd2VlaywgZnVsbCByZWZ1bmQNCg0KIyMgTGFuZGluZyBQYWdlIENvcHkgKFJlYWR5IHRvIFVzZSkNCg0KIyMjIEhlcm8gSGVhZGxpbmUNCg0KQnVpbGQgd2l0aCBzaWduYWwsIG5vdCBub2lzZS4NCg0KIyMjIEhlcm8gU3ViaGVhZA0KDQpDSElFRiBVdGlsaXR5IFBhc3MgZ2l2ZXMgeW91IHdlZWtseSBtYXJrZXQgaW50ZWxsaWdlbmNlLCBleGVjdXRpb24gZnJhbWV3b3JrcywgYW5kIGRpcmVjdCBidWlsZGVyIGFjY2Vzcywgd2l0aCBleHRyYSByZXdhcmRzIGZvciBDSElFRiBob2xkZXJzLg0KDQojIyMgUHJpbWFyeSBDVEENCg0KSm9pbiBDSElFRiBVdGlsaXR5IFBhc3MNCg0KIyMjIFNlY29uZGFyeSBDVEENCg0KU2VlIFdlZWtseSBEZWxpdmVyYWJsZXMNCg0KIyMgRkFRIFNuaXBwZXRzDQoNCiMjIyBJcyB0aGlzIGZpbmFuY2lhbCBhZHZpY2U/DQoNCk5vLiBFZHVjYXRpb25hbCBhbmQgaW5mb3JtYXRpb25hbCBvbmx5Lg0KDQojIyMgRG8gSSBuZWVkIHRvIGhvbGQgQ0hJRUYgdG8gam9pbj8NCg0KTm8uIEFueW9uZSBjYW4gc3Vic2NyaWJlLiBDSElFRiBob2xkZXJzIHVubG9jayBhZGRpdGlvbmFsIHV0aWxpdHkgdGllcnMuDQoNCiMjIyBXaGVuIGRvIEkgcmVjZWl2ZSBkZWxpdmVyYWJsZXM/DQoNCldlZWtseSBkcm9wIGV2ZXJ5IE1vbmRheSwgbGl2ZSBvZmZpY2UgaG91ciBldmVyeSBUaHVyc2RheS4NCg0KIyMgMTQtRGF5IExhdW5jaCBQbGFuDQoNCjEuIERheSAxLTI6IHB1Ymxpc2ggbGFuZGluZyArIGNoZWNrb3V0ICsgbWVtYmVyIG9uYm9hcmRpbmcuDQoyLiBEYXkgMzogZHJvcCBmaXJzdCB3ZWVrbHkgcmVwb3J0IGFuZCBvbmUgdGVtcGxhdGUuDQozLiBEYXkgNC01OiBydW4gZm91bmRlci1sZWQgQU1BIGFuZCBjb2xsZWN0IGZlZWRiYWNrLg0KNC4gRGF5IDYtNzogcG9zdCBmaXJzdCBtZW1iZXIgcHJvb2YvdGVzdGltb25pYWwuDQo1LiBEYXkgOC0xMDogcGFydG5lciBzaG91dG91dHMgKyByZWZlcnJhbCBwdXNoLg0KNi4gRGF5IDExLTE0OiByYWlzZSBwcmljZSBmcm9tICQyOSB0byAkNDkgZm9yIG5ldyBzaWdudXBzLg0KDQojIyBOb24tTmVnb3RpYWJsZSBLUElzDQoNCi0gTGFuZGluZyBjb252ZXJzaW9uID49IDIlDQotIENoZWNrb3V0IGNvbXBsZXRpb24gPj0gNjAlDQotIFdlZWstMSBjaHVybiA8PSAyMCUNCi0gJSBzdWJzY3JpYmVycyBob2xkaW5nIENISUVGIGluY3JlYXNpbmcgd2Vlay1vdmVyLXdlZWsNCg=="}
+# CHIEF Utility Pass
+
+## Positioning
+
+CHIEF Utility Pass is a paid operator membership for users who want practical market intelligence, execution frameworks, and direct access to builder support.
+
+## One-Sentence Offer
+
+Get weekly high-signal intelligence, members-only execution resources, and direct builder access, with enhanced benefits for CHIEF holders.
+
+## Launch Pricing
+
+- Starter: $29/month (first 14 days)
+- Standard: $49/month (after launch window)
+- Pro: $99/month (includes priority support and monthly strategy call)
+
+## Tier Benefits
+
+### Starter ($29)
+
+- Weekly CHIEF market + ecosystem brief
+- One members-only playbook/tool template per week
+- Access to private member channel
+
+### Standard ($49)
+
+- Everything in Starter
+- Weekly live office hour
+- Early access to product drops
+- 10% discount on paid CHIEF ecosystem products/services
+
+### Pro ($99)
+
+- Everything in Standard
+- Monthly one-on-one strategy review (30 min)
+- Priority support queue
+- 20% discount on paid CHIEF ecosystem products/services
+
+## CHIEF Holder Utility Boost
+
+Use wallet-gated boosts to create direct token demand.
+
+- Hold >= Tier A threshold: unlock bonus monthly report
+- Hold >= Tier B threshold: unlock additional discount tier
+- Hold >= Tier C threshold: unlock private "builder" session
+
+Note: Set thresholds from current token price so they remain attainable and meaningful.
+
+## Launch Guarantee
+
+- 7-day no-questions refund for first-time buyers
+- If no value delivered in first week, full refund
+
+## Landing Page Copy (Ready to Use)
+
+### Hero Headline
+
+Build with signal, not noise.
+
+### Hero Subhead
+
+CHIEF Utility Pass gives you weekly market intelligence, execution frameworks, and direct builder access, with extra rewards for CHIEF holders.
+
+### Primary CTA
+
+Join CHIEF Utility Pass
+
+### Secondary CTA
+
+See Weekly Deliverables
+
+## FAQ Snippets
+
+### Is this financial advice?
+
+No. Educational and informational only.
+
+### Do I need to hold CHIEF to join?
+
+No. Anyone can subscribe. CHIEF holders unlock additional utility tiers.
+
+### When do I receive deliverables?
+
+Weekly drop every Monday, live office hour every Thursday.
+
+## 14-Day Launch Plan
+
+1. Day 1-2: publish landing + checkout + member onboarding.
+2. Day 3: drop first weekly report and one template.
+3. Day 4-5: run founder-led AMA and collect feedback.
+4. Day 6-7: post first member proof/testimonial.
+5. Day 8-10: partner shoutouts + referral push.
+6. Day 11-14: raise price from $29 to $49 for new signups.
+
+## Non-Negotiable KPIs
+
+- Landing conversion >= 2%
+- Checkout completion >= 60%
+- Week-1 churn <= 20%
+- % subscribers holding CHIEF increasing week-over-week

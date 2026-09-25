@@ -1,1 +1,32 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOw0KDQpjb25zdCBpbmRleFBhdGggPSBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4iLCAiaW5kZXguaHRtbCIpOw0KbGV0IGh0bWwgPSBmcy5yZWFkRmlsZVN5bmMoaW5kZXhQYXRoLCAidXRmOCIpOw0KDQpjb25zdCBnb29nbGVUb2tlbiA9IChwcm9jZXNzLmVudi5HT09HTEVfU0lURV9WRVJJRklDQVRJT04gfHwgIiIpLnRyaW0oKTsNCmNvbnN0IGJpbmdUb2tlbiA9IChwcm9jZXNzLmVudi5CSU5HX1NJVEVfVkVSSUZJQ0FUSU9OIHx8ICIiKS50cmltKCk7DQoNCmZ1bmN0aW9uIHJlcGxhY2VNZXRhQ29udGVudChzb3VyY2UsIG5hbWUsIHZhbHVlKSB7DQogIGNvbnN0IGV4cHJlc3Npb24gPSBuZXcgUmVnRXhwKGAoPG1ldGFcXHMrbmFtZT1cXCIke25hbWV9XFwiXFxzK2NvbnRlbnQ9XFwiKSguKj8pKFxcIlxccypcXC8/PilgLCAiaSIpOw0KICBpZiAoIWV4cHJlc3Npb24udGVzdChzb3VyY2UpKSB7DQogICAgcmV0dXJuIHNvdXJjZTsNCiAgfQ0KICByZXR1cm4gc291cmNlLnJlcGxhY2UoZXhwcmVzc2lvbiwgYCQxJHt2YWx1ZX0kM2ApOw0KfQ0KDQppZiAoZ29vZ2xlVG9rZW4pIHsNCiAgaHRtbCA9IHJlcGxhY2VNZXRhQ29udGVudChodG1sLCAiZ29vZ2xlLXNpdGUtdmVyaWZpY2F0aW9uIiwgZ29vZ2xlVG9rZW4pOw0KfQ0KDQppZiAoYmluZ1Rva2VuKSB7DQogIGh0bWwgPSByZXBsYWNlTWV0YUNvbnRlbnQoaHRtbCwgIm1zdmFsaWRhdGUuMDEiLCBiaW5nVG9rZW4pOw0KfQ0KDQpmcy53cml0ZUZpbGVTeW5jKGluZGV4UGF0aCwgaHRtbCwgInV0ZjgiKTsNCg0KY29uc29sZS5sb2coIlNFTyB2ZXJpZmljYXRpb24gdXBkYXRlIGNvbXBsZXRlOiIpOw0KY29uc29sZS5sb2coaW5kZXhQYXRoKTsNCmNvbnNvbGUubG9nKGBHb29nbGUgdG9rZW4gYXBwbGllZDogJHtnb29nbGVUb2tlbiA/ICJ5ZXMiIDogIm5vIn1gKTsNCmNvbnNvbGUubG9nKGBCaW5nIHRva2VuIGFwcGxpZWQ6ICR7YmluZ1Rva2VuID8gInllcyIgOiAibm8ifWApOw0K"}
+require("dotenv").config();
+const fs = require("fs");
+const path = require("path");
+
+const indexPath = path.resolve(__dirname, "..", "index.html");
+let html = fs.readFileSync(indexPath, "utf8");
+
+const googleToken = (process.env.GOOGLE_SITE_VERIFICATION || "").trim();
+const bingToken = (process.env.BING_SITE_VERIFICATION || "").trim();
+
+function replaceMetaContent(source, name, value) {
+  const expression = new RegExp(`(<meta\\s+name=\\"${name}\\"\\s+content=\\")(.*?)(\\"\\s*\\/?>)`, "i");
+  if (!expression.test(source)) {
+    return source;
+  }
+  return source.replace(expression, `$1${value}$3`);
+}
+
+if (googleToken) {
+  html = replaceMetaContent(html, "google-site-verification", googleToken);
+}
+
+if (bingToken) {
+  html = replaceMetaContent(html, "msvalidate.01", bingToken);
+}
+
+fs.writeFileSync(indexPath, html, "utf8");
+
+console.log("SEO verification update complete:");
+console.log(indexPath);
+console.log(`Google token applied: ${googleToken ? "yes" : "no"}`);
+console.log(`Bing token applied: ${bingToken ? "yes" : "no"}`);

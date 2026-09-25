@@ -1,1 +1,15 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCB7IGV0aGVycyB9ID0gcmVxdWlyZSgiaGFyZGhhdCIpOw0KDQpjb25zdCBDT05UUkFDVF9BRERSRVNTID0gcHJvY2Vzcy5lbnYuQ09OVFJBQ1RfQUREUkVTUyB8fCAiMHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3IjsNCg0KYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsNCiAgY29uc3QgY29udHJhY3QgPSBhd2FpdCBldGhlcnMuZ2V0Q29udHJhY3RBdCgiQ2hpZWZUb2tlbiIsIENPTlRSQUNUX0FERFJFU1MpOw0KICBjb25zdCBvd25lciA9IGF3YWl0IGNvbnRyYWN0Lm93bmVyKCk7DQogIGNvbnNvbGUubG9nKCJPd25lcjoiLCBvd25lcik7DQp9DQoNCm1haW4oKS5jYXRjaCgoZXJyb3IpID0+IHsNCiAgY29uc29sZS5lcnJvcihlcnJvcik7DQogIHByb2Nlc3MuZXhpdENvZGUgPSAxOw0KfSk7DQo="}
+require("dotenv").config();
+const { ethers } = require("hardhat");
+
+const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS || "0x3896c9bd802A56c28590EF1E03A7de645c703757";
+
+async function main() {
+  const contract = await ethers.getContractAt("ChiefToken", CONTRACT_ADDRESS);
+  const owner = await contract.owner();
+  console.log("Owner:", owner);
+}
+
+main().catch((error) => {
+  console.error(error);
+  process.exitCode = 1;
+});

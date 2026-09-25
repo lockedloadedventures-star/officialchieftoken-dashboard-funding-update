@@ -1,1 +1,21 @@
-{"data":"PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIiByb2xlPSJpbWciIGFyaWEtbGFiZWw9IkNISUVGIG9uIEJhc2UiPg0KICA8ZGVmcz4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjZmM2VjIiAvPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZlNGM2IiAvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogICAgPGxpbmVhckdyYWRpZW50IGlkPSJvcmIiIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj4NCiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyYTlkOGYiIC8+DQogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkMTZiMDAiIC8+DQogICAgPC9saW5lYXJHcmFkaWVudD4NCiAgPC9kZWZzPg0KICA8cmVjdCB3aWR0aD0iMTIwMCIgaGVpZ2h0PSI2MzAiIGZpbGw9InVybCgjYmcpIiAvPg0KICA8Y2lyY2xlIGN4PSIxMDIwIiBjeT0iMTAwIiByPSIxOTAiIGZpbGw9InVybCgjb3JiKSIgb3BhY2l0eT0iMC4yMiIgLz4NCiAgPGNpcmNsZSBjeD0iMTQwIiBjeT0iNTYwIiByPSIyMjAiIGZpbGw9IiMyYTlkOGYiIG9wYWNpdHk9IjAuMTciIC8+DQoNCiAgPHRleHQgeD0iNzQiIHk9IjE1MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZDE2YjAwIj5CQVNFIE1BSU5ORVQgTElWRTwvdGV4dD4NCiAgPHRleHQgeD0iNzQiIHk9IjI4MCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEwOCIgZm9udC13ZWlnaHQ9IjkwMCIgZmlsbD0iIzE0MTQxNCI+Q0hJRUY8L3RleHQ+DQogIDx0ZXh0IHg9Ijc0IiB5PSIzNTUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSI0NCIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzE0MTQxNCI+Q2hpZWZUb2tlbiBPZmZpY2lhbCBMYXVuY2g8L3RleHQ+DQogIDx0ZXh0IHg9Ijc0IiB5PSI0MzAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIzMCIgZmlsbD0iIzM2MzIyYyI+TGl2ZSBQb29sOiBDSElFRi9XRVRIIG9uIFVuaXN3YXAgVjMgKEJhc2UpPC90ZXh0Pg0KICA8dGV4dCB4PSI3NCIgeT0iNDkwIiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjYiIGZpbGw9IiMzNjMyMmMiPkNvbnRyYWN0OiAweDM4OTZjOWJkODAyQTU2YzI4NTkwRUYxRTAzQTdkZTY0NWM3MDM3NTc8L3RleHQ+DQo8L3N2Zz4NCg=="}
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="CHIEF on Base">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f3ec" />
+      <stop offset="100%" stop-color="#ffe4c6" />
+    </linearGradient>
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a9d8f" />
+      <stop offset="100%" stop-color="#d16b00" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1020" cy="100" r="190" fill="url(#orb)" opacity="0.22" />
+  <circle cx="140" cy="560" r="220" fill="#2a9d8f" opacity="0.17" />
+
+  <text x="74" y="150" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#d16b00">BASE MAINNET LIVE</text>
+  <text x="74" y="280" font-family="Arial, sans-serif" font-size="108" font-weight="900" fill="#141414">CHIEF</text>
+  <text x="74" y="355" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#141414">ChiefToken Official Launch</text>
+  <text x="74" y="430" font-family="Arial, sans-serif" font-size="30" fill="#36322c">Live Pool: CHIEF/WETH on Uniswap V3 (Base)</text>
+  <text x="74" y="490" font-family="Arial, sans-serif" font-size="26" fill="#36322c">Contract: 0x3896c9bd802A56c28590EF1E03A7de645c703757</text>
+</svg>

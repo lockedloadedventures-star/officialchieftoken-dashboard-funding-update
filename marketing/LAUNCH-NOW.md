@@ -1,1 +1,197 @@
-{"data":"IyBMQVVOQ0ggQUNUSU9OIFBMQU4g4oCTIERPIFRISVMgTk9XIChOZXh0IDIgaG91cnMpDQoNCiMjIElNTUVESUFURSAoTmV4dCAxNSBtaW51dGVzKQ0KDQojIyMgMS4gQ3JlYXRlIEdvb2dsZSBTaGVldHMgVHJhY2tpbmcgVGVtcGxhdGUNCioqR29hbCoqOiBUcmFjayBldmVyeXRoaW5nIGluIG9uZSBwbGFjZQ0KDQoqKkFjdGlvbioqOiANCjEuIEdvIHRvIEdvb2dsZSBTaGVldHMgKHNoZWV0cy5nb29nbGUuY29tKQ0KMi4gQ3JlYXRlIG5ldyBibGFuayBzaGVldA0KMy4gTmFtZSBpdDogIkZ1bm5lbCBUcmFja2luZyAtIEp1bmUgMjAyNiINCjQuIFNoYXJlIGxpbmsgd2l0aCB5b3Vyc2VsZiAoc28gYWNjZXNzaWJsZSBldmVyeXdoZXJlKQ0KDQoqKlRhYiAxOiBEYWlseSBUcmFja2luZyoqDQpgYGANCkRhdGUgfCBHdW1yb2FkIFN0YXJ0ZXIgfCBHdW1yb2FkIEdyb3d0aCB8IEd1bXJvYWQgUHJvIHwgRGFpbHkgUmV2ZW51ZSB8IENISUVGIFZvbHVtZSB8IENISUVGIEhvbGRlcnMgfCBOZXcgSG9sZGVycyB8IEVtYWlsIFN1YnMgfCBOb3Rlcw0KNi80ICB8IFt0byB1cGRhdGVdICAgICB8IFt0byB1cGRhdGVdICAgIHwgW3RvIHVwZGF0ZV0gfCBbdG8gdXBkYXRlXSAgIHwgW3RvIHVwZGF0ZV0gIHwgW3RvIHVwZGF0ZV0gICB8IFt0byB1cGRhdGVdIHwgW3RvIHVwZGF0ZV18IExhdW5jaCBkYXkNCmBgYA0KDQoqKlRhYiAyOiBMaW5rIERhc2hib2FyZCoqDQpgYGANCkd1bXJvYWQ6IGh0dHBzOi8vdmVudHVyZWxvY2suZ3Vtcm9hZC5jb20vbC9kaWRtbGINCkNISUVGIFN3YXA6IGh0dHBzOi8vYXBwLnVuaXN3YXAub3JnL3N3YXA/Y2hhaW49YmFzZSZvdXRwdXRDdXJyZW5jeT0weDM4OTZjOWJkODAyQTU2YzI4NTkwRUYxRTAzQTdkZTY0NWM3MDM3NTcNCkNISUVGIFBvb2w6IGh0dHBzOi8vYXBwLnVuaXN3YXAub3JnL2V4cGxvcmUvcG9vbHMvYmFzZS8weEQ5MjZGNEMyYjVhZDRkZTQ1RTMxQzg3NWQzM2Q1MjA3ZTNEZjNBN2QNCkRFWFRvb2xzOiBodHRwczovL3d3dy5kZXh0b29scy5pby9hcHAvYmFzZS9wYWlyLzB4RDkyNkY0QzJiNWFkNGRlNDVFMzFDODc1ZDMzZDUyMDdlM0RmM0E3ZA0KR3Vtcm9hZCBEYXNoYm9hcmQ6IGh0dHBzOi8vZ3Vtcm9hZC5jb20vZGFzaGJvYXJkDQpgYGANCg0KLS0tDQoNCiMjIyAyLiBDb3B5IEFsbCBMYXVuY2ggQ29udGVudCAoMiBtaW51dGVzKQ0KKipHb2FsKio6IEhhdmUgZXZlcnl0aGluZyByZWFkeSB0byBwb3N0DQoNCioqQWN0aW9uKio6IA0KMS4gT3BlbiBMQVVOQ0gtREFZLUpVTkU0Lm1kIChpbiB5b3VyIG1hcmtldGluZyBmb2xkZXIpDQoyLiBDb3B5IGFsbCBjYXB0aW9ucyBpbnRvIE5vdGVwYWQgb3IgV29yZA0KMy4gSGF2ZSB2aWRlb3MgcmVhZHkgKHVzZSB5b3VyIGJlc3QgOToxNiByZWVsIGZvb3RhZ2UpDQoNCioqVHdvIHBvc3RzIHlvdSBuZWVkIHRvZGF5OioqDQotIFBvc3QgMSAoOSBBTSk6IEd1bXJvYWQgYXV0aG9yaXR5IGhvb2sNCi0gUG9zdCAyICgxMCBBTSk6IENISUVGIHRva2VuIGludHJvZHVjdGlvbg0KDQotLS0NCg0KIyMjIDMuIFByZXBhcmUgRGlzY29yZCAoNSBtaW51dGVzKQ0KKipHb2FsKio6IENoYW5uZWwgcmVhZHkgZm9yIGFubm91bmNlbWVudHMNCg0KKipBY3Rpb24qKjoNCjEuIENyZWF0ZSB0aGVzZSBjaGFubmVscyBpZiBub3QgZXhpc3Q6DQogICAtICNhbm5vdW5jZW1lbnRzDQogICAtICN0cmFkaW5nDQogICAtICN3aW5zDQogICAtICNzdXBwb3J0DQoyLiBDb3B5IHRoZSBEaXNjb3JkIGFubm91bmNlbWVudCBmcm9tIExBVU5DSC1EQVktSlVORTQubWQNCjMuIFBhc3RlIGludG8gYSBkcmFmdCAoZG9uJ3QgcG9zdCB5ZXQg4oCTIHdhaXQgZm9yIDEwOjE1IEFNKQ0KDQotLS0NCg0KIyMgRVhFQ1VUSU9OICg5IEFNIOKAkyAxIFBNKQ0KDQojIyMgOTowMCBBTSDigJMgUE9TVCAxOiBHVU1ST0FEIERBWSAxDQoNCioqRXhhY3Qgc3RlcHMqKjoNCjEuIE9wZW4gSW5zdGFncmFtDQoyLiBDcmVhdGUgbmV3IFJlZWwNCjMuIFVwbG9hZCB2aWRlbyAoR3Vtcm9hZCBhdXRob3JpdHkgaG9vaykNCjQuIEFkZCBjYXB0aW9uIGZyb20gTEFVTkNILURBWS1KVU5FNC5tZA0KNS4gU2NoZWR1bGUvcG9zdCBpbW1lZGlhdGVseQ0KNi4gUElOIFRISVMgUE9TVCAodGFwIDMgZG90cyDihpIgcGluKQ0KNy4gUG9zdCB0byBTdG9yaWVzICgzMC1zZWNvbmQgdGVhc2VyKQ0KOC4gUmVwbHkgIlllcyIgdG8gNSBjb21tZW50cyBpbW1lZGlhdGVseQ0KDQotLS0NCg0KIyMjIDEwOjAwIEFNIOKAkyBQT1NUIDI6IENISUVGIFRPS0VODQoNCioqRXhhY3Qgc3RlcHMqKjoNCjEuIE9wZW4gSW5zdGFncmFtDQoyLiBDcmVhdGUgbmV3IFJlZWwNCjMuIFVwbG9hZCB2aWRlbyAoQ0hJRUYgdG9rZW4gaW50cm8gd2l0aCBVbmlzd2FwIGNoYXJ0KQ0KNC4gQWRkIGNhcHRpb24gZnJvbSBMQVVOQ0gtREFZLUpVTkU0Lm1kDQo1LiBTY2hlZHVsZS9wb3N0IGltbWVkaWF0ZWx5DQo2LiBQSU4gVEhJUyBQT1NUDQo3LiBQb3N0IHRvIFN0b3JpZXMgKGNoYXJ0ICsgImxpdmUgbm93IikNCg0KLS0tDQoNCiMjIyAxMDoxNSBBTSDigJMgRElTQ09SRCBBTk5PVU5DRU1FTlQNCg0KKipFeGFjdCBzdGVwcyoqOg0KMS4gR28gdG8gRGlzY29yZA0KMi4gR28gdG8gI2Fubm91bmNlbWVudHMgY2hhbm5lbA0KMy4gUGFzdGUgdGhlIGFubm91bmNlbWVudCBmcm9tIExBVU5DSC1EQVktSlVORTQubWQNCjQuIFdhdGNoIGZvciBxdWVzdGlvbnMgaW4gcmVhbC10aW1lDQo1LiBBbnN3ZXIgdXNpbmcgcmVzcG9uc2UgdGVtcGxhdGVzIChpbiBmaWxlKQ0KDQotLS0NCg0KIyMjIDEwOjMwIEFNIOKAkyBTRU5EIEVNQUlMDQoNCioqRXhhY3Qgc3RlcHMqKjoNCjEuIEdvIHRvIEd1bXJvYWQgZW1haWwgb3IgZW1haWwgcHJvdmlkZXINCjIuIENyZWF0ZSBuZXcgZW1haWwNCjMuIENvcHkgdGhlICJFbWFpbCAxOiBEdWFsIExhdW5jaCBBbm5vdW5jZW1lbnQiIGZyb20gTEFVTkNILURBWS1KVU5FNC5tZA0KNC4gU2VuZCB0byB5b3VyIGV4aXN0aW5nIGxpc3QNCjUuIE1vbml0b3Igb3BlbiByYXRlcyAoY2hlY2sgaW4gMzAgbWluKQ0KDQotLS0NCg0KIyMjIDEyOjAwIFBNIOKAkyBNSUREQVkgUFVMU0UNCg0KKipFeGFjdCBzdGVwcyoqOg0KMS4gQ2hlY2sgSW5zdGFncmFtIGNvbW1lbnRzIChyZXBseSB0byBuZXcgb25lcykNCjIuIENoZWNrIERpc2NvcmQgKGFuc3dlciBxdWVzdGlvbnMpDQozLiBDaGVjayBlbWFpbCBvcGVucyAoc2hvdWxkIGJlIDMwJSsgYnkgbm93KQ0KNC4gQ2hlY2sgR3Vtcm9hZCBkYXNoYm9hcmQgKGZpcnN0IGVucm9sbG1lbnRzPykNCjUuIENoZWNrIERFWFRvb2xzIChDSElFRiB2b2x1bWUgc3RhcnRpbmc/KQ0KNi4gTG9nIHByZWxpbWluYXJ5IG51bWJlcnMgaW4gdHJhY2tpbmcgc2hlZXQNCg0KLS0tDQoNCiMjIyA2OjAwIFBNIOKAkyBFTkQgT0YgREFZIFJFVklFVw0KDQoqKkV4YWN0IHN0ZXBzKio6DQoxLiBVcGRhdGUgdHJhY2tpbmcgc2hlZXQgd2l0aCBmaW5hbCBudW1iZXJzDQoyLiBQb3N0IGRheSAxIHN1bW1hcnkgaW4gRGlzY29yZCAjd2lucw0KMy4gU2F2ZSBzY3JlZW5zaG90cyAobWV0cmljcyBwcm9vZikNCjQuIE5vdGUgd2hhdCB3b3JrZWQgYmVzdCAoY29tbWVudHMsIGVuZ2FnZW1lbnQpDQo1LiBQcmVwIERheSAyIGNvbnRlbnQgZm9yIHRvbW9ycm93DQoNCi0tLQ0KDQojIyBXSEFUIFRPIE1PTklUT1IgUkVBTC1USU1FDQoNCioqSW5zdGFncmFtKio6DQotIEZpcnN0IDEsMDAwIHZpZXdzIOKGkiBHb29kIHN0YXJ0DQotIENvbW1lbnRzIGluIGZpcnN0IGhvdXIg4oaSIEVuZ2FnZW1lbnQgc2lnbmFsDQotIERNcyB3aXRoIHF1ZXN0aW9ucyDihpIgR29vZCBpbnRlcmVzdA0KDQoqKkNISUVGIChERVhUb29scykqKjoNCi0gRmlyc3QgaG91ciB2b2x1bWUg4oaSIFNob3VsZCBzZWUgbW92ZW1lbnQNCi0gSG9sZGVyIGNvdW50IOKGkiBTaG91bGQgaW5jcmVhc2UNCi0gUHJpY2Ugc3RhYmlsaXR5IOKGkiBTaG91bGQgc3RheSBmbGF0IG9yICsNCg0KKipHdW1yb2FkKio6DQotIEZpcnN0IGVucm9sbG1lbnRzIOKGkiBWYWxpZGF0ZSBjb3B5IHdvcmtzDQotIFRpZXIgYnJlYWtkb3duIOKGkiBXaGljaCB0aWVyIGNvbnZlcnRpbmcgbW9zdD8NCi0gRW1haWwgbGlzdCBncm93dGgg4oaSIFByZS1leGlzdGluZyBhdWRpZW5jZT8NCg0KKipEaXNjb3JkKio6DQotIE1lbWJlciBqb2lucyDihpIgQXJlIHRoZXkgY29taW5nIGZyb20gcG9zdHM/DQotIFF1ZXN0aW9ucyBhc2tlZCDihpIgQ29tbW9uIG9iamVjdGlvbnM/DQoNCi0tLQ0KDQojIyBJRiBTT01FVEhJTkcgQlJFQUtTDQoNCnwgUHJvYmxlbSB8IEZpeCB8IFRpbWUgfA0KfC0tLS0tLS0tLXwtLS0tLXwtLS0tLS18DQp8IFBvc3Qgd29uJ3QgdXBsb2FkIHwgVHJ5IHJlZnJlc2hpbmcgSW5zdGFncmFtIGFwcCBvciB3YWl0IDUgbWluIHwgNSBtaW4gfA0KfCBMaW5rIGRvZXNuJ3Qgd29yayB8IFRlc3QgaW4gYnJvd3NlciBmaXJzdCwgY29weSBhZ2FpbiB8IDIgbWluIHwNCnwgRW1haWwgbm90IHNlbmRpbmcgfCBDaGVjayBzcGFtIGZvbGRlciwgcmVzZW5kIHwgNSBtaW4gfA0KfCBEaXNjb3JkIGRvd24gfCBTY3JlZW5zaG90IGV2ZXJ5dGhpbmcsIHBvc3Qgd2hlbiBiYWNrIHVwIHwgZGVwZW5kcyB8DQp8IE5vIGVuZ2FnZW1lbnQgKDFoIGluKSB8IENoYW5nZSBjYXB0aW9uLCByZXBvc3QgdG8gU3RvcmllcyB8IDEwIG1pbiB8DQp8IFZvbHVtZS9ob2xkZXJzIG5vdCBtb3ZpbmcgfCBOb3JtYWwg4oCTIHRha2VzIGEgZmV3IGhvdXJzIHRvIGtpY2sgaW4gfCB3YWl0IHwNCg0KLS0tDQoNCiMjIFNVQ0NFU1MgU0lHTkFMUyAoQnkgZW5kIG9mIERheSAxKQ0KDQrinJMgMjAwKyB2aWV3cyBvbiBlYWNoIHJlZWwgKGdvb2QpDQrinJMgNSsgY29tbWVudHMgb24gZWFjaCByZWVsIChlbmdhZ2VtZW50KQ0K4pyTIDEwKyBHdW1yb2FkIGVucm9sbG1lbnRzICh2YWxpZGF0aW9uKQ0K4pyTICQ1MGsgQ0hJRUYgdm9sdW1lIChtb21lbnR1bSkNCuKckyAxMDArIG5ldyBEaXNjb3JkIG1lbWJlcnMgKGNvbW11bml0eSkNCuKckyAyMCsgZW1haWwgb3BlbnMgKGxpc3QgcmVjZXB0aXZlKQ0KDQpJZiB5b3UgaGl0IDQvNjogR3JlZW4gbGlnaHQuIA0KSWYgeW91IGhpdCAyLzY6IENoZWNrIHlvdXIgbWVzc2FnaW5nLCBhZGp1c3QgRGF5IDIuDQoNCi0tLQ0KDQojIyBET05FDQoNCllvdSdyZSBub3cgcmVhZHkgdG8gbGF1bmNoLg0KDQoqKk5leHQgMiBob3VycyoqOg0KMS4g4pyFIENyZWF0ZSBHb29nbGUgU2hlZXQNCjIuIOKchSBDb3B5IGFsbCBjb250ZW50DQozLiDinIUgUHJlcCBEaXNjb3JkDQo0LiDinIUgRm9sbG93IHRpbWVsaW5lOiA5IEFNIHBvc3QsIDEwIEFNIHBvc3QsIDEwOjE1IEFNIERpc2NvcmQsIDEwOjMwIEFNIGVtYWlsDQoNCioqVGhlbiBleGVjdXRlIHRoZSBwb3N0cywgZW5nYWdlLCBhbmQgdHJhY2suKioNCg0KR28gZ2V0IGl0LiDwn5qADQoNClF1ZXN0aW9ucz8gQ2hlY2sgYmF0dGxlIGNhcmQgb3IgcmVhY2ggb3V0Lg0K"}
+# LAUNCH ACTION PLAN – DO THIS NOW (Next 2 hours)
+
+## IMMEDIATE (Next 15 minutes)
+
+### 1. Create Google Sheets Tracking Template
+**Goal**: Track everything in one place
+
+**Action**: 
+1. Go to Google Sheets (sheets.google.com)
+2. Create new blank sheet
+3. Name it: "Funnel Tracking - June 2026"
+4. Share link with yourself (so accessible everywhere)
+
+**Tab 1: Daily Tracking**
+```
+Date | Gumroad Starter | Gumroad Growth | Gumroad Pro | Daily Revenue | CHIEF Volume | CHIEF Holders | New Holders | Email Subs | Notes
+6/4  | [to update]     | [to update]    | [to update] | [to update]   | [to update]  | [to update]   | [to update] | [to update]| Launch day
+```
+
+**Tab 2: Link Dashboard**
+```
+Gumroad: https://venturelock.gumroad.com/l/didmlb
+CHIEF Swap: https://app.uniswap.org/swap?chain=base&outputCurrency=0x3896c9bd802A56c28590EF1E03A7de645c703757
+CHIEF Pool: https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d
+DEXTools: https://www.dextools.io/app/base/pair/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d
+Gumroad Dashboard: https://gumroad.com/dashboard
+```
+
+---
+
+### 2. Copy All Launch Content (2 minutes)
+**Goal**: Have everything ready to post
+
+**Action**: 
+1. Open LAUNCH-DAY-JUNE4.md (in your marketing folder)
+2. Copy all captions into Notepad or Word
+3. Have videos ready (use your best 9:16 reel footage)
+
+**Two posts you need today:**
+- Post 1 (9 AM): Gumroad authority hook
+- Post 2 (10 AM): CHIEF token introduction
+
+---
+
+### 3. Prepare Discord (5 minutes)
+**Goal**: Channel ready for announcements
+
+**Action**:
+1. Create these channels if not exist:
+   - #announcements
+   - #trading
+   - #wins
+   - #support
+2. Copy the Discord announcement from LAUNCH-DAY-JUNE4.md
+3. Paste into a draft (don't post yet – wait for 10:15 AM)
+
+---
+
+## EXECUTION (9 AM – 1 PM)
+
+### 9:00 AM – POST 1: GUMROAD DAY 1
+
+**Exact steps**:
+1. Open Instagram
+2. Create new Reel
+3. Upload video (Gumroad authority hook)
+4. Add caption from LAUNCH-DAY-JUNE4.md
+5. Schedule/post immediately
+6. PIN THIS POST (tap 3 dots → pin)
+7. Post to Stories (30-second teaser)
+8. Reply "Yes" to 5 comments immediately
+
+---
+
+### 10:00 AM – POST 2: CHIEF TOKEN
+
+**Exact steps**:
+1. Open Instagram
+2. Create new Reel
+3. Upload video (CHIEF token intro with Uniswap chart)
+4. Add caption from LAUNCH-DAY-JUNE4.md
+5. Schedule/post immediately
+6. PIN THIS POST
+7. Post to Stories (chart + "live now")
+
+---
+
+### 10:15 AM – DISCORD ANNOUNCEMENT
+
+**Exact steps**:
+1. Go to Discord
+2. Go to #announcements channel
+3. Paste the announcement from LAUNCH-DAY-JUNE4.md
+4. Watch for questions in real-time
+5. Answer using response templates (in file)
+
+---
+
+### 10:30 AM – SEND EMAIL
+
+**Exact steps**:
+1. Go to Gumroad email or email provider
+2. Create new email
+3. Copy the "Email 1: Dual Launch Announcement" from LAUNCH-DAY-JUNE4.md
+4. Send to your existing list
+5. Monitor open rates (check in 30 min)
+
+---
+
+### 12:00 PM – MIDDAY PULSE
+
+**Exact steps**:
+1. Check Instagram comments (reply to new ones)
+2. Check Discord (answer questions)
+3. Check email opens (should be 30%+ by now)
+4. Check Gumroad dashboard (first enrollments?)
+5. Check DEXTools (CHIEF volume starting?)
+6. Log preliminary numbers in tracking sheet
+
+---
+
+### 6:00 PM – END OF DAY REVIEW
+
+**Exact steps**:
+1. Update tracking sheet with final numbers
+2. Post day 1 summary in Discord #wins
+3. Save screenshots (metrics proof)
+4. Note what worked best (comments, engagement)
+5. Prep Day 2 content for tomorrow
+
+---
+
+## WHAT TO MONITOR REAL-TIME
+
+**Instagram**:
+- First 1,000 views → Good start
+- Comments in first hour → Engagement signal
+- DMs with questions → Good interest
+
+**CHIEF (DEXTools)**:
+- First hour volume → Should see movement
+- Holder count → Should increase
+- Price stability → Should stay flat or +
+
+**Gumroad**:
+- First enrollments → Validate copy works
+- Tier breakdown → Which tier converting most?
+- Email list growth → Pre-existing audience?
+
+**Discord**:
+- Member joins → Are they coming from posts?
+- Questions asked → Common objections?
+
+---
+
+## IF SOMETHING BREAKS
+
+| Problem | Fix | Time |
+|---------|-----|------|
+| Post won't upload | Try refreshing Instagram app or wait 5 min | 5 min |
+| Link doesn't work | Test in browser first, copy again | 2 min |
+| Email not sending | Check spam folder, resend | 5 min |
+| Discord down | Screenshot everything, post when back up | depends |
+| No engagement (1h in) | Change caption, repost to Stories | 10 min |
+| Volume/holders not moving | Normal – takes a few hours to kick in | wait |
+
+---
+
+## SUCCESS SIGNALS (By end of Day 1)
+
+✓ 200+ views on each reel (good)
+✓ 5+ comments on each reel (engagement)
+✓ 10+ Gumroad enrollments (validation)
+✓ $50k CHIEF volume (momentum)
+✓ 100+ new Discord members (community)
+✓ 20+ email opens (list receptive)
+
+If you hit 4/6: Green light. 
+If you hit 2/6: Check your messaging, adjust Day 2.
+
+---
+
+## DONE
+
+You're now ready to launch.
+
+**Next 2 hours**:
+1. ✅ Create Google Sheet
+2. ✅ Copy all content
+3. ✅ Prep Discord
+4. ✅ Follow timeline: 9 AM post, 10 AM post, 10:15 AM Discord, 10:30 AM email
+
+**Then execute the posts, engage, and track.**
+
+Go get it. 🚀
+
+Questions? Check battle card or reach out.

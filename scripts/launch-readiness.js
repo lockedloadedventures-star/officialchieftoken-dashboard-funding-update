@@ -1,1 +1,110 @@
-{"data":"Y29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOw0KY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsNCg0KY29uc3Qgcm9vdERpciA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICIuLiIpOw0KDQpjb25zdCBjaGVja3MgPSBbXTsNCmNvbnN0IHdhcm5pbmdzID0gW107DQoNCmZ1bmN0aW9uIGFkZENoZWNrKG9rLCBuYW1lLCBkZXRhaWwpIHsNCiAgY2hlY2tzLnB1c2goeyBvaywgbmFtZSwgZGV0YWlsIH0pOw0KfQ0KDQpmdW5jdGlvbiBhZGRXYXJuaW5nKG5hbWUsIGRldGFpbCkgew0KICB3YXJuaW5ncy5wdXNoKHsgbmFtZSwgZGV0YWlsIH0pOw0KfQ0KDQpmdW5jdGlvbiByZWFkKGZpbGVQYXRoKSB7DQogIHJldHVybiBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKHJvb3REaXIsIGZpbGVQYXRoKSwgInV0ZjgiKTsNCn0NCg0KZnVuY3Rpb24gZXhpc3RzKGZpbGVQYXRoKSB7DQogIHJldHVybiBmcy5leGlzdHNTeW5jKHBhdGguam9pbihyb290RGlyLCBmaWxlUGF0aCkpOw0KfQ0KDQpmdW5jdGlvbiBydW4oKSB7DQogIGFkZENoZWNrKGV4aXN0cygiaW5kZXguaHRtbCIpLCAiTGFuZGluZyBwYWdlIGV4aXN0cyIsICJpbmRleC5odG1sIik7DQogIGFkZENoZWNrKGV4aXN0cygiY2hlY2tvdXQuaHRtbCIpLCAiQ2hlY2tvdXQgcGFnZSBleGlzdHMiLCAiY2hlY2tvdXQuaHRtbCIpOw0KICBhZGRDaGVjayhleGlzdHMoInJvYm90cy50eHQiKSwgIlJvYm90cyBmaWxlIGV4aXN0cyIsICJyb2JvdHMudHh0Iik7DQogIGFkZENoZWNrKGV4aXN0cygic2l0ZW1hcC54bWwiKSwgIlNpdGVtYXAgZmlsZSBleGlzdHMiLCAic2l0ZW1hcC54bWwiKTsNCg0KICBjb25zdCBpbmRleEh0bWwgPSByZWFkKCJpbmRleC5odG1sIik7DQogIGNvbnN0IGNoZWNrb3V0SHRtbCA9IHJlYWQoImNoZWNrb3V0Lmh0bWwiKTsNCiAgY29uc3Qgcm9ib3RzVHh0ID0gcmVhZCgicm9ib3RzLnR4dCIpOw0KICBjb25zdCBzaXRlbWFwWG1sID0gcmVhZCgic2l0ZW1hcC54bWwiKTsNCiAgY29uc3QgdG9rZW5Qcm9maWxlID0gcmVhZCgibGlzdGluZy90b2tlbi1wcm9maWxlLmpzb24iKTsNCg0KICBjb25zdCBpbmRleEhhc0Nhbm9uaWNhbCA9IGluZGV4SHRtbC5pbmNsdWRlcygnaHJlZj0iaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tLyInKTsNCiAgYWRkQ2hlY2soaW5kZXhIYXNDYW5vbmljYWwsICJIb21lcGFnZSBjYW5vbmljYWwgdXNlcyBhcGV4IGRvbWFpbiIsICJpbmRleC5odG1sIGNhbm9uaWNhbCIpOw0KDQogIGNvbnN0IGluZGV4SGFzT2dVcmwgPSBpbmRleEh0bWwuaW5jbHVkZXMoJ3Byb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS8iJyk7DQogIGFkZENoZWNrKGluZGV4SGFzT2dVcmwsICJIb21lcGFnZSBPRyBVUkwgdXNlcyBhcGV4IGRvbWFpbiIsICJpbmRleC5odG1sIG9nOnVybCIpOw0KDQogIGNvbnN0IGNoZWNrb3V0Q2Fub25pY2FsID0gY2hlY2tvdXRIdG1sLmluY2x1ZGVzKCdocmVmPSJodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vY2hlY2tvdXQiJyk7DQogIGFkZENoZWNrKGNoZWNrb3V0Q2Fub25pY2FsLCAiQ2hlY2tvdXQgY2Fub25pY2FsIGlzIHNldCIsICJjaGVja291dC5odG1sIGNhbm9uaWNhbCIpOw0KDQogIGNvbnN0IHJvYm90c0hhc1NpdGVtYXAgPSByb2JvdHNUeHQuaW5jbHVkZXMoImh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS9zaXRlbWFwLnhtbCIpOw0KICBhZGRDaGVjayhyb2JvdHNIYXNTaXRlbWFwLCAicm9ib3RzLnR4dCByZWZlcmVuY2VzIHNpdGVtYXAiLCAicm9ib3RzLnR4dCBzaXRlbWFwIGVudHJ5Iik7DQoNCiAgY29uc3Qgc2l0ZW1hcEhhc0hvbWVwYWdlID0gc2l0ZW1hcFhtbC5pbmNsdWRlcygiPGxvYz5odHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vPC9sb2M+Iik7DQogIGFkZENoZWNrKHNpdGVtYXBIYXNIb21lcGFnZSwgInNpdGVtYXAueG1sIGNvbnRhaW5zIGhvbWVwYWdlIiwgInNpdGVtYXAueG1sIGhvbWVwYWdlIik7DQoNCiAgY29uc3QgaGFzQmxvY2tpbmdQbGFjZWhvbGRlcnMgPQ0KICAgIHRva2VuUHJvZmlsZS5pbmNsdWRlcygiWU9VUi0iKSB8fA0KICAgIHRva2VuUHJvZmlsZS5pbmNsdWRlcygiWU9VUl8iKSB8fA0KICAgIHRva2VuUHJvZmlsZS5pbmNsdWRlcygiUkVQTEFDRV9XSVRIXyIpIHx8DQogICAgY2hlY2tvdXRIdG1sLmluY2x1ZGVzKCJSRVBMQUNFX1dJVEhfIik7DQogIGFkZENoZWNrKCFoYXNCbG9ja2luZ1BsYWNlaG9sZGVycywgIk5vIGJsb2NraW5nIHBsYWNlaG9sZGVycyBpbiBsYXVuY2ggZmlsZXMiLCAiY2hlY2tvdXQvbGlzdGluZyBwcm9maWxlIik7DQoNCiAgaWYgKGluZGV4SHRtbC5pbmNsdWRlcygiUkVQTEFDRV9XSVRIX0dPT0dMRV9TRUFSQ0hfQ09OU09MRV9UT0tFTiIpKSB7DQogICAgYWRkV2FybmluZygiR29vZ2xlIFNlYXJjaCBDb25zb2xlIHRva2VuIHN0aWxsIHBsYWNlaG9sZGVyIiwgIlNldCB0aGlzIGluIGluZGV4Lmh0bWwgYmVmb3JlIHNlYXJjaC1jb25zb2xlIHZlcmlmaWNhdGlvbiIpOw0KICB9DQoNCiAgaWYgKGluZGV4SHRtbC5pbmNsdWRlcygiUkVQTEFDRV9XSVRIX0JJTkdfV0VCTUFTVEVSX1RPS0VOIikpIHsNCiAgICBhZGRXYXJuaW5nKCJCaW5nIFdlYm1hc3RlciB0b2tlbiBzdGlsbCBwbGFjZWhvbGRlciIsICJTZXQgdGhpcyBpbiBpbmRleC5odG1sIGJlZm9yZSBiaW5nIHZlcmlmaWNhdGlvbiIpOw0KICB9DQoNCiAgY29uc3QgdGVzdFN0cmlwZUxpbmtzID0gWy4uLmNoZWNrb3V0SHRtbC5tYXRjaEFsbCgvaHR0cHM6XC9cL2J1eVwuc3RyaXBlXC5jb21cL3Rlc3RfW15cIlxzXSsvZyldLm1hcCgobSkgPT4gbVswXSk7DQogIGFkZENoZWNrKA0KICAgIHRlc3RTdHJpcGVMaW5rcy5sZW5ndGggPT09IDAsDQogICAgIkNoZWNrb3V0IGxpbmtzIGFyZSBub3QgdGVzdC1tb2RlIFN0cmlwZSBsaW5rcyIsDQogICAgdGVzdFN0cmlwZUxpbmtzLmxlbmd0aCA/IGBGb3VuZCAke3Rlc3RTdHJpcGVMaW5rcy5sZW5ndGh9IHRlc3QgbGluayhzKWAgOiAiTm8gdGVzdCBsaW5rcyBmb3VuZCINCiAgKTsNCg0KICBjb25zdCByZXF1aXJlZEZpbGVzID0gWw0KICAgICJsaXN0aW5nL2NvaW5iYXNlLWFzc2V0LWh1Yi1kcmFmdC5tZCIsDQogICAgImxpc3RpbmcvY29pbmdlY2tvLXN1Ym1pc3Npb24tZHJhZnQubWQiLA0KICAgICJsaXN0aW5nL2NvaW5tYXJrZXRjYXAtc3VibWlzc2lvbi1kcmFmdC5tZCIsDQogICAgImRvY3MvbGlxdWlkaXR5LWdyb3d0aC1wb2xpY3kubWQiLA0KICAgICJkb2NzL25leHQtNzJoLWFjdGlvbi1wbGFuLm1kIiwNCiAgICAiZG9jcy9zb2NpYWwtbGF1bmNoLWtpdC5tZCINCiAgXTsNCg0KICBmb3IgKGNvbnN0IGZpbGUgb2YgcmVxdWlyZWRGaWxlcykgew0KICAgIGFkZENoZWNrKGV4aXN0cyhmaWxlKSwgYEZpbGUgcHJlc2VudDogJHtmaWxlfWAsIGZpbGUpOw0KICB9DQoNCiAgY29uc3QgcGFzc2VkID0gY2hlY2tzLmZpbHRlcigoYykgPT4gYy5vaykubGVuZ3RoOw0KICBjb25zdCBmYWlsZWQgPSBjaGVja3MubGVuZ3RoIC0gcGFzc2VkOw0KDQogIGNvbnNvbGUubG9nKCJcbkNISUVGIExhdW5jaCBSZWFkaW5lc3MgUmVwb3J0XG4iKTsNCiAgZm9yIChjb25zdCBjaGVjayBvZiBjaGVja3MpIHsNCiAgICBjb25zdCBpY29uID0gY2hlY2sub2sgPyAiUEFTUyIgOiAiRkFJTCI7DQogICAgY29uc29sZS5sb2coYFske2ljb259XSAke2NoZWNrLm5hbWV9IDo6ICR7Y2hlY2suZGV0YWlsfWApOw0KICB9DQoNCiAgaWYgKHdhcm5pbmdzLmxlbmd0aCA+IDApIHsNCiAgICBjb25zb2xlLmxvZygiXG5XYXJuaW5nczoiKTsNCiAgICBmb3IgKGNvbnN0IHdhcm5pbmcgb2Ygd2FybmluZ3MpIHsNCiAgICAgIGNvbnNvbGUubG9nKGBbV0FSTl0gJHt3YXJuaW5nLm5hbWV9IDo6ICR7d2FybmluZy5kZXRhaWx9YCk7DQogICAgfQ0KICB9DQoNCiAgY29uc29sZS5sb2coYFxuU3VtbWFyeTogJHtwYXNzZWR9LyR7Y2hlY2tzLmxlbmd0aH0gY2hlY2tzIHBhc3NlZCwgJHtmYWlsZWR9IGZhaWxlZC5cbmApOw0KDQogIGlmIChmYWlsZWQgPiAwKSB7DQogICAgcHJvY2Vzcy5leGl0Q29kZSA9IDE7DQogIH0NCn0NCg0KcnVuKCk7DQo="}
+const fs = require("fs");
+const path = require("path");
+
+const rootDir = path.resolve(__dirname, "..");
+
+const checks = [];
+const warnings = [];
+
+function addCheck(ok, name, detail) {
+  checks.push({ ok, name, detail });
+}
+
+function addWarning(name, detail) {
+  warnings.push({ name, detail });
+}
+
+function read(filePath) {
+  return fs.readFileSync(path.join(rootDir, filePath), "utf8");
+}
+
+function exists(filePath) {
+  return fs.existsSync(path.join(rootDir, filePath));
+}
+
+function run() {
+  addCheck(exists("index.html"), "Landing page exists", "index.html");
+  addCheck(exists("checkout.html"), "Checkout page exists", "checkout.html");
+  addCheck(exists("robots.txt"), "Robots file exists", "robots.txt");
+  addCheck(exists("sitemap.xml"), "Sitemap file exists", "sitemap.xml");
+
+  const indexHtml = read("index.html");
+  const checkoutHtml = read("checkout.html");
+  const robotsTxt = read("robots.txt");
+  const sitemapXml = read("sitemap.xml");
+  const tokenProfile = read("listing/token-profile.json");
+
+  const indexHasCanonical = indexHtml.includes('href="https://officialchieftoken.com/"');
+  addCheck(indexHasCanonical, "Homepage canonical uses apex domain", "index.html canonical");
+
+  const indexHasOgUrl = indexHtml.includes('property="og:url" content="https://officialchieftoken.com/"');
+  addCheck(indexHasOgUrl, "Homepage OG URL uses apex domain", "index.html og:url");
+
+  const checkoutCanonical = checkoutHtml.includes('href="https://officialchieftoken.com/checkout"');
+  addCheck(checkoutCanonical, "Checkout canonical is set", "checkout.html canonical");
+
+  const robotsHasSitemap = robotsTxt.includes("https://officialchieftoken.com/sitemap.xml");
+  addCheck(robotsHasSitemap, "robots.txt references sitemap", "robots.txt sitemap entry");
+
+  const sitemapHasHomepage = sitemapXml.includes("<loc>https://officialchieftoken.com/</loc>");
+  addCheck(sitemapHasHomepage, "sitemap.xml contains homepage", "sitemap.xml homepage");
+
+  const hasBlockingPlaceholders =
+    tokenProfile.includes("YOUR-") ||
+    tokenProfile.includes("YOUR_") ||
+    tokenProfile.includes("REPLACE_WITH_") ||
+    checkoutHtml.includes("REPLACE_WITH_");
+  addCheck(!hasBlockingPlaceholders, "No blocking placeholders in launch files", "checkout/listing profile");
+
+  if (indexHtml.includes("REPLACE_WITH_GOOGLE_SEARCH_CONSOLE_TOKEN")) {
+    addWarning("Google Search Console token still placeholder", "Set this in index.html before search-console verification");
+  }
+
+  if (indexHtml.includes("REPLACE_WITH_BING_WEBMASTER_TOKEN")) {
+    addWarning("Bing Webmaster token still placeholder", "Set this in index.html before bing verification");
+  }
+
+  const testStripeLinks = [...checkoutHtml.matchAll(/https:\/\/buy\.stripe\.com\/test_[^\"\s]+/g)].map((m) => m[0]);
+  addCheck(
+    testStripeLinks.length === 0,
+    "Checkout links are not test-mode Stripe links",
+    testStripeLinks.length ? `Found ${testStripeLinks.length} test link(s)` : "No test links found"
+  );
+
+  const requiredFiles = [
+    "listing/coinbase-asset-hub-draft.md",
+    "listing/coingecko-submission-draft.md",
+    "listing/coinmarketcap-submission-draft.md",
+    "docs/liquidity-growth-policy.md",
+    "docs/next-72h-action-plan.md",
+    "docs/social-launch-kit.md"
+  ];
+
+  for (const file of requiredFiles) {
+    addCheck(exists(file), `File present: ${file}`, file);
+  }
+
+  const passed = checks.filter((c) => c.ok).length;
+  const failed = checks.length - passed;
+
+  console.log("\nCHIEF Launch Readiness Report\n");
+  for (const check of checks) {
+    const icon = check.ok ? "PASS" : "FAIL";
+    console.log(`[${icon}] ${check.name} :: ${check.detail}`);
+  }
+
+  if (warnings.length > 0) {
+    console.log("\nWarnings:");
+    for (const warning of warnings) {
+      console.log(`[WARN] ${warning.name} :: ${warning.detail}`);
+    }
+  }
+
+  console.log(`\nSummary: ${passed}/${checks.length} checks passed, ${failed} failed.\n`);
+
+  if (failed > 0) {
+    process.exitCode = 1;
+  }
+}
+
+run();

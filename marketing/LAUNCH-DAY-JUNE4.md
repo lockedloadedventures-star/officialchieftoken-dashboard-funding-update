@@ -1,1 +1,342 @@
-{"data":"IyBKdW5lIDQsIDIwMjYg4oCTIExBVU5DSCBEQVkgUE9TVFMNCg0KIyMgUE9TVCAxOiBHVU1ST0FEIOKAkyBEYXkgMSBBdXRob3JpdHkgSG9vaw0KKipQbGF0Zm9ybSoqOiBJbnN0YWdyYW0gUmVlbCArIENhcHRpb24NCioqVGltZSoqOiA5OjAwIEFNDQoNCiMjIyBWSURFTyBOT1RFUyAoMzAgc2Vjb25kcykNCi0gRmFzdCBjdXRzIG9mIHNjcm9sbGluZywgY2hhcnRzLCBjb25mdXNpb24NCi0gT3ZlcmxheSB0ZXh0IGFwcGVhcnM6ICJNb3N0IGNyZWF0b3JzIHdhc3RlIG1vbnRocyB0ZXN0aW5nLi4uIg0KLSBGYWRlIHRvIHlvdXIgZmFjZQ0KLSBTaG93IHRoZSBmcmFtZXdvcmsgKHNpbXBsZSBkaWFncmFtOiBOaWNoZSDihpIgQ29udGVudCDihpIgTW9uZXRpemUpDQotIEVuZCB3aXRoIENUQSBidXR0b24NCg0KIyMjIENBUFRJT04gKENvcHkvcGFzdGUgZXhhY3RseSk6DQpgYGANCk1vc3QgY3JlYXRvcnMgd2FzdGUgbW9udGhzIHRlc3RpbmcgcmFuZG9tIEFJIHdvcmtmbG93cy4NCg0KSSB0ZXN0ZWQgNTArIHRvb2xzLiBIZXJlJ3Mgd2hhdCBhY3R1YWxseSB3b3JrczoNCg0K4oaSIE5pY2hlIHNlbGVjdGlvbiAoNSBtaW51dGVzKQ0K4oaSIENvbnRlbnQgYmF0Y2hpbmcgKDMwIG1pbi93ZWVrKSANCuKGkiBNb25ldGl6YXRpb24gc3lzdGVtICgyIGhvdXJzIHNldHVwKQ0KDQpSZXN1bHQ6IENvbnNpc3RlbnQgaW5jb21lLiBaZXJvIGd1ZXNzd29yay4NCg0KVGhpcyA3LWRheSBjcmFzaCBjb3Vyc2UgdGVhY2hlcyBleGFjdGx5IHRoaXMgZnJhbWV3b3JrLg0KDQpTdGFydGVyICQ0MCB8IEdyb3d0aCAkMTAwIHwgUHJvICQyMDANCg0KTGluayBpbiBiaW8gdG8gZW5yb2xsLiDwn5SXDQoNCiNBSUNvbnRlbnQgI0F2YXRhckJ1c2luZXNzICNDb250ZW50U3RyYXRlZ3kgI09ubGluZUJ1c2luZXNzICNDb3Vyc2VQcmVwDQpgYGANCg0KIyMjIEhBU0hUQUdTIEFMVEVSTkFUSVZFIChpZiBuZWVkZWQpOg0KI0FJQ3JlYXRvciAjQ29udGVudENyZWF0b3IgI09ubGluZUVhcm5pbmdzICNEaWdpdGFsUHJvZHVjdHMgI0VudHJlcHJlbmV1cnNoaXANCg0KLS0tDQoNCiMjIFBPU1QgMjogQ0hJRUYgVE9LRU4g4oCTIERheSAxIEludHJvZHVjdGlvbg0KKipQbGF0Zm9ybSoqOiBJbnN0YWdyYW0gUmVlbCArIENhcHRpb24NCioqVGltZSoqOiAxMDowMCBBTSAoMSBob3VyIGFmdGVyIFBvc3QgMSkNCg0KIyMjIFZJREVPIE5PVEVTICgzMCBzZWNvbmRzKQ0KLSBTaG93IFVuaXN3YXAgY2hhcnQgKHNjcmVlbnNoYXJlIG9yIGFuaW1hdGVkKQ0KLSBPdmVybGF5OiAiQ0hJRUYgdG9rZW4gaXMgbGl2ZSINCi0gU2hvdyBwb29sIGxpcXVpZGl0eQ0KLSBGYWRlIHRvOiAiUmVhbCB1dGlsaXR5LiBSZWFsIGNvbW11bml0eS4gUmVhbCBncm93dGguIg0KLSBFbmQgd2l0aCBVbmlzd2FwIGxpbmsgQ1RBDQoNCiMjIyBDQVBUSU9OIChDb3B5L3Bhc3RlIGV4YWN0bHkpOg0KYGBgDQpDSElFRiB0b2tlbiBqdXN0IHdlbnQgbGl2ZS4NCg0KSGVyZSdzIHdoYXQgeW91IG5lZWQgdG8ga25vdzoNCg0K4pyTICQyTSsgbGlxdWlkaXR5IG9uIFVuaXN3YXAgKEJhc2UpDQrinJMgUmVhbCB1dGlsaXR5OiBXZWVrbHkgaW50ZWxsaWdlbmNlIGZvciBvcGVyYXRvcnMNCuKckyBHb3Zlcm5hbmNlOiBIb2xkZXJzIHNoYXBlIHRoZSByb2FkbWFwDQrinJMgTm8gcnVnOiBDb250cmFjdHMgcmVub3VuY2VkLiBWZXJpZmllZC4NCg0KVGhpcyBpcyBhIHRva2VuIGZvciBidWlsZGVycywgbm90IG5vaXNlIGNoYXNlcnMuDQoNClN3YXAgQ0hJRUYgbm93IOKGkiBMaW5rIGluIGJpbyDwn5SXDQoNClF1ZXN0aW9ucz8gSm9pbiB0aGUgRGlzY29yZCAobGluayBpbiBiaW8gdG9vKQ0KDQojQ3J5cHRvVG9rZW4gI0Jhc2UgI1VuaXN3YXAgI0RlRmkgI0Jsb2NrY2hhaW4gI09wZXJhdG9yc1Rva2VuDQpgYGANCg0KLS0tDQoNCiMjIERJU0NPUkQgQU5OT1VOQ0VNRU5UIChQb3N0IGluICNhbm5vdW5jZW1lbnRzIGltbWVkaWF0ZWx5IGFmdGVyIFBvc3RzIGdvIGxpdmUpDQoNCmBgYA0K8J+agCBMQVVOQ0ggREFZIOKAkyBDSElFRiArIENvdXJzZSBMaXZlIE5vdw0KDQrimIDvuI8gVFdPIFRISU5HUyBEUk9QIFRPREFZOg0KDQox77iP4oOjIENISUVGIFRPS0VOIExJVkUNCuKGkiAkMk0rIGxpcXVpZGl0eSBvbiBVbmlzd2FwDQrihpIgTGluazogW1VOSVNXQVBfTElOS10NCuKGkiBSZWFsIHV0aWxpdHk6IEhvbGRlcnMgZ2V0IHdlZWtseSBpbnRlbGxpZ2VuY2UNCuKGkiBObyBydWcsIGNvbnRyYWN0cyByZW5vdW5jZWQNCg0KMu+4j+KDoyA3LURBWSBDT1VSU0UgTEFVTkNIDQrihpIgQUkgQXZhdGFyIEJ1c2luZXNzIChiZWdpbm5lci1mcmllbmRseSkNCuKGkiBTdGFydGVyICQ0MCB8IEdyb3d0aCAkMTAwIHwgUHJvICQyMDANCuKGkiBMaW5rOiBbR1VNUk9BRF9MSU5LXQ0K4oaSIEZpcnN0IDUwIGdldCBmb3VuZGluZyBtZW1iZXIgYWNjZXNzDQoNCvCfk4ogMjRIIFRBUkdFVFM6DQrigKIgNTAgY291cnNlIGVucm9sbG1lbnRzDQrigKIgJDUwayBDSElFRiBkYWlseSB2b2x1bWUNCuKAoiAzMDAgbmV3IERpc2NvcmQgbWVtYmVycw0KDQrwn46BIENPTlRFU1Q6DQpGaXJzdCBwZXJzb24gdG8gcG9zdCBwcm9vZiBvZiBDSElFRiBwdXJjaGFzZSArIGNvdXJzZSBlbnJvbGxtZW50IHdpbnMgMjUwIENISUVGDQoNCkxldCdzIGdvb29vbyEg8J+UpQ0KDQpRdWVzdGlvbnM/IEFzayBoZXJlLg0KYGBgDQoNCi0tLQ0KDQojIyBFTUFJTCBTRVFVRU5DRSAodG8gZXhpc3RpbmcgbGlzdCDigJMgc2VuZCB3aXRoaW4gMSBob3VyIG9mIHBvc3RzIGdvaW5nIGxpdmUpDQoNCiMjIyBFTUFJTCAxOiBEdWFsIExhdW5jaCBBbm5vdW5jZW1lbnQNCg0KKipTdWJqZWN0IExpbmUqKjogDQpgYGANCkJvdGggbGF1bmNoIHRvZGF5OiBBSSBjb3Vyc2UgKyBDSElFRiB0b2tlbg0KYGBgDQoNCioqQm9keSoqOg0KYGBgDQpIZXkgW05BTUVdLA0KDQpUb2RheSdzIHRoZSBkYXkuIEJvdGggZHJvcHMgYXJlIGxpdmUuDQoNCuKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgQ0KDQpDSElFRiBUT0tFTg0KDQpMaXZlIG9uIFVuaXN3YXAgQmFzZSBtYWlubmV0Lg0KJDJNKyBsaXF1aWRpdHkuIFJlYWwgdXRpbGl0eS4gUmVhbCBncm93dGguDQoNCkhvbGRlcnMgZ2V0IHdlZWtseSBpbnRlbGxpZ2VuY2UgZHJvcHMgKHdvcnRoICQxMDBzL21vbnRoKS4NClRoaXMgaXMgZm9yIG9wZXJhdG9ycyB3aG8gYWN0dWFsbHkgYnVpbGQuDQoNClN3YXAgbm93OiBbVU5JU1dBUF9MSU5LXQ0KDQrilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIHilIENCg0KQUkgQVZBVEFSIEJVU0lORVNTIENPVVJTRQ0KDQo3LWRheSBiZWdpbm5lci1mcmllbmRseSBjcmFzaCBjb3Vyc2UuDQpOaWNoZSDihpIgQ29udGVudCDihpIgTW9uZXRpemUuIFN5c3RlbS1iYXNlZCwgbm90IGx1Y2stYmFzZWQuDQoNClN0YXJ0ZXIgJDQwIHwgR3Jvd3RoICQxMDAgfCBQcm8gJDIwMA0KDQpFbnJvbGw6IFtHVU1ST0FEX0xJTktdDQoNCuKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgeKUgQ0KDQpNb3N0IHBlb3BsZSB3aWxsIHdhaXQuDQpFYXJseSBtb3ZlcnMgZ2V0Og0K4oCiIExvd2VyIHRva2VuIGVudHJ5IHByaWNlDQrigKIgRm91bmRpbmcgbWVtYmVyIHN0YXR1cw0K4oCiIEJvbnVzIENISUVGIGFsbG9jYXRpb24NCg0KVGFrZSBhY3Rpb24gdG9kYXkuDQoNCltCVVRUT046IEJ1eSBDSElFRl0NCltCVVRUT046IEVucm9sbCBpbiBDb3Vyc2VdDQoNCkxldCBtZSBrbm93IHdoYXQgeW91IHBpY2suIERNIG1lLg0KDQrigJQNCltZb3VyIG5hbWVdDQpbRGlzY29yZCBpbnZpdGVdDQpgYGANCg0KLS0tDQoNCiMjIERNIFRFTVBMQVRFUyAoRm9yIGluY29taW5nIGludGVyZXN0KQ0KDQojIyMgUmVzcG9uc2UgMTogIldoYXQncyBDSElFRj8iDQpgYGANCkNISUVGIGlzIGEgdG9rZW4gZm9yIG9wZXJhdG9ycyB3aG8gYWN0dWFsbHkgZXhlY3V0ZS4NCg0KTm90IGEgbWVtZS4gTm90IGdhbWJsaW5nLg0KDQpVdGlsaXR5OiBIb2xkZXJzIGdldCB3ZWVrbHkgaW50ZWxsaWdlbmNlIChwbGF5Ym9va3MsIHRlbXBsYXRlcywgbWFya2V0IGluc2lnaHRzKS4NCk1vcmUgaG9sZGVycyA9IGJldHRlci9tb3JlIHZhbHVhYmxlIGRyb3BzLg0KDQpHb3Zlcm5hbmNlOiBDb21tdW5pdHkgdm90ZXMgb24gd2hlcmUgcm9hZG1hcCBnb2VzLg0KDQpTd2FwIGhlcmU6IFtMSU5LXQ0KSm9pbiBEaXNjb3JkOiBbTElOS10NCg0KQW55IG90aGVyIHF1ZXN0aW9ucz8NCmBgYA0KDQojIyMgUmVzcG9uc2UgMjogIlNob3VsZCBJIGJ1eSB0aGUgY291cnNlIG9yIENISUVGIGZpcnN0PyINCmBgYA0KQm90aC4gQnV0IGRpZmZlcmVudCByZWFzb25zOg0KDQpDb3Vyc2UgKCQ0MC0yMDApOiBMZWFybiB0aGUgc3lzdGVtICg3LWRheSB3b3JrZmxvdykNCkNISUVGOiBKb2luIHRoZSBjb21tdW5pdHkgKyBnZXQgd2Vla2x5IGludGVsbGlnZW5jZSB3b3J0aCAkMTAwcw0KDQpJZiBJIGhhZCB0byBwaWNrIG9uZTogR2V0IHRoZSBjb3Vyc2UgZmlyc3QuDQoNCldoeT8gQ291cnNlIHRlYWNoZXMgdGhlIGV4ZWN1dGlvbiBzeXN0ZW0uIENISUVGIGlzIGFib3V0IHN0YXlpbmcgc2hhcnAgd2hpbGUgeW91IGV4ZWN1dGUuDQoNCk1hbnkgY291cnNlIGJ1eWVycyBiZWNvbWUgQ0hJRUYgaG9sZGVycy4gWW91J2xsIHNlZSB3aHkgd2hlbiB5b3UncmUgaW5zaWRlLg0KDQpFbnJvbGw6IFtDT1VSU0VfTElOS10NClN3YXA6IFtDSElFRl9MSU5LXQ0KYGBgDQoNCiMjIyBSZXNwb25zZSAzOiAiSXMgdGhpcyBhIHJ1Zz8iDQpgYGANCk5vcGUuIENvbnRyYWN0cyByZW5vdW5jZWQgKG5vIGFkbWluIGtleXMpLg0KDQokMk0rIGxpcXVpZGl0eSBvbiBVbmlzd2FwIChkZWVwLCBzdGFibGUsIHZlcmlmaWVkKS4NCg0KSSdtIGhvbGRpbmcgaXQgbXlzZWxmIGJlY2F1c2UgSSBiZWxpZXZlIGluIHdoYXQgd2UncmUgYnVpbGRpbmcuDQoNClZlcmlmeSB5b3Vyc2VsZjogW0NPTlRSQUNUX0FERFJFU1NdDQpCYXNlU2NhbjogW0JBU0VTQ0FOX0xJTktdDQoNCkRZT1IgYWx3YXlzLiBCdXQgdGhpcyBpcyBsZWdpdC4NCmBgYA0KDQotLS0NCg0KIyMgVFJBQ0tJTkcgU0hFRVQgU0VUVVAgKENyZWF0ZSB0aGlzIEdvb2dsZSBTaGVldCB0b2RheSkNCg0KKipDb2x1bW5zIHRvIHRyYWNrKio6DQotIERhdGUNCi0gR3Vtcm9hZCBlbnJvbGxtZW50cyAoU3RhcnRlciAvIEdyb3d0aCAvIFBybykNCi0gVG90YWwgcmV2ZW51ZQ0KLSBDSElFRiBkYWlseSB2b2x1bWUNCi0gSG9sZGVyIGNvdW50DQotIE5ldyBtZW1iZXJzDQotIEVtYWlsIG9wZW5zL2NsaWNrcw0KLSBOb3Rlcw0KDQoqKkZpcnN0IGRheSB2YWx1ZXMgKHRvIHVwZGF0ZSA2cG0pKio6DQotIEd1bXJvYWQ6IFt3aWxsIGxvZ10NCi0gQ0hJRUYgdm9sdW1lOiBbd2lsbCBsb2ddDQotIEVtYWlsIGxpc3QgZ3Jvd3RoOiBbd2lsbCBsb2ddDQoNClNoYXJlIGxpbmsgaW4gRGlzY29yZCAjdHJhY2tpbmcgZm9yIHRlYW0gdmlzaWJpbGl0eQ0KDQotLS0NCg0KIyMgTElOS1MgVE8gSEFWRSBSRUFEWSAoQ29weSB0byBjbGlwYm9hcmQpDQoNCioqTWFpbiBvZmZlcnMqKjoNCi0gR3Vtcm9hZDogaHR0cHM6Ly92ZW50dXJlbG9jay5ndW1yb2FkLmNvbS9sL2RpZG1sYg0KLSBDSElFRiBVbmlzd2FwOiBodHRwczovL2FwcC51bmlzd2FwLm9yZy9zd2FwP2NoYWluPWJhc2Umb3V0cHV0Q3VycmVuY3k9MHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3DQotIENISUVGIFBvb2w6IGh0dHBzOi8vYXBwLnVuaXN3YXAub3JnL2V4cGxvcmUvcG9vbHMvYmFzZS8weEQ5MjZGNEMyYjVhZDRkZTQ1RTMxQzg3NWQzM2Q1MjA3ZTNEZjNBN2QNCi0gQ0hJRUYgd2Vic2l0ZTogaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tL2NoZWNrb3V0DQoNCioqVHJhY2tpbmcqKjoNCi0gREVYVG9vbHMgQ0hJRUY6IGh0dHBzOi8vd3d3LmRleHRvb2xzLmlvL2FwcC9iYXNlL3BhaXIvMHhEOTI2RjRDMmI1YWQ0ZGU0NUUzMUM4NzVkMzNkNTIwN2UzRGYzQTdkDQotIEd1bXJvYWQgZGFzaGJvYXJkOiBodHRwczovL2d1bXJvYWQuY29tL2Rhc2hib2FyZA0KLSBCYXNlU2NhbjogaHR0cHM6Ly9iYXNlc2Nhbi5vcmcvdG9rZW4vMHgzODk2YzliZDgwMkE1NmMyODU5MEVGMUUwM0E3ZGU2NDVjNzAzNzU3DQoNCi0tLQ0KDQojIyBUSU1FTElORSAoRG8gdGhpcyBpbiBvcmRlciwgc3RhcnRzIDg6MzAgQU0pDQoNCmBgYA0KODozMCBBTSDigJMgRmluYWwgcHJlcA0K4pSc4pSAIENvcHkgYWxsIGNhcHRpb25zIGludG8gSW5zdGFncmFtIGRyYWZ0cw0K4pSc4pSAIFByZXAgdmlkZW9zIHJlYWR5IHRvIHVwbG9hZA0K4pSc4pSAIERpc2NvcmQgcmVhZHkNCuKUnOKUgCBFbWFpbCBkcmFmdGVkDQoNCjk6MDAgQU0g4oCTIFBPU1QgIzEgKEd1bXJvYWQpDQrilJzilIAgVXBsb2FkIHZpZGVvICsgY2FwdGlvbg0K4pSc4pSAIFBpbiBwb3N0DQoNCjk6MTUgQU0g4oCTIEVuZ2FnZSBQb3N0IDENCuKUnOKUgCBSZXBseSB0byBmaXJzdCA1IGNvbW1lbnRzDQrilJzilIAgUmVwb3N0IGluIFN0b3JpZXMNCg0KMTA6MDAgQU0g4oCTIFBPU1QgIzIgKENISUVGKQ0K4pSc4pSAIFVwbG9hZCB2aWRlbyArIGNhcHRpb24NCuKUnOKUgCBQaW4gcG9zdA0KDQoxMDoxNSBBTSDigJMgRGlzY29yZCBhbm5vdW5jZW1lbnQNCuKUnOKUgCBQb3N0IGluICNhbm5vdW5jZW1lbnRzDQrilJzilIAgUmVwbHkgdG8gcXVlc3Rpb25zDQoNCjEwOjMwIEFNIOKAkyBTZW5kIGVtYWlsDQrilJzilIAgTGF1bmNoIGFubm91bmNlbWVudCBlbWFpbA0K4pSc4pSAIE1vbml0b3Igb3BlbnMNCg0KMTI6MDAgUE0g4oCTIE1pZGRheSBlbmdhZ2VtZW50DQrilJzilIAgUmVwbHkgdG8gYWxsIGNvbW1lbnRzIChib3RoIHBvc3RzKQ0K4pSc4pSAIFJlc3BvbmQgdG8gRE1zDQrilJzilIAgQ2hlY2sgbWV0cmljcw0KDQo2OjAwIFBNIOKAkyBFbmQgb2YgZGF5IHJldmlldw0K4pSc4pSAIExvZyBtZXRyaWNzICh0cmFja2luZyBzaGVldCkNCuKUnOKUgCBVcGRhdGUgRGlzY29yZCB3aXRoIHN0YXRzDQrilJzilIAgTm90ZSB3aW5zICsgcHJvYmxlbXMNCmBgYA0KDQotLS0NCg0KIyMgQ0hFQ0tMSVNUIChQcmludCB0aGlzLCBjaGVjayBpdCBvZmYpDQoNCmBgYA0KTEFVTkNIIERBWSBDSEVDS0xJU1Qg4oCTIEpVTkUgNCwgMjAyNg0KDQpQUkVQICg4OjMwIEFNKQ0K4piQIFZpZGVvcyB1cGxvYWRlZCB0byBwaG9uZS9jb21wdXRlcg0K4piQIENhcHRpb25zIGNvcGllZCB0byBkcmFmdHMNCuKYkCBEaXNjb3JkIGFubm91bmNlbWVudCByZWFkeQ0K4piQIEVtYWlsIGRyYWZ0ZWQNCuKYkCBBbGwgbGlua3MgdGVzdGVkICh3b3JrIGNvcnJlY3RseSkNCuKYkCBHb29nbGUgU2hlZXQgY3JlYXRlZA0K4piQIFRyYWNraW5nIHRlbXBsYXRlIHJlYWR5DQoNCkNPTlRFTlQgKDkgQU0gLSAxMDozMCBBTSkNCuKYkCBHdW1yb2FkIHJlZWwgcG9zdGVkICg5OjAwIEFNKQ0K4piQIEd1bXJvYWQgY2FwdGlvbiBvcHRpbWl6ZWQNCuKYkCBHdW1yb2FkIHBvc3QgcGlubmVkDQrimJAgQ0hJRUYgcmVlbCBwb3N0ZWQgKDEwOjAwIEFNKQ0K4piQIENISUVGIGNhcHRpb24gb3B0aW1pemVkDQrimJAgQ0hJRUYgcG9zdCBwaW5uZWQNCuKYkCBEaXNjb3JkIGFubm91bmNlbWVudCBwb3N0ZWQNCg0KSU5JVElBTCBFTkdBR0VNRU5UICgxMDozMCBBTSAtIDEyOjAwIFBNKQ0K4piQIFJlcGxpZWQgdG8gNSsgY29tbWVudHMgb24gZWFjaCBwb3N0DQrimJAgRGlzY29yZCBxdWVzdGlvbnMgYW5zd2VyZWQNCuKYkCBFbWFpbCBzZW50IHRvIGxpc3QNCuKYkCBETXMgbW9uaXRvcmVkIGFuZCByZXNwb25kZWQgdG8NCuKYkCBTdG9yaWVzIHBvc3RlZCAodGVhc2VyL2JlaGluZC10aGUtc2NlbmVzKQ0KDQpNSUREQVkgKDEyOjAwIFBNIC0gMTowMCBQTSkNCuKYkCBDb250aW51ZWQgY29tbWVudCByZXBsaWVzDQrimJAgVHJhY2tlZCBmaXJzdCBlbnJvbGxtZW50cy92b2x1bWUNCuKYkCBETSB0ZW1wbGF0ZXMgc2F2ZWQgZm9yIGZ1dHVyZSB1c2UNCuKYkCBBZCBjYW1wYWlnbiBzZXR1cCAoaWYgZG9pbmcpDQoNCkVWRU5JTkcgKDY6MDAgUE0pDQrimJAgTWV0cmljcyBsb2dnZWQgKHRyYWNraW5nIHNoZWV0KQ0K4piQIERheSAxIHdpbiBzdW1tYXJ5IHBvc3RlZCBpbiBEaXNjb3JkDQrimJAgVG9tb3Jyb3cncyBjb250ZW50IHByZXBwZWQNCuKYkCBUb3AgcXVlc3Rpb25zIGRvY3VtZW50ZWQNCuKYkCBBbnl0aGluZyBicm9rZW4/IEZpeGVkLg0KDQpOSUdIVCAoMTA6MDAgUE0pDQrimJAgU2xlZXAuIFlvdSBlYXJuZWQgaXQuIPCfmLQNCmBgYA0K"}
+# June 4, 2026 – LAUNCH DAY POSTS
+
+## POST 1: GUMROAD – Day 1 Authority Hook
+**Platform**: Instagram Reel + Caption
+**Time**: 9:00 AM
+
+### VIDEO NOTES (30 seconds)
+- Fast cuts of scrolling, charts, confusion
+- Overlay text appears: "Most creators waste months testing..."
+- Fade to your face
+- Show the framework (simple diagram: Niche → Content → Monetize)
+- End with CTA button
+
+### CAPTION (Copy/paste exactly):
+```
+Most creators waste months testing random AI workflows.
+
+I tested 50+ tools. Here's what actually works:
+
+→ Niche selection (5 minutes)
+→ Content batching (30 min/week) 
+→ Monetization system (2 hours setup)
+
+Result: Consistent income. Zero guesswork.
+
+This 7-day crash course teaches exactly this framework.
+
+Starter $40 | Growth $100 | Pro $200
+
+Link in bio to enroll. 🔗
+
+#AIContent #AvatarBusiness #ContentStrategy #OnlineBusiness #CoursePrep
+```
+
+### HASHTAGS ALTERNATIVE (if needed):
+#AICreator #ContentCreator #OnlineEarnings #DigitalProducts #Entrepreneurship
+
+---
+
+## POST 2: CHIEF TOKEN – Day 1 Introduction
+**Platform**: Instagram Reel + Caption
+**Time**: 10:00 AM (1 hour after Post 1)
+
+### VIDEO NOTES (30 seconds)
+- Show Uniswap chart (screenshare or animated)
+- Overlay: "CHIEF token is live"
+- Show pool liquidity
+- Fade to: "Real utility. Real community. Real growth."
+- End with Uniswap link CTA
+
+### CAPTION (Copy/paste exactly):
+```
+CHIEF token just went live.
+
+Here's what you need to know:
+
+✓ $2M+ liquidity on Uniswap (Base)
+✓ Real utility: Weekly intelligence for operators
+✓ Governance: Holders shape the roadmap
+✓ No rug: Contracts renounced. Verified.
+
+This is a token for builders, not noise chasers.
+
+Swap CHIEF now → Link in bio 🔗
+
+Questions? Join the Discord (link in bio too)
+
+#CryptoToken #Base #Uniswap #DeFi #Blockchain #OperatorsToken
+```
+
+---
+
+## DISCORD ANNOUNCEMENT (Post in #announcements immediately after Posts go live)
+
+```
+🚀 LAUNCH DAY – CHIEF + Course Live Now
+
+☀️ TWO THINGS DROP TODAY:
+
+1️⃣ CHIEF TOKEN LIVE
+→ $2M+ liquidity on Uniswap
+→ Link: [UNISWAP_LINK]
+→ Real utility: Holders get weekly intelligence
+→ No rug, contracts renounced
+
+2️⃣ 7-DAY COURSE LAUNCH
+→ AI Avatar Business (beginner-friendly)
+→ Starter $40 | Growth $100 | Pro $200
+→ Link: [GUMROAD_LINK]
+→ First 50 get founding member access
+
+📊 24H TARGETS:
+• 50 course enrollments
+• $50k CHIEF daily volume
+• 300 new Discord members
+
+🎁 CONTEST:
+First person to post proof of CHIEF purchase + course enrollment wins 250 CHIEF
+
+Let's gooooo! 🔥
+
+Questions? Ask here.
+```
+
+---
+
+## EMAIL SEQUENCE (to existing list – send within 1 hour of posts going live)
+
+### EMAIL 1: Dual Launch Announcement
+
+**Subject Line**: 
+```
+Both launch today: AI course + CHIEF token
+```
+
+**Body**:
+```
+Hey [NAME],
+
+Today's the day. Both drops are live.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CHIEF TOKEN
+
+Live on Uniswap Base mainnet.
+$2M+ liquidity. Real utility. Real growth.
+
+Holders get weekly intelligence drops (worth $100s/month).
+This is for operators who actually build.
+
+Swap now: [UNISWAP_LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AI AVATAR BUSINESS COURSE
+
+7-day beginner-friendly crash course.
+Niche → Content → Monetize. System-based, not luck-based.
+
+Starter $40 | Growth $100 | Pro $200
+
+Enroll: [GUMROAD_LINK]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Most people will wait.
+Early movers get:
+• Lower token entry price
+• Founding member status
+• Bonus CHIEF allocation
+
+Take action today.
+
+[BUTTON: Buy CHIEF]
+[BUTTON: Enroll in Course]
+
+Let me know what you pick. DM me.
+
+—
+[Your name]
+[Discord invite]
+```
+
+---
+
+## DM TEMPLATES (For incoming interest)
+
+### Response 1: "What's CHIEF?"
+```
+CHIEF is a token for operators who actually execute.
+
+Not a meme. Not gambling.
+
+Utility: Holders get weekly intelligence (playbooks, templates, market insights).
+More holders = better/more valuable drops.
+
+Governance: Community votes on where roadmap goes.
+
+Swap here: [LINK]
+Join Discord: [LINK]
+
+Any other questions?
+```
+
+### Response 2: "Should I buy the course or CHIEF first?"
+```
+Both. But different reasons:
+
+Course ($40-200): Learn the system (7-day workflow)
+CHIEF: Join the community + get weekly intelligence worth $100s
+
+If I had to pick one: Get the course first.
+
+Why? Course teaches the execution system. CHIEF is about staying sharp while you execute.
+
+Many course buyers become CHIEF holders. You'll see why when you're inside.
+
+Enroll: [COURSE_LINK]
+Swap: [CHIEF_LINK]
+```
+
+### Response 3: "Is this a rug?"
+```
+Nope. Contracts renounced (no admin keys).
+
+$2M+ liquidity on Uniswap (deep, stable, verified).
+
+I'm holding it myself because I believe in what we're building.
+
+Verify yourself: [CONTRACT_ADDRESS]
+BaseScan: [BASESCAN_LINK]
+
+DYOR always. But this is legit.
+```
+
+---
+
+## TRACKING SHEET SETUP (Create this Google Sheet today)
+
+**Columns to track**:
+- Date
+- Gumroad enrollments (Starter / Growth / Pro)
+- Total revenue
+- CHIEF daily volume
+- Holder count
+- New members
+- Email opens/clicks
+- Notes
+
+**First day values (to update 6pm)**:
+- Gumroad: [will log]
+- CHIEF volume: [will log]
+- Email list growth: [will log]
+
+Share link in Discord #tracking for team visibility
+
+---
+
+## LINKS TO HAVE READY (Copy to clipboard)
+
+**Main offers**:
+- Gumroad: https://venturelock.gumroad.com/l/didmlb
+- CHIEF Uniswap: https://app.uniswap.org/swap?chain=base&outputCurrency=0x3896c9bd802A56c28590EF1E03A7de645c703757
+- CHIEF Pool: https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d
+- CHIEF website: https://officialchieftoken.com/checkout
+
+**Tracking**:
+- DEXTools CHIEF: https://www.dextools.io/app/base/pair/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d
+- Gumroad dashboard: https://gumroad.com/dashboard
+- BaseScan: https://basescan.org/token/0x3896c9bd802A56c28590EF1E03A7de645c703757
+
+---
+
+## TIMELINE (Do this in order, starts 8:30 AM)
+
+```
+8:30 AM – Final prep
+├─ Copy all captions into Instagram drafts
+├─ Prep videos ready to upload
+├─ Discord ready
+├─ Email drafted
+
+9:00 AM – POST #1 (Gumroad)
+├─ Upload video + caption
+├─ Pin post
+
+9:15 AM – Engage Post 1
+├─ Reply to first 5 comments
+├─ Repost in Stories
+
+10:00 AM – POST #2 (CHIEF)
+├─ Upload video + caption
+├─ Pin post
+
+10:15 AM – Discord announcement
+├─ Post in #announcements
+├─ Reply to questions
+
+10:30 AM – Send email
+├─ Launch announcement email
+├─ Monitor opens
+
+12:00 PM – Midday engagement
+├─ Reply to all comments (both posts)
+├─ Respond to DMs
+├─ Check metrics
+
+6:00 PM – End of day review
+├─ Log metrics (tracking sheet)
+├─ Update Discord with stats
+├─ Note wins + problems
+```
+
+---
+
+## CHECKLIST (Print this, check it off)
+
+```
+LAUNCH DAY CHECKLIST – JUNE 4, 2026
+
+PREP (8:30 AM)
+☐ Videos uploaded to phone/computer
+☐ Captions copied to drafts
+☐ Discord announcement ready
+☐ Email drafted
+☐ All links tested (work correctly)
+☐ Google Sheet created
+☐ Tracking template ready
+
+CONTENT (9 AM - 10:30 AM)
+☐ Gumroad reel posted (9:00 AM)
+☐ Gumroad caption optimized
+☐ Gumroad post pinned
+☐ CHIEF reel posted (10:00 AM)
+☐ CHIEF caption optimized
+☐ CHIEF post pinned
+☐ Discord announcement posted
+
+INITIAL ENGAGEMENT (10:30 AM - 12:00 PM)
+☐ Replied to 5+ comments on each post
+☐ Discord questions answered
+☐ Email sent to list
+☐ DMs monitored and responded to
+☐ Stories posted (teaser/behind-the-scenes)
+
+MIDDAY (12:00 PM - 1:00 PM)
+☐ Continued comment replies
+☐ Tracked first enrollments/volume
+☐ DM templates saved for future use
+☐ Ad campaign setup (if doing)
+
+EVENING (6:00 PM)
+☐ Metrics logged (tracking sheet)
+☐ Day 1 win summary posted in Discord
+☐ Tomorrow's content prepped
+☐ Top questions documented
+☐ Anything broken? Fixed.
+
+NIGHT (10:00 PM)
+☐ Sleep. You earned it. 😴
+```

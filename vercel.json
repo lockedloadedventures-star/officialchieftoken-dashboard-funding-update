@@ -1,1 +1,37 @@
-{"data":"ew0KICAiJHNjaGVtYSI6ICJodHRwczovL29wZW5hcGkudmVyY2VsLnNoL3ZlcmNlbC5qc29uIiwNCiAgImNsZWFuVXJscyI6IHRydWUsDQogICJ0cmFpbGluZ1NsYXNoIjogZmFsc2UsDQogICJyZWRpcmVjdHMiOiBbDQogICAgew0KICAgICAgInNvdXJjZSI6ICIvKC4qKSIsDQogICAgICAiaGFzIjogWw0KICAgICAgICB7DQogICAgICAgICAgInR5cGUiOiAiaG9zdCIsDQogICAgICAgICAgInZhbHVlIjogInd3dy5vZmZpY2lhbGNoaWVmdG9rZW4uY29tIg0KICAgICAgICB9DQogICAgICBdLA0KICAgICAgImRlc3RpbmF0aW9uIjogImh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS8kMSIsDQogICAgICAicGVybWFuZW50IjogdHJ1ZQ0KICAgIH0NCiAgXSwNCiAgImhlYWRlcnMiOiBbDQogICAgew0KICAgICAgInNvdXJjZSI6ICIvKC4qKSIsDQogICAgICAiaGVhZGVycyI6IFsNCiAgICAgICAgew0KICAgICAgICAgICJrZXkiOiAiWC1Db250ZW50LVR5cGUtT3B0aW9ucyIsDQogICAgICAgICAgInZhbHVlIjogIm5vc25pZmYiDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAia2V5IjogIlJlZmVycmVyLVBvbGljeSIsDQogICAgICAgICAgInZhbHVlIjogInN0cmljdC1vcmlnaW4td2hlbi1jcm9zcy1vcmlnaW4iDQogICAgICAgIH0sDQogICAgICAgIHsNCiAgICAgICAgICAia2V5IjogIlgtRnJhbWUtT3B0aW9ucyIsDQogICAgICAgICAgInZhbHVlIjogIkRFTlkiDQogICAgICAgIH0NCiAgICAgIF0NCiAgICB9DQogIF0NCn0NCg=="}
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.officialchieftoken.com"
+        }
+      ],
+      "destination": "https://officialchieftoken.com/$1",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        }
+      ]
+    }
+  ]
+}

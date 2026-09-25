@@ -1,1 +1,142 @@
-{"data":"IyBDSElFRiBUb2tlbiBTb2NpYWwgTGF1bmNoIEtpdA0KDQojIyBQcmltYXJ5IEhhbmRsZSBTZXQNCi0gWDogQE9mZmljaWFsQ0hJRUYNCi0gSW5zdGFncmFtOiBAb2ZmaWNpYWxjaGllZnRva2VuDQotIFRpa1RvazogQG9mZmljaWFsY2hpZWZ0b2tlbg0KLSBZb3VUdWJlOiBAb2ZmaWNpYWxjaGllZnRva2VuDQotIExpbmtlZEluIFBhZ2U6IENISUVGIFRva2VuDQotIFRlbGVncmFtIENoYW5uZWw6IENISUVGIFRva2VuIE9mZmljaWFsDQotIERpc2NvcmQgU2VydmVyOiBDSElFRiBUb2tlbg0KLSBGYXJjYXN0ZXI6IEBjaGllZnRva2VuDQoNCiMjIFByb2ZpbGUgQmFzaWNzDQoNCiMjIyBEaXNwbGF5IE5hbWUNCkNISUVGIFRva2VuDQoNCiMjIyBPbmUtbGluZSBCaW8gKHNob3J0KQ0KQ0hJRUYgb24gQmFzZS4gV2Vla2x5IGVjb3N5c3RlbSBicmllZnMsIGJ1aWxkZXIgdG9vbHMsIGFuZCBVdGlsaXR5IFBhc3MgYWNjZXNzLg0KDQojIyMgRnVsbCBCaW8gKGxvbmcpDQpDSElFRiBUb2tlbiBvbiBCYXNlLiBXZSBzaGlwIHdlZWtseSBtYXJrZXQgaW50ZWxsaWdlbmNlLCBleGVjdXRpb24gcGxheWJvb2tzLCBhbmQgYnVpbGRlciByZXNvdXJjZXMgdGhyb3VnaCBDSElFRiBVdGlsaXR5IFBhc3MuIEVkdWNhdGlvbmFsIG9ubHkuIE5vdCBmaW5hbmNpYWwgYWR2aWNlLg0KDQojIyMgV2Vic2l0ZQ0KaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tDQoNCiMjIyBMaW5rIEluIEJpbyBTdHJ1Y3R1cmUNCjEuIFV0aWxpdHkgUGFzcyBDaGVja291dDogaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tL2NoZWNrb3V0DQoyLiBMYXVuY2ggUGFnZTogaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tDQozLiBEb2NzL1VwZGF0ZXM6IGh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbSN3ZWVrbHktZGVsaXZlcmFibGVzDQoNCiMjIEJyYW5kaW5nIEFzc2V0cyBUbyBVc2UNCi0gTG9nbzogVXNlIENISUVGIHdvcmRtYXJrIGZyb20gbGF1bmNoIHNpdGUgaGVhZGVyDQotIFByaW1hcnkgY29sb3JzOiBLZWVwIGN1cnJlbnQgbGF1bmNoLmNzcyBwYWxldHRlIGZvciBjb25zaXN0ZW5jeQ0KLSBIZWFkZXIgaW1hZ2UgY29weTogQ0hJRUYgb24gQmFzZSB8IFV0aWxpdHkgUGFzcyBMaXZlDQotIEF2YXRhciBydWxlOiBIaWdoLWNvbnRyYXN0IGxvZ28gb24gc29saWQgYmFja2dyb3VuZA0KDQojIyBQaW5uZWQgWCBQb3N0IChMYXVuY2gpDQpDSElFRiBVdGlsaXR5IFBhc3MgaXMgbGl2ZS4NCg0KV2hhdCB5b3UgZ2V0Og0KLSBXZWVrbHkgaGlnaC1zaWduYWwgQ0hJRUYgbWFya2V0ICsgZWNvc3lzdGVtIGJyaWVmDQotIE1lbWJlcnMtb25seSBleGVjdXRpb24gdGVtcGxhdGVzDQotIE9mZmljZSBob3VyICsgcHJpb3JpdHkgc3VwcG9ydCBvbiBoaWdoZXIgdGllcnMNCg0KQ2hvb3NlIHlvdXIgcGxhbjoNCmh0dHBzOi8vb2ZmaWNpYWxjaGllZnRva2VuLmNvbS9jaGVja291dA0KDQpCdWlsdCBvbiBCYXNlLiBFZHVjYXRpb25hbCBvbmx5Lg0KDQojIyBQbGF0Zm9ybS1TcGVjaWZpYyBCaW9zDQoNCiMjIyBYIEJpbyAoMTYwIGNoYXJzKQ0KQ0hJRUYgb24gQmFzZS4gV2Vla2x5IG1hcmtldCBpbnRlbGxpZ2VuY2UsIHBsYXlib29rcywgYW5kIGJ1aWxkZXIgYWNjZXNzIHZpYSBVdGlsaXR5IFBhc3MuIEVkdWNhdGlvbmFsIG9ubHkuIE5vdCBmaW5hbmNpYWwgYWR2aWNlLg0KDQojIyMgSW5zdGFncmFtIEJpbw0KQ0hJRUYgb24gQmFzZQ0KVXRpbGl0eSBQYXNzOiBtYXJrZXQgaW50ZWwgKyBwbGF5Ym9va3MNCkJ1aWx0IGZvciBvcGVyYXRvcnMNCkpvaW46IG9mZmljaWFsY2hpZWZ0b2tlbi5jb20vY2hlY2tvdXQNCg0KIyMjIFRpa1RvayBCaW8NCkNISUVGIG9uIEJhc2UNCkNyeXB0byBpbnRlbCBmb3Igb3BlcmF0b3JzDQpVdGlsaXR5IFBhc3MgbGl2ZQ0KDQojIyMgWW91VHViZSBBYm91dA0KQ0hJRUYgVG9rZW4gb24gQmFzZS4gV2Vla2x5IG1hcmtldCBicmVha2Rvd25zLCBleGVjdXRpb24gZnJhbWV3b3JrcywgYW5kIG1lbWJlciByZXNvdXJjZXMgdGhyb3VnaCBDSElFRiBVdGlsaXR5IFBhc3MuDQoNCkVkdWNhdGlvbmFsIGNvbnRlbnQgb25seS4gTm90IGZpbmFuY2lhbCBhZHZpY2UuDQoNCiMjIyBMaW5rZWRJbiBBYm91dA0KQ0hJRUYgVG9rZW4gaXMgYSBCYXNlLW5hdGl2ZSBlY29zeXN0ZW0gZm9jdXNlZCBvbiBtYXJrZXQgaW50ZWxsaWdlbmNlLCBvcGVyYXRvciBleGVjdXRpb24sIGFuZCByZWN1cnJpbmcgbWVtYmVyIHZhbHVlIHRocm91Z2ggQ0hJRUYgVXRpbGl0eSBQYXNzLg0KDQpXZSBwdWJsaXNoIHdlZWtseSBlY29zeXN0ZW0gYnJpZWZpbmdzLCB0ZW1wbGF0ZXMsIGFuZCBwcmFjdGljYWwgcmVzb3VyY2VzIGZvciBidWlsZGVycyBhbmQgc2VyaW91cyBwYXJ0aWNpcGFudHMuDQoNCkVkdWNhdGlvbmFsIG9ubHkuIE5vdCBmaW5hbmNpYWwgYWR2aWNlLg0KDQojIyBGaXJzdCA3IFggUG9zdHMNCg0KIyMjIFBvc3QgMQ0KQ0hJRUYgVXRpbGl0eSBQYXNzIGlzIGJ1aWx0IGFyb3VuZCB3ZWVrbHkgZWNvc3lzdGVtIGJyaWVmcywgcHJhY3RpY2FsIHRlbXBsYXRlcywgYW5kIGJ1aWxkZXIgYWNjZXNzLg0KDQpFZHVjYXRpb25hbCBhbmQgaW5mb3JtYXRpb25hbCBvbmx5LiBObyBndWFyYW50ZWVkIHJldHVybnMuDQpodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vY2hlY2tvdXQNCg0KIyMjIFBvc3QgMg0KU3RhcnRlciB2cyBTdGFuZGFyZCB2cyBQcm86DQotIFN0YXJ0ZXI6IHdlZWtseSBicmllZiArIHRlbXBsYXRlDQotIFN0YW5kYXJkOiBhZGRzIGxpdmUgb2ZmaWNlIGhvdXINCi0gUHJvOiBhZGRzIDE6MSBtb250aGx5IHN0cmF0ZWd5ICsgcHJpb3JpdHkgc3VwcG9ydA0KaHR0cHM6Ly9vZmZpY2lhbGNoaWVmdG9rZW4uY29tL2NoZWNrb3V0DQoNCiMjIyBQb3N0IDMNCkJ1aWxkIHJlcGVhdGFibGUgcmVzZWFyY2ggYW5kIGV4ZWN1dGlvbiBoYWJpdHMgd2l0aCBDSElFRiBVdGlsaXR5IFBhc3MuDQoNCkVkdWNhdGlvbmFsIGFuZCBpbmZvcm1hdGlvbmFsIG9ubHkuIE5vdCBmaW5hbmNpYWwgYWR2aWNlLg0KDQojIyMgUG9zdCA0DQpPbmUgZm9jdXNlZCB3ZWVrbHkgYnJpZWYgY2FuIGJlIG1vcmUgdXNlZnVsIHRoYW4gYSBmZWVkIGZ1bGwgb2Ygbm9pc2UuDQoNCiMjIyBQb3N0IDUNCldoYXQgd291bGQgaW1wcm92ZSB5b3VyIGV4ZWN1dGlvbiBtb3N0IHJpZ2h0IG5vdz8NCi0gYmV0dGVyIGVudHJpZXMNCi0gcmlzayBmcmFtZXdvcmsNCi0gcG9ydGZvbGlvIHJldmlldyBjYWRlbmNlDQotIG5hcnJhdGl2ZSB0cmFja2luZw0KDQojIyMgUG9zdCA2DQpDSElFRiBpcyBmb2N1c2VkIG9uIHRyYW5zcGFyZW50IGRpc2Nsb3N1cmVzLCBwcmFjdGljYWwgdXRpbGl0eSwgYW5kIGNvbnNpc3RlbnQgc2hpcHBpbmcuDQpodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20NCg0KIyMjIFBvc3QgNw0KTGF1bmNoIHByaWNpbmcgaXMgY3VycmVudGx5IGF2YWlsYWJsZSB3aGlsZSB0aGUgaW50cm9kdWN0b3J5IG9mZmVyIHJlbWFpbnMgYWN0aXZlLg0KUmV2aWV3IHRoZSB0ZXJtcyBiZWZvcmUgc3Vic2NyaWJpbmc7IHRoaXMgaXMgYSBwYWlkIHV0aWxpdHkgc2VydmljZSwgbm90IGFuIGludmVzdG1lbnQgb2ZmZXIuDQpodHRwczovL29mZmljaWFsY2hpZWZ0b2tlbi5jb20vY2hlY2tvdXQNCg0KIyMgQ29tbXVuaXR5IE9wZXJhdGlvbnMgU2V0dXANCi0gVGVsZWdyYW06IGFubm91bmNlbWVudHMgY2hhbm5lbCArIHNlcGFyYXRlIGRpc2N1c3Npb24gZ3JvdXANCi0gRGlzY29yZCBjaGFubmVsczoNCiAgLSAjc3RhcnQtaGVyZQ0KICAtICNhbm5vdW5jZW1lbnRzDQogIC0gI3dlZWtseS1icmllZg0KICAtICN0ZW1wbGF0ZXMNCiAgLSAjb2ZmaWNlLWhvdXJzDQogIC0gI3N1cHBvcnQNCi0gTW9kZXJhdGlvbiBiYXNlbGluZToNCiAgLSBubyBzY2FtIGxpbmtzDQogIC0gbm8gaW1wZXJzb25hdGlvbg0KICAtIG5vIGZpbmFuY2lhbCBndWFyYW50ZWVzDQoNCiMjIENvbXBsaWFuY2UgRm9vdGVyICh1c2UgZXZlcnl3aGVyZSkNCkVkdWNhdGlvbmFsIGFuZCBpbmZvcm1hdGlvbmFsIG9ubHkuIE5vdGhpbmcgaXMgZmluYW5jaWFsLCBsZWdhbCwgb3IgdGF4IGFkdmljZS4NCg0KIyMgTGF1bmNoIERheSBDaGVja2xpc3QNCjEuIENyZWF0ZSBhbGwgcHJvZmlsZXMgd2l0aCBtYXRjaGluZyBoYW5kbGUgc2V0Lg0KMi4gU2V0IGF2YXRhciArIGhlYWRlciArIGJpbyArIHdlYnNpdGUgb24gZWFjaCBwcm9maWxlLg0KMy4gUHVibGlzaCBwaW5uZWQgbGF1bmNoIHBvc3Qgb24gWC4NCjQuIFB1Ymxpc2ggaW50cm8gcG9zdCBvbiBJRywgVGlrVG9rLCBMaW5rZWRJbi4NCjUuIERyb3AgdXRpbGl0eSBwYXNzIGxpbmsgaW4gYWxsIGJpb3MuDQo2LiBJbnZpdGUgZmlyc3QgNTAgdXNlcnMgZnJvbSBleGlzdGluZyBuZXR3b3JrLg0KNy4gUG9zdCBvbmNlIGV2ZXJ5IGRheSBmb3IgMTQgZGF5cy4NCg=="}
+# CHIEF Token Social Launch Kit
+
+## Primary Handle Set
+- X: @OfficialCHIEF
+- Instagram: @officialchieftoken
+- TikTok: @officialchieftoken
+- YouTube: @officialchieftoken
+- LinkedIn Page: CHIEF Token
+- Telegram Channel: CHIEF Token Official
+- Discord Server: CHIEF Token
+- Farcaster: @chieftoken
+
+## Profile Basics
+
+### Display Name
+CHIEF Token
+
+### One-line Bio (short)
+CHIEF on Base. Weekly ecosystem briefs, builder tools, and Utility Pass access.
+
+### Full Bio (long)
+CHIEF Token on Base. We ship weekly market intelligence, execution playbooks, and builder resources through CHIEF Utility Pass. Educational only. Not financial advice.
+
+### Website
+https://officialchieftoken.com
+
+### Link In Bio Structure
+1. Utility Pass Checkout: https://officialchieftoken.com/checkout
+2. Launch Page: https://officialchieftoken.com
+3. Docs/Updates: https://officialchieftoken.com#weekly-deliverables
+
+## Branding Assets To Use
+- Logo: Use CHIEF wordmark from launch site header
+- Primary colors: Keep current launch.css palette for consistency
+- Header image copy: CHIEF on Base | Utility Pass Live
+- Avatar rule: High-contrast logo on solid background
+
+## Pinned X Post (Launch)
+CHIEF Utility Pass is live.
+
+What you get:
+- Weekly high-signal CHIEF market + ecosystem brief
+- Members-only execution templates
+- Office hour + priority support on higher tiers
+
+Choose your plan:
+https://officialchieftoken.com/checkout
+
+Built on Base. Educational only.
+
+## Platform-Specific Bios
+
+### X Bio (160 chars)
+CHIEF on Base. Weekly market intelligence, playbooks, and builder access via Utility Pass. Educational only. Not financial advice.
+
+### Instagram Bio
+CHIEF on Base
+Utility Pass: market intel + playbooks
+Built for operators
+Join: officialchieftoken.com/checkout
+
+### TikTok Bio
+CHIEF on Base
+Crypto intel for operators
+Utility Pass live
+
+### YouTube About
+CHIEF Token on Base. Weekly market breakdowns, execution frameworks, and member resources through CHIEF Utility Pass.
+
+Educational content only. Not financial advice.
+
+### LinkedIn About
+CHIEF Token is a Base-native ecosystem focused on market intelligence, operator execution, and recurring member value through CHIEF Utility Pass.
+
+We publish weekly ecosystem briefings, templates, and practical resources for builders and serious participants.
+
+Educational only. Not financial advice.
+
+## First 7 X Posts
+
+### Post 1
+CHIEF Utility Pass is built around weekly ecosystem briefs, practical templates, and builder access.
+
+Educational and informational only. No guaranteed returns.
+https://officialchieftoken.com/checkout
+
+### Post 2
+Starter vs Standard vs Pro:
+- Starter: weekly brief + template
+- Standard: adds live office hour
+- Pro: adds 1:1 monthly strategy + priority support
+https://officialchieftoken.com/checkout
+
+### Post 3
+Build repeatable research and execution habits with CHIEF Utility Pass.
+
+Educational and informational only. Not financial advice.
+
+### Post 4
+One focused weekly brief can be more useful than a feed full of noise.
+
+### Post 5
+What would improve your execution most right now?
+- better entries
+- risk framework
+- portfolio review cadence
+- narrative tracking
+
+### Post 6
+CHIEF is focused on transparent disclosures, practical utility, and consistent shipping.
+https://officialchieftoken.com
+
+### Post 7
+Launch pricing is currently available while the introductory offer remains active.
+Review the terms before subscribing; this is a paid utility service, not an investment offer.
+https://officialchieftoken.com/checkout
+
+## Community Operations Setup
+- Telegram: announcements channel + separate discussion group
+- Discord channels:
+  - #start-here
+  - #announcements
+  - #weekly-brief
+  - #templates
+  - #office-hours
+  - #support
+- Moderation baseline:
+  - no scam links
+  - no impersonation
+  - no financial guarantees
+
+## Compliance Footer (use everywhere)
+Educational and informational only. Nothing is financial, legal, or tax advice.
+
+## Launch Day Checklist
+1. Create all profiles with matching handle set.
+2. Set avatar + header + bio + website on each profile.
+3. Publish pinned launch post on X.
+4. Publish intro post on IG, TikTok, LinkedIn.
+5. Drop utility pass link in all bios.
+6. Invite first 50 users from existing network.
+7. Post once every day for 14 days.

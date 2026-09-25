@@ -1,1 +1,38 @@
-{"data":"cmVxdWlyZSgiZG90ZW52IikuY29uZmlnKCk7DQpjb25zdCBmcyA9IHJlcXVpcmUoImZzIik7DQpjb25zdCBwYXRoID0gcmVxdWlyZSgicGF0aCIpOw0KDQpjb25zdCBvdXRQYXRoID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uIiwgImNoZWNrb3V0LWNvbmZpZy5qcyIpOw0KDQpmdW5jdGlvbiBzYW5pdGl6ZVVybCh2YWx1ZSkgew0KICBpZiAoIXZhbHVlIHx8IHR5cGVvZiB2YWx1ZSAhPT0gInN0cmluZyIpIHsNCiAgICByZXR1cm4gIiI7DQogIH0NCiAgY29uc3QgdHJpbW1lZCA9IHZhbHVlLnRyaW0oKTsNCiAgaWYgKCF0cmltbWVkKSB7DQogICAgcmV0dXJuICIiOw0KICB9DQogIGlmICghL15odHRwcz86XC9cLy9pLnRlc3QodHJpbW1lZCkpIHsNCiAgICByZXR1cm4gIiI7DQogIH0NCiAgcmV0dXJuIHRyaW1tZWQ7DQp9DQoNCmNvbnN0IHN0YXJ0ZXIgPSBzYW5pdGl6ZVVybChwcm9jZXNzLmVudi5DSEVDS09VVF9TVEFSVEVSX1VSTCk7DQpjb25zdCBzdGFuZGFyZCA9IHNhbml0aXplVXJsKHByb2Nlc3MuZW52LkNIRUNLT1VUX1NUQU5EQVJEX1VSTCk7DQpjb25zdCBwcm8gPSBzYW5pdGl6ZVVybChwcm9jZXNzLmVudi5DSEVDS09VVF9QUk9fVVJMKTsNCg0KY29uc3QgY29udGVudCA9IGB3aW5kb3cuQ0hJRUZfQ0hFQ0tPVVRfTElOS1MgPSB7DQogIHN0YXJ0ZXI6ICR7SlNPTi5zdHJpbmdpZnkoc3RhcnRlcil9LA0KICBzdGFuZGFyZDogJHtKU09OLnN0cmluZ2lmeShzdGFuZGFyZCl9LA0KICBwcm86ICR7SlNPTi5zdHJpbmdpZnkocHJvKX0NCn07DQpgOw0KDQpmcy53cml0ZUZpbGVTeW5jKG91dFBhdGgsIGNvbnRlbnQsICJ1dGY4Iik7DQoNCmNvbnNvbGUubG9nKCJDaGVja291dCBjb25maWcgd3JpdHRlbjoiKTsNCmNvbnNvbGUubG9nKG91dFBhdGgpOw0KaWYgKCFzdGFydGVyIHx8ICFzdGFuZGFyZCB8fCAhcHJvKSB7DQogIGNvbnNvbGUubG9nKCJOb3RlOiBvbmUgb3IgbW9yZSBjaGVja291dCBVUkxzIGFyZSBlbXB0eTsgbWFudWFsIGludGFrZSBmYWxsYmFjayByZW1haW5zIGFjdGl2ZS4iKTsNCn0NCg=="}
+require("dotenv").config();
+const fs = require("fs");
+const path = require("path");
+
+const outPath = path.resolve(__dirname, "..", "checkout-config.js");
+
+function sanitizeUrl(value) {
+  if (!value || typeof value !== "string") {
+    return "";
+  }
+  const trimmed = value.trim();
+  if (!trimmed) {
+    return "";
+  }
+  if (!/^https?:\/\//i.test(trimmed)) {
+    return "";
+  }
+  return trimmed;
+}
+
+const starter = sanitizeUrl(process.env.CHECKOUT_STARTER_URL);
+const standard = sanitizeUrl(process.env.CHECKOUT_STANDARD_URL);
+const pro = sanitizeUrl(process.env.CHECKOUT_PRO_URL);
+
+const content = `window.CHIEF_CHECKOUT_LINKS = {
+  starter: ${JSON.stringify(starter)},
+  standard: ${JSON.stringify(standard)},
+  pro: ${JSON.stringify(pro)}
+};
+`;
+
+fs.writeFileSync(outPath, content, "utf8");
+
+console.log("Checkout config written:");
+console.log(outPath);
+if (!starter || !standard || !pro) {
+  console.log("Note: one or more checkout URLs are empty; manual intake fallback remains active.");
+}

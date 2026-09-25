@@ -1,1 +1,160 @@
-{"data":"IyBHdW1yb2FkIEZ1bm5lbCBPcHRpbWl6YXRpb24gU3RyYXRlZ3kNCg0KIyMgUGhhc2UgMTogSW5zdGFncmFtIFByZS1MYXVuY2ggKERheXMgMS0zKQ0KDQojIyMgR29hbA0KQnVpbGQgYW50aWNpcGF0aW9uLCBlc3RhYmxpc2ggYXV0aG9yaXR5LCB3YXJtIHVwIGF1ZGllbmNlIGZvciBjb3Vyc2Ugb2ZmZXINCg0KIyMjIENvbnRlbnQgUGlsbGFycw0KMS4gKipEYXkgMSDigJMgQXV0aG9yaXR5IEhvb2sqKg0KICAgLSBSZWVsOiAiTW9zdCBjcmVhdG9ycyB3YXN0ZSBtb250aHMgdGVzdGluZyByYW5kb20gQUkgd29ya2Zsb3dzIg0KICAgLSBPdmVybGF5OiAiSSB0ZXN0ZWQgNTArIEFJIHRvb2xzLiBIZXJlJ3Mgd2hhdCBhY3R1YWxseSB3b3Jrcy4iDQogICAtIENUQTogIlN3aXBlIHRoZSBmcmVlIDctc3RlcCBmcmFtZXdvcmsgaW4gbXkgYmlvIg0KICAgLSBFbmdhZ2VtZW50IGRyaXZlcjogTGluayB0byBzaW1wbGUgbGVhZCBtYWduZXQgKGNoZWNrbGlzdCkNCg0KMi4gKipEYXkgMiDigJMgUHJvYmxlbSBBZ2l0YXRlIFNvbHZlKioNCiAgIC0gUmVlbDogIllvdXIgY29udGVudCBzeXN0ZW0gaXMga2lsbGluZyB5b3VyIGdyb3d0aCINCiAgIC0gU2hvdyBicm9rZW4gd29ya2Zsb3cg4oaSIGNvcnJlY3Qgd29ya2Zsb3cNCiAgIC0gT3ZlcmxheTogIk5pY2hlIHNlbGVjdGlvbiDihpIgY29udGVudCBiYXRjaGluZyDihpIgbW9uZXRpemF0aW9uIg0KICAgLSBDVEE6ICJUaGlzIGlzIHdoYXQgJDEwMGsgY3JlYXRvcnMgdXNlIg0KDQozLiAqKkRheSAzIOKAkyBTb2NpYWwgUHJvb2YqKg0KICAgLSBDYXJvdXNlbC9SZWVsOiBSZXN1bHRzIGZyb20gcGFzdCBzdHVkZW50cw0KICAgLSBRdW90ZSArIGJlZm9yZS9hZnRlciBtZXRyaWNzDQogICAtIENUQTogIkRvb3JzIG9wZW4gdG9tb3Jyb3cuIFNwb3RzIGxpbWl0ZWQgdG8gNTAuIg0KDQotLS0NCg0KIyMgUGhhc2UgMjogTGF1bmNoIFdlZWsgKERheXMgNC03KQ0KDQojIyMgT2ZmZXIgUm9sbG91dA0KRWFjaCBkYXkgaW5jcmVhc2VzIHNjYXJjaXR5IGFuZCB0aWVyIG9wdGlvbnMNCg0KKipEYXkgNCDigJMgU29mdCBMYXVuY2ggKFN0YXJ0ZXIgRm9jdXMpKioNCi0gUmVlbDogIkZvciBiZWdpbm5lcnMgd2l0aCB6ZXJvIGF1ZGllbmNlIg0KLSBQcmljZTogJDQwDQotIEJlbmVmaXQ6IENvcmUgNy1kYXkgd29ya2Zsb3csIHRlbXBsYXRlcywgY29tbXVuaXR5IGFjY2Vzcw0KLSBDVEE6ICJFbnJvbGwgbm93Ig0KDQoqKkRheSA1IOKAkyBUaWVyIENvbXBhcmlzb24qKg0KLSBDYXJvdXNlbDogU2lkZS1ieS1zaWRlIGJyZWFrZG93bg0KICAtIFN0YXJ0ZXIgJDQwOiBXb3JrZmxvdyBvbmx5DQogIC0gR3Jvd3RoICQxMDA6ICsgUHJvbXB0IHZhdWx0ICsgQ29udGVudCBjYWxlbmRhcg0KICAtIFBybyAkMjAwOiArIE1vbmV0aXphdGlvbiBwbGF5Ym9vayArIEZ1bm5lbCB0ZW1wbGF0ZXMNCi0gQ1RBOiAiR3Jvd3RoIGdpdmVzIHlvdSBzcGVlZC4gTW9zdCBwaWNrIHRoaXMuIg0KDQoqKkRheSA2IOKAkyBPYmplY3Rpb24gQ3J1c2hlcioqDQotIFJlZWw6ICJCdXQgSSBoYXZlIG5vIGF1ZGllbmNlIHlldC4uLiINCi0gQW5zd2VyOiAiVGhpcyBidWlsZHMgYXVkaWVuY2UuIEZyb20gc2NyYXRjaC4iDQotIFNvY2lhbCBwcm9vZjogIjMwMCsgcGVvcGxlIHN0YXJ0ZWQgd2l0aCAwIGZvbGxvd2VycyINCi0gQ1RBOiAiU3RhcnQgaGVyZSINCg0KKipEYXkgNyDigJMgVXJnZW5jeSBDbG9zZSoqDQotIFJlZWw6ICI0OC1ob3VyIHByaWNpbmcgZW5kcy4gQWZ0ZXIgdGhhdCwgKyQzMCINCi0gRGlyZWN0IHBpdGNoOiAiSWYgeW91IHdhbnQgYSByZWFsIHN5c3RlbSwgdGhpcyBpcyBpdCINCi0gQ1RBOiAiRW5yb2xsIHZpYSBsaW5rIGluIGJpbyINCg0KLS0tDQoNCiMjIFBoYXNlIDM6IFBvc3QtUHVyY2hhc2UgRnVubmVsIChEYXlzIDgtMTQpDQoNCiMjIyBJbW1lZGlhdGUgRW1haWwgU2VxdWVuY2UgKHVwb24gcHVyY2hhc2UpDQoNCioqRW1haWwgMSAoSW5zdGFudCk6KiogV2VsY29tZSArIEZpcnN0IExlc3Nvbg0KLSBTdWJqZWN0OiAiWW91ciAkNDAvJDEwMC8kMjAwIGludmVzdG1lbnQgdW5sb2NrcyBvbiBbZGF0ZV0iDQotIEJvZHk6IENvdXJzZSBhY2Nlc3MgbGluayArIGZpcnN0IHZpZGVvDQotIENUQTogSm9pbiBjb21tdW5pdHkgRGlzY29yZA0KDQoqKkVtYWlsIDIgKERheSArMSk6KiogUXVpY2sgV2luIENoYWxsZW5nZQ0KLSBTdWJqZWN0OiAiQ29tcGxldGUgeW91ciBmaXJzdCBwcm9tcHQgaW4gMjAgbWludXRlcyINCi0gQm9keTogU3RlcC1ieS1zdGVwIGd1aWRlICsgdGVtcGxhdGUNCi0gQ1RBOiBTaGFyZSByZXN1bHQgaW4gY29tbXVuaXR5DQoNCioqRW1haWwgMyAoRGF5ICszKToqKiBVcHNlbGwgdG8gQ0hJRUYgVXRpbGl0eSBQYXNzDQotIFN1YmplY3Q6ICJZb3VyIHN0dWRlbnRzIG5lZWQgQ0hJRUYgVXRpbGl0eSBQYXNzIChoZXJlJ3Mgd2h5KSINCi0gQm9keTogU2hvdyBob3cgVXRpbGl0eSBQYXNzIGludGVncmF0ZXMgd2l0aCBjb3Vyc2UNCi0gUHJpY2U6IExhdW5jaCBwcmljaW5nICQyOS9tb250aCBmb3IgMTQgZGF5cw0KLSBDVEE6ICJBY3RpdmF0ZSB5b3VyIGVkZ2UiDQoNCioqRW1haWwgNCAoRGF5ICs1KToqKiBDYXNlIFN0dWR5IC8gUHJvb2YNCi0gU3ViamVjdDogIkhvdyBhIGNvdXJzZSBidXllciB0dXJuZWQgdGhpcyBpbnRvICQyay9tb250aCINCi0gQm9keTogU3R1ZGVudCBzdG9yeSArIG1ldHJpY3MNCi0gQ1RBOiBVdGlsaXR5IFBhc3MgZW5yb2xsbWVudCBsaW5rDQoNCioqRW1haWwgNSAoRGF5ICs3KToqKiBSZWZlcnJhbCBPZmZlcg0KLSBTdWJqZWN0OiAiRWFybiAzMCUgY29tbWlzc2lvbi4gUmVmZXIgdGhlIGNvdXJzZS4iDQotIEJvZHk6IEFmZmlsaWF0ZSBsaW5rICsgY29weSB0ZW1wbGF0ZXMNCi0gQ1RBOiAiU3RhcnQgZWFybmluZyINCg0KLS0tDQoNCiMjIFBoYXNlIDQ6IFNjYWxpbmcgV2VlayAoRGF5cyAxNS0yMSkNCg0KIyMjIFdoYXQgV29ya3MgLyBXaGF0IERvZXNuJ3QNCi0gQW5hbHl6ZSBEYXkgMS03IGVuZ2FnZW1lbnQgKFJlZWwgdmlld3MsIENUUiwgY29zdCBwZXIgY2xpY2spDQotIEtlZXAgdG9wIDMgcGVyZm9ybWluZyBjcmVhdGl2ZXMNCi0gUmVwbGFjZSB1bmRlcnBlcmZvcm1lcnMNCg0KIyMjIFNjYWxlIFNpZ25hbHMNCi0gSWYgQ1BBIDwgJDE1IG9uIGFueSB0aWVyIOKGkiBpbmNyZWFzZSBhZCBzcGVuZCAyeA0KLSBJZiBlbWFpbCBvcGVuIHJhdGUgPiA0MCUg4oaSIGFkZCBkYWlseSBlbWFpbA0KLSBJZiBDSElFRiByZWZlcnJhbCByYXRlID4gMTAlIOKGkiBjcmVhdGUgZGVkaWNhdGVkIHJlZmVycmFsIGNhbXBhaWduDQoNCiMjIyBBZCBTdHJhdGVneQ0KLSBBdWRpZW5jZTogRW50cmVwcmVuZXVycyArIGNvbnRlbnQgY3JlYXRvcnMgMTgtNDUsIGludGVyZXN0cyBpbiBBSSwgb25saW5lIGJ1c2luZXNzDQotIFBsYXRmb3JtOiBJbnN0YWdyYW0gKyBUaWtUb2sgYWRzIChyZXRhcmdldCB3ZWJzaXRlIHZpc2l0b3JzKQ0KLSBCdWRnZXQ6ICQxMC9kYXkgYmFzZSwgc2NhbGUgYnkgcGVyZm9ybWFuY2UNCi0gRGVzdGluYXRpb246IEd1bXJvYWQgbGluayArIGN1c3RvbSBsYW5kaW5nIHBhZ2UNCg0KLS0tDQoNCiMjIENvbnZlcnNpb24gVGFyZ2V0cyAoV2VlayAxKQ0KDQp8IE1ldHJpYyB8IFRhcmdldCB8IFN0cmV0Y2ggfA0KfC0tLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLXwNCnwgVG90YWwgZW5yb2xsbWVudHMgfCA1MCB8IDEwMCB8DQp8IFN0YXJ0ZXIgdGllciAlIHwgNDAlIHwgMzAlIHwNCnwgR3Jvd3RoIHRpZXIgJSB8IDQwJSB8IDUwJSB8DQp8IFBybyB0aWVyICUgfCAyMCUgfCAyMCUgfA0KfCBBdmcgcmV2ZW51ZSBwZXIgdXNlciB8ICQ3MiB8ICQ4NSB8DQp8IEVtYWlsIGxpc3QgZ3Jvd3RoIHwgNTAgfCAxMDAgfA0KDQotLS0NCg0KIyMgUG9zdC1Db3Vyc2UgTW9uZXRpemF0aW9uIChXZWVrIDIrKQ0KDQojIyMgQ0hJRUYgVXRpbGl0eSBQYXNzIENyb3NzLVNlbGwNCi0gVGFyZ2V0OiAyMCUgb2YgR3Vtcm9hZCBidXllcnMgY29udmVydCB0byBVdGlsaXR5IFBhc3MNCi0gQW5nbGU6ICJZb3VyIHN0dWRlbnRzIG5lZWQgd2Vla2x5IGV4ZWN1dGlvbiBpbnRlbGxpZ2VuY2UiDQotIFByaWNlOiAkMjkvbW9udGggKGxhdW5jaCksICQ0OS9tb250aCAoc3RlYWR5IHN0YXRlKQ0KDQojIyMgQ0hJRUYgVG9rZW4gVXBzZWxsDQotIFRhcmdldDogMTAlIG9mIFV0aWxpdHkgUGFzcyBtZW1iZXJzIGJ1eSBDSElFRg0KLSBBbmdsZTogIlV0aWxpdHkgUGFzcyBob2xkZXJzIGVhcm4gMnggdG9rZW4gYWxsb2NhdGlvbiINCi0gRW50cnk6IFVuaXN3YXAgbGluayArICJDSElFRiBpcyBob3cgd2lubmVycyBjb21wb3VuZCINCg0KIyMjIEFmZmlsaWF0ZSBQcm9ncmFtDQotIE9mZmVyOiAzMCUgY29tbWlzc2lvbiBmb3IgY291cnNlIHJlZmVycmFscw0KLSBBdWRpZW5jZTogQ291cnNlIGdyYWR1YXRlcywgb3RoZXIgY3JlYXRvcnMNCi0gVGltZWxpbmU6IExhdW5jaCBEYXkgMTAsIGNsb3NlIERheSAzMA0KDQotLS0NCg0KIyMgV2Vla2x5IENhZGVuY2UNCg0KKipNb25kYXkqKjogUG9zdCBEYXkgMSBjb250ZW50ICsgbW9uaXRvciBlbmdhZ2VtZW50DQoqKlR1ZXNkYXkqKjogRW1haWwgc2VxdWVuY2UgY2hlY2sgKyBvcHRpbWl6ZSBDVEENCioqV2VkbmVzZGF5Kio6IE1pZC13ZWVrIHBpdm90IChraWxsIHVuZGVycGVyZm9ybWVycywgYm9vc3Qgd2lubmVycykNCioqVGh1cnNkYXkqKjogTGF1bmNoIERheSAyIGNvbnRlbnQNCioqRnJpZGF5Kio6IEFuYWx5dGljcyBkZWVwIGRpdmUgKyB3ZWVrZW5kIHN0cmF0ZWd5DQoqKlNhdHVyZGF5LVN1bmRheSoqOiBDb21tdW5pdHkgZW5nYWdlbWVudCArIERNIGZvbGxvd3MtdXBzDQoNCi0tLQ0KDQojIyBTdWNjZXNzIE1ldHJpY3MNCg0KKipMYXVuY2ggV2luKio6IDUwKyBlbnJvbGxtZW50cywgMzAlIGNvbnZlcnNpb24gdG8gVXRpbGl0eSBQYXNzIHdpdGhpbiAxNCBkYXlzDQoNCioqU2NhbGUgV2luKio6ICQxNSBDUEEgb3IgbG93ZXIsIDN4IFJPQVMgb24gYWQgc3BlbmQsIDUwMCsgZW1haWwgc3Vic2NyaWJlcnMgYnkgZW5kIG9mIG1vbnRoDQoNCioqRnVubmVsIFdpbioqOiAkMSwwMDArIE1SUiBmcm9tIEd1bXJvYWQgKyBVdGlsaXR5IFBhc3MgaHlicmlkDQo="}
+# Gumroad Funnel Optimization Strategy
+
+## Phase 1: Instagram Pre-Launch (Days 1-3)
+
+### Goal
+Build anticipation, establish authority, warm up audience for course offer
+
+### Content Pillars
+1. **Day 1 – Authority Hook**
+   - Reel: "Most creators waste months testing random AI workflows"
+   - Overlay: "I tested 50+ AI tools. Here's what actually works."
+   - CTA: "Swipe the free 7-step framework in my bio"
+   - Engagement driver: Link to simple lead magnet (checklist)
+
+2. **Day 2 – Problem Agitate Solve**
+   - Reel: "Your content system is killing your growth"
+   - Show broken workflow → correct workflow
+   - Overlay: "Niche selection → content batching → monetization"
+   - CTA: "This is what $100k creators use"
+
+3. **Day 3 – Social Proof**
+   - Carousel/Reel: Results from past students
+   - Quote + before/after metrics
+   - CTA: "Doors open tomorrow. Spots limited to 50."
+
+---
+
+## Phase 2: Launch Week (Days 4-7)
+
+### Offer Rollout
+Each day increases scarcity and tier options
+
+**Day 4 – Soft Launch (Starter Focus)**
+- Reel: "For beginners with zero audience"
+- Price: $40
+- Benefit: Core 7-day workflow, templates, community access
+- CTA: "Enroll now"
+
+**Day 5 – Tier Comparison**
+- Carousel: Side-by-side breakdown
+  - Starter $40: Workflow only
+  - Growth $100: + Prompt vault + Content calendar
+  - Pro $200: + Monetization playbook + Funnel templates
+- CTA: "Growth gives you speed. Most pick this."
+
+**Day 6 – Objection Crusher**
+- Reel: "But I have no audience yet..."
+- Answer: "This builds audience. From scratch."
+- Social proof: "300+ people started with 0 followers"
+- CTA: "Start here"
+
+**Day 7 – Urgency Close**
+- Reel: "48-hour pricing ends. After that, +$30"
+- Direct pitch: "If you want a real system, this is it"
+- CTA: "Enroll via link in bio"
+
+---
+
+## Phase 3: Post-Purchase Funnel (Days 8-14)
+
+### Immediate Email Sequence (upon purchase)
+
+**Email 1 (Instant):** Welcome + First Lesson
+- Subject: "Your $40/$100/$200 investment unlocks on [date]"
+- Body: Course access link + first video
+- CTA: Join community Discord
+
+**Email 2 (Day +1):** Quick Win Challenge
+- Subject: "Complete your first prompt in 20 minutes"
+- Body: Step-by-step guide + template
+- CTA: Share result in community
+
+**Email 3 (Day +3):** Upsell to CHIEF Utility Pass
+- Subject: "Your students need CHIEF Utility Pass (here's why)"
+- Body: Show how Utility Pass integrates with course
+- Price: Launch pricing $29/month for 14 days
+- CTA: "Activate your edge"
+
+**Email 4 (Day +5):** Case Study / Proof
+- Subject: "How a course buyer turned this into $2k/month"
+- Body: Student story + metrics
+- CTA: Utility Pass enrollment link
+
+**Email 5 (Day +7):** Referral Offer
+- Subject: "Earn 30% commission. Refer the course."
+- Body: Affiliate link + copy templates
+- CTA: "Start earning"
+
+---
+
+## Phase 4: Scaling Week (Days 15-21)
+
+### What Works / What Doesn't
+- Analyze Day 1-7 engagement (Reel views, CTR, cost per click)
+- Keep top 3 performing creatives
+- Replace underperformers
+
+### Scale Signals
+- If CPA < $15 on any tier → increase ad spend 2x
+- If email open rate > 40% → add daily email
+- If CHIEF referral rate > 10% → create dedicated referral campaign
+
+### Ad Strategy
+- Audience: Entrepreneurs + content creators 18-45, interests in AI, online business
+- Platform: Instagram + TikTok ads (retarget website visitors)
+- Budget: $10/day base, scale by performance
+- Destination: Gumroad link + custom landing page
+
+---
+
+## Conversion Targets (Week 1)
+
+| Metric | Target | Stretch |
+|--------|--------|---------|
+| Total enrollments | 50 | 100 |
+| Starter tier % | 40% | 30% |
+| Growth tier % | 40% | 50% |
+| Pro tier % | 20% | 20% |
+| Avg revenue per user | $72 | $85 |
+| Email list growth | 50 | 100 |
+
+---
+
+## Post-Course Monetization (Week 2+)
+
+### CHIEF Utility Pass Cross-Sell
+- Target: 20% of Gumroad buyers convert to Utility Pass
+- Angle: "Your students need weekly execution intelligence"
+- Price: $29/month (launch), $49/month (steady state)
+
+### CHIEF Token Upsell
+- Target: 10% of Utility Pass members buy CHIEF
+- Angle: "Utility Pass holders earn 2x token allocation"
+- Entry: Uniswap link + "CHIEF is how winners compound"
+
+### Affiliate Program
+- Offer: 30% commission for course referrals
+- Audience: Course graduates, other creators
+- Timeline: Launch Day 10, close Day 30
+
+---
+
+## Weekly Cadence
+
+**Monday**: Post Day 1 content + monitor engagement
+**Tuesday**: Email sequence check + optimize CTA
+**Wednesday**: Mid-week pivot (kill underperformers, boost winners)
+**Thursday**: Launch Day 2 content
+**Friday**: Analytics deep dive + weekend strategy
+**Saturday-Sunday**: Community engagement + DM follows-ups
+
+---
+
+## Success Metrics
+
+**Launch Win**: 50+ enrollments, 30% conversion to Utility Pass within 14 days
+
+**Scale Win**: $15 CPA or lower, 3x ROAS on ad spend, 500+ email subscribers by end of month
+
+**Funnel Win**: $1,000+ MRR from Gumroad + Utility Pass hybrid

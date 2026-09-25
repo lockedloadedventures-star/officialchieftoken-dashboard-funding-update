@@ -1,2 +1,200 @@
-{"data":"IyBDaGllZlRva2VuIChDSElFRikNCg0KVGhpcyBpcyBhIHN0YXJ0ZXIgRVJDLTIwIGNyeXB0b2N1cnJlbmN5IHByb2plY3QgdXNpbmcgSGFyZGhhdCArIE9wZW5aZXBwZWxpbi4NCg0KIyMgVG9rZW4gZGV0YWlscw0KDQotIE5hbWU6IGBDaGllZlRva2VuYA0KLSBTeW1ib2w6IGBDSElFRmANCi0gSW5pdGlhbCBzdXBwbHk6IGAxLDAwMCwwMDAgQ0hJRUZgDQotIE1pbnRpbmc6IG93bmVyLW9ubHkgYG1pbnQoKWAgZnVuY3Rpb24NCg0KIyMgMSkgUHJlcmVxdWlzaXRlcw0KDQpJbnN0YWxsIE5vZGUuanMgTFRTICh3aGljaCBpbmNsdWRlcyBucG0pOg0KDQotIDxodHRwczovL25vZGVqcy5vcmcvPg0KDQojIyAyKSBJbnN0YWxsIGRlcGVuZGVuY2llcw0KDQpgYGBiYXNoDQpucG0gaW5zdGFsbA0KYGBgDQoNCiMjIDMpIENvbmZpZ3VyZSBlbnZpcm9ubWVudA0KDQpDb3B5IGAuZW52LmV4YW1wbGVgIHRvIGAuZW52YCBhbmQgZmlsbCBpbiB2YWx1ZXM6DQoNCmBgYGJhc2gNClBSSVZBVEVfS0VZPXlvdXJfd2FsbGV0X3ByaXZhdGVfa2V5DQpSUENfVVJMPXlvdXJfcnBjX3VybA0KYGBgDQoNCiMjIDQpIENvbXBpbGUNCg0KYGBgYmFzaA0KbnBtIHJ1biBjb21waWxlDQpgYGANCg0KIyMgNSkgVGVzdA0KDQpgYGBiYXNoDQpucG0gdGVzdA0KYGBgDQoNCiMjIDYpIERlcGxveQ0KDQojIyMgTG9jYWwgbm9kZQ0KDQpTdGFydCBhIGxvY2FsIG5vZGU6DQoNCmBgYGJhc2gNCm5weCBoYXJkaGF0IG5vZGUNCmBgYA0KDQpUaGVuIGRlcGxveSBpbiBhIHNlY29uZCB0ZXJtaW5hbDoNCg0KYGBgYmFzaA0KbnBtIHJ1biBkZXBsb3k6bG9jYWwNCmBgYA0KDQojIyMgU2Vwb2xpYSB0ZXN0bmV0DQoNCmBgYGJhc2gNCm5wbSBydW4gZGVwbG95OnNlcG9saWENCmBgYA0KDQojIyBTZWN1cml0eSBub3Rlcw0KDQotIE5ldmVyIHNoYXJlIHlvdXIgcHJpdmF0ZSBrZXkuDQotIFVzZSBhIGZyZXNoIGRlcGxveWVyIHdhbGxldC4NCi0gVXNlIHRlc3RuZXQgZmlyc3QgYmVmb3JlIG1haW5uZXQuDQoNCiMjIDcpIFdlYiBjb250cm9sIGRlY2sNCg0KQSBicm93c2VyLWJhc2VkIGFwcCBpcyBpbmNsdWRlZCBmb3Igd2FsbGV0IGNvbm5lY3QsIGJhbGFuY2Uvc3VwcGx5IHZpZXcsIHRyYW5zZmVycywgYW5kIG93bmVyLW9ubHkgY2xhaW0vbWludC4NCg0KTG9jYXRpb246DQoNCi0gd2ViL2luZGV4Lmh0bWwNCg0KSG93IHRvIG9wZW46DQoNCjEuIE9wZW4gdGhlIGZvbGRlciBpbiBWUyBDb2RlLg0KMi4gT3BlbiBgd2ViL2luZGV4Lmh0bWxgIGluIGEgYnJvd3Nlci4NCjMuIENvbm5lY3QgTWV0YU1hc2sgb24gU2Vwb2xpYS4NCjQuIFVzZSB0aGUgdHJhbnNmZXIgYW5kIGNsYWltIHBhbmVscy4NCg0KVGhlIGFwcCBpcyBhbHJlYWR5IHdpcmVkIHRvIHRoZSBkZXBsb3llZCBTZXBvbGlhIGNvbnRyYWN0Og0KDQotIDB4Mzg5NmM5YmQ4MDJBNTZjMjg1OTBFRjFFMDNBN2RlNjQ1YzcwMzc1Nw0KDQojIyA4KSBQcm9kdWN0aW9uIGRlcGxveW1lbnQgKGZvciBsaXN0aW5ncykNCg0KSW1wb3J0YW50OiBleGNoYW5nZSBsaXN0aW5ncyByZXF1aXJlIGEgbWFpbm5ldCB0b2tlbi4gU2Vwb2xpYS90ZXN0bmV0IGNvbnRyYWN0cyBjYW5ub3QgYmUgbGlzdGVkIG9uIENvaW5iYXNlIG9yIG1ham9yIG1hcmtldHMuDQoNClNldCBleHRyYSBSUEMgdmFsdWVzIGluIGAuZW52YDoNCg0KYGBgYmFzaA0KRVRIX01BSU5ORVRfUlBDX1VSTD15b3VyX2V0aGVyZXVtX21haW5uZXRfcnBjDQpCQVNFX01BSU5ORVRfUlBDX1VSTD15b3VyX2Jhc2VfbWFpbm5ldF9ycGMNCmBgYA0KDQpUaGVuIGRlcGxveToNCg0KYGBgYmFzaA0KbnBtIHJ1biBkZXBsb3k6ZXRoDQpucG0gcnVuIGRlcGxveTpiYXNlDQpgYGANCg0KIyMgOSkgRXhjaGFuZ2UgYW5kIG1hcmtldCBsaXN0aW5nIGNoZWNrbGlzdA0KDQpVc2UgdGhlc2UgZmlsZXMgdG8gcHJlcGFyZSBzdWJtaXNzaW9uczoNCg0KLSBgbGlzdGluZy9leGNoYW5nZS1saXN0aW5nLWNoZWNrbGlzdC5tZGANCi0gYGxpc3RpbmcvdG9rZW4tcHJvZmlsZS5qc29uYA0KDQpUeXBpY2FsIHN1Ym1pc3Npb24gdGFyZ2V0czoNCg0KLSBDb2luYmFzZSBBc3NldCBIdWIgKGFwcGxpY2F0aW9uLWJhc2VkLCBubyBndWFyYW50ZWVkIGFwcHJvdmFsKQ0KLSBDb2luR2Vja28gdG9rZW4gZm9ybQ0KLSBDb2luTWFya2V0Q2FwIHRva2VuIGZvcm0NCi0gREVYIGxhdW5jaCAoVW5pc3dhcC9CYXNlKSB3aXRoIGxpcXVpZGl0eSBwcm92aXNpb24NCg0KIyMgMTApIExhdW5jaCBvcGVyYXRpb25zIGNvbW1hbmRzDQoNClNlcnZlIGxhdW5jaCBzaXRlIGxvY2FsbHkgZnJvbSBwcm9qZWN0IHJvb3Q6DQoNCmBgYGJhc2gNCm5wbSBydW4gc2l0ZTpzZXJ2ZQ0KYGBgDQoNClJ1biBsYXVuY2ggZmlsZSByZWFkaW5lc3MgY2hlY2tzOg0KDQpgYGBiYXNoDQpucG0gcnVuIGxhdW5jaDpyZWFkaW5lc3MNCmBgYA0KDQpWZXJpZnkgcHJvZHVjdGlvbiBkb21haW4gZGVwbG95bWVudCByZXNwb25zZXM6DQoNCmBgYGJhc2gNCm5wbSBydW4gZGVwbG95OnZlcmlmeQ0KYGBgDQoNCkdlbmVyYXRlIGEgd2Vla2x5IGxpcXVpZGl0eSByZXBvcnQgYXJ0aWZhY3Q6DQoNCmBgYGJhc2gNCm5wbSBydW4gcmVwb3J0OndlZWtseQ0KYGBgDQoNCkdlbmVyYXRlIGEgZGFpbHkgc2NvcmVib2FyZCBlbnRyeSBhcnRpZmFjdDoNCg0KYGBgYmFzaA0KbnBtIHJ1biBzY29yZTpkYWlseQ0KYGBgDQoNCkdlbmVyYXRlIGNoZWNrb3V0IGxpbmsgY29uZmlnIGZyb20gYC5lbnZgIHZhbHVlczoNCg0KYGBgYmFzaA0KbnBtIHJ1biBjb25maWc6Y2hlY2tvdXQNCmBgYA0KDQpBcHBseSBTRU8gdmVyaWZpY2F0aW9uIHRva2VucyB0byBgaW5kZXguaHRtbGAgZnJvbSBgLmVudmAgdmFsdWVzOg0KDQpgYGBiYXNoDQpucG0gcnVuIHNlbzphcHBseQ0KYGBgDQoNClJ1biByZWxlYXNlIHByZXAgc2VxdWVuY2UgKGNoZWNrb3V0IGNvbmZpZyArIFNFTyBhcHBseSArIHJlYWRpbmVzcyk6DQoNCmBgYGJhc2gNCm5wbSBydW4gcHJlcDpyZWxlYXNlDQpgYGANCg0KUnVuIHN0cmljdCByZWxlYXNlIHByZXAgKGZhaWxzIHVubGVzcyBjaGVja291dCBVUkxzIGFuZCBTRU8gdG9rZW5zIGFyZSBmdWxseSBjb25maWd1cmVkKToNCg0KYGBgYmFzaA0KbnBtIHJ1biBwcmVwOnJlbGVhc2U6c3RyaWN0DQpgYGANCg0KU3RyaWN0IG1vZGUgYWxzbyByZWplY3RzIHRlbXBvcmFyeSB0b2tlbiBzdHJpbmdzIChmb3IgZXhhbXBsZSB2YWx1ZXMgY29udGFpbmluZyBgcGVuZGluZ2AsIGByZXBsYWNlX3dpdGhgLCBgZXhhbXBsZWAsIG9yIGBwbGFjZWhvbGRlcmApLg0KDQojIyAxMSkgTGlzdGluZyBhdXRvbWF0aW9uIGNvbW1hbmRzDQoNClZhbGlkYXRlIHJlcXVpcmVkIGxpc3RpbmcgbWV0YWRhdGE6DQoNCmBgYGJhc2gNCm5wbSBydW4gbGlzdGluZzp2YWxpZGF0ZQ0KYGBgDQoNCkdlbmVyYXRlIHN1Ym1pc3Npb24tcmVhZHkgbGlzdGluZyBwYWNrZXRzOg0KDQpgYGBiYXNoDQpucG0gcnVuIGxpc3Rpbmc6cHJlcGFyZQ0KYGBgDQoNClJ1biBmdWxsIGxpc3RpbmcgYXV0b21hdGlvbiBzZXF1ZW5jZToNCg0KYGBgYmFzaA0KbnBtIHJ1biBsaXN0aW5nOmF1dG8NCmBgYA0K"}
-<!-- Vercel Git integration verified: 2026-09-25T13:00:38.7900284-04:00 -->
+# ChiefToken (CHIEF)
+
+This is a starter ERC-20 cryptocurrency project using Hardhat + OpenZeppelin.
+
+## Token details
+
+- Name: `ChiefToken`
+- Symbol: `CHIEF`
+- Initial supply: `1,000,000 CHIEF`
+- Minting: owner-only `mint()` function
+
+## 1) Prerequisites
+
+Install Node.js LTS (which includes npm):
+
+- <https://nodejs.org/>
+
+## 2) Install dependencies
+
+```bash
+npm install
+```
+
+## 3) Configure environment
+
+Copy `.env.example` to `.env` and fill in values:
+
+```bash
+PRIVATE_KEY=your_wallet_private_key
+RPC_URL=your_rpc_url
+```
+
+## 4) Compile
+
+```bash
+npm run compile
+```
+
+## 5) Test
+
+```bash
+npm test
+```
+
+## 6) Deploy
+
+### Local node
+
+Start a local node:
+
+```bash
+npx hardhat node
+```
+
+Then deploy in a second terminal:
+
+```bash
+npm run deploy:local
+```
+
+### Sepolia testnet
+
+```bash
+npm run deploy:sepolia
+```
+
+## Security notes
+
+- Never share your private key.
+- Use a fresh deployer wallet.
+- Use testnet first before mainnet.
+
+## 7) Web control deck
+
+A browser-based app is included for wallet connect, balance/supply view, transfers, and owner-only claim/mint.
+
+Location:
+
+- web/index.html
+
+How to open:
+
+1. Open the folder in VS Code.
+2. Open `web/index.html` in a browser.
+3. Connect MetaMask on Sepolia.
+4. Use the transfer and claim panels.
+
+The app is already wired to the deployed Sepolia contract:
+
+- 0x3896c9bd802A56c28590EF1E03A7de645c703757
+
+## 8) Production deployment (for listings)
+
+Important: exchange listings require a mainnet token. Sepolia/testnet contracts cannot be listed on Coinbase or major markets.
+
+Set extra RPC values in `.env`:
+
+```bash
+ETH_MAINNET_RPC_URL=your_ethereum_mainnet_rpc
+BASE_MAINNET_RPC_URL=your_base_mainnet_rpc
+```
+
+Then deploy:
+
+```bash
+npm run deploy:eth
+npm run deploy:base
+```
+
+## 9) Exchange and market listing checklist
+
+Use these files to prepare submissions:
+
+- `listing/exchange-listing-checklist.md`
+- `listing/token-profile.json`
+
+Typical submission targets:
+
+- Coinbase Asset Hub (application-based, no guaranteed approval)
+- CoinGecko token form
+- CoinMarketCap token form
+- DEX launch (Uniswap/Base) with liquidity provision
+
+## 10) Launch operations commands
+
+Serve launch site locally from project root:
+
+```bash
+npm run site:serve
+```
+
+Run launch file readiness checks:
+
+```bash
+npm run launch:readiness
+```
+
+Verify production domain deployment responses:
+
+```bash
+npm run deploy:verify
+```
+
+Generate a weekly liquidity report artifact:
+
+```bash
+npm run report:weekly
+```
+
+Generate a daily scoreboard entry artifact:
+
+```bash
+npm run score:daily
+```
+
+Generate checkout link config from `.env` values:
+
+```bash
+npm run config:checkout
+```
+
+Apply SEO verification tokens to `index.html` from `.env` values:
+
+```bash
+npm run seo:apply
+```
+
+Run release prep sequence (checkout config + SEO apply + readiness):
+
+```bash
+npm run prep:release
+```
+
+Run strict release prep (fails unless checkout URLs and SEO tokens are fully configured):
+
+```bash
+npm run prep:release:strict
+```
+
+Strict mode also rejects temporary token strings (for example values containing `pending`, `replace_with`, `example`, or `placeholder`).
+
+## 11) Listing automation commands
+
+Validate required listing metadata:
+
+```bash
+npm run listing:validate
+```
+
+Generate submission-ready listing packets:
+
+```bash
+npm run listing:prepare
+```
+
+Run full listing automation sequence:
+
+```bash
+npm run listing:auto
+```

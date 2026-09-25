@@ -1,1 +1,92 @@
-{"data":"Y29uc3QgZnMgPSByZXF1aXJlKCJmcyIpOw0KY29uc3QgcGF0aCA9IHJlcXVpcmUoInBhdGgiKTsNCg0KZnVuY3Rpb24gaXNvRGF0ZSgpIHsNCiAgcmV0dXJuIG5ldyBEYXRlKCkudG9JU09TdHJpbmcoKS5zbGljZSgwLCAxMCk7DQp9DQoNCmZ1bmN0aW9uIHJlYWROdW1iZXIobmFtZSkgew0KICBjb25zdCByYXcgPSBwcm9jZXNzLmVudltuYW1lXTsNCiAgaWYgKCFyYXcgfHwgcmF3LnRyaW0oKSA9PT0gIiIpIHsNCiAgICByZXR1cm4gbnVsbDsNCiAgfQ0KICBjb25zdCBuID0gTnVtYmVyKHJhdyk7DQogIHJldHVybiBOdW1iZXIuaXNGaW5pdGUobikgPyBuIDogbnVsbDsNCn0NCg0KZnVuY3Rpb24gcGN0KG51bWVyYXRvciwgZGVub21pbmF0b3IpIHsNCiAgaWYgKCFkZW5vbWluYXRvciB8fCBkZW5vbWluYXRvciA8PSAwKSB7DQogICAgcmV0dXJuIG51bGw7DQogIH0NCiAgcmV0dXJuIChudW1lcmF0b3IgLyBkZW5vbWluYXRvcikgKiAxMDA7DQp9DQoNCmZ1bmN0aW9uIG1haW4oKSB7DQogIGNvbnN0IGRhdGUgPSBwcm9jZXNzLmVudi5EQVRFIHx8IGlzb0RhdGUoKTsNCg0KICBjb25zdCB0cmFmZmljID0gcmVhZE51bWJlcigiVFJBRkZJQyIpOw0KICBjb25zdCBuZXdMZWFkcyA9IHJlYWROdW1iZXIoIk5FV19MRUFEUyIpOw0KICBjb25zdCBjaGVja291dFN0YXJ0cyA9IHJlYWROdW1iZXIoIkNIRUNLT1VUX1NUQVJUUyIpOw0KICBjb25zdCBuZXdQYWlkVXNlcnMgPSByZWFkTnVtYmVyKCJORVdfUEFJRF9VU0VSUyIpOw0KICBjb25zdCBncm9zc1JldmVudWUgPSByZWFkTnVtYmVyKCJHUk9TU19SRVZFTlVFIik7DQogIGNvbnN0IHJlZnVuZHMgPSByZWFkTnVtYmVyKCJSRUZVTkRTIik7DQogIGNvbnN0IG5ld0hvbGRlcnMgPSByZWFkTnVtYmVyKCJORVdfQ0hJRUZfSE9MREVSUyIpOw0KICBjb25zdCBhY3RpdmVIb2xkZXJzID0gcmVhZE51bWJlcigiQUNUSVZFX0NISUVGX0hPTERFUlMiKTsNCg0KICBjb25zdCBuZXRSZXZlbnVlID0gZ3Jvc3NSZXZlbnVlICE9PSBudWxsICYmIHJlZnVuZHMgIT09IG51bGwgPyBncm9zc1JldmVudWUgLSByZWZ1bmRzIDogbnVsbDsNCg0KICBjb25zdCBlbnRyeSA9IHsNCiAgICBkYXRlLA0KICAgIGlucHV0czogew0KICAgICAgdHJhZmZpYywNCiAgICAgIG5ld0xlYWRzLA0KICAgICAgY2hlY2tvdXRTdGFydHMsDQogICAgICBuZXdQYWlkVXNlcnMsDQogICAgICBncm9zc1JldmVudWUsDQogICAgICByZWZ1bmRzLA0KICAgICAgbmV0UmV2ZW51ZSwNCiAgICAgIG5ld0NISUVGSG9sZGVyczogbmV3SG9sZGVycywNCiAgICAgIGFjdGl2ZUNISUVGSG9sZGVyczogYWN0aXZlSG9sZGVycw0KICAgIH0sDQogICAgZnVubmVsTWV0cmljczogew0KICAgICAgbGFuZGluZ0NvbnZlcnNpb25QZXJjZW50OiB0cmFmZmljICE9PSBudWxsICYmIG5ld0xlYWRzICE9PSBudWxsID8gcGN0KG5ld0xlYWRzLCB0cmFmZmljKSA6IG51bGwsDQogICAgICBjaGVja291dENvbXBsZXRpb25QZXJjZW50OiBjaGVja291dFN0YXJ0cyAhPT0gbnVsbCAmJiBuZXdQYWlkVXNlcnMgIT09IG51bGwgPyBwY3QobmV3UGFpZFVzZXJzLCBjaGVja291dFN0YXJ0cykgOiBudWxsLA0KICAgICAgcmVmdW5kUmF0ZVBlcmNlbnQ6IGdyb3NzUmV2ZW51ZSAhPT0gbnVsbCAmJiByZWZ1bmRzICE9PSBudWxsID8gcGN0KHJlZnVuZHMsIGdyb3NzUmV2ZW51ZSkgOiBudWxsDQogICAgfSwNCiAgICB1dGlsaXR5TWV0cmljczogew0KICAgICAgd2Vla2x5UmVwb3J0T3BlbnM6IHJlYWROdW1iZXIoIldFRUtMWV9SRVBPUlRfT1BFTlMiKSwNCiAgICAgIG9mZmljZUhvdXJBdHRlbmRhbmNlOiByZWFkTnVtYmVyKCJPRkZJQ0VfSE9VUl9BVFRFTkRBTkNFIiksDQogICAgICB0ZW1wbGF0ZVVzYWdlOiByZWFkTnVtYmVyKCJURU1QTEFURV9UT09MX1VTQUdFIiksDQogICAgICBwYWlkVXNlcnNXaG9Ib2xkQ2hpZWZQZXJjZW50OiByZWFkTnVtYmVyKCJQQUlEX1VTRVJTX0hPTERfQ0hJRUZfUEVSQ0VOVCIpDQogICAgfSwNCiAgICBsaXF1aWRpdHlNZXRyaWNzOiB7DQogICAgICBwb29sVFZMOiByZWFkTnVtYmVyKCJQT09MX1RWTCIpLA0KICAgICAgc2xpcHBhZ2UxMGtCdXlQZXJjZW50OiByZWFkTnVtYmVyKCJTTElQUEFHRV8xMEtfQlVZX1BFUkNFTlQiKSwNCiAgICAgIHNsaXBwYWdlMTBrU2VsbFBlcmNlbnQ6IHJlYWROdW1iZXIoIlNMSVBQQUdFXzEwS19TRUxMX1BFUkNFTlQiKSwNCiAgICAgIHByb3RvY29sT3duZWRMaXF1aWRpdHlWYWx1ZTogcmVhZE51bWJlcigiUE9MX1ZBTFVFIikNCiAgICB9LA0KICAgIGRlY2lzaW9uTG9nOiB7DQogICAgICB3b3JrZWRUb2RheTogcHJvY2Vzcy5lbnYuV09SS0VEX1RPREFZIHx8IG51bGwsDQogICAgICBiaWdnZXN0Qm90dGxlbmVjazogcHJvY2Vzcy5lbnYuQklHR0VTVF9CT1RUTEVORUNLIHx8IG51bGwsDQogICAgICBmaXhUb21vcnJvdzogcHJvY2Vzcy5lbnYuT05FX0ZJWF9UT01PUlJPVyB8fCBudWxsLA0KICAgICAgZ3Jvd3RoQWN0aW9uVG9tb3Jyb3c6IHByb2Nlc3MuZW52Lk9ORV9HUk9XVEhfQUNUSU9OX1RPTU9SUk9XIHx8IG51bGwNCiAgICB9DQogIH07DQoNCiAgY29uc3Qgb3V0RGlyID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uIiwgImFydGlmYWN0cyIsICJzY29yZWJvYXJkIik7DQogIGZzLm1rZGlyU3luYyhvdXREaXIsIHsgcmVjdXJzaXZlOiB0cnVlIH0pOw0KICBjb25zdCBvdXRQYXRoID0gcGF0aC5qb2luKG91dERpciwgYGRhaWx5LXNjb3JlYm9hcmQtJHtkYXRlfS5qc29uYCk7DQoNCiAgZnMud3JpdGVGaWxlU3luYyhvdXRQYXRoLCBKU09OLnN0cmluZ2lmeShlbnRyeSwgbnVsbCwgMikpOw0KICBjb25zb2xlLmxvZygiRGFpbHkgc2NvcmVib2FyZCBlbnRyeSB3cml0dGVuOiIpOw0KICBjb25zb2xlLmxvZyhvdXRQYXRoKTsNCg0KICBpZiAoZW50cnkuZnVubmVsTWV0cmljcy5sYW5kaW5nQ29udmVyc2lvblBlcmNlbnQgIT09IG51bGwpIHsNCiAgICBjb25zb2xlLmxvZyhgTGFuZGluZyBjb252ZXJzaW9uOiAke2VudHJ5LmZ1bm5lbE1ldHJpY3MubGFuZGluZ0NvbnZlcnNpb25QZXJjZW50LnRvRml4ZWQoMil9JWApOw0KICB9DQogIGlmIChlbnRyeS5mdW5uZWxNZXRyaWNzLmNoZWNrb3V0Q29tcGxldGlvblBlcmNlbnQgIT09IG51bGwpIHsNCiAgICBjb25zb2xlLmxvZyhgQ2hlY2tvdXQgY29tcGxldGlvbjogJHtlbnRyeS5mdW5uZWxNZXRyaWNzLmNoZWNrb3V0Q29tcGxldGlvblBlcmNlbnQudG9GaXhlZCgyKX0lYCk7DQogIH0NCn0NCg0KbWFpbigpOw0K"}
+const fs = require("fs");
+const path = require("path");
+
+function isoDate() {
+  return new Date().toISOString().slice(0, 10);
+}
+
+function readNumber(name) {
+  const raw = process.env[name];
+  if (!raw || raw.trim() === "") {
+    return null;
+  }
+  const n = Number(raw);
+  return Number.isFinite(n) ? n : null;
+}
+
+function pct(numerator, denominator) {
+  if (!denominator || denominator <= 0) {
+    return null;
+  }
+  return (numerator / denominator) * 100;
+}
+
+function main() {
+  const date = process.env.DATE || isoDate();
+
+  const traffic = readNumber("TRAFFIC");
+  const newLeads = readNumber("NEW_LEADS");
+  const checkoutStarts = readNumber("CHECKOUT_STARTS");
+  const newPaidUsers = readNumber("NEW_PAID_USERS");
+  const grossRevenue = readNumber("GROSS_REVENUE");
+  const refunds = readNumber("REFUNDS");
+  const newHolders = readNumber("NEW_CHIEF_HOLDERS");
+  const activeHolders = readNumber("ACTIVE_CHIEF_HOLDERS");
+
+  const netRevenue = grossRevenue !== null && refunds !== null ? grossRevenue - refunds : null;
+
+  const entry = {
+    date,
+    inputs: {
+      traffic,
+      newLeads,
+      checkoutStarts,
+      newPaidUsers,
+      grossRevenue,
+      refunds,
+      netRevenue,
+      newCHIEFHolders: newHolders,
+      activeCHIEFHolders: activeHolders
+    },
+    funnelMetrics: {
+      landingConversionPercent: traffic !== null && newLeads !== null ? pct(newLeads, traffic) : null,
+      checkoutCompletionPercent: checkoutStarts !== null && newPaidUsers !== null ? pct(newPaidUsers, checkoutStarts) : null,
+      refundRatePercent: grossRevenue !== null && refunds !== null ? pct(refunds, grossRevenue) : null
+    },
+    utilityMetrics: {
+      weeklyReportOpens: readNumber("WEEKLY_REPORT_OPENS"),
+      officeHourAttendance: readNumber("OFFICE_HOUR_ATTENDANCE"),
+      templateUsage: readNumber("TEMPLATE_TOOL_USAGE"),
+      paidUsersWhoHoldChiefPercent: readNumber("PAID_USERS_HOLD_CHIEF_PERCENT")
+    },
+    liquidityMetrics: {
+      poolTVL: readNumber("POOL_TVL"),
+      slippage10kBuyPercent: readNumber("SLIPPAGE_10K_BUY_PERCENT"),
+      slippage10kSellPercent: readNumber("SLIPPAGE_10K_SELL_PERCENT"),
+      protocolOwnedLiquidityValue: readNumber("POL_VALUE")
+    },
+    decisionLog: {
+      workedToday: process.env.WORKED_TODAY || null,
+      biggestBottleneck: process.env.BIGGEST_BOTTLENECK || null,
+      fixTomorrow: process.env.ONE_FIX_TOMORROW || null,
+      growthActionTomorrow: process.env.ONE_GROWTH_ACTION_TOMORROW || null
+    }
+  };
+
+  const outDir = path.resolve(__dirname, "..", "artifacts", "scoreboard");
+  fs.mkdirSync(outDir, { recursive: true });
+  const outPath = path.join(outDir, `daily-scoreboard-${date}.json`);
+
+  fs.writeFileSync(outPath, JSON.stringify(entry, null, 2));
+  console.log("Daily scoreboard entry written:");
+  console.log(outPath);
+
+  if (entry.funnelMetrics.landingConversionPercent !== null) {
+    console.log(`Landing conversion: ${entry.funnelMetrics.landingConversionPercent.toFixed(2)}%`);
+  }
+  if (entry.funnelMetrics.checkoutCompletionPercent !== null) {
+    console.log(`Checkout completion: ${entry.funnelMetrics.checkoutCompletionPercent.toFixed(2)}%`);
+  }
+}
+
+main();

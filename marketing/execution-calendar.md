@@ -1,1 +1,320 @@
-{"data":"IyBJbnRlZ3JhdGVkIEd1bXJvYWQgKyBDSElFRiBUb2tlbiBQdXNoIENhbGVuZGFyDQoNCiMjIFdlZWsgMSAoSnVuZSA0LTEwLCAyMDI2KSDigJMgTGF1bmNoIEV2ZXJ5dGhpbmcNCg0KIyMjIE1vbmRheSwgSnVuZSA0DQoqKkd1bXJvYWQqKjogRGF5IDEg4oCTIEF1dGhvcml0eSBIb29rDQotIFBvc3Q6ICJNb3N0IGNyZWF0b3JzIHdhc3RlIG1vbnRocyB0ZXN0aW5nIHJhbmRvbSBBSSB3b3JrZmxvd3MiDQotIEZvcm1hdDogUmVlbA0KLSBMaW5rOiBHdW1yb2FkIGluIGJpbyArIHBpbm5lZCBjb21tZW50DQoNCioqQ0hJRUYqKjogRGF5IDEg4oCTIEludHJvZHVjdGlvbg0KLSBQb3N0OiAiQ0hJRUYgdG9rZW4gbGl2ZXMuIEhlcmUncyB3aHkgaXQgbWF0dGVycy4iDQotIEZvcm1hdDogUmVlbCB3aXRoIHBvb2wgbGlxdWlkaXR5IG92ZXJsYXkNCi0gTGluazogVW5pc3dhcCBzd2FwIGxpbmsgKyBEaXNjb3JkIGludml0ZQ0KDQoqKkJlaGluZCB0aGUgU2NlbmVzKio6DQotIEFjdGl2YXRlIEd1bXJvYWQgcHJvZHVjdCBwYWdlDQotIFR1cm4gb24gRGlzY29yZCAjYW5ub3VuY2VtZW50cw0KLSBQcmVwIGVtYWlsIHNlcXVlbmNlDQoNCi0tLQ0KDQojIyMgVHVlc2RheSwgSnVuZSA1DQoqKkd1bXJvYWQqKjogRGF5IDIg4oCTIFByb2JsZW0vU29sdXRpb24NCi0gUG9zdDogIllvdXIgY29udGVudCBzeXN0ZW0gaXMga2lsbGluZyB5b3VyIGdyb3d0aCINCi0gU2hvdzogQnJva2VuIHdvcmtmbG93IOKGkiBjb3JyZWN0IHdvcmtmbG93DQotIENUQTogTGluayBpbiBiaW8NCg0KKipDSElFRioqOiBEYXkgMiDigJMgRm91bmRlciBWaXNpb24NCi0gUG9zdDogQ2Fyb3VzZWwgKDUgc2xpZGVzKSDigJMgIldoeSBJIGxhdW5jaGVkIENISUVGIg0KLSBJbmNsdWRlOiBSb2FkbWFwLCBwb29sIGRlcHRoLCBDVEEgdG8gYnV5DQotIEVuZ2FnZW1lbnQ6IFBvbGwgaW4gY2FwdGlvbg0KDQoqKkVtYWlsKio6IFNlbmQgdG8gZXhpc3RpbmcgbGlzdA0KLSBTdWJqZWN0OiAiTmV3IGNvdXJzZSArIHRva2VuIGJvdGggbGl2ZSB0b2RheSINCi0gTGluayBib3RoIG9mZmVycw0KLSBQZXJzb25hbCB0b3VjaA0KDQotLS0NCg0KIyMjIFdlZG5lc2RheSwgSnVuZSA2DQoqKkd1bXJvYWQqKjogRGF5IDMg4oCTIFNvY2lhbCBQcm9vZg0KLSBQb3N0OiBCZWZvcmUvYWZ0ZXIgcmVzdWx0cyBmcm9tIHBhc3Qgc3R1ZGVudHMNCi0gRm9ybWF0OiBDYXJvdXNlbCBvciBSZWVsDQotIENUQTogIkRvb3JzIG9wZW4gdG9tb3Jyb3ciDQoNCioqQ0hJRUYqKjogUGF1c2UgKG1pZC13ZWVrIGFuYWx5c2lzKQ0KLSBSZXZpZXcgTW9uZGF5L1R1ZXNkYXkgcGVyZm9ybWFuY2UNCi0gQWRqdXN0IG1lc3NhZ2luZyBpZiBuZWVkZWQNCi0gUHJlcGFyZSBhZCBzcGVuZCB0ZXN0ICgkMTAwL2RheSkNCg0KKipUcmFja2luZyoqOg0KLSBHdW1yb2FkOiBUcmFmZmljLCBlbnJvbGxtZW50cw0KLSBDSElFRjogVW5pc3dhcCBzd2FwcywgaG9sZGVyIGNvdW50DQotIEVtYWlsOiBPcGVuL2NsaWNrIHJhdGVzDQoNCi0tLQ0KDQojIyMgVGh1cnNkYXksIEp1bmUgNw0KKipHdW1yb2FkKio6IERheSA0IOKAkyBTb2Z0IExhdW5jaCAoU3RhcnRlciBGb2N1cykNCi0gUG9zdDogIkZvciBiZWdpbm5lcnMgd2l0aCB6ZXJvIGF1ZGllbmNlIg0KLSBQcmljZTogJDQwDQotIEZvcm1hdDogUmVlbCArIGNhcm91c2VsDQotIENUQTogU3Ryb25nIGNhbGwtdG8tYWN0aW9uLCBsaW5rIGluIGJpbw0KDQoqKkNISUVGKio6IERheSAzIOKAkyBDaGFydCBNb21lbnR1bQ0KLSBQb3N0OiBMaXZlIHByaWNlL3ZvbHVtZSBkYXRhDQotIEFuZ2xlOiAiQ0hJRUYgMjRoIHZvbHVtZSB1cCA0MCUiDQotIEZvcm1hdDogUmVlbCB3aXRoIG92ZXJsYXkNCi0gQ1RBOiAiU3dhcC4gRFlPUi4iDQoNCioqUGFpZCBDYW1wYWlnbioqOiBTdGFydCBJbnN0YWdyYW0gYWRzDQotIEJ1ZGdldDogJDEwMC9kYXkNCi0gVGFyZ2V0OiBDcnlwdG8gdHJhZGVycyArIGVudHJlcHJlbmV1cnMNCi0gQ3JlYXRpdmU6IENoYXJ0ICsgZm91bmRlciB2aXNpb24NCi0gTGFuZGluZzogVW5pc3dhcCBsaW5rDQoNCi0tLQ0KDQojIyMgRnJpZGF5LCBKdW5lIDgNCioqR3Vtcm9hZCoqOiBEYXkgNSDigJMgVGllciBDb21wYXJpc29uDQotIFBvc3Q6IFNpZGUtYnktc2lkZSBicmVha2Rvd24gKFN0YXJ0ZXIgdnMuIEdyb3d0aCB2cy4gUHJvKQ0KLSBNZXNzYWdlOiAiR3Jvd3RoIGdpdmVzIHlvdSBzcGVlZC4gTW9zdCBwaWNrIHRoaXMuIg0KLSBGb3JtYXQ6IENhcm91c2VsIChkZXRhaWxlZCkNCi0gQ1RBOiAiRW5yb2xsIG5vdyINCg0KKipDSElFRioqOiBEYXkgNCDigJMgSG9sZGVyIEJlbmVmaXQNCi0gUG9zdDogU3BsaXQtc2NyZWVuIChob2xkZXIgdnMuIG5vbi1ob2xkZXIpDQotIE1lc3NhZ2U6ICJIb2xkaW5nIENISUVGIGdpdmVzIHlvdSB3ZWVrbHkgZHJvcHMgKyBVdGlsaXR5IFBhc3MgYWNjZXNzIg0KLSBGb3JtYXQ6IFJlZWwNCi0gQ1RBOiAiSm9pbiB0aGUgYnVpbGRlciBuZXR3b3JrIg0KDQoqKkVtYWlsKio6IEd1bXJvYWQgRGF5ICsxIGZvbGxvdy11cA0KLSBTZW5kIHRvIHdhcm0gbGVhZHMNCi0gU3ViamVjdDogIldoeSB5b3UgbmVlZCB0aGlzIGNvdXJzZSINCi0gTGluazogR3Vtcm9hZCArIENISUVGIHRva2VuDQoNCi0tLQ0KDQojIyMgU2F0dXJkYXksIEp1bmUgOQ0KKipHdW1yb2FkKio6IERheSA2IOKAkyBPYmplY3Rpb24gQ3J1c2hlcg0KLSBQb3N0OiAiQnV0IEkgaGF2ZSBubyBhdWRpZW5jZSB5ZXQuLi4iDQotIEFuc3dlciB3aXRoIHByb29mOiAiMzAwKyBwZW9wbGUgc3RhcnRlZCB3aXRoIDAiDQotIEZvcm1hdDogUmVlbCArIHRlc3RpbW9uaWFsDQotIENUQTogIlN0YXJ0IGhlcmUiDQoNCioqQ0hJRUYqKjogRGF5IDUg4oCTIExpcXVpZGl0eSBEZWVwIERpdmUNCi0gUG9zdDogRXhwbGFpbmVyIG9uIFVuaXN3YXAgVjMgKHRlY2huaWNhbCkNCi0gU2hvdzogUG9vbCBkZXB0aCwgY29udHJhY3QgYWRkcmVzcywgdmVyaWZpZWQgc3RhdHVzDQotIEZvcm1hdDogQW5pbWF0ZWQgcmVlbCBvciBjYXJvdXNlbA0KLSBDVEE6ICJTd2FwIGFueSBhbW91bnQiDQoNCioqRGlzY29yZCoqOiBMYXVuY2ggdHJhZGluZyBjb250ZXN0DQotIENoYWxsZW5nZTogIk1vc3Qgdm9sdW1lIHRoaXMgd2VlayB3aW5zIDUwMCBDSElFRiINCi0gRHVyYXRpb246IFN1bi1TYXQNCi0gV2lubmVyIGFubm91bmNlZCBNb25kYXkNCg0KLS0tDQoNCiMjIyBTdW5kYXksIEp1bmUgMTANCioqR3Vtcm9hZCoqOiBEYXkgNyDigJMgVXJnZW5jeSBDbG9zZQ0KLSBQb3N0OiAiNDgtaG91ciBwcmljaW5nIGVuZHMuIEFmdGVyIHRoYXQsICskMzAiDQotIERpcmVjdCBwaXRjaDogIklmIHlvdSB3YW50IGEgcmVhbCBzeXN0ZW0sIHRoaXMgaXMgaXQiDQotIEZvcm1hdDogUmVlbCArIHBpbm5lZCBwb3N0ICsgU3Rvcmllcw0KLSBDVEE6ICJFbnJvbGwgdmlhIGxpbmsgaW4gYmlvIg0KDQoqKkNISUVGKio6IERheSA2IOKAkyBDb21tdW5pdHkgUHJvb2YNCi0gUG9zdDogUmVlbHMgZnJvbSBjb21tdW5pdHkgbWVtYmVycyB3aG8gYm91Z2h0DQotIEZvcm1hdDogSGlnaGxpZ2h0IHJlZWwgLyBjb21waWxhdGlvbg0KLSBNZXNzYWdlOiAiUmVhbCBwZW9wbGUgYnV5aW5nIENISUVGIg0KLSBFbmdhZ2VtZW50OiBSZXBvc3QgKyB0YWcgaG9sZGVycw0KDQoqKkFuYWx5dGljcyoqOiBXZWVrbHkgd3JhcA0KLSBHdW1yb2FkOiBFbnJvbGxtZW50cyBicmVha2Rvd24gYnkgdGllcg0KLSBDSElFRjogVm9sdW1lLCBob2xkZXIgY291bnQsIGxpcXVpZGl0eQ0KLSBFbWFpbDogT3Blbi9jbGljayByYXRlcw0KLSBBZCBzcGVuZDogQ1BBLCBST0FTDQoNCi0tLQ0KDQojIyBXZWVrIDIgKEp1bmUgMTEtMTcpIOKAkyBOdXJ0dXJlICsgU2NhbGUNCg0KIyMjIE1vbmRheSwgSnVuZSAxMQ0KKipHdW1yb2FkKio6IFBvc3QtUHVyY2hhc2UgRW1haWwgU2VxdWVuY2UgQmVnaW5zDQotIEVtYWlsIDEgKGluc3RhbnQpOiBXZWxjb21lICsgZmlyc3QgbGVzc29uIHZpZGVvDQotIEVtYWlsIDIgKERheSArMSk6IFF1aWNrIHdpbiBjaGFsbGVuZ2UgKDIwLW1pbiB0YXNrKQ0KDQoqKkNISUVGKio6IERheSA3IOKAkyBQcmljZSBBY3Rpb24gKyBVcmdlbmN5DQotIFBvc3Q6ICJDSElFRiB1cCA4MCUgZnJvbSBsYXVuY2guIFN0aWxsIGVhcmx5LiINCi0gRm9ybWF0OiBSZWVsICsgcGlubmVkIHBvc3QNCi0gQ1RBOiAiTGFzdCBjaGFuY2UgYmVmb3JlIHN1bW1pdCINCg0KKipQYWlkKio6IFNjYWxlIGRlY2lzaW9uIHBvaW50DQotIElmIENQQSA8ICQxNTogSW5jcmVhc2UgYnVkZ2V0IHRvICQyNTAvZGF5DQotIElmIENQQSA+ICQ1MDogUGl2b3QgbWVzc2FnaW5nIG9yIHBhdXNlDQotIFRlc3QgbmV3IGNyZWF0aXZlICh0ZXN0aW1vbmlhbCBhbmdsZSkNCg0KLS0tDQoNCiMjIyBUdWVzZGF5LVRodXJzZGF5LCBKdW5lIDExLTEzDQoqKkd1bXJvYWQqKjogRWFybHkgQ291cnNlIERlbGl2ZXJ5DQotIFJlbGVhc2UgV2VlayAxIG1vZHVsZXMNCi0gTW9uaXRvciBlbmdhZ2VtZW50ICsgY29tcGxldGlvbg0KLSBSZXNwb25kIHRvIGVhcmx5IHF1ZXN0aW9ucyBpbiBjb21tdW5pdHkNCg0KKipDSElFRioqOiBNaWQtd2VlayBwaXZvdA0KLSBSZXZpZXcgdmlyYWwgcGVyZm9ybWFuY2UNCi0gQm9vc3QgdG9wIDIgcGVyZm9ybWluZyBwb3N0cw0KLSBBZGQgbmV3IGFuZ2xlOiAiSG93IHRyYWRlcnMgdXNlIENISUVGIg0KDQoqKkNvb3JkaW5hdGlvbioqOiBJbnRybyBVdGlsaXR5IFBhc3MNCi0gRW1haWwgdG8gY291cnNlIGJ1eWVyczogRGF5ICszDQotIFN1YmplY3Q6ICJZb3VyIHN0dWRlbnRzIG5lZWQgQ0hJRUYgVXRpbGl0eSBQYXNzIg0KLSBPZmZlcjogTGF1bmNoIHByaWNpbmcgJDI5L21vbnRoICgxNC1kYXkgd2luZG93KQ0KLSBBbmdsZTogSW50ZWdyYXRpb24gd2l0aCBjb3Vyc2UgbGVhcm5pbmcNCg0KLS0tDQoNCiMjIyBGcmlkYXksIEp1bmUgMTQNCioqR3Vtcm9hZCoqOiBFbWFpbCBEYXkgKzMg4oCTIENISUVGIFV0aWxpdHkgUGFzcyBVcHNlbGwNCi0gU3ViamVjdDogIllvdXIgc3R1ZGVudHMgbmVlZCB0aGlzLi4uIg0KLSBCb2R5OiBIb3cgVXRpbGl0eSBQYXNzIGludGVncmF0ZXMNCi0gQ1RBOiBVdGlsaXR5IFBhc3MgbGluaw0KLSBFeHBlY3RlZCBjb252ZXJzaW9uOiAyMCUgb2YgR3Vtcm9hZCBidXllcnMNCg0KKipDSElFRioqOiBWb2x1bWUgY2hlY2twb2ludA0KLSBUYXJnZXQ6ICQxNTBrIGRhaWx5IHZvbHVtZQ0KLSBJZiBoaXQ6IEFubm91bmNlIG5leHQgcGhhc2UgKGV4Y2hhbmdlIGxpc3RpbmdzIC8gcGFydG5lcnNoaXBzKQ0KLSBJZiBtaXNzOiBMYXVuY2ggcmVmZXJyYWwgYm9udXMgY29udGVzdA0KDQoqKkRpc2NvcmQqKjogV2Vla2x5IHJld2FyZCBjZXJlbW9ueQ0KLSBBbm5vdW5jZSB0cmFkaW5nIGNvbnRlc3Qgd2lubmVyDQotIERpc3RyaWJ1dGUgNTAwIENISUVGICsgcmVjb2duaXRpb24NCi0gSHlwZSBuZXh0IHdlZWsncyBjb250ZXN0DQoNCi0tLQ0KDQojIyMgV2Vla2VuZCwgSnVuZSAxNS0xNg0KKipHdW1yb2FkKio6IEFuYWx5emUgV2VlayAxIFJlc3VsdHMNCi0gVG90YWwgZW5yb2xsbWVudHMgYnkgdGllcg0KLSBFbWFpbCBvcGVuL2NsaWNrIHJhdGVzDQotIFJlZnVuZCByYXRlIChjaHVybiBjaGVjaykNCi0gVG9wIG9iamVjdGlvbnMgZnJvbSBETXMNCg0KKipDSElFRioqOiBTdXN0YWluYWJpbGl0eSBjaGVjaw0KLSBIb2xkZXIgcmV0ZW50aW9uICglIHN0aWxsIGhvbGRpbmcpDQotIE5ldyBkYWlseSB0cmFkZXJzDQotIENvbW11bml0eSBncm93dGgNCi0gUHJlcGFyZSBzY2FsaW5nIHBsYW4NCg0KLS0tDQoNCiMjIyBTdW5kYXktTW9uZGF5LCBKdW5lIDE3LTE4DQoqKlBsYW5uaW5nIFNlc3Npb24qKjoNCi0gS2VlcCBjcmVhdGl2ZXMgdGhhdCBnb3QgPjMlIENUUg0KLSBLaWxsIHVuZGVycGVyZm9ybWVycyBpbW1lZGlhdGVseQ0KLSBEb3VibGUgZG93biBvbiAiaG9sZGVyIGJlbmVmaXQiIGFuZ2xlIChzdHJvbmdlc3QpDQotIFBsYW4gV2VlayAzIGV4cGFuc2lvbiAocGFpZCBhZHMgKyBwYXJ0bmVyc2hpcHMpDQoNCioqTmV3IEluaXRpYXRpdmVzKio6DQoxLiBHdW1yb2FkIHJlZmVycmFsIHByb2dyYW0gKGxhdW5jaCBEYXkgMTApDQoyLiBDSElFRiBhZmZpbGlhdGUgcHJvZ3JhbSAoMzAlIGNvbW1pc3Npb24pDQozLiBXZWVrbHkgVHdpdHRlciBTcGFjZXMgKGNvLWhvc3RlZCB3aXRoIHBhcnRuZXJzKQ0KDQotLS0NCg0KIyMgV2VlayAzLTQgKEp1bmUgMTgtSnVseSAxKSDigJMgU2NhbGUgKyBNb25ldGl6ZQ0KDQojIyMgR29hbHMNCi0gR3Vtcm9hZDogMjAwKyB0b3RhbCBlbnJvbGxtZW50cywgJDE1aysgcmV2ZW51ZQ0KLSBDSElFRjogJDUwMGsgZGFpbHkgdm9sdW1lLCA0LDAwMCsgaG9sZGVycywgJDRNKyBsaXF1aWRpdHkNCg0KIyMjIFRhY3RpY3MNCjEuICoqUGFpZCBzcGVuZCoqOiAkNTAwL2RheSAoYm90aCBHdW1yb2FkICsgQ0hJRUYpDQoyLiAqKlBhcnRuZXJzaGlwcyoqOiAzLTUgbWljcm8taW5mbHVlbmNlciBjb2xsYWJzDQozLiAqKkNvbnRlbnQqKjogRGFpbHkgcG9zdHMgKEluc3RhZ3JhbSArIFR3aXR0ZXIgKyBUaWtUb2spDQo0LiAqKkNvbW11bml0eSoqOiBEaXNjb3JkIGV2ZW50cyAoQU1BcywgdHJhZGluZyBjb250ZXN0cywgZ2l2ZWF3YXlzKQ0KNS4gKipQUioqOiBSZWFjaCBvdXQgdG8gY3J5cHRvIG1lZGlhIChCYW5rbGVzcywgVGhlIEJsb2NrKQ0KDQojIyMgQ29udmVyc2lvbiBNdWx0aXBsaWVycw0KLSBFbWFpbCBsaXN0OiAyLDAwMCsgKGZyb20gR3Vtcm9hZCArIENISUVGKQ0KLSBEaXNjb3JkOiAzLDAwMCsgYWN0aXZlIG1lbWJlcnMNCi0gVHdpdHRlciBmb2xsb3dlcnM6IDEwLDAwMCsgKHRhcmdldCkNCi0gVXRpbGl0eSBQYXNzOiA1MDArIG1lbWJlcnMgKCQxNCw1MDArIE1SUikNCg0KLS0tDQoNCiMjIFJlcG9ydGluZyBDYWRlbmNlDQoNCioqRGFpbHkqKiAoNSBtaW4gY2hlY2staW4pOg0KLSBJbnN0YWdyYW0gZW5nYWdlbWVudCAobGlrZXMsIGNvbW1lbnRzLCBzYXZlcywgc2hhcmVzKQ0KLSBVbmlzd2FwIHZvbHVtZSArIHByaWNlDQotIEVtYWlsIGxpc3QgZ3Jvd3RoDQotIERpc2NvcmQgbmV3IG1lbWJlcnMNCg0KKipXZWVrbHkqKiAoRnJpZGF5KToNCi0gR3Vtcm9hZCBlbnJvbGxtZW50cyAoYnkgdGllciArIExUVikNCi0gQ0hJRUYgaG9sZGVyIGNvdW50ICsgcmV0ZW50aW9uDQotIFBhaWQgYWQgUk9BUw0KLSBFbWFpbCBtZXRyaWNzIChvcGVuLCBjbGljaywgY29udmVyc2lvbikNCi0gUmV2ZW51ZSBzdW1tYXJ5DQoNCioqTW9udGhseSoqIChmaXJzdCBNb25kYXkpOg0KLSBDb21wcmVoZW5zaXZlIGZ1bm5lbCBhbmFseXNpcw0KLSBQcm9maXRhYmlsaXR5IChyZXZlbnVlIC0gYWQgc3BlbmQgLSBjb3N0cykNCi0gSG9sZG91dCBzdHJhdGVneSAoaWYgbmVlZGVkKQ0KLSBOZXh0IG1vbnRoIHBsYW4gKyBidWRnZXQNCg0KLS0tDQoNCiMjIEJ1ZGdldCBTdW1tYXJ5DQoNCiMjIyBXZWVrIDENCi0gUGFpZCBhZHM6ICQxMDAgKENISUVGIHRlc3QpDQotIERpc2NvcmQgYm90L3Rvb2xzOiAkNTANCi0gRW1haWwgc2VydmljZTogJDUwDQotICoqVG90YWwqKjogJDIwMCAoYnJlYWstZXZlbiBleHBlY3RlZCkNCg0KIyMjIFdlZWsgMi0zDQotIFBhaWQgYWRzOiAkMjUwLTUwMC9kYXkgKCQxLjc1ay0kMy41aykNCi0gQ29udGVudCBjcmVhdGlvbjogJDUwMA0KLSBUb29scy9zZXJ2aWNlczogJDIwMA0KLSAqKlRvdGFsKio6ICQyLjVrLSQ0LjVrDQoNCiMjIyBCcmVha2V2ZW4gUG9pbnQNCi0gR3Vtcm9hZCBhdCAkNzIgQVZHOiBOZWVkIDM1IGVucm9sbG1lbnRzDQotIENISUVGIHZvbHVtZTogT3JnYW5pYyAobm8gZGlyZWN0IGNvc3QpDQotIFV0aWxpdHkgUGFzczogMjAlIG9mIGJ1eWVycyA9IDcgc2lnbnVwcyB4ICQyOSA9ICQyMDMNCi0gKipQYXliYWNrKio6IFdlZWsgMS0yDQoNCiMjIyBST0kgVGFyZ2V0DQotICQxMDAgc3BlbmQg4oaSICQyMDAgcmV2ZW51ZSA9IDJ4IFJPQVMgKFdlZWsgMSkNCi0gJDIuNWsgc3BlbmQg4oaSICQxMGsgcmV2ZW51ZSA9IDR4IFJPQVMgKFdlZWsgMi0zKQ0KLSAkNWsgc3BlbmQg4oaSICQyNWsgcmV2ZW51ZSA9IDV4IFJPQVMgKE1vbnRoIDEpDQoNCi0tLQ0KDQojIyBTdWNjZXNzIENoZWNrbGlzdA0KDQojIyMgQnkgRW5kIG9mIFdlZWsgMQ0KLSBbIF0gR3Vtcm9hZDogNTArIGVucm9sbG1lbnRzDQotIFsgXSBDSElFRjogJDUwaysgZGFpbHkgdm9sdW1lDQotIFsgXSBFbWFpbCBsaXN0OiAyMDArIHN1YnNjcmliZXJzDQotIFsgXSBEaXNjb3JkOiA1MDArIG1lbWJlcnMNCi0gWyBdIFBhaWQgYWRzOiBDUEEgPCAkNTANCg0KIyMjIEJ5IEVuZCBvZiBXZWVrIDINCi0gWyBdIEd1bXJvYWQ6IDEyMCsgZW5yb2xsbWVudHMgKGN1bXVsYXRpdmUpDQotIFsgXSBDSElFRjogJDE1MGsrIGRhaWx5IHZvbHVtZQ0KLSBbIF0gVXRpbGl0eSBQYXNzOiAyMCsgY29udmVyc2lvbnMNCi0gWyBdIEVtYWlsIGxpc3Q6IDUwMCsgc3Vic2NyaWJlcnMNCi0gWyBdIERpc2NvcmQ6IDEsNTAwKyBtZW1iZXJzDQoNCiMjIyBCeSBFbmQgb2YgTW9udGgNCi0gWyBdIEd1bXJvYWQ6IDIwMCsgZW5yb2xsbWVudHMsICQxNWsrIHJldmVudWUNCi0gWyBdIENISUVGOiAkNTAwaysgZGFpbHkgdm9sdW1lLCA0LDAwMCsgaG9sZGVycw0KLSBbIF0gVXRpbGl0eSBQYXNzOiAxMDArIHBhaWQgbWVtYmVycyAoJDIsOTAwKyBNUlIpDQotIFsgXSBFbWFpbCBsaXN0OiAyLDAwMCsgc3Vic2NyaWJlcnMNCi0gWyBdIERpc2NvcmQ6IDMsMDAwKyBtZW1iZXJzDQoNCg=="}
+# Integrated Gumroad + CHIEF Token Push Calendar
+
+## Week 1 (June 4-10, 2026) – Launch Everything
+
+### Monday, June 4
+**Gumroad**: Day 1 – Authority Hook
+- Post: "Most creators waste months testing random AI workflows"
+- Format: Reel
+- Link: Gumroad in bio + pinned comment
+
+**CHIEF**: Day 1 – Introduction
+- Post: "CHIEF token lives. Here's why it matters."
+- Format: Reel with pool liquidity overlay
+- Link: Uniswap swap link + Discord invite
+
+**Behind the Scenes**:
+- Activate Gumroad product page
+- Turn on Discord #announcements
+- Prep email sequence
+
+---
+
+### Tuesday, June 5
+**Gumroad**: Day 2 – Problem/Solution
+- Post: "Your content system is killing your growth"
+- Show: Broken workflow → correct workflow
+- CTA: Link in bio
+
+**CHIEF**: Day 2 – Founder Vision
+- Post: Carousel (5 slides) – "Why I launched CHIEF"
+- Include: Roadmap, pool depth, CTA to buy
+- Engagement: Poll in caption
+
+**Email**: Send to existing list
+- Subject: "New course + token both live today"
+- Link both offers
+- Personal touch
+
+---
+
+### Wednesday, June 6
+**Gumroad**: Day 3 – Social Proof
+- Post: Before/after results from past students
+- Format: Carousel or Reel
+- CTA: "Doors open tomorrow"
+
+**CHIEF**: Pause (mid-week analysis)
+- Review Monday/Tuesday performance
+- Adjust messaging if needed
+- Prepare ad spend test ($100/day)
+
+**Tracking**:
+- Gumroad: Traffic, enrollments
+- CHIEF: Uniswap swaps, holder count
+- Email: Open/click rates
+
+---
+
+### Thursday, June 7
+**Gumroad**: Day 4 – Soft Launch (Starter Focus)
+- Post: "For beginners with zero audience"
+- Price: $40
+- Format: Reel + carousel
+- CTA: Strong call-to-action, link in bio
+
+**CHIEF**: Day 3 – Chart Momentum
+- Post: Live price/volume data
+- Angle: "CHIEF 24h volume up 40%"
+- Format: Reel with overlay
+- CTA: "Swap. DYOR."
+
+**Paid Campaign**: Start Instagram ads
+- Budget: $100/day
+- Target: Crypto traders + entrepreneurs
+- Creative: Chart + founder vision
+- Landing: Uniswap link
+
+---
+
+### Friday, June 8
+**Gumroad**: Day 5 – Tier Comparison
+- Post: Side-by-side breakdown (Starter vs. Growth vs. Pro)
+- Message: "Growth gives you speed. Most pick this."
+- Format: Carousel (detailed)
+- CTA: "Enroll now"
+
+**CHIEF**: Day 4 – Holder Benefit
+- Post: Split-screen (holder vs. non-holder)
+- Message: "Holding CHIEF gives you weekly drops + Utility Pass access"
+- Format: Reel
+- CTA: "Join the builder network"
+
+**Email**: Gumroad Day +1 follow-up
+- Send to warm leads
+- Subject: "Why you need this course"
+- Link: Gumroad + CHIEF token
+
+---
+
+### Saturday, June 9
+**Gumroad**: Day 6 – Objection Crusher
+- Post: "But I have no audience yet..."
+- Answer with proof: "300+ people started with 0"
+- Format: Reel + testimonial
+- CTA: "Start here"
+
+**CHIEF**: Day 5 – Liquidity Deep Dive
+- Post: Explainer on Uniswap V3 (technical)
+- Show: Pool depth, contract address, verified status
+- Format: Animated reel or carousel
+- CTA: "Swap any amount"
+
+**Discord**: Launch trading contest
+- Challenge: "Most volume this week wins 500 CHIEF"
+- Duration: Sun-Sat
+- Winner announced Monday
+
+---
+
+### Sunday, June 10
+**Gumroad**: Day 7 – Urgency Close
+- Post: "48-hour pricing ends. After that, +$30"
+- Direct pitch: "If you want a real system, this is it"
+- Format: Reel + pinned post + Stories
+- CTA: "Enroll via link in bio"
+
+**CHIEF**: Day 6 – Community Proof
+- Post: Reels from community members who bought
+- Format: Highlight reel / compilation
+- Message: "Real people buying CHIEF"
+- Engagement: Repost + tag holders
+
+**Analytics**: Weekly wrap
+- Gumroad: Enrollments breakdown by tier
+- CHIEF: Volume, holder count, liquidity
+- Email: Open/click rates
+- Ad spend: CPA, ROAS
+
+---
+
+## Week 2 (June 11-17) – Nurture + Scale
+
+### Monday, June 11
+**Gumroad**: Post-Purchase Email Sequence Begins
+- Email 1 (instant): Welcome + first lesson video
+- Email 2 (Day +1): Quick win challenge (20-min task)
+
+**CHIEF**: Day 7 – Price Action + Urgency
+- Post: "CHIEF up 80% from launch. Still early."
+- Format: Reel + pinned post
+- CTA: "Last chance before summit"
+
+**Paid**: Scale decision point
+- If CPA < $15: Increase budget to $250/day
+- If CPA > $50: Pivot messaging or pause
+- Test new creative (testimonial angle)
+
+---
+
+### Tuesday-Thursday, June 11-13
+**Gumroad**: Early Course Delivery
+- Release Week 1 modules
+- Monitor engagement + completion
+- Respond to early questions in community
+
+**CHIEF**: Mid-week pivot
+- Review viral performance
+- Boost top 2 performing posts
+- Add new angle: "How traders use CHIEF"
+
+**Coordination**: Intro Utility Pass
+- Email to course buyers: Day +3
+- Subject: "Your students need CHIEF Utility Pass"
+- Offer: Launch pricing $29/month (14-day window)
+- Angle: Integration with course learning
+
+---
+
+### Friday, June 14
+**Gumroad**: Email Day +3 – CHIEF Utility Pass Upsell
+- Subject: "Your students need this..."
+- Body: How Utility Pass integrates
+- CTA: Utility Pass link
+- Expected conversion: 20% of Gumroad buyers
+
+**CHIEF**: Volume checkpoint
+- Target: $150k daily volume
+- If hit: Announce next phase (exchange listings / partnerships)
+- If miss: Launch referral bonus contest
+
+**Discord**: Weekly reward ceremony
+- Announce trading contest winner
+- Distribute 500 CHIEF + recognition
+- Hype next week's contest
+
+---
+
+### Weekend, June 15-16
+**Gumroad**: Analyze Week 1 Results
+- Total enrollments by tier
+- Email open/click rates
+- Refund rate (churn check)
+- Top objections from DMs
+
+**CHIEF**: Sustainability check
+- Holder retention (% still holding)
+- New daily traders
+- Community growth
+- Prepare scaling plan
+
+---
+
+### Sunday-Monday, June 17-18
+**Planning Session**:
+- Keep creatives that got >3% CTR
+- Kill underperformers immediately
+- Double down on "holder benefit" angle (strongest)
+- Plan Week 3 expansion (paid ads + partnerships)
+
+**New Initiatives**:
+1. Gumroad referral program (launch Day 10)
+2. CHIEF affiliate program (30% commission)
+3. Weekly Twitter Spaces (co-hosted with partners)
+
+---
+
+## Week 3-4 (June 18-July 1) – Scale + Monetize
+
+### Goals
+- Gumroad: 200+ total enrollments, $15k+ revenue
+- CHIEF: $500k daily volume, 4,000+ holders, $4M+ liquidity
+
+### Tactics
+1. **Paid spend**: $500/day (both Gumroad + CHIEF)
+2. **Partnerships**: 3-5 micro-influencer collabs
+3. **Content**: Daily posts (Instagram + Twitter + TikTok)
+4. **Community**: Discord events (AMAs, trading contests, giveaways)
+5. **PR**: Reach out to crypto media (Bankless, The Block)
+
+### Conversion Multipliers
+- Email list: 2,000+ (from Gumroad + CHIEF)
+- Discord: 3,000+ active members
+- Twitter followers: 10,000+ (target)
+- Utility Pass: 500+ members ($14,500+ MRR)
+
+---
+
+## Reporting Cadence
+
+**Daily** (5 min check-in):
+- Instagram engagement (likes, comments, saves, shares)
+- Uniswap volume + price
+- Email list growth
+- Discord new members
+
+**Weekly** (Friday):
+- Gumroad enrollments (by tier + LTV)
+- CHIEF holder count + retention
+- Paid ad ROAS
+- Email metrics (open, click, conversion)
+- Revenue summary
+
+**Monthly** (first Monday):
+- Comprehensive funnel analysis
+- Profitability (revenue - ad spend - costs)
+- Holdout strategy (if needed)
+- Next month plan + budget
+
+---
+
+## Budget Summary
+
+### Week 1
+- Paid ads: $100 (CHIEF test)
+- Discord bot/tools: $50
+- Email service: $50
+- **Total**: $200 (break-even expected)
+
+### Week 2-3
+- Paid ads: $250-500/day ($1.75k-$3.5k)
+- Content creation: $500
+- Tools/services: $200
+- **Total**: $2.5k-$4.5k
+
+### Breakeven Point
+- Gumroad at $72 AVG: Need 35 enrollments
+- CHIEF volume: Organic (no direct cost)
+- Utility Pass: 20% of buyers = 7 signups x $29 = $203
+- **Payback**: Week 1-2
+
+### ROI Target
+- $100 spend → $200 revenue = 2x ROAS (Week 1)
+- $2.5k spend → $10k revenue = 4x ROAS (Week 2-3)
+- $5k spend → $25k revenue = 5x ROAS (Month 1)
+
+---
+
+## Success Checklist
+
+### By End of Week 1
+- [ ] Gumroad: 50+ enrollments
+- [ ] CHIEF: $50k+ daily volume
+- [ ] Email list: 200+ subscribers
+- [ ] Discord: 500+ members
+- [ ] Paid ads: CPA < $50
+
+### By End of Week 2
+- [ ] Gumroad: 120+ enrollments (cumulative)
+- [ ] CHIEF: $150k+ daily volume
+- [ ] Utility Pass: 20+ conversions
+- [ ] Email list: 500+ subscribers
+- [ ] Discord: 1,500+ members
+
+### By End of Month
+- [ ] Gumroad: 200+ enrollments, $15k+ revenue
+- [ ] CHIEF: $500k+ daily volume, 4,000+ holders
+- [ ] Utility Pass: 100+ paid members ($2,900+ MRR)
+- [ ] Email list: 2,000+ subscribers
+- [ ] Discord: 3,000+ members
+

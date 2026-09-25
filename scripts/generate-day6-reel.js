@@ -1,1 +1,162 @@
-{"data":"DQovLyBDb21wbGV0ZSBpbXBsZW1lbnRhdGlvbiBmb3IgRGF5IDYgTVA0IHJlZWwgYXV0b21hdGlvbg0KY29uc3QgZmZtcGVnID0gcmVxdWlyZSgnZmx1ZW50LWZmbXBlZycpOw0KY29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsNCmNvbnN0IG9zID0gcmVxdWlyZSgnb3MnKTsNCmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsNCg0KLy8gVXBkYXRlIHRoZXNlIHBhdGhzIHRvIHlvdXIgYWN0dWFsIGFzc2V0cw0KDQovLyBUbyBhdXRvbWF0ZSBmb3IgRGF5IDcsIGR1cGxpY2F0ZSB0aGlzIGJsb2NrIGFuZCBhZGp1c3QgdGhlIGNvbnRlbnQvcGF0aHMgYXMgbmVlZGVkLg0KY29uc3QgZGF5ID0gcHJvY2Vzcy5hcmd2WzJdIHx8ICc2JzsNCmxldCBhc3NldHMsIGJhY2tncm91bmRNdXNpYywgT1VUUFVUX1BBVEg7DQppZiAoZGF5ID09PSAnNycpIHsNCiAgT1VUUFVUX1BBVEggPSBwYXRoLmpvaW4ob3MuaG9tZWRpcigpLCAnRG93bmxvYWRzJywgJ2NoaWVmLXRva2VuLXJlZWwtZGF5Ny5tcDQnKTsNCiAgYXNzZXRzID0gWw0KICAgIHsNCiAgICAgIGltYWdlOiAnY2hpZWZjb2lubG9nby9kYXk3X3NjZW5lMS5qcGcnLA0KICAgICAgdGV4dDogJ1N0aWxsIHdhdGNoaW5nIGZyb20gdGhlIHNpZGVsaW5lcz8nLA0KICAgICAgZHVyYXRpb246IDIsDQogICAgfSwNCiAgICB7DQogICAgICBpbWFnZTogJ2NoaWVmY29pbmxvZ28vZGF5N19zY2VuZTIuanBnJywNCiAgICAgIHRleHQ6ICdEb25cJ3QganVzdCB3YXRjaOKAlHBhcnRpY2lwYXRlLicsDQogICAgICBkdXJhdGlvbjogMywNCiAgICB9LA0KICAgIHsNCiAgICAgIGltYWdlOiAnY2hpZWZjb2lubG9nby9kYXk3X3NjZW5lMy5qcGcnLA0KICAgICAgdGV4dDogJ091ciBjb21tdW5pdHkgd2lucyB0b2dldGhlci4nLA0KICAgICAgZHVyYXRpb246IDIsDQogICAgfSwNCiAgICB7DQogICAgICBpbWFnZTogJ2NoaWVmY29pbmxvZ28vZGF5N19zY2VuZTQuanBnJywNCiAgICAgIHRleHQ6ICdGb2xsb3cgZm9yIGRhaWx5IHNpZ25hbHMhJywNCiAgICAgIGR1cmF0aW9uOiAyLA0KICAgIH0sDQogICAgew0KICAgICAgaW1hZ2U6ICdjaGllZmNvaW5sb2dvL2RheTdfc2NlbmU1LmpwZycsDQogICAgICB0ZXh0OiAnTm90IGZpbmFuY2lhbCBhZHZpY2UuIEZvciBlZHVjYXRpb24gb25seS4nLA0KICAgICAgZHVyYXRpb246IDEsDQogICAgICBmb250U2l6ZTogMjQsDQogICAgfSwNCiAgXTsNCiAgYmFja2dyb3VuZE11c2ljID0gJ3ZvaWNlb3ZlcnMvZGF5Ny1tdXNpYy5tcDMnOw0KfSBlbHNlIHsNCiAgT1VUUFVUX1BBVEggPSBwYXRoLmpvaW4ob3MuaG9tZWRpcigpLCAnRG93bmxvYWRzJywgJ2NoaWVmLXRva2VuLXJlZWwtZGF5Ni5tcDQnKTsNCiAgYXNzZXRzID0gWw0KICAgIHsNCiAgICAgIGltYWdlOiAnY2hpZWZjb2lubG9nby9zY2VuZTEuanBnJywNCiAgICAgIHRleHQ6ICdMb29raW5nIGZvciB5b3VyIG5leHQgZWRnZT8nLA0KICAgICAgZHVyYXRpb246IDIsDQogICAgfSwNCiAgICB7DQogICAgICBpbWFnZTogJ2NoaWVmY29pbmxvZ28vc2NlbmUyLmpwZycsDQogICAgICB0ZXh0OiAnQ0hJRUYgaXMgbm90IGh5cGUtZmlyc3QuJywNCiAgICAgIGR1cmF0aW9uOiAzLA0KICAgIH0sDQogICAgew0KICAgICAgaW1hZ2U6ICdjaGllZmNvaW5sb2dvL3NjZW5lMy5qcGcnLA0KICAgICAgdGV4dDogJ1dlIGFyZSBwcm9jZXNzLWZpcnN0LicsDQogICAgICBkdXJhdGlvbjogMiwNCiAgICB9LA0KICAgIHsNCiAgICAgIGltYWdlOiAnY2hpZWZjb2lubG9nby9zY2VuZTQuanBnJywNCiAgICAgIHRleHQ6ICdEcm9wIENISUVGIGluIHRoZSBjb21tZW50cyBpZiB5b3Ugd2FudCB0aGUgbmV4dCBzaWduYWwgdXBkYXRlIScsDQogICAgICBkdXJhdGlvbjogMiwNCiAgICB9LA0KICAgIHsNCiAgICAgIGltYWdlOiAnY2hpZWZjb2lubG9nby9zY2VuZTUuanBnJywNCiAgICAgIHRleHQ6ICdFZHVjYXRpb25hbCBvbmx5LiBOb3QgZmluYW5jaWFsIGFkdmljZS4nLA0KICAgICAgZHVyYXRpb246IDEsDQogICAgICBmb250U2l6ZTogMjQsDQogICAgfSwNCiAgXTsNCiAgYmFja2dyb3VuZE11c2ljID0gJ3ZvaWNlb3ZlcnMvZGF5Ni1tdXNpYy5tcDMnOw0KfQ0KDQpjb25zdCBUTVBfRElSID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3RtcF9kYXk2X3JlZWwnKTsNCmlmICghZnMuZXhpc3RzU3luYyhUTVBfRElSKSkgZnMubWtkaXJTeW5jKFRNUF9ESVIpOw0KDQpmdW5jdGlvbiBjcmVhdGVTY2VuZVZpZGVvKHNjZW5lLCBpZHgpIHsNCiAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsNCiAgICBjb25zdCBvdXRwdXQgPSBwYXRoLmpvaW4oVE1QX0RJUiwgYHNjZW5lJHtpZHggKyAxfS5tcDRgKTsNCiAgICBsZXQgY29tbWFuZCA9IGZmbXBlZyhzY2VuZS5pbWFnZSkNCiAgICAgIC5sb29wKHNjZW5lLmR1cmF0aW9uKQ0KICAgICAgLnZpZGVvRmlsdGVycyhbDQogICAgICAgIHsNCiAgICAgICAgICBmaWx0ZXI6ICdzY2FsZScsDQogICAgICAgICAgb3B0aW9uczogJzU3NjoxMDI0JywgLy8gOToxNiB2ZXJ0aWNhbA0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgZmlsdGVyOiAnZHJhd3RleHQnLA0KICAgICAgICAgIG9wdGlvbnM6IHsNCiAgICAgICAgICAgIGZvbnRmaWxlOiBwcm9jZXNzLnBsYXRmb3JtID09PSAnd2luMzInID8gJ0M6L1dpbmRvd3MvRm9udHMvYXJpYWxiZC50dGYnIDogJy91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNhbnMtQm9sZC50dGYnLA0KICAgICAgICAgICAgdGV4dDogc2NlbmUudGV4dCwNCiAgICAgICAgICAgIGZvbnRzaXplOiBzY2VuZS5mb250U2l6ZSB8fCAzNiwNCiAgICAgICAgICAgIGZvbnRjb2xvcjogJ3doaXRlJywNCiAgICAgICAgICAgIHg6ICcody10ZXh0X3cpLzInLA0KICAgICAgICAgICAgeTogJ2gtMTAwJywNCiAgICAgICAgICAgIGJveDogMSwNCiAgICAgICAgICAgIGJveGNvbG9yOiAnYmxhY2tAMC41JywNCiAgICAgICAgICAgIGJveGJvcmRlcnc6IDEwLA0KICAgICAgICAgICAgc2hhZG93Y29sb3I6ICdibGFjaycsDQogICAgICAgICAgICBzaGFkb3d4OiAyLA0KICAgICAgICAgICAgc2hhZG93eTogMiwNCiAgICAgICAgICAgIGVuYWJsZTogYGJldHdlZW4odCwwLCR7c2NlbmUuZHVyYXRpb259KWAsDQogICAgICAgICAgfSwNCiAgICAgICAgfSwNCiAgICAgIF0pDQogICAgICAub3V0cHV0T3B0aW9ucygnLXQnLCBzY2VuZS5kdXJhdGlvbikNCiAgICAgIC5vdXRwdXQob3V0cHV0KQ0KICAgICAgLm9uKCdlbmQnLCAoKSA9PiByZXNvbHZlKG91dHB1dCkpDQogICAgICAub24oJ2Vycm9yJywgcmVqZWN0KQ0KICAgICAgLnJ1bigpOw0KICB9KTsNCn0NCg0KYXN5bmMgZnVuY3Rpb24gbWFpbigpIHsNCiAgLy8gMS4gQ3JlYXRlIHZpZGVvIGZvciBlYWNoIHNjZW5lDQogIGNvbnN0IHNjZW5lVmlkZW9zID0gW107DQogIGZvciAobGV0IGkgPSAwOyBpIDwgYXNzZXRzLmxlbmd0aDsgaSsrKSB7DQogICAgY29uc29sZS5sb2coYFJlbmRlcmluZyBzY2VuZSAke2kgKyAxfS4uLmApOw0KICAgIHNjZW5lVmlkZW9zLnB1c2goYXdhaXQgY3JlYXRlU2NlbmVWaWRlbyhhc3NldHNbaV0sIGkpKTsNCiAgfQ0KDQogIC8vIDIuIENvbmNhdGVuYXRlIGFsbCBzY2VuZXMNCiAgY29uc3QgY29uY2F0TGlzdCA9IHBhdGguam9pbihUTVBfRElSLCAnY29uY2F0LnR4dCcpOw0KICBmcy53cml0ZUZpbGVTeW5jKGNvbmNhdExpc3QsIHNjZW5lVmlkZW9zLm1hcChmID0+IGBmaWxlICcke2Z9J2ApLmpvaW4oJ1xuJykpOw0KDQogIGNvbnN0IGNvbmNhdE91dHB1dCA9IHBhdGguam9pbihUTVBfRElSLCAnYWxsX3NjZW5lcy5tcDQnKTsNCiAgYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gew0KICAgIGZmbXBlZygpDQogICAgICAuaW5wdXQoY29uY2F0TGlzdCkNCiAgICAgIC5pbnB1dE9wdGlvbnMoWyctZicsICdjb25jYXQnLCAnLXNhZmUnLCAnMCddKQ0KICAgICAgLm91dHB1dE9wdGlvbnMoWyctYycsICdjb3B5J10pDQogICAgICAub3V0cHV0KGNvbmNhdE91dHB1dCkNCiAgICAgIC5vbignZW5kJywgcmVzb2x2ZSkNCiAgICAgIC5vbignZXJyb3InLCByZWplY3QpDQogICAgICAucnVuKCk7DQogIH0pOw0KDQogIC8vIDMuIEFkZCBiYWNrZ3JvdW5kIG11c2ljDQogIGF3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsNCiAgICBmZm1wZWcoY29uY2F0T3V0cHV0KQ0KICAgICAgLmlucHV0KGJhY2tncm91bmRNdXNpYykNCiAgICAgIC5vdXRwdXRPcHRpb25zKFsNCiAgICAgICAgJy1zaG9ydGVzdCcsDQogICAgICAgICctYzp2JywgJ2NvcHknLA0KICAgICAgICAnLWM6YScsICdhYWMnLA0KICAgICAgICAnLWI6YScsICcxOTJrJywNCiAgICAgIF0pDQogICAgICAub3V0cHV0KE9VVFBVVF9QQVRIKQ0KICAgICAgLm9uKCdlbmQnLCByZXNvbHZlKQ0KICAgICAgLm9uKCdlcnJvcicsIHJlamVjdCkNCiAgICAgIC5ydW4oKTsNCiAgfSk7DQoNCiAgY29uc29sZS5sb2coJ0RheSA2IHJlZWwgY3JlYXRlZCBhdDonLCBPVVRQVVRfUEFUSCk7DQp9DQoNCm1haW4oKS5jYXRjaChlID0+IHsNCiAgY29uc29sZS5lcnJvcignRXJyb3I6JywgZSk7DQp9KTsNCg=="}
+
+// Complete implementation for Day 6 MP4 reel automation
+const ffmpeg = require('fluent-ffmpeg');
+const path = require('path');
+const os = require('os');
+const fs = require('fs');
+
+// Update these paths to your actual assets
+
+// To automate for Day 7, duplicate this block and adjust the content/paths as needed.
+const day = process.argv[2] || '6';
+let assets, backgroundMusic, OUTPUT_PATH;
+if (day === '7') {
+  OUTPUT_PATH = path.join(os.homedir(), 'Downloads', 'chief-token-reel-day7.mp4');
+  assets = [
+    {
+      image: 'chiefcoinlogo/day7_scene1.jpg',
+      text: 'Still watching from the sidelines?',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/day7_scene2.jpg',
+      text: 'Don\'t just watch—participate.',
+      duration: 3,
+    },
+    {
+      image: 'chiefcoinlogo/day7_scene3.jpg',
+      text: 'Our community wins together.',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/day7_scene4.jpg',
+      text: 'Follow for daily signals!',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/day7_scene5.jpg',
+      text: 'Not financial advice. For education only.',
+      duration: 1,
+      fontSize: 24,
+    },
+  ];
+  backgroundMusic = 'voiceovers/day7-music.mp3';
+} else {
+  OUTPUT_PATH = path.join(os.homedir(), 'Downloads', 'chief-token-reel-day6.mp4');
+  assets = [
+    {
+      image: 'chiefcoinlogo/scene1.jpg',
+      text: 'Looking for your next edge?',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/scene2.jpg',
+      text: 'CHIEF is not hype-first.',
+      duration: 3,
+    },
+    {
+      image: 'chiefcoinlogo/scene3.jpg',
+      text: 'We are process-first.',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/scene4.jpg',
+      text: 'Drop CHIEF in the comments if you want the next signal update!',
+      duration: 2,
+    },
+    {
+      image: 'chiefcoinlogo/scene5.jpg',
+      text: 'Educational only. Not financial advice.',
+      duration: 1,
+      fontSize: 24,
+    },
+  ];
+  backgroundMusic = 'voiceovers/day6-music.mp3';
+}
+
+const TMP_DIR = path.join(__dirname, 'tmp_day6_reel');
+if (!fs.existsSync(TMP_DIR)) fs.mkdirSync(TMP_DIR);
+
+function createSceneVideo(scene, idx) {
+  return new Promise((resolve, reject) => {
+    const output = path.join(TMP_DIR, `scene${idx + 1}.mp4`);
+    let command = ffmpeg(scene.image)
+      .loop(scene.duration)
+      .videoFilters([
+        {
+          filter: 'scale',
+          options: '576:1024', // 9:16 vertical
+        },
+        {
+          filter: 'drawtext',
+          options: {
+            fontfile: process.platform === 'win32' ? 'C:/Windows/Fonts/arialbd.ttf' : '/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf',
+            text: scene.text,
+            fontsize: scene.fontSize || 36,
+            fontcolor: 'white',
+            x: '(w-text_w)/2',
+            y: 'h-100',
+            box: 1,
+            boxcolor: 'black@0.5',
+            boxborderw: 10,
+            shadowcolor: 'black',
+            shadowx: 2,
+            shadowy: 2,
+            enable: `between(t,0,${scene.duration})`,
+          },
+        },
+      ])
+      .outputOptions('-t', scene.duration)
+      .output(output)
+      .on('end', () => resolve(output))
+      .on('error', reject)
+      .run();
+  });
+}
+
+async function main() {
+  // 1. Create video for each scene
+  const sceneVideos = [];
+  for (let i = 0; i < assets.length; i++) {
+    console.log(`Rendering scene ${i + 1}...`);
+    sceneVideos.push(await createSceneVideo(assets[i], i));
+  }
+
+  // 2. Concatenate all scenes
+  const concatList = path.join(TMP_DIR, 'concat.txt');
+  fs.writeFileSync(concatList, sceneVideos.map(f => `file '${f}'`).join('\n'));
+
+  const concatOutput = path.join(TMP_DIR, 'all_scenes.mp4');
+  await new Promise((resolve, reject) => {
+    ffmpeg()
+      .input(concatList)
+      .inputOptions(['-f', 'concat', '-safe', '0'])
+      .outputOptions(['-c', 'copy'])
+      .output(concatOutput)
+      .on('end', resolve)
+      .on('error', reject)
+      .run();
+  });
+
+  // 3. Add background music
+  await new Promise((resolve, reject) => {
+    ffmpeg(concatOutput)
+      .input(backgroundMusic)
+      .outputOptions([
+        '-shortest',
+        '-c:v', 'copy',
+        '-c:a', 'aac',
+        '-b:a', '192k',
+      ])
+      .output(OUTPUT_PATH)
+      .on('end', resolve)
+      .on('error', reject)
+      .run();
+  });
+
+  console.log('Day 6 reel created at:', OUTPUT_PATH);
+}
+
+main().catch(e => {
+  console.error('Error:', e);
+});

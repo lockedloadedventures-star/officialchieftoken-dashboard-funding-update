@@ -1,1 +1,281 @@
-{"data":"IyBDYW1wYWlnbiBUcmFja2luZyAmIE1ldHJpY3MgRGFzaGJvYXJkDQoNCiMjIERhaWx5IFRyYWNraW5nIFRlbXBsYXRlDQoNClVzZSB0aGlzIHNoZWV0IHRvIGxvZyBtZXRyaWNzIGRhaWx5IChHb29nbGUgU2hlZXRzIHRlbXBsYXRlIGJlbG93KS4NCg0KIyMjIEd1bXJvYWQgRnVubmVsIE1ldHJpY3MNCg0KYGBgDQpEYXRlIHwgRW5yb2xsbWVudHMgKFN0YXJ0ZXIpIHwgRW5yb2xsbWVudHMgKEdyb3d0aCkgfCBFbnJvbGxtZW50cyAoUHJvKSB8IFRvdGFsIFJldmVudWUgfCBFbWFpbCBMaXN0IEdyb3d0aCB8IE5vdGVzDQotLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tDQo2LzQgIHwgMTIgICAgICAgICAgICAgICAgICAgfCA4ICAgICAgICAgICAgICAgICAgICB8IDIgICAgICAgICAgICAgICAgIHwgJDY4MCAgICAgICAgICAgfCAyMiAgICAgICAgICAgICAgICB8IFN0cm9uZyBEYXkgMQ0KNi81ICB8IDggICAgICAgICAgICAgICAgICAgIHwgNiAgICAgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgICB8ICQ0NTAgICAgICAgICAgIHwgMTUgICAgICAgICAgICAgICAgfCBNaWQtd2VlayBkaXAgZXhwZWN0ZWQNCjYvNiAgfCAxNSAgICAgICAgICAgICAgICAgICB8IDEyICAgICAgICAgICAgICAgICAgIHwgMyAgICAgICAgICAgICAgICAgfCAkMSwwNTAgICAgICAgICB8IDMwICAgICAgICAgICAgICAgIHwgU29jaWFsIHByb29mIHBvc3QgaGl0DQpgYGANCg0KKipGb3JtdWxhcyoqOg0KLSBUb3RhbCBlbnJvbGxtZW50czogU1VNKFN0YXJ0ZXIsIEdyb3d0aCwgUHJvKQ0KLSBEYWlseSByZXZlbnVlOiAoU3RhcnRlciDDlyAkNDApICsgKEdyb3d0aCDDlyAkMTAwKSArIChQcm8gw5cgJDIwMCkNCi0gVGllciBtaXg6IEVhY2ggdGllciDDtyB0b3RhbCBlbnJvbGxtZW50cyA9ICUNCi0gRW1haWwgQ1BBOiBEYWlseSBjb3N0IMO3IEVtYWlsIGxpc3QgZ3Jvd3RoID0gJC9zdWINCg0KIyMjIENISUVGIFRva2VuIFZvbHVtZSBNZXRyaWNzDQoNCmBgYA0KRGF0ZSAgfCBEYWlseSBWb2x1bWUgKFVuaXN3YXApIHwgSG9sZGVyIENvdW50IHwgTmV3IEhvbGRlcnMgfCBMaXF1aWRpdHkgRGVwdGggfCBQcmljZSBVU0QgfCBOb3Rlcw0KLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tfC0tLS0tLQ0KNi80ICAgfCAkNDUsMDAwICAgICAgICAgICAgICAgIHwgNDUwICAgICAgICAgIHwgMTIwICAgICAgICAgfCAkMi4wTSAgICAgICAgICAgfCAkMC4xOCAgICAgfCBMYXVuY2ggZGF5DQo2LzUgICB8ICQ2MiwwMDAgICAgICAgICAgICAgICAgfCA2MjAgICAgICAgICAgfCAxNzAgICAgICAgICB8ICQyLjFNICAgICAgICAgICB8ICQwLjE5ICAgICB8IE1vbWVudHVtIGJ1aWxkaW5nDQo2LzYgICB8ICQ3OCwwMDAgICAgICAgICAgICAgICAgfCA4OTAgICAgICAgICAgfCAyNzAgICAgICAgICB8ICQyLjJNICAgICAgICAgICB8ICQwLjIxICAgICB8IFNvY2lhbCBwcm9vZiBwb3N0DQpgYGANCg0KKipGb3JtdWxhcyoqOg0KLSBHcm93dGggcmF0ZTogKFRvZGF5J3Mgdm9sdW1lIC0gWWVzdGVyZGF5J3MpIMO3IFllc3RlcmRheSdzID0gJQ0KLSBBdmVyYWdlIGRhaWx5IHZvbHVtZSAoNy1kYXkpOiBTVU0obGFzdCA3IGRheXMpIMO3IDcNCi0gTGlxdWlkaXR5IGVmZmljaWVuY3k6IERhaWx5IHZvbHVtZSDDtyBMaXF1aWRpdHkgZGVwdGggPSByYXRpbw0KLSBIb2xkZXIgZ3Jvd3RoOiBOZXcgaG9sZGVycyDDtyBwcmV2aW91cyBkYXkgPSAlIGdyb3d0aA0KLSBQcmljZSBtb21lbnR1bTogKFRvZGF5IC0gN2QgYWdvKSDDtyA3ZCBhZ28gPSAlIGdhaW4NCg0KIyMjIFBhaWQgQWR2ZXJ0aXNpbmcgTWV0cmljcw0KDQpgYGANCkRhdGUgIHwgUGxhdGZvcm0gfCBBZCBTcGVuZCB8IENsaWNrcyB8IFRyYWZmaWMgfCBDb252ZXJzaW9ucyB8IENQQyB8IENQQSB8IFJPQVMgfCBOb3Rlcw0KLS0tLS0tfC0tLS0tLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tLXwtLS0tLS0tLS18LS0tLS0tLS0tLS0tLXwtLS0tLXwtLS0tLXwtLS0tLS18LS0tLS0tDQo2LzQgICB8IElHICAgICAgIHwgJDEwMCAgICAgfCA0NSAgICAgfCA0MiAgICAgIHwgOCAgICAgICAgICAgfCAkMi4yMiB8ICQxMi41MCB8IDYuOHggfCBDaGFydCBjcmVhdGl2ZQ0KNi81ICAgfCBJRyAgICAgICB8ICQxMDAgICAgIHwgMzggICAgIHwgMzUgICAgICB8IDUgICAgICAgICAgIHwgJDIuNjMgfCAkMjAgfCA0LjV4IHwgRm91bmRlciB2aWRlbw0KYGBgDQoNCioqRm9ybXVsYXMqKjoNCi0gQ1BDIChjb3N0IHBlciBjbGljayk6IEFkIHNwZW5kIMO3IENsaWNrcw0KLSBDVFIgKGNsaWNrLXRocm91Z2ggcmF0ZSk6IENsaWNrcyDDtyBJbXByZXNzaW9ucw0KLSBDUEEgKGNvc3QgcGVyIGFjcXVpc2l0aW9uKTogQWQgc3BlbmQgw7cgQ29udmVyc2lvbnMNCi0gUk9BUyAocmV0dXJuIG9uIGFkIHNwZW5kKTogUmV2ZW51ZSBmcm9tIGFkIMO3IEFkIHNwZW5kDQotIENvc3QgcGVyIFVTRCByZXZlbnVlOiBBZCBzcGVuZCDDtyBSZXZlbnVlDQoNCiMjIyBFbWFpbCAmIENvbW11bml0eSBNZXRyaWNzDQoNCmBgYA0KRGF0ZSAgfCBEaXNjb3JkIE1lbWJlcnMgfCBUd2l0dGVyIEZvbGxvd2VycyB8IEVtYWlsIE9wZW5zIHwgRW1haWwgQ2xpY2tzIHwgVXRpbGl0eSBQYXNzIFNpZ251cHMgfCBOb3Rlcw0KLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLQ0KNi80ICAgfCAzNTAgICAgICAgICAgICAgfCAyLDEwMCAgICAgICAgICAgICB8IDQ1ICAgICAgICAgIHwgMTIgICAgICAgICAgIHwgMiAgICAgICAgICAgICAgICAgICAgfCBXZWVrIDEgbGF1bmNoDQo2LzUgICB8IDQyMCAgICAgICAgICAgICB8IDIsMjAwICAgICAgICAgICAgIHwgNjIgICAgICAgICAgfCAxOCAgICAgICAgICAgfCAzICAgICAgICAgICAgICAgICAgICB8IEdyb3d0aCBEYXkgMg0KYGBgDQoNCioqRm9ybXVsYXMqKjoNCi0gRGlzY29yZCBncm93dGg6IChUb2RheSAtIFllc3RlcmRheSkgPSBuZXcgbWVtYmVycw0KLSBFbWFpbCBvcGVuIHJhdGU6IE9wZW5zIMO3IEVtYWlscyBzZW50ID0gJQ0KLSBFbWFpbCBjbGljayByYXRlOiBDbGlja3Mgw7cgT3BlbnMgPSAlDQotIEVtYWlsIGNvbnZlcnNpb24gcmF0ZTogU2lnbnVwcyDDtyBDbGlja3MgPSAlDQotIENvbW11bml0eSBlbmdhZ2VtZW50OiBNZXNzYWdlcyDDtyBNZW1iZXJzID0gYWN0aXZpdHkgbGV2ZWwNCg0KLS0tDQoNCiMjIFdlZWtseSBTdW1tYXJ5IFJlcG9ydA0KDQojIyMgUmV2ZW51ZSBEYXNoYm9hcmQNCg0KfCBDYXRlZ29yeSB8IFRhcmdldCB8IEFjdHVhbCB8IFZhcmlhbmNlIHwgTm90ZXMgfA0KfC0tLS0tLS0tLS18LS0tLS0tLS18LS0tLS0tLS18LS0tLS0tLS0tLXwtLS0tLS0tfA0KfCBHdW1yb2FkIChTdGFydGVyKSB8ICQxLDIwMCB8ICQxLDM0MCB8ICsxMSUgfCBTdHJvbmcgdGllciBtaXggfA0KfCBHdW1yb2FkIChHcm93dGgpIHwgJDEsMjAwIHwgJDEsNDgwIHwgKzIzJSB8IFVwc2VsbCB3b3JraW5nIHwNCnwgR3Vtcm9hZCAoUHJvKSB8ICQ0MDAgfCAkNDIwIHwgKzUlIHwgT24gdHJhY2sgfA0KfCBVdGlsaXR5IFBhc3MgfCAkMzAwIHwgJDE3NCB8IC00MiUgfCBSYW1wIGluIFdlZWsgMiB8DQp8ICoqVG90YWwqKiB8ICoqJDMsMTAwKiogfCAqKiQzLDQxNCoqIHwgKiorMTAlKiogfCBXZWVrIDEgd2luIHwNCg0KIyMjIENvc3QgU3VtbWFyeQ0KDQp8IEl0ZW0gfCBCdWRnZXQgfCBBY3R1YWwgfCBFZmZpY2llbmN5IHwNCnwtLS0tLS18LS0tLS0tLS18LS0tLS0tLS18LS0tLS0tLS0tLS0tfA0KfCBQYWlkIGFkcyAoSUcvTWV0YSkgfCAkNzAwIHwgJDUwMCB8ICQxIHNwZW5kIDogJDYuODMgcmV2ZW51ZSB8DQp8IEVtYWlsIHNlcnZpY2UgfCAkNTAgfCAkNTAgfCAkMC4wMTUgcGVyIHN1YnNjcmliZXIgfA0KfCBEaXNjb3JkIHRvb2xzIHwgJDUwIHwgJDUwIHwgRnJlZSB0aWVyIHVzZWQgfA0KfCBDb250ZW50IGNyZWF0aW9uIHwgJDIwMCB8ICQwIHwgRElZIGNvbnRlbnQgfA0KfCAqKlRvdGFsIFNwZW5kKiogfCAqKiQxLDAwMCoqIHwgKiokNjAwKiogfCAqKjUuN3ggUk9BUyoqIHwNCg0KIyMjIFByb2ZpdGFiaWxpdHkNCg0KYGBgDQpUb3RhbCBSZXZlbnVlOiAgICAgICAgJDMsNDE0DQpUb3RhbCBBZCBTcGVuZDogICAgICAgJDYwMA0KVG90YWwgT3RoZXIgQ29zdHM6ICAgICQxMDANCi0tLQ0KR3Jvc3MgUHJvZml0OiAgICAgICAgJDIsNzE0DQpQcm9maXQgTWFyZ2luOiAgICAgICA3OS41JQ0KYGBgDQoNCi0tLQ0KDQojIyBLZXkgUGVyZm9ybWFuY2UgSW5kaWNhdG9ycyAoS1BJcykNCg0KIyMjIEd1bXJvYWQgRnVubmVsIEtQSXMNCg0KfCBLUEkgfCBXZWVrIDEgVGFyZ2V0IHwgV2VlayAyIFRhcmdldCB8IFN1Y2Nlc3MgQ3JpdGVyaWEgfA0KfC0tLS0tfC0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLXwNCnwgVG90YWwgZW5yb2xsbWVudHMgfCA1MCB8IDEyMCB8ID41MCUgd2Vlay1vdmVyLXdlZWsgZ3Jvd3RoIHwNCnwgU3RhcnRlciAlIHwgMzUtNDAlIHwgMzUtNDAlIHwgQ29uc2lzdGVudCB0aWVyIG1peCB8DQp8IEdyb3d0aCAlIHwgNDAtNDUlIHwgNDAtNDUlIHwgIkdyb3d0aCByZWNvbW1lbmRlZCIgd29ya2luZyB8DQp8IFBybyAlIHwgMTUtMjAlIHwgMTUtMjAlIHwgUHJlbWl1bSB0aWVyIHN0YWJsZSB8DQp8IEVtYWlsIGxpc3QgfCAxNTAgfCA0MDAgfCAyeCBncm93dGggfA0KfCBFbWFpbCBvcGVuIHJhdGUgfCA+MzUlIHwgPjQwJSB8IEluY3JlYXNpbmcgZW5nYWdlbWVudCB8DQp8IFV0aWxpdHkgUGFzcyBjb252ZXJzaW9uIHwgNSUgfCAyMCUgfCBDcm9zcy1zZWxsIGltcHJvdmluZyB8DQoNCioqUmVkIGZsYWcqKjogVXRpbGl0eSBQYXNzIGNvbnZlcnNpb24gPCA1JSDihpIgUmV2aWV3IGVtYWlsIG1lc3NhZ2luZw0KDQojIyMgQ0hJRUYgVG9rZW4gS1BJcw0KDQp8IEtQSSB8IFdlZWsgMSBUYXJnZXQgfCBXZWVrIDIgVGFyZ2V0IHwgU3VjY2VzcyBDcml0ZXJpYSB8DQp8LS0tLS18LS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tfA0KfCBEYWlseSB2b2x1bWUgfCAkNTBrIHwgJDE1MGsgfCAzeCBncm93dGggfA0KfCBIb2xkZXIgY291bnQgfCA1MDAgfCAxLDIwMCB8IDIuNHggZ3Jvd3RoIHwNCnwgTGlxdWlkaXR5IGRlcHRoIHwgJDJNKyB8ICQyLjVNKyB8IFN1c3RhaW5hYmxlIHRyYWRpbmcgfA0KfCBQcmljZSB8ICQwLjE4KyB8ICQwLjIwKyB8IDExJSsgYXBwcmVjaWF0aW9uIHwNCnwgTmV3IGhvbGRlcnMvZGF5IHwgMTAwKyB8IDIwMCsgfCBWaXJhbCBhZG9wdGlvbiB8DQp8IEhvbGRlciByZXRlbnRpb24gfCA+ODUlIHwgPjgwJSB8IE1pbmltYWwgY2h1cm4gfA0KDQoqKlJlZCBmbGFnKio6IEhvbGRlciByZXRlbnRpb24gPCA3MCUg4oaSIENvbW11bml0eSBjb25jZXJuLCBpbnZlc3RpZ2F0ZQ0KDQojIyMgQWQgUGVyZm9ybWFuY2UgS1BJcw0KDQp8IEtQSSB8IFRhcmdldCB8IFRocmVzaG9sZCB8IEFjdGlvbiB8DQp8LS0tLS18LS0tLS0tLS18LS0tLS0tLS0tLS18LS0tLS0tLS18DQp8IENQQSAoR3Vtcm9hZCkgfCA8JDE1IHwgPiQyNSB8IEtpbGwgYWQsIHBpdm90IGNyZWF0aXZlIHwNCnwgUk9BUyB8ID4zeCB8IDwyeCB8IEN1dCBidWRnZXQsIHRlc3QgbmV3IGFuZ2xlIHwNCnwgQ1RSIHwgPjIlIHwgPDElIHwgUmVmcmVzaCBjcmVhdGl2ZSB8DQp8IEVtYWlsIENQQSB8IDwkMiB8ID4kNSB8IE9yZ2FuaWMgb25seSwgbm8gYWRzIHwNCg0KLS0tDQoNCiMjIFdlZWtseSBEYXNoYm9hcmQgKEdvb2dsZSBTaGVldHMgRXhhbXBsZSkNCg0KYGBgDQpXRUVLIDEgUEVSRk9STUFOQ0UgKEp1bmUgNC0xMCkNCg0KR1VNUk9BRCBGVU5ORUwNCuKUnOKUgCBUb3RhbCBFbnJvbGxtZW50czogNTIgKFRhcmdldDogNTApIOKckyArNCUNCuKUnOKUgCBSZXZlbnVlOiAkMyw2ODANCuKUnOKUgCBFbWFpbCBHcm93dGg6IDEyNyAoVGFyZ2V0OiAxNTApIH4gLTE1JQ0K4pSU4pSAIFV0aWxpdHkgUGFzcyAoZWFybHkpOiAyIC8gNTIgPSAzLjglDQoNCkNISUVGIFRPS0VOIFBVU0gNCuKUnOKUgCBBdmcgRGFpbHkgVm9sdW1lOiAkNjIsNDAwIChUYXJnZXQ6ICQ1MGspIOKckyArMjUlDQrilJzilIAgSG9sZGVyIENvdW50OiA3ODAgKFRhcmdldDogNTAwKSDinJMgKzU2JQ0K4pSc4pSAIExpcXVpZGl0eSBEZXB0aDogJDIuMTVNIChUYXJnZXQ6ICQyTSspIOKckw0K4pSU4pSAIFByaWNlOiAkMC4yMCBVU0QgKFRhcmdldDogJDAuMTgrKSDinJMgKzExJQ0KDQpQQUlEIEFEVkVSVElTSU5HDQrilJzilIAgVG90YWwgU3BlbmQ6ICQ2MDAgKEJ1ZGdldDogJDcwMCkg4pyTIC0xNCUNCuKUnOKUgCBST0FTOiA1Ljd4IChUYXJnZXQ6IDN4Kykg4pyTICs5MCUNCuKUnOKUgCBDUEE6ICQxMS41NCAoVGFyZ2V0OiA8JDE1KSDinJMNCuKUlOKUgCBFbWFpbCBDb3N0OiAkMS44OS9zdWIgKFRhcmdldDogPCQyKSDinJMNCg0KQ09NTVVOSVRZDQrilJzilIAgRGlzY29yZDogNzIwIG1lbWJlcnMgKFRhcmdldDogNTAwKSDinJMgKzQ0JQ0K4pSc4pSAIFR3aXR0ZXI6IDIsNDAwIGZvbGxvd2VycyAoVGFyZ2V0OiAyaykg4pyTICsyMCUNCuKUlOKUgCBFbWFpbCBMaXN0OiAxMjcgc3Vic2NyaWJlcnMNCg0KUFJPRklUQUJJTElUWQ0K4pSc4pSAIEdyb3NzIFJldmVudWU6ICQzLDY4MA0K4pSc4pSAIEFkIFNwZW5kOiAkNjAwDQrilJzilIAgUHJvZml0OiAkMywwODANCuKUlOKUgCBST0k6IDQxNCUg4pyTDQoNCldFRUsgMSBWRVJESUNUOiBFWENFRUQgQUxMIFRBUkdFVFMNCk5leHQgd2VlazogU2NhbGUgYWQgc3BlbmQgdG8gJDEuNWssIGxhdW5jaCBXZWVrIDIgaW5pdGlhdGl2ZXMNCmBgYA0KDQotLS0NCg0KIyMgVHJhY2tpbmcgVG9vbHMgKFJlY29tbWVuZGVkKQ0KDQojIyMgRnJlZS9DaGVhcCBPcHRpb25zDQoxLiAqKkdvb2dsZSBTaGVldHMqKjogRGFpbHkgdHJhY2tpbmcgKyBhdXRvLWNhbGN1bGF0ZWQgZGFzaGJvYXJkcw0KICAgLSBUZW1wbGF0ZTogQ3JlYXRlIGZvcm11bGFzIGZvciBhbGwgbWV0cmljcyBhYm92ZQ0KICAgLSBTaGFyZSBsaW5rOiBBY2Nlc3NpYmxlIGZyb20gcGhvbmUvZGVza3RvcA0KICAgDQoyLiAqKkRFWFRvb2xzKio6IFRyYWNrIENISUVGIHZvbHVtZSArIGhvbGRlciBjb3VudA0KICAgLSBVUkw6IGh0dHBzOi8vd3d3LmRleHRvb2xzLmlvL2FwcC9iYXNlL3BhaXIvMHhEOTI2RjRDMmI1YWQ0ZGU0NUUzMUM4NzVkMzNkNTIwN2UzRGYzQTdkDQoNCjMuICoqR3Vtcm9hZCBEYXNoYm9hcmQqKjogQnVpbHQtaW4gc3RhdHMNCiAgIC0gRW1haWw6IEFsbCBjcmVhdG9yIHN0YXRzIHNlbnQgZGFpbHkNCg0KNC4gKipNZXRhIEFkcyBNYW5hZ2VyKio6IEF1dG9tYXRpYyBhZCB0cmFja2luZw0KICAgLSBDUEEsIFJPQVMsIENUUiBhbGwgdmlzaWJsZSBpbi1wbGF0Zm9ybQ0KDQo1LiAqKkRpc2NvcmQgQm90cyoqOiBBdXRvLXRyYWNrIG1lbWJlcnMNCiAgIC0gQm90OiBNRUU2IChmcmVlIHRpZXIpIG9yIGN1c3RvbQ0KDQojIyMgU2V0dXAgKDMwIG1pbikNCjEuIENyZWF0ZSBHb29nbGUgU2hlZXQgd2l0aCB0YWJzOiBEYWlseSB8IFdlZWtseSB8IERhc2hib2FyZA0KMi4gU2V0IHVwIGZvcm11bGFzIGZvciBhdXRvLWNhbGN1bGF0aW9uDQozLiBMaW5rIHRvIERFWFRvb2xzLCBHdW1yb2FkLCBNZXRhIEFkcyBNYW5hZ2VyDQo0LiBTY2hlZHVsZSA1LW1pbiBkYWlseSB1cGRhdGUgKG1vcm5pbmcpDQo1LiBXZWVrbHkgcmV2aWV3IChGcmlkYXkgNXBtKQ0KDQotLS0NCg0KIyMgSW50ZXJwcmV0YXRpb24gR3VpZGUNCg0KIyMjIEdyZWVuIExpZ2h0IChLZWVwIGdvaW5nKQ0KLSBDUEEgPCAkMTUg4pyTDQotIFJPQVMgPiAzeCDinJMNCi0gRW1haWwgb3BlbiByYXRlID4gMzUlIOKckw0KLSBDSElFRiBkYWlseSB2b2x1bWUgPiAkMTAwayDinJMNCi0gSG9sZGVyIHJldGVudGlvbiA+IDgwJSDinJMNCg0KIyMjIFllbGxvdyBMaWdodCAoTW9uaXRvciBjbG9zZWx5KQ0KLSBDUEEgJDE1LTI1IOKaoO+4jw0KLSBST0FTIDItM3gg4pqg77iPDQotIEVtYWlsIG9wZW4gcmF0ZSAyNS0zNSUg4pqg77iPDQotIENISUVGIGRhaWx5IHZvbHVtZSAkNTBrLTEwMGsg4pqg77iPDQotIEhvbGRlciByZXRlbnRpb24gNzAtODAlIOKaoO+4jw0KDQojIyMgUmVkIExpZ2h0IChUYWtlIGFjdGlvbiBpbW1lZGlhdGVseSkNCi0gQ1BBID4gJDI1IPCfm5ENCi0gUk9BUyA8IDJ4IPCfm5ENCi0gRW1haWwgb3BlbiByYXRlIDwgMjUlIPCfm5ENCi0gQ0hJRUYgZGFpbHkgdm9sdW1lIDwgJDUwayDwn5uRDQotIEhvbGRlciByZXRlbnRpb24gPCA3MCUg8J+bkQ0KDQotLS0NCg0KIyMgTW9udGhseSBSZXBvcnRpbmcNCg0KKipSZXBvcnQgRHVlKio6IEZpcnN0IE1vbmRheSBvZiBtb250aA0KDQpgYGANCk1PTlRIIDEgUEVSRk9STUFOQ0UgKEp1bmUgMS0zMCwgMjAyNikNCg0KUkVWRU5VRQ0K4pSc4pSAIEd1bXJvYWQ6ICQxNSw0MjAgKDIwMCBlbnJvbGxtZW50cyBhdmcgJDc3IEFPVikNCuKUnOKUgCBVdGlsaXR5IFBhc3M6ICQyLDkwMCAoMTAwIG1lbWJlcnMgw5cgJDI5L21vKQ0K4pSc4pSAIENISUVGIFRyYWRpbmcgKG5vbmUsIG9yZ2FuaWMgb25seSkNCuKUlOKUgCBUT1RBTDogJDE4LDMyMA0KDQpDT1NUUw0K4pSc4pSAIFBhaWQgYWR2ZXJ0aXNpbmc6ICQzLDUwMA0K4pSc4pSAIFRvb2xzL3NlcnZpY2VzOiAkNTAwDQrilJzilIAgQ29udGVudCBjcmVhdGlvbjogJDEsMjAwDQrilJTilIAgVE9UQUw6ICQ1LDIwMA0KDQpQUk9GSVQ6ICQxMywxMjAgKDcxJSBtYXJnaW4pDQoNCkdST1dUSA0K4pSc4pSAIEVtYWlsIGxpc3Q6IDQ1MCBzdWJzY3JpYmVycyAoOXggb3JnYW5pYyBncm93dGgpDQrilJzilIAgRGlzY29yZDogMiw4MDAgbWVtYmVycw0K4pSc4pSAIENISUVGIGhvbGRlcnM6IDQsMjAwDQrilJzilIAgVXRpbGl0eSBQYXNzIG1lbWJlcnM6IDEwMA0KDQpLRVkgV0lOUw0KMS4gV2VlayAxIGV4Y2VlZGVkIGFsbCB0YXJnZXRzICgrMjUlIHJldmVudWUpDQoyLiBDSElFRiB2b2x1bWUgaGl0ICQ1MDBrIGRhaWx5ICh0YXJnZXQgbWV0KQ0KMy4gUGFpZCBhZHMgaGl0IDUuN3ggUk9BUyAoZXhjZXB0aW9uYWwpDQo0LiBDb21tdW5pdHkgb3JnYW5pYyBncm93dGggKDl4IHdpdGhvdXQgaW5jZW50aXZlcykNCg0KTkVYVCBNT05USCBQUklPUklUSUVTDQoxLiBTY2FsZSBwYWlkIHRvICQxay9kYXkgKHZvbHVtZSBzdXBwb3J0KQ0KMi4gTGF1bmNoIHJlZmVycmFsIGFmZmlsaWF0ZSBwcm9ncmFtICh2aXJhbCBsb29wKQ0KMy4gUGFydG5lcnNoaXBzIHdpdGggNSBtaWNyby1pbmZsdWVuY2Vycw0KNC4gV2Vla2x5IFR3aXR0ZXIgU3BhY2VzIChjb21tdW5pdHkgZW5nYWdlbWVudCkNCmBgYA0KDQo="}
+# Campaign Tracking & Metrics Dashboard
+
+## Daily Tracking Template
+
+Use this sheet to log metrics daily (Google Sheets template below).
+
+### Gumroad Funnel Metrics
+
+```
+Date | Enrollments (Starter) | Enrollments (Growth) | Enrollments (Pro) | Total Revenue | Email List Growth | Notes
+-----|----------------------|----------------------|-------------------|----------------|-------------------|------
+6/4  | 12                   | 8                    | 2                 | $680           | 22                | Strong Day 1
+6/5  | 8                    | 6                    | 1                 | $450           | 15                | Mid-week dip expected
+6/6  | 15                   | 12                   | 3                 | $1,050         | 30                | Social proof post hit
+```
+
+**Formulas**:
+- Total enrollments: SUM(Starter, Growth, Pro)
+- Daily revenue: (Starter × $40) + (Growth × $100) + (Pro × $200)
+- Tier mix: Each tier ÷ total enrollments = %
+- Email CPA: Daily cost ÷ Email list growth = $/sub
+
+### CHIEF Token Volume Metrics
+
+```
+Date  | Daily Volume (Uniswap) | Holder Count | New Holders | Liquidity Depth | Price USD | Notes
+------|------------------------|--------------|-------------|-----------------|-----------|------
+6/4   | $45,000                | 450          | 120         | $2.0M           | $0.18     | Launch day
+6/5   | $62,000                | 620          | 170         | $2.1M           | $0.19     | Momentum building
+6/6   | $78,000                | 890          | 270         | $2.2M           | $0.21     | Social proof post
+```
+
+**Formulas**:
+- Growth rate: (Today's volume - Yesterday's) ÷ Yesterday's = %
+- Average daily volume (7-day): SUM(last 7 days) ÷ 7
+- Liquidity efficiency: Daily volume ÷ Liquidity depth = ratio
+- Holder growth: New holders ÷ previous day = % growth
+- Price momentum: (Today - 7d ago) ÷ 7d ago = % gain
+
+### Paid Advertising Metrics
+
+```
+Date  | Platform | Ad Spend | Clicks | Traffic | Conversions | CPC | CPA | ROAS | Notes
+------|----------|----------|--------|---------|-------------|-----|-----|------|------
+6/4   | IG       | $100     | 45     | 42      | 8           | $2.22 | $12.50 | 6.8x | Chart creative
+6/5   | IG       | $100     | 38     | 35      | 5           | $2.63 | $20 | 4.5x | Founder video
+```
+
+**Formulas**:
+- CPC (cost per click): Ad spend ÷ Clicks
+- CTR (click-through rate): Clicks ÷ Impressions
+- CPA (cost per acquisition): Ad spend ÷ Conversions
+- ROAS (return on ad spend): Revenue from ad ÷ Ad spend
+- Cost per USD revenue: Ad spend ÷ Revenue
+
+### Email & Community Metrics
+
+```
+Date  | Discord Members | Twitter Followers | Email Opens | Email Clicks | Utility Pass Signups | Notes
+------|-----------------|-------------------|-------------|--------------|----------------------|------
+6/4   | 350             | 2,100             | 45          | 12           | 2                    | Week 1 launch
+6/5   | 420             | 2,200             | 62          | 18           | 3                    | Growth Day 2
+```
+
+**Formulas**:
+- Discord growth: (Today - Yesterday) = new members
+- Email open rate: Opens ÷ Emails sent = %
+- Email click rate: Clicks ÷ Opens = %
+- Email conversion rate: Signups ÷ Clicks = %
+- Community engagement: Messages ÷ Members = activity level
+
+---
+
+## Weekly Summary Report
+
+### Revenue Dashboard
+
+| Category | Target | Actual | Variance | Notes |
+|----------|--------|--------|----------|-------|
+| Gumroad (Starter) | $1,200 | $1,340 | +11% | Strong tier mix |
+| Gumroad (Growth) | $1,200 | $1,480 | +23% | Upsell working |
+| Gumroad (Pro) | $400 | $420 | +5% | On track |
+| Utility Pass | $300 | $174 | -42% | Ramp in Week 2 |
+| **Total** | **$3,100** | **$3,414** | **+10%** | Week 1 win |
+
+### Cost Summary
+
+| Item | Budget | Actual | Efficiency |
+|------|--------|--------|------------|
+| Paid ads (IG/Meta) | $700 | $500 | $1 spend : $6.83 revenue |
+| Email service | $50 | $50 | $0.015 per subscriber |
+| Discord tools | $50 | $50 | Free tier used |
+| Content creation | $200 | $0 | DIY content |
+| **Total Spend** | **$1,000** | **$600** | **5.7x ROAS** |
+
+### Profitability
+
+```
+Total Revenue:        $3,414
+Total Ad Spend:       $600
+Total Other Costs:    $100
+---
+Gross Profit:        $2,714
+Profit Margin:       79.5%
+```
+
+---
+
+## Key Performance Indicators (KPIs)
+
+### Gumroad Funnel KPIs
+
+| KPI | Week 1 Target | Week 2 Target | Success Criteria |
+|-----|--------------|--------------|------------------|
+| Total enrollments | 50 | 120 | >50% week-over-week growth |
+| Starter % | 35-40% | 35-40% | Consistent tier mix |
+| Growth % | 40-45% | 40-45% | "Growth recommended" working |
+| Pro % | 15-20% | 15-20% | Premium tier stable |
+| Email list | 150 | 400 | 2x growth |
+| Email open rate | >35% | >40% | Increasing engagement |
+| Utility Pass conversion | 5% | 20% | Cross-sell improving |
+
+**Red flag**: Utility Pass conversion < 5% → Review email messaging
+
+### CHIEF Token KPIs
+
+| KPI | Week 1 Target | Week 2 Target | Success Criteria |
+|-----|--------------|--------------|------------------|
+| Daily volume | $50k | $150k | 3x growth |
+| Holder count | 500 | 1,200 | 2.4x growth |
+| Liquidity depth | $2M+ | $2.5M+ | Sustainable trading |
+| Price | $0.18+ | $0.20+ | 11%+ appreciation |
+| New holders/day | 100+ | 200+ | Viral adoption |
+| Holder retention | >85% | >80% | Minimal churn |
+
+**Red flag**: Holder retention < 70% → Community concern, investigate
+
+### Ad Performance KPIs
+
+| KPI | Target | Threshold | Action |
+|-----|--------|-----------|--------|
+| CPA (Gumroad) | <$15 | >$25 | Kill ad, pivot creative |
+| ROAS | >3x | <2x | Cut budget, test new angle |
+| CTR | >2% | <1% | Refresh creative |
+| Email CPA | <$2 | >$5 | Organic only, no ads |
+
+---
+
+## Weekly Dashboard (Google Sheets Example)
+
+```
+WEEK 1 PERFORMANCE (June 4-10)
+
+GUMROAD FUNNEL
+├─ Total Enrollments: 52 (Target: 50) ✓ +4%
+├─ Revenue: $3,680
+├─ Email Growth: 127 (Target: 150) ~ -15%
+└─ Utility Pass (early): 2 / 52 = 3.8%
+
+CHIEF TOKEN PUSH
+├─ Avg Daily Volume: $62,400 (Target: $50k) ✓ +25%
+├─ Holder Count: 780 (Target: 500) ✓ +56%
+├─ Liquidity Depth: $2.15M (Target: $2M+) ✓
+└─ Price: $0.20 USD (Target: $0.18+) ✓ +11%
+
+PAID ADVERTISING
+├─ Total Spend: $600 (Budget: $700) ✓ -14%
+├─ ROAS: 5.7x (Target: 3x+) ✓ +90%
+├─ CPA: $11.54 (Target: <$15) ✓
+└─ Email Cost: $1.89/sub (Target: <$2) ✓
+
+COMMUNITY
+├─ Discord: 720 members (Target: 500) ✓ +44%
+├─ Twitter: 2,400 followers (Target: 2k) ✓ +20%
+└─ Email List: 127 subscribers
+
+PROFITABILITY
+├─ Gross Revenue: $3,680
+├─ Ad Spend: $600
+├─ Profit: $3,080
+└─ ROI: 414% ✓
+
+WEEK 1 VERDICT: EXCEED ALL TARGETS
+Next week: Scale ad spend to $1.5k, launch Week 2 initiatives
+```
+
+---
+
+## Tracking Tools (Recommended)
+
+### Free/Cheap Options
+1. **Google Sheets**: Daily tracking + auto-calculated dashboards
+   - Template: Create formulas for all metrics above
+   - Share link: Accessible from phone/desktop
+   
+2. **DEXTools**: Track CHIEF volume + holder count
+   - URL: https://www.dextools.io/app/base/pair/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d
+
+3. **Gumroad Dashboard**: Built-in stats
+   - Email: All creator stats sent daily
+
+4. **Meta Ads Manager**: Automatic ad tracking
+   - CPA, ROAS, CTR all visible in-platform
+
+5. **Discord Bots**: Auto-track members
+   - Bot: MEE6 (free tier) or custom
+
+### Setup (30 min)
+1. Create Google Sheet with tabs: Daily | Weekly | Dashboard
+2. Set up formulas for auto-calculation
+3. Link to DEXTools, Gumroad, Meta Ads Manager
+4. Schedule 5-min daily update (morning)
+5. Weekly review (Friday 5pm)
+
+---
+
+## Interpretation Guide
+
+### Green Light (Keep going)
+- CPA < $15 ✓
+- ROAS > 3x ✓
+- Email open rate > 35% ✓
+- CHIEF daily volume > $100k ✓
+- Holder retention > 80% ✓
+
+### Yellow Light (Monitor closely)
+- CPA $15-25 ⚠️
+- ROAS 2-3x ⚠️
+- Email open rate 25-35% ⚠️
+- CHIEF daily volume $50k-100k ⚠️
+- Holder retention 70-80% ⚠️
+
+### Red Light (Take action immediately)
+- CPA > $25 🛑
+- ROAS < 2x 🛑
+- Email open rate < 25% 🛑
+- CHIEF daily volume < $50k 🛑
+- Holder retention < 70% 🛑
+
+---
+
+## Monthly Reporting
+
+**Report Due**: First Monday of month
+
+```
+MONTH 1 PERFORMANCE (June 1-30, 2026)
+
+REVENUE
+├─ Gumroad: $15,420 (200 enrollments avg $77 AOV)
+├─ Utility Pass: $2,900 (100 members × $29/mo)
+├─ CHIEF Trading (none, organic only)
+└─ TOTAL: $18,320
+
+COSTS
+├─ Paid advertising: $3,500
+├─ Tools/services: $500
+├─ Content creation: $1,200
+└─ TOTAL: $5,200
+
+PROFIT: $13,120 (71% margin)
+
+GROWTH
+├─ Email list: 450 subscribers (9x organic growth)
+├─ Discord: 2,800 members
+├─ CHIEF holders: 4,200
+├─ Utility Pass members: 100
+
+KEY WINS
+1. Week 1 exceeded all targets (+25% revenue)
+2. CHIEF volume hit $500k daily (target met)
+3. Paid ads hit 5.7x ROAS (exceptional)
+4. Community organic growth (9x without incentives)
+
+NEXT MONTH PRIORITIES
+1. Scale paid to $1k/day (volume support)
+2. Launch referral affiliate program (viral loop)
+3. Partnerships with 5 micro-influencers
+4. Weekly Twitter Spaces (community engagement)
+```
+

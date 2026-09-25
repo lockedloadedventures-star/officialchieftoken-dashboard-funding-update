@@ -1,1 +1,53 @@
-{"data":"IyBDSElFRiBEYWlseSBQcm9maXQgU2NvcmVib2FyZA0KDQpVc2UgdGhpcyBldmVyeSBkYXkgaW4gdW5kZXIgNSBtaW51dGVzLg0KDQojIyBEYWlseSBJbnB1dHMNCg0KLSBEYXRlOg0KLSBUcmFmZmljIChzZXNzaW9ucyk6DQotIE5ldyBsZWFkczoNCi0gQ2hlY2tvdXQgc3RhcnRzOg0KLSBOZXcgcGFpZCB1c2VyczoNCi0gR3Jvc3MgcmV2ZW51ZToNCi0gUmVmdW5kczoNCi0gTmV0IHJldmVudWU6DQotIE5ldyBDSElFRiBob2xkZXJzOg0KLSBBY3RpdmUgQ0hJRUYgaG9sZGVyczoNCg0KIyMgRnVubmVsIE1ldHJpY3MNCg0KLSBMYW5kaW5nIGNvbnZlcnNpb24gPSBuZXcgbGVhZHMgLyB0cmFmZmljDQotIENoZWNrb3V0IGNvbXBsZXRpb24gPSBuZXcgcGFpZCB1c2VycyAvIGNoZWNrb3V0IHN0YXJ0cw0KLSBSZWZ1bmQgcmF0ZSA9IHJlZnVuZHMgLyBncm9zcyByZXZlbnVlDQoNCiMjIFV0aWxpdHkgTWV0cmljcw0KDQotIFdlZWtseSByZXBvcnQgb3BlbnM6DQotIE9mZmljZSBob3VyIGF0dGVuZGFuY2U6DQotIFRlbXBsYXRlL3Rvb2wgdXNhZ2U6DQotICUgcGFpZCB1c2VycyB3aG8gaG9sZCBDSElFRjoNCg0KIyMgTGlxdWlkaXR5IE1ldHJpY3MNCg0KLSBQb29sIFRWTDoNCi0gU2xpcHBhZ2UgZXN0aW1hdGUgKCQxMGsgYnV5KToNCi0gU2xpcHBhZ2UgZXN0aW1hdGUgKCQxMGsgc2VsbCk6DQotIFByb3RvY29sLW93bmVkIGxpcXVpZGl0eSB2YWx1ZToNCg0KIyMgRGFpbHkgRGVjaXNpb24gTG9nDQoNCi0gV2hhdCB3b3JrZWQgdG9kYXk6DQotIEJpZ2dlc3QgYm90dGxlbmVjazoNCi0gT25lIGZpeCBmb3IgdG9tb3Jyb3c6DQotIE9uZSBncm93dGggYWN0aW9uIGZvciB0b21vcnJvdzoNCg0KIyMgV2Vla2x5IFJldmlldyAoRXZlcnkgNyBEYXlzKQ0KDQotIFdlZWsgbmV0IHJldmVudWU6DQotIFdlZWstb3Zlci13ZWVrIGdyb3d0aCAlOg0KLSBDaHVybiAlOg0KLSBCZXN0IGNoYW5uZWwgYnkgY29udmVyc2lvbjoNCi0gV29yc3QgY2hhbm5lbCB0byBjdXQ6DQotIExpcXVpZGl0eSBkZXB0aCB0cmVuZDoNCi0gTmV4dCB3ZWVrIHRvcCAzIHByaW9yaXRpZXM6DQo="}
+# CHIEF Daily Profit Scoreboard
+
+Use this every day in under 5 minutes.
+
+## Daily Inputs
+
+- Date:
+- Traffic (sessions):
+- New leads:
+- Checkout starts:
+- New paid users:
+- Gross revenue:
+- Refunds:
+- Net revenue:
+- New CHIEF holders:
+- Active CHIEF holders:
+
+## Funnel Metrics
+
+- Landing conversion = new leads / traffic
+- Checkout completion = new paid users / checkout starts
+- Refund rate = refunds / gross revenue
+
+## Utility Metrics
+
+- Weekly report opens:
+- Office hour attendance:
+- Template/tool usage:
+- % paid users who hold CHIEF:
+
+## Liquidity Metrics
+
+- Pool TVL:
+- Slippage estimate ($10k buy):
+- Slippage estimate ($10k sell):
+- Protocol-owned liquidity value:
+
+## Daily Decision Log
+
+- What worked today:
+- Biggest bottleneck:
+- One fix for tomorrow:
+- One growth action for tomorrow:
+
+## Weekly Review (Every 7 Days)
+
+- Week net revenue:
+- Week-over-week growth %:
+- Churn %:
+- Best channel by conversion:
+- Worst channel to cut:
+- Liquidity depth trend:
+- Next week top 3 priorities:
