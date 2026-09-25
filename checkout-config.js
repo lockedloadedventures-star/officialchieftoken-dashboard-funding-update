@@ -1,5 +1,7 @@
+const STRIPE_DONATION_CHECKOUT_URL = "https://buy.stripe.com/28EaEWguMf6Odiz2ergIo00";
+
 window.CHIEF_CHECKOUT_LINKS = {
-  starter: "https://officialchieftoken.com/checkout?plan=starter",
-  standard: "https://officialchieftoken.com/checkout?plan=standard",
-  pro: "https://officialchieftoken.com/checkout?plan=pro"
+  starter: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=2900`,
+  standard: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=4900`,
+  pro: `${STRIPE_DONATION_CHECKOUT_URL}?prefilled_amount=9900`
 };

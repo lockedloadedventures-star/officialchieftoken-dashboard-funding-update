@@ -44,6 +44,7 @@
       <h1>Choose your CHIEF Utility Pass plan.</h1>
       <p class="lead">Get weekly high-signal intelligence, members-only execution resources, and direct builder access, with enhanced benefits for CHIEF holders.</p>
       <p class="launch-price">Launch pricing active: Starter at $29/month for first 14 days.</p>
+      <p class="hint">Card checkout currently accepts a one-time voluntary contribution only; it does not purchase a Utility Pass or activate membership. To request a plan, use the activation form below and wait for confirmed payment instructions.</p>
     </section>
 
     <section class="panel">
@@ -167,6 +168,14 @@
 
         const targetLink = linkByPlan[plan] || "";
         if (targetLink) {
+          const contribution = plan.includes("Starter") ? "$29" : plan.includes("Standard") ? "$49" : "$99";
+          const confirmed = window.confirm(
+            `The Stripe checkout is a one-time voluntary contribution of ${contribution}, not a Utility Pass purchase or subscription. Membership will not be activated by this payment. Continue?`
+          );
+          if (!confirmed) {
+            document.getElementById("manual-checkout").scrollIntoView({ behavior: "smooth", block: "start" });
+            return;
+          }
           window.open(targetLink, "_blank", "noopener,noreferrer");
           return;
         }
