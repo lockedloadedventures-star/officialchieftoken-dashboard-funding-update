@@ -8,10 +8,10 @@ CHIEF Utility Pass is a paid operator membership for users who want practical ma
 
 Get weekly high-signal intelligence, members-only execution resources, and direct builder access, with enhanced benefits for CHIEF holders.
 
-## Launch Pricing
+## Monthly Pricing
 
-- Starter: $29/month (first 14 days)
-- Standard: $49/month (after launch window)
+- Starter: $29/month
+- Standard: $49/month
 - Pro: $99/month (includes priority support and monthly strategy call)
 
 ## Tier Benefits

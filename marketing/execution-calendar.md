@@ -171,7 +171,7 @@
 **Coordination**: Intro Utility Pass
 - Email to course buyers: Day +3
 - Subject: "Your students need CHIEF Utility Pass"
-- Offer: Launch pricing $29/month (14-day window)
+- Offer: Starter membership at $29/month
 - Angle: Integration with course learning
 
 ---
@@ -317,4 +317,3 @@
 - [ ] Utility Pass: 100+ paid members ($2,900+ MRR)
 - [ ] Email list: 2,000+ subscribers
 - [ ] Discord: 3,000+ members
-

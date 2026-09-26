@@ -111,7 +111,7 @@ CHIEF is focused on transparent disclosures, practical utility, and consistent s
 https://officialchieftoken.com
 
 ### Post 7
-Launch pricing is currently available while the introductory offer remains active.
+Starter membership is available for $29/month.
 Review the terms before subscribing; this is a paid utility service, not an investment offer.
 https://officialchieftoken.com/checkout
 

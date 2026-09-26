@@ -73,7 +73,7 @@ Each day increases scarcity and tier options
 **Email 3 (Day +3):** Upsell to CHIEF Utility Pass
 - Subject: "Your students need CHIEF Utility Pass (here's why)"
 - Body: Show how Utility Pass integrates with course
-- Price: Launch pricing $29/month for 14 days
+- Price: Starter membership at $29/month
 - CTA: "Activate your edge"
 
 **Email 4 (Day +5):** Case Study / Proof
