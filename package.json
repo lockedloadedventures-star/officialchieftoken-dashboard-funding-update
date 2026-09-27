@@ -1,6 +1,7 @@
 {
   "name": "chief-token",
   "version": "1.0.0",
+  "type": "module",
   "description": "ChiefToken (CHIEF) ERC-20 cryptocurrency project",
   "main": "index.js",
   "scripts": {
@@ -20,13 +21,13 @@
     "ads:pack": "node scripts/generate-ad-sales-pack.js --link https://venturelock.gumroad.com/l/didmlb --support lockedloadedventures@gmail.com",
     "prep:release": "node scripts/prep-release.js",
     "prep:release:strict": "node scripts/prep-release.js --strict",
-    "compile": "hardhat compile",
+    "compile": "hardhat build",
     "test": "hardhat test",
     "deploy:local": "hardhat run scripts/deploy.js --network localhost",
     "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
     "deploy:eth": "hardhat run scripts/deploy.js --network mainnet",
     "deploy:base": "hardhat run scripts/deploy.js --network base",
-    "verify:base": "hardhat run scripts/verify-base.js --network base",
+    "verify:base": "node scripts/verify-base.js",
     "owner:transfer": "hardhat run scripts/transfer-ownership.js --network sepolia",
     "send:sepolia": "hardhat run scripts/send-tokens.js --network sepolia"
   },
@@ -39,9 +40,10 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-toolbox-mocha-ethers": "^4.0.0",
     "dotenv": "^16.4.5",
-    "hardhat": "^2.22.10"
+    "ethers": "^6.14.0",
+    "hardhat": "^3.18.0"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.2",

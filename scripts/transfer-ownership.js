@@ -1,10 +1,11 @@
 require("dotenv").config();
-const { ethers } = require("hardhat");
 
 const CONTRACT_ADDRESS = process.env.CONTRACT_ADDRESS || "0x3896c9bd802A56c28590EF1E03A7de645c703757";
 const NEW_OWNER = process.env.NEW_OWNER;
 
 async function main() {
+  const { default: hre } = await import("hardhat");
+  const { ethers } = await hre.network.create();
   if (!ethers.isAddress(CONTRACT_ADDRESS)) {
     throw new Error("Invalid CONTRACT_ADDRESS. Set a valid address in .env or script.");
   }

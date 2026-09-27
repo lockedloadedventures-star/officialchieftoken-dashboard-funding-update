@@ -11,7 +11,7 @@ This is a starter ERC-20 cryptocurrency project using Hardhat + OpenZeppelin.
 
 ## 1) Prerequisites
 
-Install Node.js LTS (which includes npm):
+Install Node.js 22.13.0 or later (LTS recommended; required by Hardhat 3):
 
 - <https://nodejs.org/>
 

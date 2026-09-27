@@ -5,6 +5,7 @@ node_modules/
 artifacts/
 cache/
 typechain-types/
+types/
 coverage/
 scripts/tmp_day6_reel/
 .vercel
