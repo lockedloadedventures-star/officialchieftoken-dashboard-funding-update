@@ -7,3 +7,5 @@ cache/
 typechain-types/
 coverage/
 scripts/tmp_day6_reel/
+.vercel
+.env*
