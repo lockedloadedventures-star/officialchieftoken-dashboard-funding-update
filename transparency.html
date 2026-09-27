@@ -39,7 +39,7 @@
         <div>
           <p><strong>Current token owner:</strong> <code>0x0271623f73d7c31694e013e9c59abcc046f4bb8f</code></p>
           <p><strong>Company treasury Safe:</strong> <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/address/0xfD847b0393cfD66DC3329F4A9fd763694017BBeB">0xfD847b0393cfD66DC3329F4A9fd763694017BBeB</a> (2-of-3)</p>
-          <p><strong>Market:</strong> <a target="_blank" rel="noopener noreferrer" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">Uniswap V3 CHIEF/WETH pool address</a>; usable liquidity and a market price are not currently established.</p>
+          <p><strong>Market:</strong> <a target="_blank" rel="noopener noreferrer" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">Uniswap V3 CHIEF/WETH 0.3% pool</a>; liquidity is extremely thin (see market status below).</p>
           <p><strong>Pool:</strong> <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/address/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d</a></p>
           <p><strong>Ownership event:</strong> <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/tx/0x0e380f5f36849e452c005e5f8d0a19c441647629159445d9455c0543daa7d7dd">View successful transfer</a></p>
         </div>
@@ -48,7 +48,18 @@
 
     <section class="panel">
       <h2>Current market status</h2>
-      <p>The CHIEF contract is deployed and verifiable on Base, but no market price is being represented here. A price will only be established when CHIEF and WETH liquidity are deposited into the Uniswap pool. Until then, CHIEF should be treated as having no established trading value, and the pool should not be described as actively liquid.</p>
+      <p>As of 2026-09-27 the Uniswap V3 pool holds roughly 4,050 CHIEF and 0.00405 WETH. That is a very small amount of liquidity: even small trades will move the price sharply, and the quoted pool price should not be treated as a reliable market value. CHIEF is not listed on any centralized exchange, and no price or market cap is represented on this site.</p>
+    </section>
+
+    <section class="panel">
+      <h2>Owner activity log</h2>
+      <p>Owner-wallet actions that change supply or liquidity are recorded here with links so anyone can verify them.</p>
+      <ul>
+        <li><strong>2026-05-09:</strong> Initial mint of 1,000,000 CHIEF to <code>0xDE8D41402DAf69C5AfCA62C4e7D279d01B6a24ab</code>. <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/tx/0x079d93639bbe157025acc7675a1b56a3bfdb83ea5d2e8eb505d5e45178da72ed">View tx</a></li>
+        <li><strong>2026-09-27:</strong> Owner wallet received 0.0041 ETH on Base to pay for gas. <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/tx/0x10c6ec227b4542918d295442bb2c98bc90d1f72187f98ba6497d599b4fb82dd1">View tx</a></li>
+        <li><strong>2026-09-27:</strong> Owner minted 50 CHIEF to the owner wallet (total supply now 1,000,050 CHIEF). <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/tx/0x67ff04aaca3b39577a0d23ce79144478031fb143b50455a800c8daee27a86b03">View tx</a></li>
+        <li><strong>2026-09-27:</strong> Owner added about 49.997 CHIEF and 0.00005 WETH as liquidity to the CHIEF/WETH pool. This position is not locked. <a target="_blank" rel="noopener noreferrer" href="https://basescan.org/tx/0x48feb16ebc459dd222674d689b1cb7aaff79f7eb9979355e4be32f4d2ab0eaf8">View tx</a></li>
+      </ul>
     </section>
 
     <section class="panel">
@@ -80,7 +91,7 @@
 
   <footer class="footer">
     <p><a href="./index.html">Return to CHIEF home</a></p>
-    <p class="small">Last reviewed: 2026-09-23. On-chain values can change; verify links independently.</p>
+    <p class="small">Last reviewed: 2026-09-27. On-chain values can change; verify links independently.</p>
   </footer>
 </body>
 </html>
