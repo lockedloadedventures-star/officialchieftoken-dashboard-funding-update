@@ -2,6 +2,7 @@
 const statusEl = document.getElementById("status");
 const connectBtn = document.getElementById("connectBtn");
 const switchBtn = document.getElementById("switchBtn");
+const manualTokenHelpEl = document.getElementById("manualTokenHelp");
 const walletAddressEl = document.getElementById("walletAddress");
 const networkTagEl = document.getElementById("networkTag");
 const roleTagEl = document.getElementById("roleTag");
@@ -481,9 +482,15 @@ async function transferOwnership() {
 }
 
 async function addTokenToWallet() {
+  if (!window.ethereum) {
+    manualTokenHelpEl.hidden = false;
+    setStatus("No wallet detected. Use the manual import details below, or open this page in MetaMask’s in-app browser.", "error");
+    manualTokenHelpEl.scrollIntoView({ behavior: "smooth", block: "center" });
+    return;
+  }
+
   try {
-    if (!window.ethereum) throw new Error("No wallet detected.");
-    await window.ethereum.request({
+    const added = await window.ethereum.request({
       method: "wallet_watchAsset",
       params: {
         type: "ERC20",
@@ -494,14 +501,30 @@ async function addTokenToWallet() {
         }
       }
     });
-    setStatus("CHIEF added to MetaMask token list.", "ok");
-  } catch (err) {
-    const message = String(err?.message || "").toLowerCase();
-    if (message.includes("wallet_watchasset") || message.includes("not supported")) {
-      setStatus("This wallet does not support automatic token import. In MetaMask, choose Import tokens and enter the CHIEF contract address.", "error");
+    if (added) {
+      setStatus("CHIEF added to wallet token list.", "ok");
       return;
     }
-    setStatus(formatEthersError(err), "error");
+
+    manualTokenHelpEl.hidden = false;
+    setStatus("Wallet did not add CHIEF automatically. Use the manual import details below.", "error");
+  } catch (err) {
+    if (err && (err.code === 4001 || err.code === "ACTION_REJECTED")) {
+      setStatus("Token import was rejected in the wallet.", "error");
+      return;
+    }
+
+    manualTokenHelpEl.hidden = false;
+    setStatus("Automatic import is unavailable. Use the manual import details below.", "error");
+  }
+}
+
+async function copyTokenAddress() {
+  try {
+    await navigator.clipboard.writeText(CONTRACT_ADDRESS);
+    setStatus("CHIEF contract address copied.", "ok");
+  } catch {
+    setStatus("Copy is unavailable here. Press and hold the contract address to copy it.", "error");
   }
 }
 
@@ -512,6 +535,7 @@ document.getElementById("claimBtn").addEventListener("click", claimToSelf);
 document.getElementById("mintToBtn").addEventListener("click", mintToAddress);
 document.getElementById("transferOwnerBtn").addEventListener("click", transferOwnership);
 document.getElementById("addTokenBtn").addEventListener("click", addTokenToWallet);
+document.getElementById("copyTokenAddressBtn").addEventListener("click", copyTokenAddress);
 
 if (window.ethereum) {
   window.ethereum.on("accountsChanged", handleAccountsChanged);
