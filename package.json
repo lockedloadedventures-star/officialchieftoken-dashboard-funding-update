@@ -11,6 +11,7 @@
     "web:netlify": "npx --yes netlify-cli deploy --prod --dir web",
     "launch:readiness": "node scripts/launch-readiness.js",
     "report:weekly": "node scripts/weekly-liquidity-report.js",
+    "liquidity:add": "node scripts/launch-pool.js",
     "deploy:verify": "node scripts/verify-deployment.js",
     "score:daily": "node scripts/daily-scoreboard-entry.js",
     "config:checkout": "node scripts/generate-checkout-config.js",

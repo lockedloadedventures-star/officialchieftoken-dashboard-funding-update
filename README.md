@@ -135,6 +135,8 @@ Run launch file readiness checks:
 npm run launch:readiness
 ```
 
+Liquidity provisioning is a Base mainnet transaction signed with `PRIVATE_KEY`. Before running `npm run liquidity:add`, review the pool and set `CONFIRM_LIQUIDITY_ACTION=I_UNDERSTAND`, `LIQUIDITY_CHIEF_AMOUNT`, `LIQUIDITY_WETH_AMOUNT`, `LIQUIDITY_MAX_SLIPPAGE_BPS`, and `LIQUIDITY_GAS_RESERVE_ETH` in your local `.env`. The script refuses missing settings, an uninitialized pool, or insufficient balances; never commit `.env`.
+
 Verify production domain deployment responses:
 
 ```bash

@@ -8,24 +8,23 @@ const FACTORY_ADDRESS   = "0x33128a8fC17869897dcE68Ed026d694621f6FDfD"; // Unisw
 const POS_MGR_ADDRESS   = "0x03a520b32C04BF3bEEf7BEb72E919cf822Ed34f1"; // NonfungiblePositionManager on Base
 
 const FEE = 3000;        // 0.3% fee tier
-const TICK_SPACING = 60; // tick spacing for 0.3%
+
+function parseLiquidityAmount(name) {
+  const value = process.env[name] || "";
+  if (!/^\d+(\.\d+)?$/.test(value)) {
+    throw new Error(`Set ${name} to an explicit positive amount.`);
+  }
+
+  const amount = ethers.parseUnits(value, 18);
+  if (amount <= 0n) {
+    throw new Error(`${name} must be greater than zero.`);
+  }
+  return amount;
+}
 
 // 1 ETH = 1,000,000 CHIEF  →  price CHIEF/WETH = 0.000001
 // token0 = CHIEF (lower address), token1 = WETH
 // sqrtPriceX96 = sqrt(0.000001) * 2^96
-function computeSqrtPriceX96() {
-  const Q96 = 2n ** 96n;
-  // sqrt(1e-6) = 1e-3; represent as rational: numerator=1, denominator=1000
-  // sqrtPriceX96 = Q96 / 1000
-  return Q96 / 1000n;
-}
-
-function nearestUsableTick(tick, spacing) {
-  // Always round towards zero so we stay within valid range
-  const rounded = Math.trunc(tick / spacing) * spacing;
-  return rounded;
-}
-
 // Helper: send a raw call using eth_call
 async function ethCall(provider, to, iface, fn, args) {
   const data = iface.encodeFunctionData(fn, args);
@@ -77,16 +76,44 @@ async function sendTx(signer, provider, to, iface, fn, args, value = 0n) {
 }
 
 async function main() {
-  const rpc = process.env.BASE_MAINNET_RPC_URL || "https://base-rpc.publicnode.com";
+  if (process.env.CONFIRM_LIQUIDITY_ACTION !== "I_UNDERSTAND") {
+    throw new Error("Set CONFIRM_LIQUIDITY_ACTION=I_UNDERSTAND only after reviewing the proposed amounts.");
+  }
+  if (!process.env.PRIVATE_KEY) {
+    throw new Error("Set PRIVATE_KEY in .env for the wallet that will supply liquidity.");
+  }
+  if (!process.env.BASE_MAINNET_RPC_URL) {
+    throw new Error("Set BASE_MAINNET_RPC_URL in .env.");
+  }
+
+  const chiefDesired = parseLiquidityAmount("LIQUIDITY_CHIEF_AMOUNT");
+  const wethDesired = parseLiquidityAmount("LIQUIDITY_WETH_AMOUNT");
+  const gasReserve = parseLiquidityAmount("LIQUIDITY_GAS_RESERVE_ETH");
+  const slippageText = process.env.LIQUIDITY_MAX_SLIPPAGE_BPS || "";
+  if (!/^\d+$/.test(slippageText)) {
+    throw new Error("Set LIQUIDITY_MAX_SLIPPAGE_BPS to an integer from 1 to 500.");
+  }
+  const slippageBps = Number(slippageText);
+  if (slippageBps < 1 || slippageBps > 500) {
+    throw new Error("LIQUIDITY_MAX_SLIPPAGE_BPS must be from 1 to 500.");
+  }
+
+  const rpc = process.env.BASE_MAINNET_RPC_URL;
   // Use a network object without ENS to prevent ENS resolution on Base
   const network = ethers.Network.from({ chainId: 8453, name: "base" });
   const provider = new ethers.JsonRpcProvider(rpc, network, { staticNetwork: network });
   const signer = new ethers.Wallet(process.env.PRIVATE_KEY, provider);
   const signerAddr = signer.address;
 
+  const chainId = BigInt(await provider.send("eth_chainId", []));
+  if (chainId !== 8453n) {
+    throw new Error(`Wrong network: expected Base chain 8453, got ${chainId}.`);
+  }
+
   const rawBal = await provider.send("eth_getBalance", [signerAddr, "latest"]);
+  const ethBalance = BigInt(rawBal);
   console.log("Signer:", signerAddr);
-  console.log("ETH balance:", ethers.formatEther(BigInt(rawBal)));
+  console.log("ETH balance:", ethers.formatEther(ethBalance));
 
   // Determine token order
   const token0 = CHIEF_ADDRESS.toLowerCase() < WETH_ADDRESS.toLowerCase() ? CHIEF_ADDRESS : WETH_ADDRESS;
@@ -94,16 +121,11 @@ async function main() {
   console.log("token0:", token0);
   console.log("token1:", token1);
 
-  const sqrtPriceX96 = computeSqrtPriceX96();
-  console.log("sqrtPriceX96:", sqrtPriceX96.toString());
-
   // --- Interfaces ---
   const factoryIface = new ethers.Interface([
-    "function getPool(address tokenA, address tokenB, uint24 fee) view returns (address)",
-    "function createPool(address tokenA, address tokenB, uint24 fee) returns (address)"
+    "function getPool(address tokenA, address tokenB, uint24 fee) view returns (address)"
   ]);
   const poolIface = new ethers.Interface([
-    "function initialize(uint160 sqrtPriceX96)",
     "function slot0() view returns (uint160 sqrtPriceX96, int24 tick, uint16 observationIndex, uint16 observationCardinality, uint16 observationCardinalityNext, uint8 feeProtocol, bool unlocked)"
   ]);
   const erc20Iface = new ethers.Interface([
@@ -114,41 +136,50 @@ async function main() {
     "function mint(tuple(address token0, address token1, uint24 fee, int24 tickLower, int24 tickUpper, uint256 amount0Desired, uint256 amount1Desired, uint256 amount0Min, uint256 amount1Min, address recipient, uint256 deadline) params) payable returns (uint256 tokenId, uint128 liquidity, uint256 amount0, uint256 amount1)"
   ]);
 
-  // Step 1: Get or create pool
+  // Step 1: Require the existing pool; creation and initial price need separate review.
   let [poolAddr] = await ethCall(provider, FACTORY_ADDRESS, factoryIface, "getPool", [token0, token1, FEE]);
   if (poolAddr === ethers.ZeroAddress) {
-    console.log("Creating Uniswap V3 pool...");
-    await sendTx(signer, provider, FACTORY_ADDRESS, factoryIface, "createPool", [token0, token1, FEE]);
-    [poolAddr] = await ethCall(provider, FACTORY_ADDRESS, factoryIface, "getPool", [token0, token1, FEE]);
-    console.log("Pool created:", poolAddr);
-  } else {
-    console.log("Pool already exists:", poolAddr);
+    throw new Error("CHIEF/WETH pool does not exist. Review pool creation and initial price separately.");
   }
+  console.log("Pool:", poolAddr);
 
-  // Step 2: Initialize pool price if needed
+  // Step 2: Require an initialized pool before any transaction.
   const slot0Result = await ethCall(provider, poolAddr, poolIface, "slot0", []);
   const currentSqrtPrice = slot0Result[0];
   if (currentSqrtPrice === 0n) {
-    console.log("Initializing pool price...");
-    await sendTx(signer, provider, poolAddr, poolIface, "initialize", [sqrtPriceX96]);
-    console.log("Pool initialized.");
-  } else {
-    console.log("Pool already initialized. sqrtPriceX96:", currentSqrtPrice.toString());
+    throw new Error("Pool is not initialized. Review and set an initial price separately.");
   }
+  console.log("Current sqrtPriceX96:", currentSqrtPrice.toString());
 
   // Step 3: Wrap ETH → WETH and approve both tokens for position manager
-  const wethDesired = ethers.parseEther("0.004");
-  const chiefDesired = ethers.parseUnits("100000", 18); // 100,000 CHIEF
-
   const wethIface = new ethers.Interface([
     "function deposit() payable",
     "function approve(address spender, uint256 amount) returns (bool)",
-    "function balanceOf(address) view returns (uint256)"
+    "function balanceOf(address) view returns (uint256)",
+    "function allowance(address owner, address spender) view returns (uint256)"
   ]);
 
-  console.log("Wrapping 0.004 ETH → WETH...");
-  await sendTx(signer, provider, WETH_ADDRESS, wethIface, "deposit", [], wethDesired);
-  console.log("ETH wrapped to WETH.");
+  const [chiefBalance] = await ethCall(provider, CHIEF_ADDRESS, erc20Iface, "balanceOf", [signerAddr]);
+  const [wethBalance] = await ethCall(provider, WETH_ADDRESS, wethIface, "balanceOf", [signerAddr]);
+  const wethToWrap = wethDesired > wethBalance ? wethDesired - wethBalance : 0n;
+  if (chiefBalance < chiefDesired) {
+    throw new Error(`Insufficient CHIEF: wallet has ${ethers.formatUnits(chiefBalance, 18)}, requested ${ethers.formatUnits(chiefDesired, 18)}.`);
+  }
+  if (ethBalance < wethToWrap + gasReserve) {
+    throw new Error(`Insufficient Base ETH for WETH and gas reserve: need at least ${ethers.formatEther(wethToWrap + gasReserve)} ETH.`);
+  }
+
+  console.log("CHIEF amount:", ethers.formatUnits(chiefDesired, 18));
+  console.log("WETH amount:", ethers.formatUnits(wethDesired, 18));
+  console.log("Maximum slippage:", `${slippageBps} bps`);
+  console.log("Gas reserve:", ethers.formatEther(gasReserve), "ETH");
+
+  if (wethToWrap > 0n) {
+    console.log("Wrapping ETH to cover WETH shortfall:", ethers.formatEther(wethToWrap));
+    await sendTx(signer, provider, WETH_ADDRESS, wethIface, "deposit", [], wethToWrap);
+  } else {
+    console.log("Existing WETH balance covers the requested amount.");
+  }
 
   // Check if CHIEF is already approved (skip if already approved from prev run)
   const [chiefAllowance] = await ethCall(provider, CHIEF_ADDRESS, new ethers.Interface([
@@ -162,9 +193,11 @@ async function main() {
     console.log("CHIEF already approved.");
   }
 
-  console.log("Approving WETH for NonfungiblePositionManager...");
-  await sendTx(signer, provider, WETH_ADDRESS, wethIface, "approve", [POS_MGR_ADDRESS, wethDesired]);
-  console.log("WETH approved.");
+  const [wethAllowance] = await ethCall(provider, WETH_ADDRESS, wethIface, "allowance", [signerAddr, POS_MGR_ADDRESS]);
+  if (wethAllowance < wethDesired) {
+    console.log("Approving WETH for NonfungiblePositionManager...");
+    await sendTx(signer, provider, WETH_ADDRESS, wethIface, "approve", [POS_MGR_ADDRESS, wethDesired]);
+  }
 
   // Step 4: Add liquidity via NonfungiblePositionManager (using WETH, not raw ETH)
   // Use hardcoded full-range ticks aligned to tick spacing 60
@@ -189,8 +222,8 @@ async function main() {
     tickUpper,
     amount0Desired,
     amount1Desired,
-    amount0Min: 0n,
-    amount1Min: 0n,
+    amount0Min: amount0Desired * BigInt(10000 - slippageBps) / 10000n,
+    amount1Min: amount1Desired * BigInt(10000 - slippageBps) / 10000n,
     recipient: signerAddr,
     deadline
   };
