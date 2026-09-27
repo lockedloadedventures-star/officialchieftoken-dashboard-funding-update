@@ -544,3 +544,43 @@ if (window.ethereum) {
 
 setOwnerControls(false, "Connect owner wallet to enable this action.");
 autoConnectIfAuthorized();
+
+
+const TREASURY_ADDRESS = "0xfD847b0393cfD66DC3329F4A9fd763694017BBeB";
+const treasuryEthBalanceEl = document.getElementById("treasuryEthBalance");
+const treasuryChiefBalanceEl = document.getElementById("treasuryChiefBalance");
+const treasuryUpdatedEl = document.getElementById("treasuryUpdated");
+const refreshTreasuryBtn = document.getElementById("refreshTreasuryBtn");
+const treasuryReadContract = new ethers.Contract(
+    CONTRACT_ADDRESS,
+    ["function balanceOf(address) view returns (uint256)"],
+    readProvider
+  );
+
+async function refreshTreasuryBalances() {
+    refreshTreasuryBtn.disabled = true;
+    treasuryUpdatedEl.textContent = "Refreshing on-chain balances...";
+
+  try {
+        const [ethBalance, chiefBalance] = await Promise.all([
+                readProvider.getBalance(TREASURY_ADDRESS),
+                treasuryReadContract.balanceOf(TREASURY_ADDRESS)
+              ]);
+
+      treasuryEthBalanceEl.textContent = `${Number(ethers.formatEther(ethBalance)).toLocaleString(undefined, { maximumFractionDigits: 6 })} ETH`;
+        treasuryChiefBalanceEl.textContent = `${Number(ethers.formatUnits(chiefBalance, 18)).toLocaleString(undefined, { maximumFractionDigits: 4 })} CHIEF`;
+        treasuryUpdatedEl.textContent = `On-chain balances only. Updated ${new Date().toLocaleTimeString()}. Card donations and Stripe payouts are not included.`;
+        treasuryUpdatedEl.classList.remove("error");
+  } catch {
+        treasuryEthBalanceEl.textContent = "Unavailable";
+        treasuryChiefBalanceEl.textContent = "Unavailable";
+        treasuryUpdatedEl.textContent = "Could not load Base balances. Retry shortly. Card donations and Stripe payouts are not included.";
+        treasuryUpdatedEl.classList.add("error");
+  } finally {
+        refreshTreasuryBtn.disabled = false;
+  }
+}
+
+refreshTreasuryBtn.addEventListener("click", refreshTreasuryBalances);
+refreshTreasuryBalances();
+window.setInterval(refreshTreasuryBalances, 60000);
