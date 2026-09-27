@@ -258,3 +258,42 @@ input {
     grid-template-columns: 1fr;
   }
 }
+
+
+.treasury-stats .card {
+    min-width: 0;
+    margin: 0;
+}
+
+.treasury-stats .value {
+    overflow-wrap: anywhere;
+}
+
+.treasury-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.treasury-controls .hint {
+    flex: 1 1 100%;
+    margin: 0;
+}
+
+.treasury-controls .btn {
+    display: inline-block;
+    text-decoration: none;
+}
+
+.treasury-controls .error {
+    color: var(--danger);
+}
+
+@media (max-width: 620px) {
+    .treasury-controls .btn {
+          flex: 1 1 100%;
+          text-align: center;
+    }
+}
