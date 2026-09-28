@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ChiefToken (CHIEF) Whitepaper</title>
+  <meta name="description" content="Issuer-prepared overview of ChiefToken (CHIEF), its Base contract, supply controls, stated utility, market status, and risks." />
+  <link rel="canonical" href="https://officialchieftoken.com/whitepaper.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Manrope:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./launch.css" />
+  <style>
+    .whitepaper main { padding-bottom: 48px; }
+    .whitepaper .hero { padding-bottom: 18px; }
+    .whitepaper .hero h1 { max-width: 20ch; }
+    .paper-meta { display: flex; flex-wrap: wrap; gap: 8px 22px; margin-top: 18px; color: var(--muted); font-size: 0.9rem; }
+    .paper-section h2 { margin-bottom: 12px; }
+    .paper-section p, .paper-section li { line-height: 1.7; }
+    .paper-section ul { padding-left: 22px; }
+    .paper-facts { width: 100%; border-collapse: collapse; margin-top: 14px; }
+    .paper-facts th, .paper-facts td { padding: 10px 12px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; overflow-wrap: anywhere; }
+    .paper-facts th { width: 27%; }
+    .paper-links { display: flex; flex-wrap: wrap; gap: 10px 18px; }
+    .paper-links a { overflow-wrap: anywhere; }
+    .notice { border-left: 4px solid var(--brand-2); padding-left: 14px; }
+    @media print {
+      .topbar, .noise, .footer .print-note { display: none !important; }
+      html, body { background: #fff; }
+      .whitepaper main { width: 100%; padding: 0; }
+      .whitepaper .hero { padding: 20px 0; }
+      .whitepaper .panel { break-inside: avoid; box-shadow: none; background: #fff; }
+    }
+  </style>
+</head>
+<body class="whitepaper">
+  <div class="noise"></div>
+  <header class="topbar">
+    <a class="brand" href="./index.html" style="color:inherit;text-decoration:none;">CHIEF</a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="./index.html">Home</a>
+      <a href="./transparency.html">Transparency</a>
+      <a href="./index.html#market">Market</a>
+    </nav>
+  </header>
+  <main>
+    <section class="hero">
+      <p class="kicker">ISSUER DOCUMENT · BASE MAINNET</p>
+      <h1>ChiefToken (CHIEF) Whitepaper</h1>
+      <p class="lead">An overview of the deployed token, its administrative controls, the project's stated utility direction, market status, and material risks.</p>
+      <div class="paper-meta"><span>Version 1.0</span><span>Last reviewed September 27, 2026</span><span>Issuer: Locked &amp; Loaded Ventures, Inc.</span></div>
+    </section>
+    <section class="panel paper-section">
+      <h2>1. Overview</h2>
+      <p>ChiefToken (CHIEF) is an ERC-20 token deployed on Base. Its deployed contract supports ordinary ERC-20 transfers and owner-controlled minting. The project describes CHIEF as a community and ecosystem utility token associated with educational products, community participation, and possible holder benefits.</p>
+      <p class="notice">This is an issuer-prepared overview, not an independent audit, investment recommendation, or promise of future functionality. Verify current on-chain information using the references below.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>2. Project and utility</h2>
+      <p>Locked &amp; Loaded Ventures, Inc. operates the ChiefToken project. The project website describes the CHIEF Utility Pass, a separate membership offering for educational content, operating frameworks, and builder support. The membership is not a smart-contract function, and holding CHIEF is not represented as a requirement to purchase or subscribe.</p>
+      <p>The project has described potential CHIEF-related uses such as community incentives, access, and discounts. These depend on product implementation and applicable terms; they are not guaranteed by the deployed contract. No claim is made that CHIEF conveys equity, debt, ownership, voting rights, dividends, or a share of company profits.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>3. Token and supply</h2>
+      <table class="paper-facts"><tbody>
+        <tr><th>Name / symbol</th><td>ChiefToken / CHIEF</td></tr>
+        <tr><th>Standard</th><td>ERC-20, 18 decimals</td></tr>
+        <tr><th>Network</th><td>Base Mainnet, chain ID 8453</td></tr>
+        <tr><th>Contract</th><td><a href="https://basescan.org/address/0x3896c9bd802A56c28590EF1E03A7de645c703757">0x3896c9bd802A56c28590EF1E03A7de645c703757</a></td></tr>
+        <tr><th>Initial supply</th><td>1,000,000 CHIEF, minted at deployment</td></tr>
+        <tr><th>Total supply</th><td>1,000,050 CHIEF as reported by BaseScan on September 27, 2026</td></tr>
+        <tr><th>Maximum supply</th><td>Uncapped; the owner can mint additional CHIEF</td></tr>
+      </tbody></table>
+      <p>The initial supply was minted to the deployment owner. A further 50 CHIEF was minted on September 27, 2026. There is no hard-coded supply ceiling. Additional minting can dilute existing balances and reduce each token's share of total supply.</p>
+      <p>No complete allocation, vesting, or lockup schedule is established in this document. Circulating supply is not independently certified. BaseScan's September 27, 2026 snapshot showed six holder addresses and a highly concentrated distribution, with approximately 99.6% of supply at one address. Balances can change; consult the live explorer for current figures.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>4. Contract and administration</h2>
+      <p>The verified Solidity 0.8.24 contract uses OpenZeppelin ERC20 and Ownable components. The constructor mints the initial supply to the initial owner. The custom <code>mint(address,uint256)</code> function is restricted to the current owner. Ownership can be transferred through the inherited Ownable interface.</p>
+      <p>The token owner reported in the project disclosures is an externally owned account (EOA), not a multisig or on-chain governance system. The company's published 2-of-3 treasury Safe is a separate address and does not control token minting or ownership. Control of the owner key is a material administrative and security risk.</p>
+      <p>The deployed contract does not implement a maximum-supply cap, transfer tax, staking or yield, dividends, burn function, pause control, or holder voting. No independent smart-contract audit is claimed. Source-code verification on BaseScan is not the same as an independent security audit.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>5. Market and liquidity</h2>
+      <p>A CHIEF/WETH Uniswap V3 pool is published on Base with a 0.3% fee tier. The September 27, 2026 project transparency snapshot described the pool as extremely thin, holding approximately 4,050 CHIEF and 0.00405 WETH. These balances are time-sensitive; use the pool and explorer links below for current data.</p>
+      <p>The project does not represent a reliable reference price or dependable liquidity. Small trades may cause substantial price movement, slippage may be high, and a holder may be unable to sell at a desired price or at all. The published liquidity position is not represented as locked. This paper does not claim a centralized-exchange listing.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>6. Roadmap and delivery status</h2>
+      <p>The project has described goals that include publishing regular treasury and growth reports, improving transparency around liquidity, and expanding educational and community products. These are plans, not commitments or guaranteed outcomes. Any token-related product utility remains subject to implementation, operational capacity, applicable law, and product terms.</p>
+      <p>Live contract capabilities should be distinguished from website descriptions and future plans. The contract's verified behavior is limited to its ERC-20 and owner-administration functions.</p>
+    </section>
+    <section class="panel paper-section">
+      <h2>7. Key risks</h2>
+      <ul>
+        <li><strong>Supply and dilution:</strong> The owner can mint without a hard-coded limit.</li>
+        <li><strong>Centralized administration:</strong> The owner is an EOA; key loss, compromise, or misuse could affect supply and ownership.</li>
+        <li><strong>Holder concentration:</strong> The disclosed explorer snapshot showed approximately 99.6% of supply at one address.</li>
+        <li><strong>Liquidity and price:</strong> Pool liquidity is extremely thin, the position is not locked, and no dependable market price is represented.</li>
+        <li><strong>Smart-contract and blockchain risk:</strong> Software defects, dependencies, wallet compromise, Base outages, or other infrastructure failures can cause loss or interruption.</li>
+        <li><strong>Utility and execution risk:</strong> Planned benefits may change or never be implemented; the token contract does not enforce them.</li>
+        <li><strong>Regulatory, tax, and counterparty risk:</strong> Treatment varies by jurisdiction and may change. Exchanges, service providers, or regulators may restrict access.</li>
+        <li><strong>Total-loss risk:</strong> CHIEF is speculative, and a holder may lose some or all of the amount spent.</li>
+      </ul>
+    </section>
+    <section class="panel paper-section">
+      <h2>8. References</h2>
+      <div class="paper-links">
+        <a href="./index.html">Official project website</a>
+        <a href="./transparency.html">Transparency and disclosures</a>
+        <a href="https://basescan.org/address/0x3896c9bd802A56c28590EF1E03A7de645c703757#code">Contract and verified source on BaseScan</a>
+        <a href="https://basescan.org/token/0x3896c9bd802A56c28590EF1E03A7de645c703757">CHIEF token holder and supply page</a>
+        <a href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">CHIEF/WETH Uniswap V3 pool</a>
+        <a href="https://basescan.org/address/0xfD847b0393cfD66DC3329F4A9fd763694017BBeB">Company treasury Safe on BaseScan</a>
+      </div>
+    </section>
+    <section class="panel paper-section">
+      <h2>9. Important notice</h2>
+      <p>This paper is for general informational purposes only. It is not financial, investment, legal, or tax advice; an offer or solicitation; or a guarantee of value, liquidity, exchange access, product availability, or future results. Readers should conduct independent research, review live contract and market data, and consult qualified advisers about their circumstances. Do not use funds you cannot afford to lose.</p>
+    </section>
+  </main>
+  <footer class="footer">
+    <p><a href="./index.html">Return to CHIEF home</a></p>
+    <p class="small print-note">Last reviewed September 27, 2026. On-chain values can change; verify sources independently.</p>
+  </footer>
+</body>
+</html>
