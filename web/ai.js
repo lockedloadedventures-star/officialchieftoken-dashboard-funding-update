@@ -1,7 +1,7 @@
 const POOL_ADDRESS = "0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d";
 const TOKEN_ADDRESS = "0x3896c9bd802A56c28590EF1E03A7de645c703757";
 const BASE_RPC_URL = "https://base-rpc.publicnode.com";
-const MARKET_API = `https://api.geckoterminal.com/api/v2/networks/base/pools/${POOL_ADDRESS}`;
+const MARKET_API = "/api/chief-market";
 const TOKEN_POOLS_API = "/api/token-pools";
 const MARKET_REFRESH_MS = 60_000;
 const REQUEST_TIMEOUT_MS = 12_000;
@@ -85,9 +85,9 @@ async function refreshMarketData() {
 
   try {
     const response = await fetch(MARKET_API, { signal: controller.signal });
-    if (!response.ok) throw new Error(`GeckoTerminal returned HTTP ${response.status}.`);
-
     const payload = await response.json();
+    if (!response.ok) throw new Error(payload?.error || `Market data returned HTTP ${response.status}.`);
+
     const attributes = payload?.data?.attributes;
     if (attributes?.address?.toLowerCase() !== POOL_ADDRESS.toLowerCase()) {
       throw new Error("GeckoTerminal returned an unexpected pool.");

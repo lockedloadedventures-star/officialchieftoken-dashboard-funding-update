@@ -91,7 +91,7 @@ The app is already wired to the deployed Sepolia contract:
 
 ## CHIEF Signal Check
 
-The read-only Base token checker is available at `/web/ai.html`. It reads token facts from Base RPC and listed pools from GeckoTerminal. Pool requests go through the Vercel `/api/token-pools` function to avoid browser CORS restrictions; the function accepts only validated token addresses and calls a fixed GeckoTerminal endpoint.
+The read-only Base token checker is available at `/web/ai.html`. It reads token facts from Base RPC and listed pools from GeckoTerminal. Pool requests go through read-only Vercel functions (`/api/token-pools` and `/api/chief-market`) to avoid browser CORS restrictions; the token-pools function accepts only validated token addresses, and the market function is pinned to the CHIEF/WETH pool.
 
 The checker is an early research aid, not an audit or financial advice. It does not infer all contract controls or calculate holder concentration.
 
