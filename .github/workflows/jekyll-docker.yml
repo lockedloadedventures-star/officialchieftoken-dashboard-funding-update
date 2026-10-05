@@ -12,6 +12,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Test Signal Check endpoints
+        run: npm run test:signal-check
       - name: Build the site in the jekyll/builder container
         run: |
           docker run \
