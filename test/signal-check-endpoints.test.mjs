@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import chiefMarket from "./chief-market.js";
-import tokenPools from "./token-pools.js";
+import chiefMarket from "../web/api/chief-market.js";
+import tokenPools from "../web/api/token-pools.js";
 
 const POOL_ADDRESS = "0xd926f4c2b5ad4de45e31c875d33d5207e3df3a7d";
 const TOKEN_ADDRESS = "0x3896c9bd802a56c28590ef1e03a7de645c703757";
