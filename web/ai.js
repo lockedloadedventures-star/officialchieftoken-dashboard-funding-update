@@ -2,7 +2,7 @@ const POOL_ADDRESS = "0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d";
 const TOKEN_ADDRESS = "0x3896c9bd802A56c28590EF1E03A7de645c703757";
 const BASE_RPC_URL = "https://base-rpc.publicnode.com";
 const MARKET_API = `https://api.geckoterminal.com/api/v2/networks/base/pools/${POOL_ADDRESS}`;
-const TOKEN_POOLS_API = "https://api.geckoterminal.com/api/v2/networks/base/tokens";
+const TOKEN_POOLS_API = "/api/token-pools";
 const MARKET_REFRESH_MS = 60_000;
 const REQUEST_TIMEOUT_MS = 12_000;
 const SELECTORS = {
@@ -301,9 +301,9 @@ async function loadTokenPools(address) {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
   try {
-    const response = await fetch(`${TOKEN_POOLS_API}/${address}/pools?page=1`, { signal: controller.signal });
-    if (!response.ok) throw new Error(`GeckoTerminal returned HTTP ${response.status}.`);
+    const response = await fetch(`${TOKEN_POOLS_API}?address=${encodeURIComponent(address)}`, { signal: controller.signal });
     const payload = await response.json();
+    if (!response.ok) throw new Error(payload?.error || `Pool lookup returned HTTP ${response.status}.`);
     if (!Array.isArray(payload?.data)) throw new Error("GeckoTerminal returned an unexpected pool list.");
 
     const expectedId = `base_${address.toLowerCase()}`;

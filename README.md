@@ -89,6 +89,12 @@ The app is already wired to the deployed Sepolia contract:
 
 - 0x3896c9bd802A56c28590EF1E03A7de645c703757
 
+## CHIEF Signal Check
+
+The read-only Base token checker is available at `/web/ai.html`. It reads token facts from Base RPC and listed pools from GeckoTerminal. Pool requests go through the Vercel `/api/token-pools` function to avoid browser CORS restrictions; the function accepts only validated token addresses and calls a fixed GeckoTerminal endpoint.
+
+The checker is an early research aid, not an audit or financial advice. It does not infer all contract controls or calculate holder concentration.
+
 ## 8) Production deployment (for listings)
 
 Important: exchange listings require a mainnet token. Sepolia/testnet contracts cannot be listed on Coinbase or major markets.
