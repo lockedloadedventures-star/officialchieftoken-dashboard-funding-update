@@ -95,6 +95,8 @@ The read-only Base token checker is available at `/web/ai.html`. It reads token 
 
 The checker is an early research aid, not an audit or financial advice. It does not infer all contract controls or calculate holder concentration.
 
+Run the endpoint regression tests with `npm run test:signal-check`.
+
 ## 8) Production deployment (for listings)
 
 Important: exchange listings require a mainnet token. Sepolia/testnet contracts cannot be listed on Coinbase or major markets.
