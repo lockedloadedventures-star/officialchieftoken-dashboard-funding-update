@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CHIEF Signal Check | Base Token Reality Checker</title>
+  <meta name="description" content="Check a Base token contract, read on-chain metadata and ownership signals, inspect provider-reported pools, and see what this checker cannot verify." />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://chiefsignal-crypto-research.vercel.app/ai.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="CHIEF Signal Check | Base Token Reality Checker" />
+  <meta property="og:description" content="Show me the receipts: source-linked Base contract reads, pool data, and explicit verification limits." />
+  <meta property="og:url" content="https://chiefsignal-crypto-research.vercel.app/ai.html" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./ai.css" />
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="./launch.html" aria-label="ChiefToken home"><span class="brand-mark">C</span> CHIEF<span class="brand-divider">/</span><span class="brand-product">SIGNAL</span></a>
+      <nav class="nav" aria-label="Main navigation">
+        <a href="#checker">Token checker</a>
+        <a href="#product">What it checks</a>
+        <a href="#workflow">How it works</a>
+        <a href="#roadmap">Roadmap</a>
+        <a class="nav-link" href="./launch.html">CHIEF project</a>
+        <a class="nav-cta" href="#checker">Check a token <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot"></span> BASE TOKEN CHECKER · READ-ONLY</p>
+          <h1>Show me the <span>receipts.</span></h1>
+          <p class="hero-description">Paste a Base token address. Check what the chain reports, inspect provider-listed pools, and see what still needs independent verification—without a score, trade prompt, or buy recommendation.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#checker">Check a Base token <span aria-hidden="true">↓</span></a>
+            <a class="button button-quiet" href="#live-data">View CHIEF data <span aria-hidden="true">↗</span></a>
+          </div>
+          <div class="hero-proof">
+            <span class="proof-icon" aria-hidden="true">✳</span>
+            <p><strong>Source links. No trust score.</strong><br />Read-only public data; verify before you act.</p>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="Illustration of a crypto research brief">
+          <div class="visual-orbit orbit-one"></div>
+          <div class="visual-orbit orbit-two"></div>
+          <div class="visual-glow"></div>
+          <div class="brief-card">
+            <div class="brief-top"><span class="brief-icon">✳</span><span>CHIEFSIGNAL / RESEARCH NOTE</span><span class="brief-menu">•••</span></div>
+            <div class="asset-heading"><div class="asset-avatar">Ξ</div><div><span class="asset-name">ETHEREUM</span><span class="asset-sub">ETH · NETWORK OVERVIEW</span></div><span class="sample-badge">SAMPLE</span></div>
+            <div class="brief-rule"></div>
+            <p class="brief-label">WHAT TO VERIFY</p>
+            <div class="brief-item"><span class="check-icon">01</span><span>Network activity &amp; fee trends</span><span class="brief-arrow">↗</span></div>
+            <div class="brief-item"><span class="check-icon">02</span><span>Protocol and governance updates</span><span class="brief-arrow">↗</span></div>
+            <div class="brief-item"><span class="check-icon">03</span><span>Risks, sources &amp; open questions</span><span class="brief-arrow">↗</span></div>
+            <div class="brief-foot"><span class="source-dot"></span> Example interface · not live analysis</div>
+          </div>
+          <div class="floating-chip chip-top"><span class="chip-spark">✳</span> CONTEXT FIRST</div>
+          <div class="floating-chip chip-bottom"><span class="chip-check">✓</span> SOURCES MATTER</div>
+          <div class="visual-index">01 — RESEARCH, REFRAMED</div>
+        </div>
+      </section>
+
+      <section class="ticker" aria-label="Product principles">
+        <span>ON-CHAIN READS</span><i>✳</i><span>SOURCE LINKS</span><i>✳</i><span>NO TRUST SCORES</span><i>✳</i><span>UNKNOWN MEANS UNKNOWN</span><i>✳</i><span>ON-CHAIN READS</span>
+      </section>
+
+      <section id="checker" class="checker-section section">
+        <div class="checker-intro">
+          <p class="eyebrow">01 / CHIEF SIGNAL CHECK</p>
+          <h2>Look it up.<br /><span>Check the evidence.</span></h2>
+          <p>Enter a Base contract address to read its public metadata, total supply, optional owner field, and pools listed by GeckoTerminal.</p>
+          <div class="checker-notice"><span class="note-icon">i</span><span>This is a first-pass research aid—not an audit, security verdict, or guarantee. A contract owner can expose powers that this checker does not detect.</span></div>
+        </div>
+        <div class="checker-window">
+          <div class="checker-window-head"><span class="check-window-mark">✳</span><span>BASE TOKEN LOOKUP</span><span class="read-only-badge">READ ONLY</span></div>
+          <form id="tokenCheckForm" class="token-check-form">
+            <label for="tokenAddressInput">Base token contract address</label>
+            <div class="token-input-row">
+              <input id="tokenAddressInput" name="address" type="text" inputmode="text" autocomplete="off" spellcheck="false" maxlength="42" placeholder="0x…" aria-describedby="tokenAddressHint" required />
+              <button id="tokenCheckButton" type="submit">Check token <span aria-hidden="true">↗</span></button>
+            </div>
+            <p id="tokenAddressHint" class="input-hint">Base mainnet only · A contract address is not a wallet address.</p>
+          </form>
+          <div class="sample-token-row"><span>TRY CHIEF</span><button type="button" id="checkChiefButton">Load CHIEF contract ↗</button></div>
+          <p id="tokenCheckStatus" class="checker-status" role="status" aria-live="polite">Enter an address to begin. Nothing is connected to your wallet.</p>
+          <div id="tokenCheckResults" class="token-results" hidden aria-live="polite" aria-busy="false">
+            <div class="result-token-header">
+              <div><span class="result-eyebrow">CONTRACT SUMMARY</span><h3 id="resultTokenName">—</h3><p id="resultTokenSymbol">—</p></div>
+              <div class="result-header-actions">
+                <button id="copyReportLink" class="share-report-button" type="button" hidden>Copy report link</button>
+                <a id="resultContractLink" class="source-link" href="#" target="_blank" rel="noopener noreferrer">BaseScan ↗</a>
+              </div>
+            </div>
+            <div class="result-facts">
+              <article><span class="fact-label">NETWORK</span><strong>Base · Mainnet</strong><a class="fact-source" href="https://base.org" target="_blank" rel="noopener noreferrer">Base network ↗</a></article>
+              <article><span class="fact-label">TOTAL SUPPLY</span><strong id="resultSupply">Not returned</strong><a id="supplySourceLink" class="fact-source" href="#" target="_blank" rel="noopener noreferrer">Verify on BaseScan ↗</a></article>
+              <article><span class="fact-label">OWNER FIELD</span><strong id="resultOwner">Not exposed / unavailable</strong><a id="ownerSourceLink" class="fact-source" href="#" target="_blank" rel="noopener noreferrer" hidden>View address ↗</a></article>
+            </div>
+            <p id="tokenReadStatus" class="result-read-status"></p>
+            <div class="limits-grid">
+              <article><span class="limit-icon">?</span><div><strong>Minting &amp; supply cap</strong><p>Not inferred. Requires verified source or deeper bytecode analysis; owner() alone does not reveal all contract controls.</p></div></article>
+              <article><span class="limit-icon">?</span><div><strong>Holder concentration</strong><p>Not included. Requires address-level holder indexing and classification; no concentration estimate is presented.</p></div></article>
+            </div>
+            <div class="result-pools">
+              <div class="result-pools-heading"><div><span class="result-eyebrow">MARKET PLACES</span><h4>Provider-listed pools</h4></div><span class="provider-badge">GECKOTERMINAL</span></div>
+              <p id="poolLookupStatus" class="pool-lookup-status">Loading pool data…</p>
+              <div id="tokenPools" class="token-pools"></div>
+            </div>
+            <p id="resultTimestamp" class="result-timestamp"></p>
+          </div>
+        </div>
+      </section>
+
+      <section id="live-data" class="live-section section">
+        <div class="live-heading">
+          <div>
+            <p class="eyebrow"><span class="live-status-dot" id="marketStatusDot"></span> LIVE BASE MARKET FEED</p>
+            <h2>Current pool data.<br /><span>Clear caveats.</span></h2>
+          </div>
+          <button id="refreshMarketBtn" class="refresh-button" type="button"><span aria-hidden="true">↻</span> Refresh data</button>
+        </div>
+        <p class="live-intro">Live provider-reported data for the CHIEF/WETH pool on Base, fetched from GeckoTerminal. This very thin pool is not reliable price discovery; displayed quotes may not be executable.</p>
+        <div class="market-grid" aria-live="polite" aria-busy="true">
+          <article class="market-card market-price-card">
+            <span class="market-label">CHIEF · POOL-IMPLIED PRICE</span>
+            <strong id="liveChiefPrice">Loading…</strong>
+            <span class="market-caption">USD · derived from this pool</span>
+          </article>
+          <article class="market-card">
+            <span class="market-label">POOL RESERVES</span>
+            <strong id="livePoolReserve">Loading…</strong>
+            <span class="market-caption">Provider-reported USD value</span>
+          </article>
+          <article class="market-card">
+            <span class="market-label">24H ACTIVITY</span>
+            <strong id="livePoolActivity">Loading…</strong>
+            <span class="market-caption" id="livePoolVolume">Volume: loading…</span>
+          </article>
+        </div>
+        <p id="marketUpdated" class="feed-status" role="status">Connecting to GeckoTerminal…</p>
+        <div class="liquidity-guide">
+          <div>
+            <p class="eyebrow">OPTIONAL · UNISWAP V3</p>
+            <h3>Want to provide real pool liquidity?</h3>
+            <p>Review the existing CHIEF/WETH pool and choose any amounts yourself on Uniswap. This site will not submit or prefill a transaction. Adding liquidity can lose value, and concentrated-liquidity positions can incur impermanent loss.</p>
+          </div>
+          <a class="uniswap-button" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d" target="_blank" rel="noopener noreferrer">Review pool on Uniswap <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="wallet-panel">
+          <div class="wallet-copy">
+            <p class="eyebrow">OPTIONAL · YOUR BASE WALLET</p>
+            <h3>Check your balances, read-only.</h3>
+            <p>Connect MetaMask to view ETH and CHIEF balances on Base. Your address is used in this browser for balance queries to a public Base RPC; no wallet data is sent to an AI service.</p>
+          </div>
+          <div class="wallet-actions">
+            <button id="connectWalletBtn" class="wallet-button" type="button">Connect MetaMask</button>
+            <button id="refreshWalletBtn" class="refresh-button" type="button" hidden>Refresh balances</button>
+          </div>
+          <div id="walletStatus" class="wallet-status" role="status">Not connected. No wallet permission has been requested.</div>
+          <div id="walletBalances" class="wallet-balances" hidden aria-live="polite" aria-busy="false">
+            <div class="wallet-address-row"><span>CONNECTED ADDRESS</span><a id="walletExplorerLink" href="#" target="_blank" rel="noopener noreferrer">View on BaseScan ↗</a></div>
+            <code id="walletAddress">—</code>
+            <div class="balance-grid">
+              <div><span>BASE ETH</span><strong id="walletEthBalance">—</strong></div>
+              <div><span>CHIEF</span><strong id="walletChiefBalance">—</strong></div>
+            </div>
+          </div>
+          <p class="wallet-disclaimer">Read-only: connecting only requests account visibility. Balances are fetched from a public Base RPC. This page never requests a signature or submits a transaction.</p>
+        </div>
+      </section>
+
+      <section id="product" class="product-section section">
+        <div class="section-heading">
+          <p class="eyebrow">01 / THE PRODUCT</p>
+          <h2>Start with facts.<br /><span>Show the source.</span></h2>
+          <p class="section-intro">The checker favors basic, linkable observations over a black-box trust score. It labels what comes from Base RPC versus a third-party market-data provider.</p>
+        </div>
+        <div class="feature-grid">
+          <article class="feature-card">
+            <div class="feature-number">01</div>
+            <div class="feature-icon icon-lilac">⌕</div>
+            <h3>Read the contract</h3>
+            <p>Fetch basic token metadata, supply, and an optional owner field directly from Base mainnet RPC.</p>
+            <span class="feature-tag">BASE RPC · ON-CHAIN</span>
+          </article>
+          <article class="feature-card feature-accent">
+            <div class="feature-number">02</div>
+            <div class="feature-icon icon-green">↗</div>
+            <h3>Inspect reported pools</h3>
+            <p>Find pools listed by GeckoTerminal and open the provider’s page to review its market-data context.</p>
+            <span class="feature-tag">THIRD-PARTY · PROVIDER-REPORTED</span>
+          </article>
+          <article class="feature-card">
+            <div class="feature-number">03</div>
+            <div class="feature-icon icon-orange">◎</div>
+            <h3>See what’s missing</h3>
+            <p>Mint permissions and holder concentration are called out as unchecked rather than being guessed or scored.</p>
+            <span class="feature-tag">LIMITS MADE VISIBLE</span>
+          </article>
+        </div>
+      </section>
+
+      <section id="workflow" class="workflow-section section">
+        <div class="workflow-heading">
+          <p class="eyebrow">02 / A MORE USEFUL WORKFLOW</p>
+          <h2>From a contract<br />to <span>checkable facts.</span></h2>
+        </div>
+        <div class="workflow-steps">
+          <article><span class="step-index">01</span><div><h3>Paste a Base address</h3><p>Use a token contract address, not a personal wallet address.</p></div><span class="step-symbol">⌕</span></article>
+          <article><span class="step-index">02</span><div><h3>Review linked evidence</h3><p>Separate direct on-chain reads from GeckoTerminal’s provider-reported market data.</p></div><span class="step-symbol">✳</span></article>
+          <article><span class="step-index">03</span><div><h3>Verify the gaps</h3><p>Open BaseScan and the source contracts. This checker is not an audit and does not infer safety.</p></div><span class="step-symbol">↗</span></article>
+        </div>
+      </section>
+
+      <section id="roadmap" class="roadmap-section section">
+        <div class="roadmap-copy">
+          <p class="eyebrow">03 / BUILDING IN PUBLIC</p>
+          <h2>Useful tools.<br /><span>Honest limits.</span></h2>
+          <p>This is an early read-only Base checker. It does not audit contracts, calculate holder concentration, detect every privileged control, or provide financial advice.</p>
+          <a class="text-link" href="./launch.html#utility-pass">Explore the separate CHIEF Utility Pass <span aria-hidden="true">↗</span></a>
+        </div>
+        <div class="roadmap-list">
+          <div class="roadmap-row"><span class="roadmap-state state-now"></span><span class="roadmap-stage">NOW</span><div><strong>Base token lookup</strong><small>Metadata, supply, owner field, listed pools</small></div><span class="roadmap-status">LIVE TOOL</span></div>
+          <div class="roadmap-row"><span class="roadmap-state"></span><span class="roadmap-stage">NEXT</span><div><strong>Verified-source review</strong><small>Auditable contract-control analysis</small></div><span class="roadmap-status">PLANNED</span></div>
+          <div class="roadmap-row"><span class="roadmap-state"></span><span class="roadmap-stage">LATER</span><div><strong>Holder distribution context</strong><small>Requires reliable address indexing</small></div><span class="roadmap-status">NOT INCLUDED</span></div>
+          <p class="roadmap-footnote">Roadmap describes intent only. It is not a delivery commitment or a token utility promise.</p>
+        </div>
+      </section>
+
+      <section class="closing">
+        <div class="closing-mark">✳</div>
+        <p class="eyebrow">CURIOUS BEATS CERTAIN</p>
+        <h2>Curious beats<br /><span>certain.</span></h2>
+        <p>Use the checker as a starting point. Verify the contract and its disclosures for yourself.</p>
+        <a class="button button-primary" href="#checker">Check a Base token <span aria-hidden="true">↑</span></a>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <a class="brand footer-brand" href="./launch.html"><span class="brand-mark">C</span> CHIEF<span class="brand-divider">/</span><span class="brand-product">SIGNAL</span></a>
+      <p>Independent research starts with independent verification.</p>
+      <div class="footer-links"><a href="./launch.html">ChiefToken</a><a href="./token.html">Token disclosures</a></div>
+      <p class="footer-disclaimer">Chief Signal Check is an early research aid, not a security audit or financial advice. Direct RPC reads and third-party market data can be incomplete or stale. No safety score or buy/sell recommendation is provided. This checker does not inspect every privileged control or calculate holder concentration. Crypto assets are volatile and can lose value.</p>
+    </footer>
+  </div>
+  <script src="./ai.js"></script>
+</body>
+</html>
