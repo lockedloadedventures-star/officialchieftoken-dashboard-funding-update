@@ -148,9 +148,12 @@
           <div>
             <p class="eyebrow">OPTIONAL · UNISWAP V3</p>
             <h3>Want to provide real pool liquidity?</h3>
-            <p>Review the existing CHIEF/WETH pool and choose any amounts yourself on Uniswap. This site will not submit or prefill a transaction. Adding liquidity can lose value, and concentrated-liquidity positions can incur impermanent loss.</p>
+            <p>Connect MetaMask to this page, confirm Base is selected, then continue to the existing CHIEF/WETH pool on Uniswap. You may need to connect MetaMask again on Uniswap. This site never signs or sends transactions or chooses amounts for you. Adding liquidity can lose value, and concentrated-liquidity positions can incur impermanent loss.</p>
           </div>
-          <a class="uniswap-button" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d" target="_blank" rel="noopener noreferrer">Review pool on Uniswap <span aria-hidden="true">↗</span></a>
+          <div class="liquidity-actions">
+            <button id="connectLiquidityBtn" class="uniswap-button" type="button">Connect MetaMask &amp; open pool <span aria-hidden="true">↗</span></button>
+            <p id="liquidityStatus" class="liquidity-status" role="status">No wallet permission has been requested.</p>
+          </div>
         </div>
         <div class="wallet-panel">
           <div class="wallet-copy">
@@ -171,7 +174,7 @@
               <div><span>CHIEF</span><strong id="walletChiefBalance">—</strong></div>
             </div>
           </div>
-          <p class="wallet-disclaimer">Read-only: connecting only requests account visibility. Balances are fetched from a public Base RPC. This page never requests a signature or submits a transaction.</p>
+          <p class="wallet-disclaimer">This page only requests account access and, if needed, a switch to Base. Balances are read from a public Base RPC. It never requests a signature or submits a transaction; review and approve any transaction yourself on Uniswap.</p>
         </div>
       </section>
 

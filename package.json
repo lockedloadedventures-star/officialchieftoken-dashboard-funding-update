@@ -9,6 +9,7 @@
     "web:serve": "npx --yes http-server web -p 5500",
     "web:vercel": "npx --yes vercel --prod",
     "web:netlify": "npx --yes netlify-cli deploy --prod --dir web",
+    "test:signal-check": "node --test test/signal-check-endpoints.test.mjs",
     "launch:readiness": "node scripts/launch-readiness.js",
     "report:weekly": "node scripts/weekly-liquidity-report.js",
     "liquidity:add": "node scripts/launch-pool.js",

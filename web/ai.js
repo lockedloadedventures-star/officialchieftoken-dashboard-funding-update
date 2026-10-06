@@ -1,8 +1,10 @@
 const POOL_ADDRESS = "0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d";
 const TOKEN_ADDRESS = "0x3896c9bd802A56c28590EF1E03A7de645c703757";
 const BASE_RPC_URL = "https://base-rpc.publicnode.com";
-const MARKET_API = `https://api.geckoterminal.com/api/v2/networks/base/pools/${POOL_ADDRESS}`;
-const TOKEN_POOLS_API = "https://api.geckoterminal.com/api/v2/networks/base/tokens";
+const BASE_CHAIN_ID = "0x2105";
+const UNISWAP_POOL_URL = `https://app.uniswap.org/explore/pools/base/${POOL_ADDRESS}`;
+const MARKET_API = "/api/chief-market";
+const TOKEN_POOLS_API = "/api/token-pools";
 const MARKET_REFRESH_MS = 60_000;
 const REQUEST_TIMEOUT_MS = 12_000;
 const SELECTORS = {
@@ -27,6 +29,8 @@ const marketElements = {
 const walletElements = {
   connectButton: document.getElementById("connectWalletBtn"),
   refreshButton: document.getElementById("refreshWalletBtn"),
+  liquidityButton: document.getElementById("connectLiquidityBtn"),
+  liquidityStatus: document.getElementById("liquidityStatus"),
   status: document.getElementById("walletStatus"),
   balances: document.getElementById("walletBalances"),
   address: document.getElementById("walletAddress"),
@@ -85,9 +89,9 @@ async function refreshMarketData() {
 
   try {
     const response = await fetch(MARKET_API, { signal: controller.signal });
-    if (!response.ok) throw new Error(`GeckoTerminal returned HTTP ${response.status}.`);
-
     const payload = await response.json();
+    if (!response.ok) throw new Error(payload?.error || `Market data returned HTTP ${response.status}.`);
+
     const attributes = payload?.data?.attributes;
     if (attributes?.address?.toLowerCase() !== POOL_ADDRESS.toLowerCase()) {
       throw new Error("GeckoTerminal returned an unexpected pool.");
@@ -301,9 +305,9 @@ async function loadTokenPools(address) {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
   try {
-    const response = await fetch(`${TOKEN_POOLS_API}/${address}/pools?page=1`, { signal: controller.signal });
-    if (!response.ok) throw new Error(`GeckoTerminal returned HTTP ${response.status}.`);
+    const response = await fetch(`${TOKEN_POOLS_API}?address=${encodeURIComponent(address)}`, { signal: controller.signal });
     const payload = await response.json();
+    if (!response.ok) throw new Error(payload?.error || `Pool lookup returned HTTP ${response.status}.`);
     if (!Array.isArray(payload?.data)) throw new Error("GeckoTerminal returned an unexpected pool list.");
 
     const expectedId = `base_${address.toLowerCase()}`;
@@ -445,6 +449,69 @@ async function connectWallet() {
   }
 }
 
+function setLiquidityStatus(message, isError = false) {
+  walletElements.liquidityStatus.textContent = message;
+  walletElements.liquidityStatus.classList.toggle("liquidity-error", isError);
+}
+
+async function switchWalletToBase() {
+  const chainId = await window.ethereum.request({ method: "eth_chainId" });
+  if (typeof chainId !== "string") throw new Error("MetaMask returned an invalid network ID.");
+  if (chainId.toLowerCase() === BASE_CHAIN_ID) return;
+
+  try {
+    await window.ethereum.request({
+      method: "wallet_switchEthereumChain",
+      params: [{ chainId: BASE_CHAIN_ID }]
+    });
+  } catch (error) {
+    if (error.code !== 4902) throw error;
+    await window.ethereum.request({
+      method: "wallet_addEthereumChain",
+      params: [{
+        chainId: BASE_CHAIN_ID,
+        chainName: "Base",
+        nativeCurrency: { name: "Ether", symbol: "ETH", decimals: 18 },
+        rpcUrls: [BASE_RPC_URL],
+        blockExplorerUrls: ["https://basescan.org"]
+      }]
+    });
+    await window.ethereum.request({
+      method: "wallet_switchEthereumChain",
+      params: [{ chainId: BASE_CHAIN_ID }]
+    });
+  }
+
+  const confirmedChainId = await window.ethereum.request({ method: "eth_chainId" });
+  if (typeof confirmedChainId !== "string" || confirmedChainId.toLowerCase() !== BASE_CHAIN_ID) {
+    throw new Error("MetaMask is not connected to Base. Switch networks in MetaMask and try again.");
+  }
+}
+
+async function connectForLiquidity() {
+  if (!window.ethereum) {
+    setLiquidityStatus("MetaMask was not detected. Install or unlock MetaMask, then retry.", true);
+    return;
+  }
+
+  walletElements.liquidityButton.disabled = true;
+  setLiquidityStatus("Waiting for MetaMask account permission…");
+  try {
+    const accounts = await window.ethereum.request({ method: "eth_requestAccounts" });
+    if (!Array.isArray(accounts) || !/^0x[a-fA-F0-9]{40}$/.test(accounts[0] || "")) {
+      throw new Error("MetaMask did not provide a valid account.");
+    }
+    await switchWalletToBase();
+    setLiquidityStatus("Connected on Base. Opening the CHIEF/WETH pool; review any transaction in Uniswap.");
+    window.location.assign(UNISWAP_POOL_URL);
+  } catch (error) {
+    setLiquidityStatus(error.code === 4001
+      ? "MetaMask request declined. No transaction was submitted."
+      : `Could not connect to the pool: ${error.message}`, true);
+    walletElements.liquidityButton.disabled = false;
+  }
+}
+
 checkerElements.form.addEventListener("submit", (event) => {
   event.preventDefault();
   const address = checkerElements.input.value.trim();
@@ -469,6 +536,7 @@ checkerElements.shareButton.addEventListener("click", copyReportLink);
 marketElements.refreshButton.addEventListener("click", refreshMarketData);
 walletElements.connectButton.addEventListener("click", connectWallet);
 walletElements.refreshButton.addEventListener("click", refreshWalletBalances);
+walletElements.liquidityButton.addEventListener("click", connectForLiquidity);
 
 if (window.ethereum?.on) {
   window.ethereum.on("accountsChanged", (accounts) => {

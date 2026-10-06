@@ -89,6 +89,16 @@ The app is already wired to the deployed Sepolia contract:
 
 - 0x3896c9bd802A56c28590EF1E03A7de645c703757
 
+## CHIEF Signal Check
+
+The read-only Base token checker is available at `/web/ai.html`. It reads token facts from Base RPC and listed pools from GeckoTerminal. Pool requests go through read-only Vercel functions (`/api/token-pools` and `/api/chief-market`) to avoid browser CORS restrictions; the token-pools function accepts only validated token addresses, and the market function is pinned to the CHIEF/WETH pool.
+
+The checker is an early research aid, not an audit or financial advice. It does not infer all contract controls or calculate holder concentration.
+
+Run the endpoint regression tests with `npm run test:signal-check`.
+
+The liquidity button requests MetaMask account access, confirms or switches to Base, then opens the existing CHIEF/WETH pool on Uniswap. It does not sign or submit transactions. You must reconnect on Uniswap if prompted and independently review every liquidity amount, price range, approval, and transaction before signing.
+
 ## 8) Production deployment (for listings)
 
 Important: exchange listings require a mainnet token. Sepolia/testnet contracts cannot be listed on Coinbase or major markets.
