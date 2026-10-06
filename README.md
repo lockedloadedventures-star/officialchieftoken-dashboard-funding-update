@@ -97,6 +97,8 @@ The checker is an early research aid, not an audit or financial advice. It does 
 
 Run the endpoint regression tests with `npm run test:signal-check`.
 
+The liquidity button requests MetaMask account access, confirms or switches to Base, then opens the existing CHIEF/WETH pool on Uniswap. It does not sign or submit transactions. You must reconnect on Uniswap if prompted and independently review every liquidity amount, price range, approval, and transaction before signing.
+
 ## 8) Production deployment (for listings)
 
 Important: exchange listings require a mainnet token. Sepolia/testnet contracts cannot be listed on Coinbase or major markets.

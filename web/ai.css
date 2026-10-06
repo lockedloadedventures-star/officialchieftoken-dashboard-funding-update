@@ -158,6 +158,11 @@ h1 span,h2 span { color: var(--purple); }
 .liquidity-guide p:not(.eyebrow) { max-width: 660px; margin: 0; color: var(--muted); font-size: 9px; line-height: 1.8; }
 .uniswap-button { display: inline-flex; min-height: 39px; flex: 0 0 auto; align-items: center; justify-content: center; gap: 9px; padding: 0 13px; border: 1px solid #e4dcff; border-radius: 8px; background: #f7f4ff; color: var(--purple-dark); font-size: 9px; font-weight: 800; text-decoration: none; }
 .uniswap-button:hover { border-color: #cdbfff; background: #f0ebff; }
+.liquidity-actions { display: grid; justify-items: end; gap: 7px; }
+.liquidity-actions .uniswap-button { cursor: pointer; font-family: inherit; }
+.liquidity-actions .uniswap-button:disabled { cursor: wait; opacity: .65; }
+.liquidity-status { max-width: 270px; margin: 0; color: var(--muted); font-size: 8px; line-height: 1.5; text-align: right; }
+.liquidity-status.liquidity-error { color: #b64c46; }
 .wallet-panel { display: grid; grid-template-columns: 1fr auto; gap: 16px 24px; padding: 24px; border: 1px solid #e7e2f5; border-radius: 12px; background: #f8f6ff; }
 .wallet-copy .eyebrow { margin-bottom: 8px; font-size: 8px; }
 .wallet-copy h3 { margin: 0 0 7px; font-family: "Space Grotesk",sans-serif; font-size: 17px; letter-spacing: -.03em; }
@@ -319,6 +324,8 @@ h2 { margin-bottom: 0; font-size: clamp(36px,4.2vw,54px); font-weight: 600; line
   .wallet-panel { grid-template-columns: 1fr; padding: 17px; }
   .wallet-actions { flex-wrap: wrap; }
   .liquidity-guide { align-items: flex-start; flex-direction: column; gap: 13px; }
+  .liquidity-actions { justify-items: start; }
+  .liquidity-status { text-align: left; }
   .wallet-status,.wallet-balances,.wallet-disclaimer { grid-column: 1; }
   .wallet-address-row { align-items: flex-start; flex-direction: column; gap: 7px; }
   .product-section { padding: 78px 0; }
