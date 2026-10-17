@@ -1,5 +1,7 @@
 # CHIEF Token Social Launch Kit
 
+Additional ready-to-use social copy is available in `social-post-bank.md`.
+
 ## Primary Handle Set
 - X: @OfficialCHIEF
 - Instagram: @officialchieftoken

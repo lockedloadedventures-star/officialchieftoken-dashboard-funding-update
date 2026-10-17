@@ -9,6 +9,12 @@ This is a starter ERC-20 cryptocurrency project using Hardhat + OpenZeppelin.
 - Initial supply: `1,000,000 CHIEF`
 - Minting: owner-only `mint()` function
 
+## Current project status
+
+CHIEF is deployed on Base mainnet. The project does not claim an established public
+market price or usable liquidity; see `docs/current-project-status.md` and the
+public transparency page before relying on market information.
+
 ## 1) Prerequisites
 
 Install Node.js 22.13.0 or later (LTS recommended; required by Hardhat 3):
@@ -120,6 +126,12 @@ Typical submission targets:
 - CoinGecko token form
 - CoinMarketCap token form
 - DEX launch (Uniswap/Base) with liquidity provision
+
+Current project and social materials:
+
+- `docs/current-project-status.md`
+- `docs/funding-marketing-strategy.md`
+- `docs/social-post-bank.md`
 
 ## 10) Launch operations commands
 
