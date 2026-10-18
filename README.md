@@ -14,6 +14,8 @@ This is a starter ERC-20 cryptocurrency project using Hardhat + OpenZeppelin.
 CHIEF is deployed on Base mainnet. The project does not claim an established public
 market price or usable liquidity; see `docs/current-project-status.md` and the
 public transparency page before relying on market information.
+The public funding-scope and project deliverables tracker is at
+`https://officialchieftoken.com/deliverables.html`.
 
 ## 1) Prerequisites
 
