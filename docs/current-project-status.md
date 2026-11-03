@@ -2,7 +2,7 @@
 
 ## Overview
 
-CHIEF is deployed on Base Mainnet and publicly documented with the contract, owner disclosure, liquidity status, and project risk notes. The current status remains intentionally transparent: the token is live, but a public market price and usable liquidity are not established and should not be assumed.
+CHIEF is deployed on Base Mainnet and publicly documented with the contract, owner disclosure, liquidity status, and project risk notes. The CHIEF/WETH Uniswap V3 pool is initialized, but the on-chain balances observed on 2026-11-02 (about 4,049.88 CHIEF and 0.004050 WETH) are very small. These balances do not establish dependable trading depth or a reliable price; verify the pool state before relying on them.
 
 ## Verified contract and public references
 

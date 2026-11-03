@@ -74,9 +74,9 @@
       <div class="cta-row">
         <a class="btn primary" href="../checkout.html">Join CHIEF Utility Pass</a>
         <a class="btn" href="#weekly-deliverables">See Weekly Deliverables</a>
-        <a class="btn" target="_blank" rel="noopener noreferrer" href="https://app.uniswap.org/swap?chain=base&outputCurrency=0x3896c9bd802A56c28590EF1E03A7de645c703757">Buy CHIEF</a>
+        <a class="btn" target="_blank" rel="noopener noreferrer" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">View pool status</a>
       </div>
-      <p class="launch-price">Starter membership is $29/month.</p>
+      <p class="launch-price">Market status: the CHIEF/WETH pool exists, but observed balances are very small and do not establish dependable trading depth or a reliable price. Starter membership is $29/month.</p>
       <div class="hero-stats">
         <article>
           <p class="label">Owner</p>
@@ -87,10 +87,11 @@
           <p id="totalSupply" class="value">Loading...</p>
         </article>
         <article>
-          <p class="label">Pool Liquidity</p>
+          <p class="label">Pool Token Balances</p>
           <p id="poolLiquidity" class="value">Loading...</p>
         </article>
       </div>
+      <p id="liveDataStatus" class="small" role="status" aria-live="polite">Loading current Base data. Pool balances are not a measure of executable depth or guaranteed swap output.</p>
     </section>
 
     <section id="token" class="panel">
@@ -106,7 +107,7 @@
           <p><strong>Policy:</strong> transparent owner-controlled emissions</p>
           <p><strong>Current owner:</strong> 0x0271...BB8f</p>
           <p><strong>Focus:</strong> utility demand + stable market growth</p>
-          <p><strong>Status:</strong> live, tradeable, and expanding</p>
+          <p><strong>Status:</strong> contract live; pool initialized with very small balances; no dependable price or depth established</p>
         </div>
       </div>
     </section>

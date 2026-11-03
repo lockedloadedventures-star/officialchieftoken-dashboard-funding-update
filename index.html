@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>CHIEF on Base - Official Launch</title>
-  <meta name="description" content="ChiefToken (CHIEF) is deployed on Base mainnet with transparent disclosures and liquidity pending." />
+  <meta name="description" content="ChiefToken (CHIEF) is deployed on Base. View live pool balances, ownership controls, and risk disclosures; the pool is very shallow." />
   <meta name="keywords" content="CHIEF, ChiefToken, Base, Uniswap, crypto token" />
   <meta name="robots" content="index, follow" />
   <link rel="canonical" href="https://officialchieftoken.com/" />
@@ -15,14 +15,14 @@
 
   <meta property="og:type" content="website" />
   <meta property="og:title" content="CHIEF on Base - Official Launch" />
-  <meta property="og:description" content="CHIEF is deployed on Base with transparent disclosures; market price and usable liquidity are pending." />
+  <meta property="og:description" content="CHIEF is deployed on Base with transparent disclosures. Its pool balances are very small and do not establish reliable price or trading depth." />
   <meta property="og:url" content="https://officialchieftoken.com/" />
   <meta property="og:site_name" content="ChiefToken" />
   <meta property="og:image" content="https://officialchieftoken.com/og-image.svg" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="CHIEF on Base - Official Launch" />
-  <meta name="twitter:description" content="Deployed token, transparent disclosures, and liquidity pending on Base mainnet." />
+  <meta name="twitter:description" content="CHIEF is deployed on Base. Check live pool balances and risk disclosures; balances do not prove usable liquidity." />
   <meta name="twitter:image" content="https://officialchieftoken.com/og-image.svg" />
   <meta name="google-site-verification" content="hnLnKNldVDlztnYiT8-u44LURhvTbY45KvIqkB4fk6A" />
   <meta name="msvalidate.01" content="B777DEC3641D0ED5B14AEA764C794C76" />
@@ -32,7 +32,7 @@
       "@type": "WebSite",
       "name": "ChiefToken",
       "url": "https://officialchieftoken.com/",
-      "description": "ChiefToken (CHIEF) is deployed on Base mainnet with transparent disclosures and liquidity pending.",
+      "description": "ChiefToken (CHIEF) is deployed on Base with transparent disclosures. Its pool balances are very small and do not establish reliable price or trading depth.",
       "inLanguage": "en"
     }
   </script>
@@ -85,7 +85,7 @@
         <a class="btn" href="#weekly-deliverables">See Weekly Deliverables</a>
         <a class="btn" target="_blank" rel="noopener noreferrer" href="https://app.uniswap.org/explore/pools/base/0xD926F4C2b5ad4de45E31C875d33d5207e3Df3A7d">View pool status</a>
       </div>
-      <p class="launch-price">Market status: no established CHIEF price or usable liquidity yet. Liquidity is pending.</p>
+      <p class="launch-price">Market status: the CHIEF/WETH pool exists, but observed balances are very small and do not establish dependable trading depth or a reliable price.</p>
       <div class="hero-stats">
         <article>
           <p class="label">Owner</p>
@@ -96,10 +96,11 @@
           <p id="totalSupply" class="value">Loading...</p>
         </article>
         <article>
-          <p class="label">Pool Liquidity</p>
+          <p class="label">Pool Token Balances</p>
           <p id="poolLiquidity" class="value">Loading...</p>
         </article>
       </div>
+      <p id="liveDataStatus" class="small" role="status" aria-live="polite">Loading current Base data. Pool balances are not a measure of executable depth or guaranteed swap output.</p>
     </section>
 
     <section id="token" class="panel">
@@ -116,7 +117,7 @@
           <p><strong>Current owner:</strong> 0x0271...BB8f</p>
           <p><strong>Owner type:</strong> EOA, not a multisig</p>
           <p><strong>Focus:</strong> utility demand + stable market growth</p>
-          <p><strong>Status:</strong> contract live; trading liquidity and price pending</p>
+          <p><strong>Status:</strong> contract live; pool initialized with very small balances; no dependable price or depth established</p>
         </div>
       </div>
       <p class="panel-lead"><strong>Supply risk:</strong> Initial supply was 1,000,000 CHIEF. There is no hard-coded maximum supply; the token owner can mint more, which may dilute existing holders. The token owner is separate from the company treasury Safe. <a href="./transparency.html">Full disclosures</a>.</p>
@@ -125,7 +126,7 @@
     <!-- Live Price & Chart Section -->
   <section id="chart" style="padding: 60px 20px; text-align: center;">
     <h2 style="font-family: 'Archivo Black', sans-serif; font-size: 2rem; margin-bottom: 8px;">CHIEF / WETH Pool Status</h2>
-    <p style="font-family: 'Manrope', sans-serif; color: #aaa; margin-bottom: 24px;">External pool data is shown for reference only. No established CHIEF price or usable liquidity is currently represented.</p>
+    <p style="font-family: 'Manrope', sans-serif; color: #aaa; margin-bottom: 24px;">The CHIEF/WETH pool is initialized, but its observed balances are very small. A pool ratio or token balance is not a dependable price, executable depth, or guarantee that a swap can be completed.</p>
     <div style="max-width: 900px; margin: 0 auto; border-radius: 16px; overflow: hidden; border: 1px solid #333;">
       <iframe
         height="500"
@@ -142,10 +143,10 @@
 
   <!-- How to Buy Section -->
   <section id="how-to-buy" class="panel" style="margin-top: 40px;">
-    <h2>How to Participate Later</h2>
+    <h2>Before Any Swap</h2>
     <ol style="max-width: 600px; margin: 0 auto; text-align: left; font-size: 1.1rem;">
-      <li><strong>Current status:</strong> The contract is deployed, but usable liquidity and a market price are pending.</li>
-      <li><strong>When liquidity is established:</strong> Review the disclosed pool, price, slippage, and risks before considering any swap.</li>
+      <li><strong>Current status:</strong> A CHIEF/WETH pool exists, but observed balances are very small and do not establish dependable trading depth or a reliable price.</li>
+      <li><strong>Before any swap:</strong> Independently check the current pool, expected output, price impact, slippage, and risks. A displayed spot ratio is not a guaranteed execution price.</li>
       <li><strong>Contract reference:</strong> <code>0x3896c9bd802A56c28590EF1E03A7de645c703757</code></li>
       <li><strong>Never assume availability:</strong> Verify the pool and transaction details independently; do not spend money you cannot afford to lose.</li>
     </ol>
